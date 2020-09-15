@@ -1,0 +1,17 @@
+{
+    "dedicatedServer": {
+        "latencyRetryCooldownSeconds": 600
+    },
+    "friendsList": {
+        "maxFriendSuggestionsFacebook": 4,
+        "maxFriendSuggestionsGoogle": 4,
+        "maxFriendSuggestionsRecentlyPlayed": 4
+    },
+    "hitValidation": {
+        "enable": false,
+        "enableCollisionCheck": false,
+        "recorder": {
+            "cacheTimespan": 0.35
+        }
+    }
+}

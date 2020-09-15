@@ -1,0 +1,551 @@
+{
+    "BP_20200106_test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BP_20200106_testhappyHour": {
+                    "effects": {},
+                    "id": "BP_20200106_testhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BP_20200106_test",
+        "startDate": 1
+    },
+    "BP_20200224_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BP_20200224_QAhappyHour": {
+                    "effects": {},
+                    "id": "BP_20200224_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BP_20200224_QA",
+        "startDate": 1
+    },
+    "BP_20200227_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BP_20200227_QAhappyHour": {
+                    "effects": {},
+                    "id": "BP_20200227_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BP_20200227_QA",
+        "startDate": 1
+    },
+    "BP_20200310_Test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BP_20200310_TesthappyHour": {
+                    "effects": {},
+                    "id": "BP_20200310_TesthappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BP_20200310_Test",
+        "startDate": 1
+    },
+    "BP_20200316_test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BP_20200316_testhappyHour": {
+                    "effects": {},
+                    "id": "BP_20200316_testhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BP_20200316_test",
+        "startDate": 1
+    },
+    "CurrencyPromoPackTest": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "CurrencyPromoPackTesthappyHour": {
+                    "effects": {
+                        "CurrencyPromoPackTestPromoPack": [
+                            {
+                                "id": "CurrencyPromoPackTestPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "CurrencyPromoPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "CurrencyPromoPackTesthappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "CurrencyPromoPackTest",
+        "startDate": 1
+    },
+    "DefaultCalendar": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "DefaultCalendarhappyHour": {
+                    "effects": {
+                        "DefaultCalendarRetentionRewards": [
+                            {
+                                "id": "DefaultCalendarRetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "13SlotsCalendar_07-01_24-01",
+                                    "7SlotsCalendar_16-04_24-04",
+                                    "13SlotsCalendar_27-04_14-05",
+                                    "7SlotsCalendar_30-07_30-07"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "DefaultCalendarhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "DefaultCalendar",
+        "startDate": 1
+    },
+    "Halloween2019": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Halloween2019happyHour": {
+                    "effects": {
+                        "Halloween2019RetentionRewards": [
+                            {
+                                "id": "Halloween2019RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "Test9SlotsCalendar",
+                                    "7SlotsCalendar_7_15_10"
+                                ]
+                            }
+                        ],
+                        "KillerBonus_01": [
+                            {
+                                "characters": [
+                                    "Hag",
+                                    "Pig"
+                                ],
+                                "id": "KillerBonus_01",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ],
+                        "SurvivorDouble": [
+                            {
+                                "id": "SurvivorDouble",
+                                "role": "Survivor",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Halloween2019happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "ritualsOverrides": {
+                "AR_EscapeAs": {
+                    "rewards": {
+                        "Bloodpoints": 1000,
+                        "Cells": 1000,
+                        "Shards": 1000,
+                        "objects": [
+                            {
+                                "amount": 1,
+                                "id": "Addon_Beartrap_003"
+                            },
+                            {
+                                "amount": 1,
+                                "id": "DK_Head003_01"
+                            }
+                        ]
+                    }
+                },
+                "AR_HookAs": {
+                    "rewards": {
+                        "Bloodpoints": 300,
+                        "Cells": 200,
+                        "Shards": 100
+                    }
+                }
+            }
+        },
+        "id": "Halloween2019",
+        "startDate": 1
+    },
+    "Halloween2020": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Halloween2020happyHour": {
+                    "effects": {
+                        "SurvivorDouble": [
+                            {
+                                "id": "SurvivorDouble",
+                                "role": "Survivor",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Halloween2020happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Halloween2020",
+        "startDate": 1
+    },
+    "NewCalendar_20191205": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "NewCalendar_20191205happyHour": {
+                    "effects": {
+                        "NewCalendar_20191205RetentionRewards": [
+                            {
+                                "id": "NewCalendar_20191205RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "7SlotsCalendar_NewP_09_12"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "NewCalendar_20191205happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "NewCalendar_20191205",
+        "startDate": 1
+    },
+    "OldCalendar_20191205": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "OldCalendar_20191205happyHour": {
+                    "effects": {
+                        "OldCalendar_20191205RetentionRewards": [
+                            {
+                                "id": "OldCalendar_20191205RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "7SlotsCalendar_09_12"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "OldCalendar_20191205happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "OldCalendar_20191205",
+        "startDate": 1
+    },
+    "Promopack_Base_1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack_Base_1happyHour": {
+                    "effects": {
+                        "Promopack_Base_1PromoPack": [
+                            {
+                                "id": "Promopack_Base_1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_1"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack_Base_1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack_Base_1",
+        "startDate": 1
+    },
+    "Promopack_Test_SL9": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack_Test_SL9happyHour": {
+                    "effects": {
+                        "Promopack_Test_SL9PromoPack": [
+                            {
+                                "id": "Promopack_Test_SL9PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "FengStarterPack",
+                                    "ClownStarterPack",
+                                    "SmokeStarterPack",
+                                    "NurseStarterPack",
+                                    "KateStarterPack",
+                                    "HagStarterPack",
+                                    "AprilBundle",
+                                    "BearStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack_Test_SL9happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack_Test_SL9",
+        "startDate": 1
+    },
+    "Promopack_Test_SL9_2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack_Test_SL9_2happyHour": {
+                    "effects": {
+                        "Promopack_Test_SL9_2PromoPack": [
+                            {
+                                "id": "Promopack_Test_SL9_2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "FengStarterPack",
+                                    "ClownStarterPack",
+                                    "SmokeStarterPack",
+                                    "NurseStarterPack",
+                                    "KateStarterPack",
+                                    "HagStarterPack",
+                                    "AprilBundle",
+                                    "BearStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack_Test_SL9_2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack_Test_SL9_2",
+        "startDate": 1
+    },
+    "RitualsRewardsTest": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "tag": {}
+        },
+        "id": "RitualsRewardsTest",
+        "startDate": 1
+    },
+    "XP_20200106_test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200106_testhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200106_testhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200106_test",
+        "startDate": 1
+    },
+    "XP_20200221_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200221_QAhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200221_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200221_QA",
+        "startDate": 1
+    },
+    "XP_20200225_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200225_QAhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200225_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200225_QA",
+        "startDate": 1
+    },
+    "XP_20200226_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200226_QAhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200226_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200226_QA",
+        "startDate": 1
+    },
+    "XP_20200227_QA": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200227_QAhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200227_QAhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200227_QA",
+        "startDate": 1
+    },
+    "XP_20200316_test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XP_20200316_testhappyHour": {
+                    "effects": {},
+                    "id": "XP_20200316_testhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XP_20200316_test",
+        "startDate": 1
+    }
+}

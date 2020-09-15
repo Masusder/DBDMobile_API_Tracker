@@ -1,0 +1,248 @@
+{
+    "KillerTutorial": [
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h265_eng.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h264_eng.mp4",
+            "language": "en",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h264_eng.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h265_fr.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h264_fr.mp4",
+            "language": "fr",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_MASTER_h264_fr.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_BR.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_BR.mp4",
+            "language": "pt-BR",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_BR.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_DE.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_DE.mp4",
+            "language": "de",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_DE.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_ES.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_ES.mp4",
+            "language": "es",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_ES.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_IT.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_IT.mp4",
+            "language": "it",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_IT.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_MX.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_MX.mp4",
+            "language": "es-MX",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_MX.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H265_RU.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_RU.mp4",
+            "language": "ru",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "KillerTutorial",
+            "windowsVideoFileName": "Scene3/DBDM003_Cinematic_Intro_Part_3_Killers_H264_RU.mp4"
+        }
+    ],
+    "LoreCinematic": [
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h265_eng.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h264_eng.mp4",
+            "language": "en",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h264_eng.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h265_fr.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h264_fr.mp4",
+            "language": "fr",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_MASTER_h264_fr.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_BR.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_BR.mp4",
+            "language": "pt-BR",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_BR.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_DE.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_DE.mp4",
+            "language": "de",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_DE.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_ES.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_ES.mp4",
+            "language": "es",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_ES.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_IT.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_IT.mp4",
+            "language": "it",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_IT.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_MX.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_MX.mp4",
+            "language": "es-MX",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_MX.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H265_RU.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_RU.mp4",
+            "language": "ru",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "LoreCinematic",
+            "windowsVideoFileName": "Scene1/DBDM003_Cinematic_Intro_Part_1_Entity_H264_RU.mp4"
+        }
+    ],
+    "SurvivorTutorial": [
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h265_eng.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h264_eng.mp4",
+            "language": "en",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h264_eng.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h265_fr.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h264_fr.mp4",
+            "language": "fr",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_MASTER_h264_fr.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_BR.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_BR.mp4",
+            "language": "pt-BR",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_BR.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_DE.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_DE.mp4",
+            "language": "de",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_DE.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_ES.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_ES.mp4",
+            "language": "es",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_ES.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_IT.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_IT.mp4",
+            "language": "it",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_IT.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_MX.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_MX.mp4",
+            "language": "es-MX",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_MX.mp4"
+        },
+        {
+            "androidVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H265_RU.mp4",
+            "hasAudio": true,
+            "iosVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_RU.mp4",
+            "language": "ru",
+            "sourceSizeX": 1980.0,
+            "sourceSizeY": 1080.0,
+            "streamVideoDataType": "SurvivorTutorial",
+            "windowsVideoFileName": "Scene2/DBDM003_Cinematic_Intro_Part_2_Survivors_H264_RU.mp4"
+        }
+    ]
+}

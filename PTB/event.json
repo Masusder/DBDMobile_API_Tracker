@@ -1,0 +1,221 @@
+{
+    "Bloodhunt_20191214": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_20191214happyHour": {
+                    "effects": {
+                        "Bloodhunt_20191214": [
+                            {
+                                "id": "Bloodhunt_20191214",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_20191214happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_20191214",
+        "startDate": 1
+    },
+    "DoubleXP_20191214": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "DoubleXP_20191214happyHour": {
+                    "effects": {
+                        "DoubleXP_20191214": [
+                            {
+                                "id": "DoubleXP_20191214",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "DoubleXP_20191214happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "DoubleXP_20191214",
+        "startDate": 1
+    },
+    "Halloween2019": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Halloween2019happyHour": {
+                    "effects": {
+                        "Halloween2019RetentionRewards": [
+                            {
+                                "id": "Halloween2019RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "Test9SlotsCalendar",
+                                    "7SlotsCalendar_7_15_10"
+                                ]
+                            }
+                        ],
+                        "KillerBonus_01": [
+                            {
+                                "characters": [
+                                    "Hag",
+                                    "Pig"
+                                ],
+                                "id": "KillerBonus_01",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ],
+                        "SurvivorDouble": [
+                            {
+                                "id": "SurvivorDouble",
+                                "role": "Survivor",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Halloween2019happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "ritualsOverrides": {
+                "AR_EscapeAs": {
+                    "rewards": {
+                        "Bloodpoints": 1000,
+                        "Cells": 1000,
+                        "Shards": 1000,
+                        "objects": [
+                            {
+                                "amount": 1,
+                                "id": "Addon_Beartrap_003"
+                            },
+                            {
+                                "amount": 1,
+                                "id": "DK_Head003_01"
+                            }
+                        ]
+                    }
+                },
+                "AR_HookAs": {
+                    "rewards": {
+                        "Bloodpoints": 300,
+                        "Cells": 200,
+                        "Shards": 100
+                    }
+                }
+            }
+        },
+        "id": "Halloween2019",
+        "startDate": 1
+    },
+    "Halloween2020": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Halloween2020happyHour": {
+                    "effects": {
+                        "SurvivorDouble": [
+                            {
+                                "id": "SurvivorDouble",
+                                "role": "Survivor",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Halloween2020happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Halloween2020",
+        "startDate": 1
+    },
+    "NewCalendar_20191209": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "NewCalendar_20191209happyHour": {
+                    "effects": {
+                        "NewCalendar_20191209RetentionRewards": [
+                            {
+                                "id": "NewCalendar_20191209RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "7SlotsCalendar_NewP_09_12"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "NewCalendar_20191209happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "NewCalendar_20191209",
+        "startDate": 1
+    },
+    "OldCalendar_20191209": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "OldCalendar_20191209happyHour": {
+                    "effects": {
+                        "OldCalendar_20191209RetentionRewards": [
+                            {
+                                "id": "OldCalendar_20191209RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "7SlotsCalendar_09_12"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "OldCalendar_20191209happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "OldCalendar_20191209",
+        "startDate": 1
+    }
+}

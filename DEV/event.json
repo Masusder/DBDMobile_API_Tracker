@@ -1105,6 +1105,102 @@
         "id": "Bloodhunt_BP_20201106",
         "startDate": 1
     },
+    "Bloodhunt_BP_20201113": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201113happyHour": {
+                    "effects": {
+                        "BP20201113": [
+                            {
+                                "characters": [
+                                    "Witch",
+                                    "Demogorgon",
+                                    "Nancy",
+                                    "Steve"
+                                ],
+                                "id": "BP20201113",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201113happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201113",
+        "startDate": 1
+    },
+    "Bloodhunt_BP_20201120": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201120happyHour": {
+                    "effects": {
+                        "BP20201120": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Chuckles",
+                                    "Laurie",
+                                    "Claudette"
+                                ],
+                                "id": "BP20201120",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201120happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201120",
+        "startDate": 1
+    },
+    "Bloodhunt_BP_20201127": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201127happyHour": {
+                    "effects": {
+                        "BP20201127": [
+                            {
+                                "id": "BP20201127",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201127happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201127",
+        "startDate": 1
+    },
     "Bloodhunt_BP_GMTest": {
         "assets": {},
         "components": {
@@ -2056,6 +2152,102 @@
         "id": "Bloodhunt_XP_20201106",
         "startDate": 1
     },
+    "Bloodhunt_XP_20201113": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201113happyHour": {
+                    "effects": {
+                        "XP20201113": [
+                            {
+                                "characters": [
+                                    "Witch",
+                                    "Demogorgon",
+                                    "Nancy",
+                                    "Steve"
+                                ],
+                                "id": "XP20201113",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201113happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201113",
+        "startDate": 1
+    },
+    "Bloodhunt_XP_20201120": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201120happyHour": {
+                    "effects": {
+                        "XP20201120": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Chuckles",
+                                    "Laurie",
+                                    "Claudette"
+                                ],
+                                "id": "XP20201120",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201120happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201120",
+        "startDate": 1
+    },
+    "Bloodhunt_XP_20201127": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201127happyHour": {
+                    "effects": {
+                        "XP20201127": [
+                            {
+                                "id": "XP20201127",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201127happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201127",
+        "startDate": 1
+    },
     "Bloodhunt_XP_GMTest": {
         "assets": {},
         "components": {
@@ -2082,6 +2274,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Bloodhunt_XP_GMTest",
+        "startDate": 1
+    },
+    "ClownStarterBanner_20201105": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "ClownStarterBanner"
+                ]
+            }
+        },
+        "id": "ClownStarterBanner_20201105",
         "startDate": 1
     },
     "CurrencyPromoPackTest": {
@@ -2286,6 +2497,44 @@
         "id": "EventItemsPackPremiumTest",
         "startDate": 1
     },
+    "FreeTicketBanner_20201029": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "FreeTicketBanner"
+                ]
+            }
+        },
+        "id": "FreeTicketBanner_20201029",
+        "startDate": 1
+    },
+    "HallowedKillerBanner_20201022": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "HallowedKillerBanner"
+                ]
+            }
+        },
+        "id": "HallowedKillerBanner_20201022",
+        "startDate": 1
+    },
     "Halloween2019": {
         "assets": {},
         "components": {
@@ -2445,6 +2694,25 @@
             }
         },
         "id": "MarketingBannerTest1",
+        "startDate": 1
+    },
+    "NeaStarterBanner_20201105": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "NeaStarterBanner"
+                ]
+            }
+        },
+        "id": "NeaStarterBanner_20201105",
         "startDate": 1
     },
     "NewCalendar_20191205": {
@@ -4385,6 +4653,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Test_Promopacks_0",
+        "startDate": 1
+    },
+    "VigoApothecaryBanner_20201022": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "VigoApothecaryBanner"
+                ]
+            }
+        },
+        "id": "VigoApothecaryBanner_20201022",
         "startDate": 1
     },
     "XP_20200106_test": {

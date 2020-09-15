@@ -4059,7 +4059,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 6000
             }
         ],
         "id": "ADDON_LFChainsaw_LightChassis",
@@ -4067,7 +4067,7 @@
             "character": "Cannibal",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -4105,7 +4105,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 7000
             }
         ],
         "id": "ADDON_LFChainsaw_CarburatorGuide",
@@ -4113,7 +4113,7 @@
             "character": "Cannibal",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "UltraRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -4151,7 +4151,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 3000
             }
         ],
         "id": "ADDON_LFChainsaw_SpeedLimiter",
@@ -4159,7 +4159,30 @@
             "character": "Cannibal",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "ADDON_LFChainsaw_RustedChain",
+        "metaData": {
+            "character": "Cannibal",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -4177,7 +4200,30 @@
                 "price": 5000
             }
         ],
-        "id": "ADDON_LFChainsaw_RustedChain",
+        "id": "ADDON_LFChainsaw_BegrimedChain",
+        "metaData": {
+            "character": "Cannibal",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "ADDON_LFChainsaw_GrislyChains",
         "metaData": {
             "character": "Cannibal",
             "enabled": true,
@@ -4200,7 +4246,7 @@
                 "price": 6000
             }
         ],
-        "id": "ADDON_LFChainsaw_BegrimedChain",
+        "id": "ADDON_LFChainsaw_DepthGaugeRake",
         "metaData": {
             "character": "Cannibal",
             "enabled": true,
@@ -4220,53 +4266,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "ADDON_LFChainsaw_GrislyChains",
-        "metaData": {
-            "character": "Cannibal",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "ADDON_LFChainsaw_DepthGaugeRake",
-        "metaData": {
-            "character": "Cannibal",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 5000
             }
         ],
         "id": "ADDON_LFChainsaw_ShopLubricant",
@@ -4274,7 +4274,7 @@
             "character": "Cannibal",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -5370,7 +5370,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 6000
+                "price": 5000
             }
         ],
         "id": "Addon_DreamInducer_PaintThinner",
@@ -5378,7 +5378,7 @@
             "character": "Nightmare",
             "enabled": true,
             "eventID": "None",
-            "rarity": "VeryRare",
+            "rarity": "Rare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -5715,7 +5715,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 6000
             }
         ],
         "id": "Addon_DreamInducer_SwingChains",
@@ -5723,7 +5723,7 @@
             "character": "Nightmare",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -6888,7 +6888,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 6000
             }
         ],
         "id": "ADDON_Chainsaw_CarburatorGuide",
@@ -6896,7 +6896,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -6957,7 +6957,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 7000
             }
         ],
         "id": "ADDON_Chainsaw_HomemadeMuffler",
@@ -6965,7 +6965,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "UltraRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -7003,7 +7003,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 6000
             }
         ],
         "id": "ADDON_Chainsaw_ThompsonMix",
@@ -7011,7 +7011,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -8554,7 +8554,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 3000
             }
         ],
         "id": "Addon_Chainsaw_002",
@@ -8562,7 +8562,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Common",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -8646,7 +8646,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 5000
             }
         ],
         "id": "Addon_Chainsaw_006",
@@ -8654,7 +8654,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -8692,7 +8692,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 5000
             }
         ],
         "id": "Addon_Chainsaw_008",
@@ -8700,7 +8700,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -8761,7 +8761,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 3000
             }
         ],
         "id": "Addon_Chainsaw_011",
@@ -8769,7 +8769,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Common",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -8784,7 +8784,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 4000
             }
         ],
         "id": "Addon_Chainsaw_012",
@@ -8792,7 +8792,7 @@
             "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Common",
+            "rarity": "Uncommon",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -50727,7 +50727,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Head",
             "version": {
                 "android": true,
@@ -50759,7 +50759,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Torso",
             "version": {
                 "android": true,
@@ -50791,7 +50791,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Legs",
             "version": {
                 "android": true,
@@ -57120,7 +57120,7 @@
             "newStartDate": "2020-01-01T15:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "type": "Weapon",
             "version": {
                 "android": true,
@@ -74639,7 +74639,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Head",
             "version": {
                 "android": true,
@@ -74671,7 +74671,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Torso",
             "version": {
                 "android": true,
@@ -74703,7 +74703,7 @@
             "newStartDate": "2020-07-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Common",
+            "rarity": "Rare",
             "type": "Weapon",
             "version": {
                 "android": true,
@@ -75368,7 +75368,7 @@
             "newStartDate": "2020-01-01T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "type": "Torso",
             "version": {
                 "android": true,
@@ -88591,7 +88591,7 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "test_vipsubscription",
+                "android": "subs_test_vipsubscription",
                 "ios": "test_subscription"
             }
         },
@@ -88642,7 +88642,7 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "test_vipsubscription",
+                "android": "subs_test_vipsubscription",
                 "ios": "test_subscription"
             }
         },
@@ -88693,7 +88693,7 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "test_vipsubscription",
+                "android": "subs_test_vipsubscription",
                 "ios": "test_subscription"
             }
         },

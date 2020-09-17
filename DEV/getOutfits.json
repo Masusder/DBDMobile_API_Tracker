@@ -2471,12 +2471,12 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 500,
                     "discountPercentage": 0.1
                 },
                 {
                     "currencyId": "Shards",
-                    "price": 21600,
+                    "price": 3000,
                     "discountPercentage": 0
                 }
             ],
@@ -2494,7 +2494,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 675,
                     "discountPercentage": 0.1
                 }
             ],
@@ -2512,7 +2512,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 270,
                     "discountPercentage": 0.1
                 }
             ],

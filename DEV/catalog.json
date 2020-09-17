@@ -16885,9 +16885,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -17215,9 +17212,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -17537,9 +17531,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -37112,16 +37103,30 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 185.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 1000.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Head002_01",
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "FM_Head002_01",
             "character": "Feng",
-            "eventName": "2018-06-12T00:00:00",
             "kind": "Customization",
-            "newEndDate": "2018-06-26T23:59:58",
-            "newStartDate": "2018-06-12T23:59:59",
+            "newEndDate": "2018-06-12T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "Feng_outfit_001",
             "quality": "V0",
             "qualityName": "quality1",
@@ -37156,7 +37161,22 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 185.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 1000.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Torso002_01",
         "initialQuantity": 0,
         "metaData": {
@@ -37199,7 +37219,22 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 186.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 1000.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Legs002_01",
         "initialQuantity": 0,
         "metaData": {
@@ -37238,7 +37273,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 250.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 500.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Head002",
         "initialQuantity": 0,
         "metaData": {
@@ -37277,7 +37327,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 250.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 500.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Torso002",
         "initialQuantity": 0,
         "metaData": {
@@ -37316,7 +37381,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 250.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 500.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Legs002",
         "initialQuantity": 0,
         "metaData": {
@@ -37355,7 +37435,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 100.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 250.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Head002_02",
         "initialQuantity": 0,
         "metaData": {
@@ -37394,7 +37489,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 100.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 250.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Torso002_02",
         "initialQuantity": 0,
         "metaData": {
@@ -37433,7 +37543,22 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 100.0
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 250.0
+                    }
+                ],
+                "endDate": "2020-09-20T20:30:00",
+                "startDate": "2020-09-09T14:30:00"
+            }
+        ],
         "id": "FM_Legs002_02",
         "initialQuantity": 0,
         "metaData": {

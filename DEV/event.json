@@ -4381,6 +4381,23 @@
         "id": "PurchasePopupBasic2",
         "startDate": 1
     },
+    "PurchasePopupEntertainer": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupEntertainer"
+            }
+        },
+        "id": "PurchasePopupEntertainer",
+        "startDate": 1
+    },
     "PurchasePopupFeng": {
         "assets": {},
         "components": {
@@ -4396,6 +4413,23 @@
             }
         },
         "id": "PurchasePopupFeng",
+        "startDate": 1
+    },
+    "PurchasePopupHarvester": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupHarvester"
+            }
+        },
+        "id": "PurchasePopupHarvester",
         "startDate": 1
     },
     "PurchasePopupOni": {

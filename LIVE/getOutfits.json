@@ -7292,7 +7292,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 878,
+                    "price": 585,
                     "discountPercentage": 0.1
                 }
             ],
@@ -7310,7 +7310,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 878,
+                    "price": 585,
                     "discountPercentage": 0.1
                 }
             ],
@@ -7328,7 +7328,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 840,
                     "discountPercentage": 0.1
                 }
             ],
@@ -7346,7 +7346,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 840,
                     "discountPercentage": 0.1
                 }
             ],

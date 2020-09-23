@@ -2471,12 +2471,12 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 500,
+                    "price": 1080,
                     "discountPercentage": 0.1
                 },
                 {
                     "currencyId": "Shards",
-                    "price": 3000,
+                    "price": 21600,
                     "discountPercentage": 0
                 }
             ],
@@ -2512,7 +2512,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 270,
+                    "price": 1080,
                     "discountPercentage": 0.1
                 }
             ],
@@ -4584,6 +4584,60 @@
             ],
             "newStartDate": "2018-06-12T00:00:12",
             "newEndDate": "2020-08-13T00:00:07"
+        },
+        {
+            "id": "S22_outfit_02",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S22",
+            "storeItems": [
+                "S22_Head02",
+                "S22_Torso02",
+                "S22_Legs02"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "S22_outfit_02_01",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S22",
+            "storeItems": [
+                "S22_Head02_01",
+                "S22_Torso02_01",
+                "S22_Legs02_01"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "S22_outfit_007",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S22",
+            "storeItems": [
+                "S22_Head007",
+                "S22_Torso007",
+                "S22_Legs007"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
         },
         {
             "id": "Chuckles_outfit_001",
@@ -7779,6 +7833,47 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2020-08-13T00:00:00"
+        },
+        {
+            "id": "K20_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "K20",
+            "storeItems": [
+                "K20_Head006",
+                "K20_Body006",
+                "K20_W006"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "K20_outfit_007",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 21600,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "K20",
+            "storeItems": [
+                "K20_Head007",
+                "K20_Body007",
+                "K20_W007"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
         },
         {
             "id": "FM_outfit_011",

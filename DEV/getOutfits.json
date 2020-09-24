@@ -8036,6 +8036,51 @@
             ],
             "newStartDate": "2020-09-14T00:00:00",
             "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "GS_outfit_013",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 21600,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Kate",
+            "storeItems": [
+                "GS_Head013",
+                "GS_Torso013",
+                "GS_Legs013"
+            ],
+            "newStartDate": "2020-09-11T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59"
+        },
+        {
+            "id": "GS_outfit_test",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 720,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 14400,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Kate",
+            "storeItems": [
+                "GS_Torso013",
+                "GS_Legs013"
+            ],
+            "newStartDate": "2020-09-11T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59"
         }
     ]
 }

@@ -19,6 +19,10 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
+        "value": "true",
+        "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
+    },
+    {
         "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
@@ -568,6 +572,7 @@
             "4.2.0_343640live": "4.2.0_343640live-1599834188",
             "4.2.0_344229live": "4.2.0_344229live-1600106594",
             "4.2.0_347029live": "4.2.0_347029live-1600718590",
+            "4.2.0_347967live": "4.2.0_347967live-1600887268",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",

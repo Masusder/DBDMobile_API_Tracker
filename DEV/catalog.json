@@ -97,7 +97,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "HalloweenOffering",
@@ -119,7 +119,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "SummerOffering",
@@ -2231,7 +2231,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "RedMoney",
@@ -2649,7 +2649,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "Item_Camper_Flashlight04",
@@ -2671,7 +2671,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "Item_Camper_Medkit05",
@@ -3265,7 +3265,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "Item_Camper_Firecracker_Chinese",
@@ -3287,7 +3287,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 3000
+                "price": 5000
             }
         ],
         "id": "Item_Camper_Firecracker_WinterEvent",
@@ -13803,10 +13803,6 @@
             {
                 "currencyId": "Bloodpoints",
                 "price": 10000
-            },
-            {
-                "currencyId": "Cells",
-                "price": 10
             }
         ],
         "id": "bloodweb_bloodpointsRefresh",

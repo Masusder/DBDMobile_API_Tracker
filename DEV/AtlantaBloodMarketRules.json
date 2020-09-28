@@ -4627,7 +4627,7 @@
                         "refreshInfoList": [
                             {
                                 "maxCount": 1,
-                                "minCount": 1,
+                                "minCount": 0,
                                 "weight": 750
                             }
                         ],

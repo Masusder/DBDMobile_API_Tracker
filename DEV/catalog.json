@@ -90204,28 +90204,6 @@
             "refundFragment"
         ],
         "consumable": false,
-        "id": "crateKey02",
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "refundFragment"
-        ],
-        "consumable": false,
-        "id": "crateKeyPassed",
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "refundFragment"
-        ],
-        "consumable": false,
         "id": "PremiumKeyFragment",
         "nonSecure": false,
         "premium": false,

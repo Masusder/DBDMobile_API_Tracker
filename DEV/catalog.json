@@ -17434,6 +17434,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17753,6 +17757,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18068,6 +18076,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18076,6 +18088,3964 @@
             {
                 "platformId": "ios",
                 "productId": "auric_cell_pack_7_130_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 240.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_1_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_2_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1320.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_3_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2700.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_4_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4830.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_5_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 4999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_6_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 15000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 9999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_7_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 240.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1320.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2700.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4830.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 2299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 15000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 6499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 240.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1320.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2700.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4830.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 15000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_All"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 220.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_1_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 550.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_2_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1210.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_3_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2475.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_4_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4428.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_5_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 4999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_6_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 13750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 9999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7110",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_110"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_7_110"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 220.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 550.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1210.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2475.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4428.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 2299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 13750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 6499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7110Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_110_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 220.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 550.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1210.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 2475.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 4428.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 13750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7110Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_110_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 350.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_1_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_2_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1925.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_3_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3938.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_4_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7044.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_5_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 10500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 4999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_6_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 21875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 9999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7175",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_175"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_7_175"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 350.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1925.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3938.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7044.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 2299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 10500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 21875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 6499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7175Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_175_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 350.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1925.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3938.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7044.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 10500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 21875.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7175Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_175_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_1_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_2_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3300.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_3_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_4_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 12075.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_5_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 18000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 4999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_6_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 37500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 9999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7300",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_300"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_7_300"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3300.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 12075.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 2299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 18000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 37500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 6499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7300Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_300_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 600.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 99.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack1300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_1_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack2300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_2_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 3300.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack3300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_3_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 6750.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack4300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_4_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 12075.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack5300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_5_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 18000.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_300_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 37500.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack7300Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_7_300_T3"
             }
         ],
         "purchasable": true,

@@ -771,10 +771,6 @@
                 {
                     "type": "UltraEpic",
                     "weight": 10
-                },
-                {
-                    "type": "SpecialEvent",
-                    "weight": 0
                 }
             ]
         },
@@ -822,10 +818,6 @@
                 {
                     "type": "UltraEpic",
                     "weight": 20
-                },
-                {
-                    "type": "SpecialEvent",
-                    "weight": 0
                 }
             ]
         },
@@ -873,10 +865,6 @@
                 {
                     "type": "UltraEpic",
                     "weight": 2
-                },
-                {
-                    "type": "SpecialEvent",
-                    "weight": 0
                 }
             ]
         },

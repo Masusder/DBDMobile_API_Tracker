@@ -17500,6 +17500,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17819,6 +17823,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18134,6 +18142,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18179,6 +18191,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18228,6 +18244,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18277,6 +18297,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18326,6 +18350,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18375,6 +18403,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18424,6 +18456,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18473,6 +18509,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18522,6 +18562,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18567,6 +18611,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18612,6 +18660,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18657,6 +18709,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18702,6 +18758,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18747,6 +18807,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18792,6 +18856,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18837,6 +18905,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18882,6 +18954,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18927,6 +19003,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18972,6 +19052,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19017,6 +19101,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19062,6 +19150,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19107,6 +19199,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -20125,6 +20221,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20174,6 +20274,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20223,6 +20327,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20272,6 +20380,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20321,6 +20433,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20370,6 +20486,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20419,6 +20539,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20468,6 +20592,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20513,6 +20641,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20558,6 +20690,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20603,6 +20739,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20648,6 +20788,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20693,6 +20837,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20738,6 +20886,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20783,6 +20935,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20828,6 +20984,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20873,6 +21033,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20918,6 +21082,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20963,6 +21131,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21008,6 +21180,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21053,6 +21229,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21098,6 +21278,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21147,6 +21331,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21196,6 +21384,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21245,6 +21437,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21294,6 +21490,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21343,6 +21543,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21392,6 +21596,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21441,6 +21649,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21486,6 +21698,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21531,6 +21747,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21576,6 +21796,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21621,6 +21845,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21666,6 +21894,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21711,6 +21943,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21756,6 +21992,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21801,6 +22041,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21846,6 +22090,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21891,6 +22139,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21936,6 +22188,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21981,6 +22237,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -22026,6 +22286,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,

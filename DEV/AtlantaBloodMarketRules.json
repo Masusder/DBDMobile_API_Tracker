@@ -3297,6 +3297,90 @@
                 "rarity": "Rare",
                 "role": "Slasher",
                 "startDate": "2020-06-12T00:00:12"
+            },
+            {
+                "endDate": "2022-01-01T00:00:13",
+                "id": "BE_Mask007",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:13"
+            },
+            {
+                "endDate": "2022-01-01T00:00:14",
+                "id": "BE_Body007",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:14"
+            },
+            {
+                "endDate": "2022-01-01T00:00:15",
+                "id": "BE_W007",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:15"
+            },
+            {
+                "endDate": "2022-01-01T00:00:16",
+                "id": "MT_Head008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:16"
+            },
+            {
+                "endDate": "2022-01-01T00:00:17",
+                "id": "MT_Torso008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:17"
+            },
+            {
+                "endDate": "2022-01-01T00:00:18",
+                "id": "MT_Legs008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:18"
+            },
+            {
+                "endDate": "2022-01-01T00:00:19",
+                "id": "TW_Head006",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:19"
+            },
+            {
+                "endDate": "2022-01-01T00:00:20",
+                "id": "TW_Body006",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:20"
+            },
+            {
+                "endDate": "2022-01-01T00:00:21",
+                "id": "TW_W006",
+                "rarity": "VeryRare",
+                "role": "Slasher",
+                "startDate": "2020-06-12T00:00:21"
+            },
+            {
+                "endDate": "2022-01-01T00:00:22",
+                "id": "DK_Head008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:22"
+            },
+            {
+                "endDate": "2022-01-01T00:00:23",
+                "id": "DK_Torso008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:23"
+            },
+            {
+                "endDate": "2022-01-01T00:00:24",
+                "id": "DK_Legs008",
+                "rarity": "VeryRare",
+                "role": "Camper",
+                "startDate": "2020-06-12T00:00:24"
             }
         ],
         "defaultRewardPerSuperChest": [

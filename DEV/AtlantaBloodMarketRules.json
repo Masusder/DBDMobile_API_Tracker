@@ -52,11 +52,11 @@
                         },
                         {
                             "type": "AddOn",
-                            "weight": "0"
+                            "weight": "60"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "0"
+                            "weight": "40"
                         },
                         {
                             "type": "SuperChests",
@@ -256,7 +256,7 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
+                            "weight": "65"
                         },
                         {
                             "type": "VeryRare",
@@ -268,15 +268,15 @@
                         },
                         {
                             "type": "Epic",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperEpic",
-                            "weight": "10"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "5"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -292,27 +292,27 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "VeryRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "UltraRare",
-                            "weight": "10"
-                        },
-                        {
-                            "type": "Epic",
                             "weight": "50"
                         },
                         {
-                            "type": "SuperEpic",
+                            "type": "VeryRare",
                             "weight": "35"
                         },
                         {
+                            "type": "UltraRare",
+                            "weight": "15"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
                             "type": "UltraEpic",
-                            "weight": "5"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -328,27 +328,27 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "VeryRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "UltraRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "Epic",
                             "weight": "40"
                         },
                         {
-                            "type": "SuperEpic",
+                            "type": "VeryRare",
                             "weight": "50"
                         },
                         {
-                            "type": "UltraEpic",
+                            "type": "UltraRare",
                             "weight": "10"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
                         }
                     ]
                 }
@@ -398,15 +398,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "0"
+                            "weight": "35"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "0"
+                            "weight": "40"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "0"
+                            "weight": "25"
                         },
                         {
                             "type": "SuperChests",
@@ -419,15 +419,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "0"
+                            "weight": "35"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "0"
+                            "weight": "40"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "0"
+                            "weight": "25"
                         },
                         {
                             "type": "SuperChests",
@@ -627,7 +627,7 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
+                            "weight": "65"
                         },
                         {
                             "type": "VeryRare",
@@ -639,15 +639,15 @@
                         },
                         {
                             "type": "Epic",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperEpic",
-                            "weight": "10"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "5"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -663,27 +663,27 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "VeryRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "UltraRare",
-                            "weight": "10"
-                        },
-                        {
-                            "type": "Epic",
                             "weight": "50"
                         },
                         {
-                            "type": "SuperEpic",
+                            "type": "VeryRare",
                             "weight": "35"
                         },
                         {
+                            "type": "UltraRare",
+                            "weight": "15"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
                             "type": "UltraEpic",
-                            "weight": "5"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -699,27 +699,27 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "VeryRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "UltraRare",
-                            "weight": "0"
-                        },
-                        {
-                            "type": "Epic",
                             "weight": "40"
                         },
                         {
-                            "type": "SuperEpic",
+                            "type": "VeryRare",
                             "weight": "50"
                         },
                         {
-                            "type": "UltraEpic",
+                            "type": "UltraRare",
                             "weight": "10"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
                         }
                     ]
                 }
@@ -1621,12 +1621,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 200
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -1735,13 +1735,13 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 400
                             },
                             {
-                                "maxCount": 1,
-                                "minCount": 1,
+                                "maxCount": 0,
+                                "minCount": 0,
                                 "weight": 50
                             }
                         ],
@@ -1849,12 +1849,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -2263,12 +2263,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 725
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             }
@@ -2278,12 +2278,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 225
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -2427,7 +2427,7 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             },
@@ -2442,12 +2442,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -2457,12 +2457,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 100
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -2591,12 +2591,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 500
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 400
                             }
@@ -2606,12 +2606,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 325
                             }
@@ -2621,12 +2621,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 200
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 275
                             }
@@ -4061,12 +4061,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 200
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -4180,13 +4180,13 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 400
                             },
                             {
-                                "maxCount": 1,
-                                "minCount": 1,
+                                "maxCount": 0,
+                                "minCount": 0,
                                 "weight": 50
                             }
                         ],
@@ -4299,12 +4299,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -4718,12 +4718,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 725
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             }
@@ -4733,12 +4733,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 225
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -4882,7 +4882,7 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 600
                             },
@@ -4897,12 +4897,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -4912,12 +4912,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 100
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             }
@@ -5046,12 +5046,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 500
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 400
                             }
@@ -5061,12 +5061,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 300
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 325
                             }
@@ -5076,12 +5076,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 200
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
                                 "weight": 275
                             }

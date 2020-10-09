@@ -745,6 +745,124 @@
         "id": "Bloodhunt_BP_20200925",
         "startDate": 1
     },
+    "Bloodhunt_BP_20201009": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201009happyHour": {
+                    "effects": {
+                        "BP20201009": [
+                            {
+                                "characters": [
+                                    "Shape",
+                                    "Spirit",
+                                    "Jake",
+                                    "Nea"
+                                ],
+                                "id": "BP20201009",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201009happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201009",
+        "startDate": 1
+    },
+    "Bloodhunt_BP_20201016": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201016happyHour": {
+                    "effects": {
+                        "BP20201016": [
+                            {
+                                "id": "BP20201016",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201016happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201016",
+        "startDate": 1
+    },
+    "Bloodhunt_BP_20201023": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201023happyHour": {
+                    "effects": {
+                        "BP20201023": [
+                            {
+                                "id": "BP20201023",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201023happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201023",
+        "startDate": 1
+    },
+    "Bloodhunt_BP_20201029": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BP_20201029happyHour": {
+                    "effects": {
+                        "BP20201029": [
+                            {
+                                "id": "BP20201029",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BP_20201029happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP_20201029",
+        "startDate": 1
+    },
     "Bloodhunt_XP_20200416": {
         "assets": {},
         "components": {
@@ -1491,6 +1609,124 @@
         "id": "Bloodhunt_XP_20200925",
         "startDate": 1
     },
+    "Bloodhunt_XP_20201009": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201009happyHour": {
+                    "effects": {
+                        "XP20201009": [
+                            {
+                                "characters": [
+                                    "Shape",
+                                    "Spirit",
+                                    "Jake",
+                                    "Nea"
+                                ],
+                                "id": "XP20201009",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201009happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201009",
+        "startDate": 1
+    },
+    "Bloodhunt_XP_20201016": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201016happyHour": {
+                    "effects": {
+                        "XP20201016": [
+                            {
+                                "id": "XP20201016",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201016happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201016",
+        "startDate": 1
+    },
+    "Bloodhunt_XP_20201023": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201023happyHour": {
+                    "effects": {
+                        "XP20201023": [
+                            {
+                                "id": "XP20201023",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201023happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201023",
+        "startDate": 1
+    },
+    "Bloodhunt_XP_20201029": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XP_20201029happyHour": {
+                    "effects": {
+                        "XP20201029": [
+                            {
+                                "id": "XP20201029",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XP_20201029happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP_20201029",
+        "startDate": 1
+    },
     "ChurnedCalendar": {
         "assets": {},
         "components": {
@@ -1532,8 +1768,7 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "7SlotsCalendar_24-08_01-09",
-                                    "7SlotsCalendar_23-09_01-10"
+                                    "13SlotsCalendar_05-10_22-10"
                                 ]
                             }
                         ]
@@ -1845,6 +2080,25 @@
             }
         },
         "id": "NurseMemoriesBanner_20200903",
+        "startDate": 1
+    },
+    "NurseStarterBanner_20201012": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "NurseStarterBanner"
+                ]
+            }
+        },
+        "id": "NurseStarterBanner_20201012",
         "startDate": 1
     },
     "Promopack2020_0416_0422": {
@@ -2889,6 +3143,99 @@
         "id": "Promopack2020_0917_0930",
         "startDate": 1
     },
+    "Promopack2020_1005_1011": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1005_1011happyHour": {
+                    "effects": {
+                        "Promopack2020_1005_1011PromoPack": [
+                            {
+                                "id": "Promopack2020_1005_1011PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LegionSusieStarterPack",
+                                    "StrangerThingsPack",
+                                    "HagMudStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1005_1011happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1005_1011",
+        "startDate": 1
+    },
+    "Promopack2020_1005_1025": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1005_1025happyHour": {
+                    "effects": {
+                        "Promopack2020_1005_1025PromoPack": [
+                            {
+                                "id": "Promopack2020_1005_1025PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle",
+                                    "PierreKillerPack",
+                                    "NewPlayerBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1005_1025happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1005_1025",
+        "startDate": 1
+    },
+    "Promopack2020_1012_1025": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1012_1025happyHour": {
+                    "effects": {
+                        "Promopack2020_1012_1025PromoPack": [
+                            {
+                                "id": "Promopack2020_1012_1025PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NurseStarterPack",
+                                    "FengCampusStarterPack",
+                                    "MegSpringBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1012_1025happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1012_1025",
+        "startDate": 1
+    },
     "Promopack_Base": {
         "assets": {},
         "components": {
@@ -3268,6 +3615,59 @@
             }
         },
         "id": "PurchasePopupPremium1",
+        "startDate": 1
+    },
+    "PurchasePopupPremium3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupPremium3"
+            }
+        },
+        "id": "PurchasePopupPremium3",
+        "startDate": 1
+    },
+    "PurchasePopupStarter": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupStarter"
+            }
+        },
+        "id": "PurchasePopupStarter",
+        "startDate": 1
+    },
+    "StrangerThingsBanner_20201005": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "StrangerThingsBanner"
+                ]
+            }
+        },
+        "id": "StrangerThingsBanner_20201005",
         "startDate": 1
     }
 }

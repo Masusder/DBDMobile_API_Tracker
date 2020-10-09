@@ -312,7 +312,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "0"
+                            "weight": "40"
                         }
                     ]
                 },
@@ -348,7 +348,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "0"
+                            "weight": "50"
                         }
                     ]
                 }
@@ -683,7 +683,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "0"
+                            "weight": "40"
                         }
                     ]
                 },
@@ -719,7 +719,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "0"
+                            "weight": "50"
                         }
                     ]
                 }
@@ -762,15 +762,15 @@
                 },
                 {
                     "type": "Epic",
-                    "weight": 70
+                    "weight": 0
                 },
                 {
                     "type": "SuperEpic",
-                    "weight": 20
+                    "weight": 0
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 10
+                    "weight": 0
                 }
             ]
         },
@@ -809,15 +809,15 @@
                 },
                 {
                     "type": "Epic",
-                    "weight": 50
+                    "weight": 0
                 },
                 {
                     "type": "SuperEpic",
-                    "weight": 30
+                    "weight": 0
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 20
+                    "weight": 0
                 }
             ]
         },
@@ -844,7 +844,7 @@
                 },
                 {
                     "type": "Rare",
-                    "weight": 20
+                    "weight": 30
                 },
                 {
                     "type": "VeryRare",
@@ -856,15 +856,15 @@
                 },
                 {
                     "type": "Epic",
-                    "weight": 5
+                    "weight": 0
                 },
                 {
                     "type": "SuperEpic",
-                    "weight": 3
+                    "weight": 0
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 2
+                    "weight": 0
                 }
             ]
         },
@@ -883,7 +883,7 @@
             "rarityContent": [
                 {
                     "type": "Common",
-                    "weight": 70
+                    "weight": 0
                 },
                 {
                     "type": "Uncommon",
@@ -1623,12 +1623,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -1737,12 +1737,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 50
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -1851,10 +1851,10 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -2265,12 +2265,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 725
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             }
                         ],
                         "type": "Epic"
@@ -2280,12 +2280,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 225
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -2295,12 +2295,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 50
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -2429,7 +2429,7 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
@@ -2444,12 +2444,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 700
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -2459,12 +2459,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -2593,12 +2593,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 0
                             }
                         ],
                         "type": "Epic"
@@ -2608,12 +2608,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 325
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -2623,12 +2623,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 275
+                                "weight": 600
                             }
                         ],
                         "type": "UltraEpic"
@@ -3387,21 +3387,21 @@
             {
                 "id": "SuperChest01",
                 "reward": {
-                    "id": "SmallShardPack",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             },
             {
                 "id": "SuperChest02",
                 "reward": {
-                    "id": "MediumShardPack",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             },
             {
                 "id": "SuperChest03",
                 "reward": {
-                    "id": "LargeShardPack",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             }
@@ -3541,22 +3541,22 @@
                     {
                         "id": "SmallShardPack",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "SmallCellsPack",
                         "type": "cellsPack",
-                        "weight": 10
+                        "weight": 0
                     },
                     {
                         "id": "SmallShardPack01",
                         "type": "shardsPack",
-                        "weight": 25
+                        "weight": 0
                     },
                     {
                         "id": "SmallShardPack02",
                         "type": "shardsPack",
-                        "weight": 45
+                        "weight": 0
                     }
                 ],
                 "rarity": "Epic"
@@ -3570,22 +3570,22 @@
                     {
                         "id": "MediumShardPack",
                         "type": "shardsPack",
-                        "weight": 15
+                        "weight": 0
                     },
                     {
                         "id": "MediumCellsPack",
                         "type": "cellsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "MediumShardPack01",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "MediumShardPack02",
                         "type": "shardsPack",
-                        "weight": 45
+                        "weight": 0
                     }
                 ],
                 "rarity": "SuperEpic"
@@ -3599,22 +3599,22 @@
                     {
                         "id": "LargeShardPack",
                         "type": "shardsPack",
-                        "weight": 15
+                        "weight": 0
                     },
                     {
                         "id": "LargeCellsPack",
                         "type": "cellsPack",
-                        "weight": 25
+                        "weight": 0
                     },
                     {
                         "id": "LargeShardPack01",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "LargeShardPack02",
                         "type": "shardsPack",
-                        "weight": 40
+                        "weight": 0
                     }
                 ],
                 "rarity": "UltraEpic"
@@ -3755,22 +3755,22 @@
                     {
                         "id": "SmallShardPack",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "SmallCellsPack",
                         "type": "cellsPack",
-                        "weight": 10
+                        "weight": 0
                     },
                     {
                         "id": "SmallShardPack01",
                         "type": "shardsPack",
-                        "weight": 25
+                        "weight": 0
                     },
                     {
                         "id": "SmallShardPack02",
                         "type": "shardsPack",
-                        "weight": 45
+                        "weight": 0
                     }
                 ],
                 "rarity": "Epic"
@@ -3784,22 +3784,22 @@
                     {
                         "id": "MediumShardPack",
                         "type": "shardsPack",
-                        "weight": 15
+                        "weight": 0
                     },
                     {
                         "id": "MediumCellsPack",
                         "type": "cellsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "MediumShardPack01",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "MediumShardPack02",
                         "type": "shardsPack",
-                        "weight": 45
+                        "weight": 0
                     }
                 ],
                 "rarity": "SuperEpic"
@@ -3813,22 +3813,22 @@
                     {
                         "id": "LargeShardPack",
                         "type": "shardsPack",
-                        "weight": 15
+                        "weight": 0
                     },
                     {
                         "id": "LargeCellsPack",
                         "type": "cellsPack",
-                        "weight": 25
+                        "weight": 0
                     },
                     {
                         "id": "LargeShardPack01",
                         "type": "shardsPack",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "id": "LargeShardPack02",
                         "type": "shardsPack",
-                        "weight": 40
+                        "weight": 0
                     }
                 ],
                 "rarity": "UltraEpic"
@@ -4063,12 +4063,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -4182,12 +4182,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 50
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -4301,10 +4301,10 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 700
                             }
@@ -4720,12 +4720,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 725
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             }
                         ],
                         "type": "Epic"
@@ -4735,12 +4735,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 225
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -4750,12 +4750,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 50
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -4884,7 +4884,7 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
@@ -4899,12 +4899,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 700
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -4914,12 +4914,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -5048,12 +5048,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 0
                             }
                         ],
                         "type": "Epic"
@@ -5063,12 +5063,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 325
+                                "weight": 0
                             }
                         ],
                         "type": "SuperEpic"
@@ -5078,12 +5078,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 275
+                                "weight": 600
                             }
                         ],
                         "type": "UltraEpic"

@@ -11,7 +11,7 @@
         "enable": false,
         "enableCollisionCheck": false,
         "recorder": {
-            "cacheTimespan": 0.35
+            "cacheTimespan": 0.25
         }
     }
 }

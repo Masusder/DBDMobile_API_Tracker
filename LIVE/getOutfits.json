@@ -337,11 +337,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Dwight",
@@ -449,11 +444,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Meg",
@@ -850,6 +840,24 @@
             "newEndDate": "2019-03-12T15:00:00"
         },
         {
+            "id": "Meg_outfit_009_01",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Meg",
+            "storeItems": [
+                "MT_Head009",
+                "MT_Torso009",
+                "MT_Legs009"
+            ],
+            "newStartDate": "2019-04-24T15:00:00",
+            "newEndDate": "2019-05-08T14:59:59"
+        },
+        {
             "id": "MT_outfit_010",
             "defaultCost": [
                 {
@@ -1239,11 +1247,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Claudette",
@@ -1354,6 +1357,18 @@
             ],
             "newStartDate": "2019-08-07T15:00:00",
             "newEndDate": "2020-08-17T23:59:59"
+        },
+        {
+            "id": "Claudette_outfit_School",
+            "defaultCost": [],
+            "character": "Claudette",
+            "storeItems": [
+                "CM_Head02_05_School",
+                "CM_Torso02_05_School",
+                "CM_Legs02_05_School"
+            ],
+            "newStartDate": "2019-08-07T15:00:00",
+            "newEndDate": "2019-08-21T14:59:59"
         },
         {
             "id": "Jake_outfit_001",
@@ -1682,11 +1697,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Jake",
@@ -1886,11 +1896,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Nea",
@@ -2527,11 +2532,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Feng",
@@ -2870,11 +2870,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Ace",
@@ -3509,11 +3504,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Kate",
@@ -4033,11 +4023,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Jeff",
@@ -4820,11 +4805,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Chuckles",
@@ -4843,11 +4823,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Chuckles",
@@ -5137,11 +5112,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Bob",
@@ -5178,11 +5148,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Bob",
@@ -5419,11 +5384,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "HillBilly",
@@ -5618,11 +5578,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Nurse",
@@ -6418,11 +6373,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Killer07",
@@ -6597,11 +6547,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "HalloweenCoins",
-                    "price": 30,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Bear",
@@ -7372,6 +7317,18 @@
             "newEndDate": "2019-08-21T14:59:59"
         },
         {
+            "id": "Legion_outfit_School",
+            "defaultCost": [],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Head02_02_School",
+                "KK_Body02_02_School",
+                "KK_W02_02_School"
+            ],
+            "newStartDate": "2019-08-07T15:00:00",
+            "newEndDate": "2019-08-21T14:59:59"
+        },
+        {
             "id": "MM_outfit_02",
             "defaultCost": [
                 {
@@ -7876,6 +7833,42 @@
             ],
             "newStartDate": "2020-09-10T00:00:00",
             "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "DK_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Smoke",
+            "storeItems": [
+                "DK_Head011",
+                "DK_Torso011",
+                "DK_Legs011"
+            ],
+            "newStartDate": "2020-10-05T14:00:00",
+            "newEndDate": "2020-10-11T23:59:59"
+        },
+        {
+            "id": "MT_outfit_012",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Meg",
+            "storeItems": [
+                "MT_Head012",
+                "MT_Torso012",
+                "MT_Legs012"
+            ],
+            "newStartDate": "2020-10-12T14:00:00",
+            "newEndDate": "2020-10-25T23:59:59"
         }
     ]
 }

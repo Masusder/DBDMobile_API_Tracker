@@ -3187,8 +3187,7 @@
                                 "type": "PromoPack",
                                 "value": [
                                     "BaseGameBundle",
-                                    "PierreKillerPack",
-                                    "NewPlayerBundle"
+                                    "PierreKillerPack"
                                 ]
                             }
                         ]
@@ -3234,6 +3233,35 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Promopack2020_1012_1025",
+        "startDate": 1
+    },
+    "PromopackNewPlayerBundle": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackNewPlayerBundlehappyHour": {
+                    "effects": {
+                        "PromopackNewPlayerBundlePromoPack": [
+                            {
+                                "id": "PromopackNewPlayerBundlePromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NewPlayerBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackNewPlayerBundlehappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackNewPlayerBundle",
         "startDate": 1
     },
     "Promopack_Base": {

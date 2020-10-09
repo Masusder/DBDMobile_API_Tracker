@@ -398,15 +398,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -3089,298 +3089,298 @@
                 "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:02",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "AV_Head02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:01"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:03",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "AV_Torso02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:02"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:04",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "AV_Legs02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:03"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:05",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "BE_Mask01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:04"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:06",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "BE_Body01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:05"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:07",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "BE_W01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:06"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:08",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "GK_Head01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:07"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:09",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "GK_Body01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:08"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:10",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "GK_W01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:09"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MS_Head01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MS_Torso01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:13",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MS_Legs01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TN_Head01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TN_Body01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:13",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TN_Weapon01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TR_Head01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TR_Body01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:13",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "TR_W01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MT_Head03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MT_Torso03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:13",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "MT_Leg03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "DF_Head01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "DF_Torso01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:13",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "DF_Legs01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:10",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "CM_Head02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "CM_Torso02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "CM_Legs02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:10",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "KK_Head02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:10"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:11",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "KK_W02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:11"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:12",
+                "endDate": "2020-05-25T00:00:01",
                 "id": "KK_Body02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:12"
+                "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:13",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "BE_Mask007",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:13"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:14",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "BE_Body007",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:14"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:15",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "BE_W007",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:15"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:16",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "MT_Head008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:16"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:17",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "MT_Torso008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:17"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:18",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "MT_Legs008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:18"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:19",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "TW_Head006",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:19"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:20",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "TW_Body006",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:20"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:21",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "TW_W006",
                 "rarity": "VeryRare",
                 "role": "Slasher",
-                "startDate": "2020-06-12T00:00:21"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:22",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Head008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:22"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:23",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Torso008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:23"
+                "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:24",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Legs008",
                 "rarity": "VeryRare",
                 "role": "Camper",
-                "startDate": "2020-06-12T00:00:24"
+                "startDate": "2020-06-12T00:00:01"
             }
         ],
         "defaultRewardPerSuperChest": [
@@ -3486,7 +3486,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 0
+                        "weight": 20
                     },
                     {
                         "type": "shardsPack",
@@ -3700,7 +3700,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 0
+                        "weight": 20
                     },
                     {
                         "type": "shardsPack",

@@ -52,11 +52,11 @@
                         },
                         {
                             "type": "AddOn",
-                            "weight": "0"
+                            "weight": "60"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "0"
+                            "weight": "40"
                         },
                         {
                             "type": "SuperChests",
@@ -419,15 +419,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "0"
+                            "weight": "35"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "0"
+                            "weight": "40"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "0"
+                            "weight": "25"
                         },
                         {
                             "type": "SuperChests",

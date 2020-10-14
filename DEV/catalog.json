@@ -81807,7 +81807,7 @@
             "kind": "Customization",
             "newEndDate": "2020-09-24T23:59:59",
             "newStartDate": "2020-09-11T00:00:00",
-            "outfitId": "GS_outfit_test",
+            "outfitId": "GS_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -81850,7 +81850,7 @@
             "kind": "Customization",
             "newEndDate": "2020-09-24T23:59:59",
             "newStartDate": "2020-09-11T00:00:00",
-            "outfitId": "GS_outfit_test",
+            "outfitId": "GS_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -90327,27 +90327,6 @@
     },
     {
         "categories": [
-            "outfit"
-        ],
-        "consumable": false,
-        "id": "GS_outfit_test",
-        "metaData": {
-            "character": "Kate",
-            "discountPercentage": 0.1,
-            "items": [
-                "GS_Torso013",
-                "GS_Legs013"
-            ],
-            "newEndDate": "2020-09-24T23:59:59",
-            "newStartDate": "2020-09-11T00:00:00",
-            "unbreakable": true
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
             "promoPack"
         ],
         "consumable": true,
@@ -91404,7 +91383,7 @@
         "id": "NeaStarterPack0416",
         "metaData": {
             "highlighted": false,
-            "priority": 0
+            "priority": 3
         },
         "nonSecure": false,
         "premium": false,
@@ -92652,7 +92631,7 @@
         "id": "BaseGameBundle",
         "metaData": {
             "highlighted": false,
-            "priority": 0
+            "priority": 2
         },
         "nonSecure": false,
         "premium": false,
@@ -92959,7 +92938,7 @@
         "id": "FreeTicketBundle",
         "metaData": {
             "highlighted": true,
-            "priority": 0
+            "priority": 10
         },
         "nonSecure": false,
         "premium": false,
@@ -93351,7 +93330,7 @@
         "id": "FoulBileBundle",
         "metaData": {
             "highlighted": true,
-            "priority": 0
+            "priority": 5
         },
         "nonSecure": false,
         "premium": false,

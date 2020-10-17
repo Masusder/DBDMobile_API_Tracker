@@ -19348,6 +19348,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -19675,6 +19678,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -19990,6 +19996,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -91839,11 +91848,11 @@
                 "cost": [
                     {
                         "currencyId": "Cells",
-                        "price": 1580
+                        "price": 1000
                     }
                 ],
-                "endDate": "2020-04-29T17:30:00",
-                "startDate": "2020-04-29T15:00:00"
+                "endDate": "2020-10-19T23:30:00",
+                "startDate": "2020-10-15T00:00:00"
             }
         ],
         "id": "BaseGameBundle_3",

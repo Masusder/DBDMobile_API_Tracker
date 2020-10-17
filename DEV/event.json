@@ -2359,7 +2359,8 @@
                                     "13SlotsCalendar_21-09_08-10",
                                     "7SlotsCalendar_10-10_18-10",
                                     "13SlotsCalendar_19-10_05-11",
-                                    "9SlotsCalendar_09-11_21-11"
+                                    "9SlotsCalendar_09-11_21-11",
+                                    "9SlotsCalendar_15-10_15-10"
                                 ]
                             }
                         ]
@@ -4124,6 +4125,35 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Promopack2020_1105_1118",
+        "startDate": 1
+    },
+    "PromopackDiscountTest": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackDiscountTesthappyHour": {
+                    "effects": {
+                        "PromopackDiscountTestPromoPack": [
+                            {
+                                "id": "PromopackDiscountTestPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_3"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackDiscountTesthappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackDiscountTest",
         "startDate": 1
     },
     "PromopackShardsTest": {

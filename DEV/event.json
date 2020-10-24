@@ -2355,12 +2355,7 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "7SlotsCalendar_30-07_30-07",
-                                    "13SlotsCalendar_21-09_08-10",
-                                    "7SlotsCalendar_10-10_18-10",
-                                    "13SlotsCalendar_19-10_05-11",
-                                    "9SlotsCalendar_09-11_21-11",
-                                    "9SlotsCalendar_15-10_15-10"
+                                    "13SlotsCalendar_Raleigh1"
                                 ]
                             }
                         ]

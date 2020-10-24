@@ -19348,9 +19348,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -19678,9 +19675,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -19996,9 +19990,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_110_Single_Test_CP5"
             ]
         },
         "nonSecure": false,
@@ -22200,7 +22191,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -24411,7 +24402,7 @@
         "id": "S22",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Slasher"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -24430,7 +24421,7 @@
         "id": "K20",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Camper"
+            "role": "Slasher"
         },
         "nonSecure": false,
         "purchasable": true,

@@ -3486,7 +3486,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 0
+                        "weight": 20
                     },
                     {
                         "type": "shardsPack",
@@ -3700,7 +3700,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 0
+                        "weight": 20
                     },
                     {
                         "type": "shardsPack",

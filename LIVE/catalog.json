@@ -18164,6 +18164,154 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 4999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120"
+            },
+            {
+                "platformId": "android",
+                "productId": "auric_cell_pack_6_120"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 3299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120_T2"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 7200.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "cellsPack6120Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6"
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "auric_cell_pack_6_120_T3"
+            }
+        ],
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
                 "quantity": 500.0
             }
         ],

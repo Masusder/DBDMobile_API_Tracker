@@ -3335,13 +3335,6 @@
             },
             {
                 "endDate": "2022-01-01T00:00:01",
-                "id": "MT_Legs008",
-                "rarity": "VeryRare",
-                "role": "Camper",
-                "startDate": "2020-10-26T00:00:01"
-            },
-            {
-                "endDate": "2022-01-01T00:00:01",
                 "id": "TW_Head006",
                 "rarity": "VeryRare",
                 "role": "Slasher",

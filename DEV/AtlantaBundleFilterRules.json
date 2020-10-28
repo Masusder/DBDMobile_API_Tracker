@@ -1,0 +1,2576 @@
+[
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 100,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 100,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 100,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 200,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_1"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_1"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_1"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_1"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_1"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 200,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_1_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_1_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 200,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_1_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_1_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "premiumStoreId": "purchase_popup_basic_1"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_starter"
+            },
+            {
+                "premiumStoreId": "purchase_popup_entertainer"
+            },
+            {
+                "premiumStoreId": "purchase_popup_harvester"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "purchasePopup"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "premiumStoreId": "purchase_popup_basic_1_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_2_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_2_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_3_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_starter_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_entertainer_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_harvester_T2"
+            }
+        ],
+        "startDate": "2017-07-31T00:00:00",
+        "type": "purchasePopup"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "premiumStoreId": "purchase_popup_basic_1_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_2_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_2_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_premium_3_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_starter_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_entertainer_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_harvester_T3"
+            }
+        ],
+        "startDate": "2017-07-31T00:00:00",
+        "type": "purchasePopup"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_1_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_1_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-06-17",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 150,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_150"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_150"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_150"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_150"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_150"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 150,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_150_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_150_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 150,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_150_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_150_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 130,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_130"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_130"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 130,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_130_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 130,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_130_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 120,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 120,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 120,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 110,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 110,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 110,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 175,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 175,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 175,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 300,
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 300,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300_T3"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300_T3"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "multiplier": 300,
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300_T2"
+            },
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300_T2"
+            }
+        ],
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_150_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_130_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_130_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_130_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_150_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_130_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack1_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_130_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack2_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack3_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack3_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_130_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_Pack3_2020-07-29",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_120_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_120_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_110_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_110_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack6",
+                "premiumStoreId": "auric_cell_pack_6_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack7",
+                "premiumStoreId": "auric_cell_pack_7_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP7",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack5",
+                "premiumStoreId": "auric_cell_pack_5_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP5",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack4",
+                "premiumStoreId": "auric_cell_pack_4_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP4",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack2",
+                "premiumStoreId": "auric_cell_pack_2_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP2",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack1",
+                "premiumStoreId": "auric_cell_pack_1_300_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_300_Single_Test_CP1",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    }
+]

@@ -6357,7 +6357,7 @@
         {
             "id": "FoulBileBundle",
             "imageUrl": "promoPacks/FoulBileFixed.png",
-            "marketingImageUrl": "promoPacks/marketingImages/FoulBileBundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/FoulBileBundleFixedMask.png",
             "titleId": "PROMOPACK_FoulBileBundle_TITLE"
         },
         {
@@ -6722,5 +6722,12 @@
             "titleId": "MARKETINGBANNER_NeaStarter_TITLE"
         }
     ],
-    "storefrontUIData": []
+    "storefrontUIData": [
+        {
+            "imageUrl": "promoPacks/StoreFront_FoulBile.jpg",
+            "newEndDate": "2020-11-11T23:59:59",
+            "newStartDate": "2020-10-29T14:00:01",
+            "type": "PromoPacks"
+        }
+    ]
 }

@@ -2630,28 +2630,6 @@
                 "price": 5000
             }
         ],
-        "id": "WalesThemeOffering",
-        "metaData": {
-            "enabled": false,
-            "eventID": "None",
-            "rarity": "Rare",
-            "role": "None"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "offering"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 5000
-            }
-        ],
         "id": "SacrificalWard",
         "metaData": {
             "enabled": true,
@@ -17500,10 +17478,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7",
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17823,10 +17797,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7",
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18142,10 +18112,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7",
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18436,9 +18402,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -18762,9 +18725,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -19080,9 +19040,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -23319,7 +23276,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -23380,7 +23337,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -23441,7 +23398,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -23506,7 +23463,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -23567,7 +23524,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -23628,7 +23585,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },

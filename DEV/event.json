@@ -4372,6 +4372,19 @@
         "id": "Promopack_Test_SL9_2",
         "startDate": 1
     },
+    "ProvingGround_Test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "ProvingGround_Test",
+        "startDate": 1
+    },
     "PurchasePopupBasic1": {
         "assets": {},
         "components": {

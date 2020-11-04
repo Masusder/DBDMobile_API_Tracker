@@ -93700,6 +93700,87 @@
     },
     {
         "categories": [
+            "cellsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 10
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityBoxCellsPack",
+        "metaData": {
+            "enabled": true,
+            "rarity": "Epic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "shardsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 15
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityBoxShardsPack",
+        "metaData": {
+            "enabled": true,
+            "rarity": "Epic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "bloodpointsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 10000
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityBoxBloodpointsPack",
+        "metaData": {
+            "enabled": true,
+            "rarity": "Epic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
             "superChest"
         ],
         "consumable": true,
@@ -93852,6 +93933,26 @@
         "id": "Chest05",
         "metaData": {
             "rarity": "UltraRare"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "entityChest"
+        ],
+        "consumable": true,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityChest",
+        "metaData": {
+            "rarity": "Epic"
         },
         "nonSecure": false,
         "premium": false,

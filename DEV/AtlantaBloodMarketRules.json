@@ -19,6 +19,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Common"
@@ -39,6 +43,10 @@
                         },
                         {
                             "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
                             "weight": "0"
                         }
                     ],
@@ -61,6 +69,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Rare"
@@ -81,6 +93,10 @@
                         },
                         {
                             "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
                             "weight": "0"
                         }
                     ],
@@ -103,6 +119,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "UltraRare"
@@ -124,6 +144,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Epic"
@@ -145,6 +169,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "SuperEpic"
@@ -166,6 +194,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "UltraEpic"
@@ -390,6 +422,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Common"
@@ -410,6 +446,10 @@
                         },
                         {
                             "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
                             "weight": "0"
                         }
                     ],
@@ -432,6 +472,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Rare"
@@ -452,6 +496,10 @@
                         },
                         {
                             "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
                             "weight": "0"
                         }
                     ],
@@ -474,6 +522,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "UltraRare"
@@ -495,6 +547,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "Epic"
@@ -516,6 +572,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "SuperEpic"
@@ -537,6 +597,10 @@
                         {
                             "type": "SuperChests",
                             "weight": "100"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "0"
                         }
                     ],
                     "rarity": "UltraEpic"
@@ -1122,6 +1186,57 @@
                     "weight": 250
                 }
             ]
+        },
+        {
+            "categories": [
+                "entityChest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "EntityChest",
+            "rarity": "Epic",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
         }
     ],
     "chestRules": {
@@ -1402,6 +1517,81 @@
                     }
                 ],
                 "rarity": "SpecialEvent"
+            }
+        ]
+    },
+    "entityBoxRules": {
+        "consumableRewards": [],
+        "cosmeticRewardsPerRole": [],
+        "currencyRewards": [
+            {
+                "id": "EntityBoxBloodpointsPack",
+                "type": "bloodpointsPack",
+                "weight": 0
+            },
+            {
+                "id": "EntityBoxShardsPack",
+                "type": "shardsPack",
+                "weight": 0
+            },
+            {
+                "id": "EntityBoxCellsPack",
+                "type": "cellsPack",
+                "weight": 0
+            }
+        ],
+        "killer": [
+            {
+                "type": "item",
+                "weight": 0
+            },
+            {
+                "type": "currency",
+                "weight": 0
+            },
+            {
+                "type": "freeTicket",
+                "weight": 0
+            },
+            {
+                "type": "consumable",
+                "weight": 0
+            }
+        ],
+        "survivor": [
+            {
+                "type": "item",
+                "weight": 0
+            },
+            {
+                "type": "currency",
+                "weight": 0
+            },
+            {
+                "type": "freeTicket",
+                "weight": 0
+            },
+            {
+                "type": "consumable",
+                "weight": 0
+            }
+        ],
+        "ticketsRewards": [
+            {
+                "id": "SilverKillerTicket",
+                "weight": 0
+            },
+            {
+                "id": "GoldKillerTicket",
+                "weight": 0
+            },
+            {
+                "id": "SilverSurvivorTicket",
+                "weight": 0
+            },
+            {
+                "id": "GoldSurvivorTicket",
+                "weight": 0
             }
         ]
     },

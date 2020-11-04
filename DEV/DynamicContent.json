@@ -7003,19 +7003,19 @@
             "type": "Calendar"
         },
         {
-            "bannerEndDate": "2020-11-06T20:30:01",
+            "bannerEndDate": "2020-11-10T20:30:01",
             "bannerPriority": 2,
             "bannerStartDate": "2020-08-13T19:30:01",
             "campaignName": "Bloodhunt_20201127",
             "deepLink": "/Storefront_Premium/",
             "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
-            "displayEndDate": "2020-11-06T20:30:01",
+            "displayEndDate": "2020-11-10T20:30:01",
             "displayStartDate": "2020-08-13T19:30:01",
-            "endDate": "2020-11-06T20:30:01",
+            "endDate": "2020-11-10T20:30:01",
             "eventPriority": 2,
-            "hotEndDate": "2020-11-06T20:30:01",
+            "hotEndDate": "2020-11-10T20:30:01",
             "hotStartDate": "2020-08-13T19:30:01",
-            "id": "TestACEvent",
+            "id": "Test_BonusACEvent",
             "imageUrl": "events/eventPlaceholderImage1.png",
             "relatedItemsId": [
                 "40"

@@ -4476,6 +4476,24 @@
             "newEndDate": "2020-03-30T16:00:00"
         },
         {
+            "id": "SwedenSurvivor_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Yui",
+            "storeItems": [
+                "SwedenSurvivor_Head006",
+                "SwedenSurvivor_Torso006",
+                "SwedenSurvivor_Legs006"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
             "id": "SwedenSurvivor_outfit_01_CV01",
             "defaultCost": [
                 {
@@ -7781,6 +7799,47 @@
             "newEndDate": "2020-08-13T00:00:00"
         },
         {
+            "id": "SwedenKiller_outfit_02",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Oni",
+            "storeItems": [
+                "SwedenKiller_Mask02",
+                "SwedenKiller_Body02",
+                "SwedenKiller_W02"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "SwedenKiller_outfit_02_01",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 13500,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Oni",
+            "storeItems": [
+                "SwedenKiller_Mask02_01",
+                "SwedenKiller_Body02_01",
+                "SwedenKiller_W02_01"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
             "id": "SwedenKiller_outfit_006",
             "defaultCost": [
                 {
@@ -7797,6 +7856,24 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2020-08-13T00:00:00"
+        },
+        {
+            "id": "K20_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "K20",
+            "storeItems": [
+                "K20_Head006",
+                "K20_Body006",
+                "K20_W006"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
         },
         {
             "id": "FM_outfit_011",
@@ -7982,6 +8059,168 @@
             ],
             "newStartDate": "2020-09-11T00:00:00",
             "newEndDate": "2020-09-24T23:59:59"
+        },
+        {
+            "id": "DK_outfit_012",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Smoke",
+            "storeItems": [
+                "DK_Head012",
+                "DK_Torso012",
+                "DK_Legs012"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "HS_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Adam",
+            "storeItems": [
+                "HS_Head010",
+                "HS_Torso010",
+                "HS_Legs010"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "FM_outfit_012",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Feng",
+            "storeItems": [
+                "FM_Head012",
+                "FM_Torso012",
+                "FM_Legs012"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "BE_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Bear",
+            "storeItems": [
+                "BE_Mask010",
+                "BE_Body010",
+                "BE_W010"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "KK_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask010",
+                "KK_Body010",
+                "KK_W010"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "KK_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask011",
+                "KK_Body011",
+                "KK_W011"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "KS_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Jeff",
+            "storeItems": [
+                "KS_Head010",
+                "KS_Torso010",
+                "KS_Legs010"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "JP_outfit_012",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Jake",
+            "storeItems": [
+                "JP_Head012",
+                "JP_Torso012",
+                "JP_Legs012"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
+        },
+        {
+            "id": "KK_outfit_014",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask014",
+                "KK_Body014",
+                "KK_W014"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-11-11T00:00:00"
         }
     ]
 }

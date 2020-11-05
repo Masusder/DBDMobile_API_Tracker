@@ -56184,6 +56184,123 @@
         "consumable": false,
         "consumptionCurrenciesList": [],
         "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Head006",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Torso006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Torso006",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Legs006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Legs006",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
         "defaultCost": [],
         "eventCostList": [],
         "id": "S22_Head01_P01",
@@ -80279,6 +80396,252 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Mask02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Mask02",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Body02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Body02",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_W02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_W02",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Mask02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Mask02_01",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Body02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Body02_01",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_W02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_W02_01",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2020-07-14T23:59:59",
+            "newStartDate": "2020-07-01T00:00:00",
+            "outfitId": "SwedenKiller_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 400
             }
         ],
@@ -80576,6 +80939,123 @@
         "nonSecure": false,
         "premium": false,
         "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K20_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K20_Head006",
+            "character": "K20",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "K20_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K20_Body006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K20_Body006",
+            "character": "K20",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "K20_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K20_W006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K20_W006",
+            "character": "K20",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "K20_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -81855,6 +82335,1404 @@
             "rarity": "VeryRare",
             "type": "Legs",
             "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "DK_Head012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DK_Head012",
+            "character": "Smoke",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "DK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "DK_Torso012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DK_Torso012",
+            "character": "Smoke",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "DK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "DK_Legs012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DK_Legs012",
+            "character": "Smoke",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "DK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HS_Head010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HS_Head010",
+            "character": "Adam",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "HS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HS_Torso010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HS_Torso010",
+            "character": "Adam",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "HS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HS_Legs010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HS_Legs010",
+            "character": "Adam",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "HS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "FM_Head012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "FM_Head012",
+            "character": "Feng",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "FM_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "FM_Torso012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "FM_Torso012",
+            "character": "Feng",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "FM_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "FM_Legs012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "FM_Legs012",
+            "character": "Feng",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "FM_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "MS_Torso010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MS_Torso010",
+            "character": "Jane",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "ML_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "ML_Torso009",
+            "character": "Ash",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "QM_Torso007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QM_Torso007",
+            "character": "Steve",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "QF_Torso007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QF_Torso007",
+            "character": "Nancy",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Torso008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Torso008",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "FS_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "FS_Torso009",
+            "character": "Eric",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Torso02_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Torso02_02",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body012",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body013",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "BE_Mask010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "BE_Mask010",
+            "character": "Bear",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "BE_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "BE_Body010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "BE_Body010",
+            "character": "Bear",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "BE_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "BE_W010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "BE_W010",
+            "character": "Bear",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "BE_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Mask010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Mask010",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body010",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_W010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_W010",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Mask011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Mask011",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body011",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_W011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_W011",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Head010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Head010",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Torso010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Torso010",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Legs010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Legs010",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KS_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Head012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Head012",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "JP_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Torso012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Torso012",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "JP_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Legs012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Legs012",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "JP_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Mask014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Mask014",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body014",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_W014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_W014",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "KK_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -86584,6 +88462,28 @@
             "outfit"
         ],
         "consumable": false,
+        "id": "SwedenSurvivor_outfit_006",
+        "metaData": {
+            "character": "Yui",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenSurvivor_Head006",
+                "SwedenSurvivor_Torso006",
+                "SwedenSurvivor_Legs006"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
         "id": "SwedenSurvivor_outfit_01_CV01",
         "metaData": {
             "character": "Yui",
@@ -90087,6 +91987,50 @@
             "outfit"
         ],
         "consumable": false,
+        "id": "SwedenKiller_outfit_02",
+        "metaData": {
+            "character": "Oni",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenKiller_Mask02",
+                "SwedenKiller_Body02",
+                "SwedenKiller_W02"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "SwedenKiller_outfit_02_01",
+        "metaData": {
+            "character": "Oni",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenKiller_Mask02_01",
+                "SwedenKiller_Body02_01",
+                "SwedenKiller_W02_01"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
         "id": "SwedenKiller_outfit_006",
         "metaData": {
             "character": "Oni",
@@ -90098,6 +92042,28 @@
             ],
             "newEndDate": "2020-08-13T00:00:00",
             "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K20_outfit_006",
+        "metaData": {
+            "character": "K20",
+            "discountPercentage": 0.1,
+            "items": [
+                "K20_Head006",
+                "K20_Body006",
+                "K20_W006"
+            ],
+            "newEndDate": "2020-09-23T23:59:59",
+            "newStartDate": "2020-09-14T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90319,6 +92285,204 @@
             "newEndDate": "2020-09-24T23:59:59",
             "newStartDate": "2020-09-11T00:00:00",
             "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "DK_outfit_012",
+        "metaData": {
+            "character": "Smoke",
+            "discountPercentage": 0.1,
+            "items": [
+                "DK_Head012",
+                "DK_Torso012",
+                "DK_Legs012"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "HS_outfit_010",
+        "metaData": {
+            "character": "Adam",
+            "discountPercentage": 0.1,
+            "items": [
+                "HS_Head010",
+                "HS_Torso010",
+                "HS_Legs010"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "FM_outfit_012",
+        "metaData": {
+            "character": "Feng",
+            "discountPercentage": 0.1,
+            "items": [
+                "FM_Head012",
+                "FM_Torso012",
+                "FM_Legs012"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "BE_outfit_010",
+        "metaData": {
+            "character": "Bear",
+            "discountPercentage": 0.1,
+            "items": [
+                "BE_Mask010",
+                "BE_Body010",
+                "BE_W010"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KK_outfit_010",
+        "metaData": {
+            "character": "Legion",
+            "discountPercentage": 0.1,
+            "items": [
+                "KK_Mask010",
+                "KK_Body010",
+                "KK_W010"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KK_outfit_011",
+        "metaData": {
+            "character": "Legion",
+            "discountPercentage": 0.1,
+            "items": [
+                "KK_Mask011",
+                "KK_Body011",
+                "KK_W011"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KS_outfit_010",
+        "metaData": {
+            "character": "Jeff",
+            "discountPercentage": 0.1,
+            "items": [
+                "KS_Head010",
+                "KS_Torso010",
+                "KS_Legs010"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "JP_outfit_012",
+        "metaData": {
+            "character": "Jake",
+            "discountPercentage": 0.1,
+            "items": [
+                "JP_Head012",
+                "JP_Torso012",
+                "JP_Legs012"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KK_outfit_014",
+        "metaData": {
+            "character": "Legion",
+            "discountPercentage": 0.1,
+            "items": [
+                "KK_Mask014",
+                "KK_Body014",
+                "KK_W014"
+            ],
+            "newEndDate": "2020-11-11T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,

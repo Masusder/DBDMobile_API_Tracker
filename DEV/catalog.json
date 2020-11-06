@@ -56718,6 +56718,240 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Head006",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Torso006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Torso006",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Legs006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Legs006",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Head007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Head007",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Torso007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Torso007",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Legs007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Legs007",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-09-14T23:59:59",
+            "newStartDate": "2020-09-01T00:00:00",
+            "outfitId": "S22_outfit_007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 250
             },
             {
@@ -80517,7 +80751,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 4500
+                "price": 5500
             }
         ],
         "eventCostList": [],
@@ -80560,7 +80794,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 4500
+                "price": 5500
             }
         ],
         "eventCostList": [],
@@ -80603,7 +80837,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 4500
+                "price": 5500
             }
         ],
         "eventCostList": [],
@@ -82711,7 +82945,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 4500
+                "price": 5500
             }
         ],
         "eventCostList": [],
@@ -83011,7 +83245,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 4500
+                "price": 5500
             }
         ],
         "eventCostList": [],
@@ -83517,6 +83751,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 12000
             }
         ],
         "eventCostList": [],
@@ -83556,6 +83794,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 12000
             }
         ],
         "eventCostList": [],
@@ -83598,7 +83840,7 @@
             },
             {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 12000
             }
         ],
         "eventCostList": [],
@@ -88605,6 +88847,50 @@
             ],
             "newEndDate": "2020-08-13T00:00:07",
             "newStartDate": "2018-06-12T00:00:12",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S22_outfit_006",
+        "metaData": {
+            "character": "S22",
+            "discountPercentage": 0.1,
+            "items": [
+                "S22_Head006",
+                "S22_Torso006",
+                "S22_Legs006"
+            ],
+            "newEndDate": "2020-09-23T23:59:59",
+            "newStartDate": "2020-09-14T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S22_outfit_007",
+        "metaData": {
+            "character": "S22",
+            "discountPercentage": 0.1,
+            "items": [
+                "S22_Head007",
+                "S22_Torso007",
+                "S22_Legs007"
+            ],
+            "newEndDate": "2020-09-23T23:59:59",
+            "newStartDate": "2020-09-14T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -95547,6 +95833,497 @@
             }
         ],
         "id": "HallowedBlightKillerPack",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "GoldKillerTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "GoldSurvivorTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 10,
+                "id": "BurdockTea",
+                "type": "inventory"
+            },
+            {
+                "amount": 5,
+                "id": "CopperChalice",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 200
+            }
+        ],
+        "id": "NewPlayerBundle2",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Adam",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Smoke",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Feng",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1300
+            }
+        ],
+        "id": "GreekSurvivorBundle",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "BE_Mask01_02",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "BE_Body01_02",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Bear",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "BearStarterPack1",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Oni",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Mask006",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Body006",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_W006",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1280
+            }
+        ],
+        "id": "OniStarterPack",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Yui",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenSurvivor_Head02",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenSurvivor_Torso02",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenSurvivor_Legs02",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1100
+            }
+        ],
+        "id": "YuiStarterPack",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "KK_Body012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KK_Body013",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 450
+            }
+        ],
+        "id": "LegionSweaterBundle",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "MS_Torso010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenSurvivor_Torso008",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 450
+            }
+        ],
+        "id": "SurvivorUglysweater",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Oni",
+                "type": "Inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Mask02",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Body02_01",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_W02_01",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 940
+            }
+        ],
+        "id": "HumilatedLordPack",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Legion",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Jake",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Jeff",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1100
+            }
+        ],
+        "id": "LunarCharPack",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "KS_Head010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KS_Torso010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KS_Legs010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KK_Mask014",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KK_Body014",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "KK_W014",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1300
+            }
+        ],
+        "id": "SSoutfitsPack",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "TN_Head007",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "TN_Body007",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "TN_W007",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "TW_Head007",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "TW_Body007",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "TW_W007",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1080
+            }
+        ],
+        "id": "ValPack",
         "metaData": {
             "highlighted": true,
             "priority": 0

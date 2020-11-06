@@ -6767,6 +6767,72 @@
             "imageUrl": "promoPacks/HallowedKillersFixed.png",
             "marketingImageUrl": "promoPacks/marketingImages/HallowedKillersFixed.png",
             "titleId": "PROMOPACK_HallowedBlightKillerPack_TITLE"
+        },
+        {
+            "id": "NewPlayerBundle2",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_NewPlayerBundle2_TITLE"
+        },
+        {
+            "id": "GreekSurvivorBundle",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_GreekSurvivorBundle_TITLE"
+        },
+        {
+            "id": "BearStarterPack1",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_BearStarterPack1_TITLE"
+        },
+        {
+            "id": "OniStarterPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_OniStarterPack_TITLE"
+        },
+        {
+            "id": "YuiStarterPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_YuiStarterPack_TITLE"
+        },
+        {
+            "id": "LegionSweaterBundle",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_LegionSweaterBundle_TITLE"
+        },
+        {
+            "id": "SurvivorUglysweater",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_SurvivorUglysweater_TITLE"
+        },
+        {
+            "id": "HumilatedLordPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_HumilatedLordPack_TITLE"
+        },
+        {
+            "id": "LunarCharPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_LunarCharPack_TITLE"
+        },
+        {
+            "id": "SSoutfitsPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_SSoutfitsPack_TITLE"
+        },
+        {
+            "id": "ValPack",
+            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_ValPack_TITLE"
         }
     ],
     "atlantaEventsUIData": [

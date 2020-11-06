@@ -4622,6 +4622,42 @@
             "newEndDate": "2020-08-13T00:00:07"
         },
         {
+            "id": "S22_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1350,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S22",
+            "storeItems": [
+                "S22_Head006",
+                "S22_Torso006",
+                "S22_Legs006"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
+            "id": "S22_outfit_007",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S22",
+            "storeItems": [
+                "S22_Head007",
+                "S22_Torso007",
+                "S22_Legs007"
+            ],
+            "newStartDate": "2020-09-14T00:00:00",
+            "newEndDate": "2020-09-23T23:59:59"
+        },
+        {
             "id": "Chuckles_outfit_001",
             "defaultCost": [
                 {
@@ -7826,7 +7862,7 @@
                 },
                 {
                     "currencyId": "Shards",
-                    "price": 13500,
+                    "price": 16500,
                     "discountPercentage": 0
                 }
             ],
@@ -8193,6 +8229,11 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 36000,
+                    "discountPercentage": 0
                 }
             ],
             "character": "Jake",

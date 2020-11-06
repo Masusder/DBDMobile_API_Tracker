@@ -166,6 +166,9 @@
     },
     {
         "value": {
+            "DD": [
+                "AtlantaPartyGameAnalytics"
+            ],
             "KL": [
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
@@ -184,10 +187,12 @@
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
+                "ShopAnalytics",
                 "SpecialEventAnalytics",
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -414,6 +419,7 @@
                 "SyncLoadAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
@@ -626,6 +632,7 @@
             "4.3.0_362754live": "4.3.0_362754live-1604332849",
             "4.3.0_362903live": "4.3.0_362903live-1604340157",
             "4.3.0_363586live": "4.3.0_363586live-1604430178",
+            "4.3.0_364147live": "4.3.0_364147live-1604519507",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -723,7 +730,8 @@
             "m_4.2.1_361043live": "m_4.2.1_361043live-1603900272",
             "m_4.2.1_361070live": "m_4.2.1_361070live-1603903712",
             "m_4.2.1_361724live": "m_4.2.1_361724live-1603988036",
-            "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883"
+            "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883",
+            "m_4.2.1_364505live": "m_4.2.1_364505live-1604592098"
         },
         "keyName": "VER_CLIENT_DATA"
     },

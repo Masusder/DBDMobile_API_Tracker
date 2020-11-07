@@ -17478,9 +17478,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17800,9 +17797,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18118,9 +18112,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18166,9 +18157,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -18218,9 +18206,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -18266,9 +18251,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_120_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -63687,123 +63669,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "DO_Head006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "DO_Head006",
-            "character": "Killer07",
-            "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
-            "outfitId": "Killer07_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "SpecialEvent",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "DO_Body006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "DO_Body006",
-            "character": "Killer07",
-            "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
-            "outfitId": "Killer07_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "SpecialEvent",
-            "type": "Torso",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "DO_W006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "DO_W006",
-            "character": "Killer07",
-            "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
-            "outfitId": "Killer07_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "SpecialEvent",
-            "type": "Weapon",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
             },
             {
                 "currencyId": "Shards",
@@ -84477,28 +84342,6 @@
             "outfit"
         ],
         "consumable": false,
-        "id": "Killer07_outfit_013",
-        "metaData": {
-            "character": "Killer07",
-            "discountPercentage": 0.1,
-            "items": [
-                "DO_Head006",
-                "DO_Body006",
-                "DO_W006"
-            ],
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
-            "unbreakable": false
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
         "id": "Killer07_outfit_014",
         "metaData": {
             "character": "Killer07",
@@ -88848,52 +88691,6 @@
         "metaData": {
             "highlighted": true,
             "priority": 0
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "purchaseCap": {
-            "limit": 1
-        },
-        "unique": false
-    },
-    {
-        "categories": [
-            "promoPack"
-        ],
-        "consumable": true,
-        "consumptionReward": [
-            {
-                "amount": 1,
-                "id": "Killer07",
-                "type": "inventory"
-            },
-            {
-                "amount": 1,
-                "id": "DO_Head006",
-                "type": "inventory"
-            },
-            {
-                "amount": 1,
-                "id": "DO_Body006",
-                "type": "inventory"
-            },
-            {
-                "amount": 1,
-                "id": "DO_W006",
-                "type": "inventory"
-            }
-        ],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 950
-            }
-        ],
-        "id": "FoulBileBundle",
-        "metaData": {
-            "highlighted": true,
-            "priority": 5
         },
         "nonSecure": false,
         "premium": false,

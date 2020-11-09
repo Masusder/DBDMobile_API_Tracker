@@ -624,6 +624,256 @@
         ],
         "startDate": 1603670400
     },
+    "13SlotsCalendar_Raleigh2": {
+        "claimType": "minute",
+        "endDate": 1605139199,
+        "id": "13SlotsCalendar_Raleigh2",
+        "rewards": [
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Item_Camper_MedKit04",
+                "type": "inventory"
+            },
+            {
+                "amount": 30,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Cells",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "LoversPostcard",
+                "type": "inventory"
+            },
+            {
+                "amount": 10000,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "GoldKillerTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "FleshDoll",
+                "type": "inventory"
+            },
+            {
+                "amount": 20000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 200,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Shards",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "GoldSurvivorTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "BloodstoneChalice",
+                "type": "inventory"
+            },
+            {
+                "amount": 30000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 300,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Shards",
+                "type": "currency"
+            },
+            {
+                "amount": 50,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": true
+                },
+                "id": "Cells",
+                "type": "currency"
+            }
+        ],
+        "startDate": 1604880000
+    },
+    "13SlotsCalendar_Savannah1": {
+        "claimType": "minute",
+        "endDate": 1605311999,
+        "id": "13SlotsCalendar_Savannah1",
+        "rewards": [
+            {
+                "amount": 10000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "ShroudofSeparation",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "MurkyReagent",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "GoldSurvivorTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 15000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "EscapeCake",
+                "type": "inventory"
+            },
+            {
+                "amount": 10,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Cells",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Item_Camper_Flashlight02",
+                "type": "inventory"
+            },
+            {
+                "amount": 20000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "SurvivorPudding",
+                "type": "inventory"
+            },
+            {
+                "amount": 25000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "GoldKillerTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 40,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": true
+                },
+                "id": "Cells",
+                "type": "currency"
+            }
+        ],
+        "startDate": 1605139200
+    },
     "7SlotsCalendar_07-09_15-09": {
         "claimType": "minute",
         "endDate": 1596844799,

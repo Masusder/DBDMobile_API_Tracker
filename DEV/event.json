@@ -2355,7 +2355,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "13SlotsCalendar_Raleigh1"
+                                    "13SlotsCalendar_Raleigh1",
+                                    "13SlotsCalendar_Raleigh2"
                                 ]
                             }
                         ]

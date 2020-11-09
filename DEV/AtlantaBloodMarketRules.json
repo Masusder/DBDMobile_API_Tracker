@@ -979,7 +979,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 250
+                    "weight": 0
                 }
             ]
         },
@@ -1030,7 +1030,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 250
+                    "weight": 0
                 }
             ]
         },
@@ -1081,7 +1081,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 250
+                    "weight": 0
                 }
             ]
         },
@@ -1132,7 +1132,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 250
+                    "weight": 0
                 }
             ]
         },
@@ -1183,7 +1183,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 250
+                    "weight": 0
                 }
             ]
         },
@@ -1501,7 +1501,7 @@
                     },
                     {
                         "type": "equippableItem",
-                        "weight": 1000
+                        "weight": 0
                     },
                     {
                         "type": "addon",
@@ -4724,9 +4724,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -4888,9 +4888,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 750
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5052,9 +5052,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 2,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 2000
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5216,9 +5216,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 2,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 2500
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5380,9 +5380,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 1000
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"

@@ -1,16 +1,5 @@
 {
-    "LoadingScreenData": [
-        {
-            "id": "loading_Halloween",
-            "imageRole": "both",
-            "imageUrlList": [
-                "loadingScreen/ATL_LoadingS_Halloween_03.png",
-                "loadingScreen/ATL_LoadingS_Halloween_02.png",
-                "loadingScreen/ATL_LoadingS_Halloween_01.png"
-            ],
-            "type": "generic"
-        }
-    ],
+    "LoadingScreenData": [],
     "Localization": [
         {
             "loc": [

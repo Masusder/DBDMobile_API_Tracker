@@ -23591,6 +23591,676 @@
     },
     {
         "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_3"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_basic_3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic3Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_3_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic3Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_3_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic4",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2020-07-01T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_4"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_basic_4"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic4Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_4_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "currencyPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 1100.0
+            }
+        ],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyBasic4Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_basic_4_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "BE_Mask010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_Body010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_W010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySolstice",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2020-07-01T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solstice"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_solstice"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "BE_Mask010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_Body010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_W010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySolsticeTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solstice_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "BE_Mask010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_Body010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "BE_W010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySolsticeTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solstice_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "KK_Mask014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_Body014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_W014",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyShoplifter",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2020-07-01T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_shoplifter"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_shoplifter"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "KK_Mask014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_Body014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_W014",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyShoplifterTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_shoplifter_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "KK_Mask014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_Body014",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "KK_W014",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyShoplifterTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_shoplifter_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "character"
         ],
         "id": "Dwight",

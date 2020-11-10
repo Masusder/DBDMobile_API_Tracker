@@ -639,7 +639,7 @@
                 "type": "inventory"
             },
             {
-                "amount": 30,
+                "amount": 10,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
@@ -738,7 +738,7 @@
                 "type": "currency"
             },
             {
-                "amount": 50,
+                "amount": 20,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": true

@@ -57384,7 +57384,7 @@
             "qualityName": "quality1",
             "rarity": "Legendary",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -57423,7 +57423,7 @@
             "qualityName": "quality1",
             "rarity": "Legendary",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -57462,7 +57462,7 @@
             "qualityName": "quality1",
             "rarity": "Legendary",
             "type": "Legs",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -57501,7 +57501,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -57540,7 +57540,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -57579,7 +57579,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Legs",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -81851,7 +81851,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -81890,7 +81890,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -81929,7 +81929,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -89518,7 +89518,7 @@
             ],
             "newEndDate": "2020-09-23T23:59:59",
             "newStartDate": "2020-09-14T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -89540,7 +89540,7 @@
             ],
             "newEndDate": "2020-09-23T23:59:59",
             "newStartDate": "2020-09-14T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -92999,7 +92999,7 @@
             ],
             "newEndDate": "2020-09-23T23:59:59",
             "newStartDate": "2020-09-14T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -97009,7 +97009,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97036,7 +97036,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97063,7 +97063,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97090,7 +97090,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97117,7 +97117,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97144,7 +97144,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97171,7 +97171,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97198,7 +97198,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97225,7 +97225,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97252,7 +97252,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97279,7 +97279,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97306,61 +97306,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "cellsPack"
-        ],
-        "consumable": true,
-        "consumptionCurrenciesList": [
-            {
-                "currencyId": "Cells",
-                "quantity": 10
-            }
-        ],
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 15000
-            }
-        ],
-        "id": "EntityBoxCellsPack",
-        "metaData": {
-            "enabled": true,
-            "rarity": "Epic"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "shardsPack"
-        ],
-        "consumable": true,
-        "consumptionCurrenciesList": [
-            {
-                "currencyId": "Shards",
-                "quantity": 15
-            }
-        ],
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 15000
-            }
-        ],
-        "id": "EntityBoxShardsPack",
-        "metaData": {
-            "enabled": true,
-            "rarity": "Epic"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": false
     },
     {
@@ -97380,14 +97326,176 @@
                 "price": 15000
             }
         ],
-        "id": "EntityBoxBloodpointsPack",
+        "id": "EntityBoxBloodpointsPack_Small",
         "metaData": {
             "enabled": true,
             "rarity": "Epic"
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "bloodpointsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityBoxBloodpointsPack_Medium",
+        "metaData": {
+            "enabled": true,
+            "rarity": "Epic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "bloodpointsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 30000
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 15000
+            }
+        ],
+        "id": "EntityBoxBloodpointsPack_Large",
+        "metaData": {
+            "enabled": true,
+            "rarity": "Epic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "shardsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 100
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 30000
+            }
+        ],
+        "id": "EntityBoxShardsPack_Small",
+        "metaData": {
+            "enabled": true,
+            "rarity": "SuperEpic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "shardsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 200
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 30000
+            }
+        ],
+        "id": "EntityBoxShardsPack_Medium",
+        "metaData": {
+            "enabled": true,
+            "rarity": "SuperEpic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "shardsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 300
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 30000
+            }
+        ],
+        "id": "EntityBoxShardsPack_Large",
+        "metaData": {
+            "enabled": true,
+            "rarity": "SuperEpic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "cellsPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Cells",
+                "quantity": 50
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 50000
+            }
+        ],
+        "id": "EntityBoxCellsPack",
+        "metaData": {
+            "enabled": true,
+            "rarity": "UltraEpic"
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
         "unique": false
     },
     {

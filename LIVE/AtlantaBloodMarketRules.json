@@ -1405,6 +1405,14 @@
             }
         ]
     },
+    "entityBoxRules": {
+        "consumableRewards": [],
+        "cosmeticRewardsPerRole": [],
+        "currencyRewards": [],
+        "killer": [],
+        "survivor": [],
+        "ticketsRewards": []
+    },
     "killer": {
         "contentType": [
             {

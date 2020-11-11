@@ -785,7 +785,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Earn TRIPLE the Bloodpoints and Character Experience when playing as the Pig, Detective Tapp, Meg and Claudette while the Bloodhunt+ is on."
+                    "text": "Earn double the Bloodpoints and Character Experience when playing as the Pig, Detective Tapp, Meg and Claudette while the Bloodhunt+ is on."
                 },
                 {
                     "lang": "GER",
@@ -1300,71 +1300,6 @@
                 }
             ],
             "textId": "EVENTBANNER_BloodhuntLunar_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "TBD"
-                },
-                {
-                    "lang": "GER",
-                    "text": ""
-                },
-                {
-                    "lang": "SPA",
-                    "text": ""
-                },
-                {
-                    "lang": "MEX",
-                    "text": ""
-                },
-                {
-                    "lang": "FRE",
-                    "text": ""
-                },
-                {
-                    "lang": "ITA",
-                    "text": ""
-                },
-                {
-                    "lang": "JPN",
-                    "text": ""
-                },
-                {
-                    "lang": "KOR",
-                    "text": ""
-                },
-                {
-                    "lang": "POL",
-                    "text": ""
-                },
-                {
-                    "lang": "POR",
-                    "text": ""
-                },
-                {
-                    "lang": "RUS",
-                    "text": ""
-                },
-                {
-                    "lang": "TH",
-                    "text": ""
-                },
-                {
-                    "lang": "TR",
-                    "text": ""
-                },
-                {
-                    "lang": "CHS",
-                    "text": ""
-                },
-                {
-                    "lang": "CHT",
-                    "text": ""
-                }
-            ],
-            "textId": "EVENTBANNER_BloodhuntSaw_TITLE"
         },
         {
             "loc": [
@@ -8715,7 +8650,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "TBD"
+                    "text": "JOIN THE SCARLET SWARM AND PROVE YOUR WORTH"
                 },
                 {
                     "lang": "GER",
@@ -8780,7 +8715,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "TBD"
+                    "text": "SUSIE'S JUST TRYING TO FIT IN"
                 },
                 {
                     "lang": "GER",
@@ -8845,7 +8780,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "TBD"
+                    "text": "THE SOLSTICE FEAST BEGINS WITH THIS EXCLUSIVE OFFER"
                 },
                 {
                     "lang": "GER",
@@ -8910,7 +8845,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "TBD"
+                    "text": "HONOR THE ANCESTORS"
                 },
                 {
                     "lang": "GER",
@@ -9828,7 +9763,7 @@
                 "Claudette"
             ],
             "startDate": "2020-09-03T14:00:01",
-            "titleId": "EVENTBANNER_BloodhuntSaw_TITLE",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
         },
         {

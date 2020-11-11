@@ -2534,7 +2534,7 @@
                 },
                 {
                     "lang": "TR",
-                    "text": "Ghost Face Karakter Paketi"
+                    "text": "Hayalet Surat Karakter Paketi"
                 },
                 {
                     "lang": "CHS",
@@ -6595,7 +6595,7 @@
             "hotEndDate": "2050-09-03T18:00:01",
             "hotStartDate": "2020-09-03T18:00:01",
             "id": "Default_Calendar",
-            "imageUrl": "events/CalendarEventBanners_October19th.png",
+            "imageUrl": "events/CalendarEventBanners_November9th.png",
             "startDate": "2020-09-03T18:00:01",
             "titleId": "EVENTBANNER_Calendar_TITLE",
             "type": "Calendar"
@@ -6722,12 +6722,5 @@
             "titleId": "MARKETINGBANNER_NeaStarter_TITLE"
         }
     ],
-    "storefrontUIData": [
-        {
-            "imageUrl": "promoPacks/StoreFront_FoulBile.jpg",
-            "newEndDate": "2020-11-11T23:59:59",
-            "newStartDate": "2020-10-29T14:00:01",
-            "type": "PromoPacks"
-        }
-    ]
+    "storefrontUIData": []
 }

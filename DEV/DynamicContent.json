@@ -1370,6 +1370,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Receive 75% extra Auric Cells when purchasing the 1100 Auric Cell pack."
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "EVENTBANNER_BonusACEventSavannah_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "BONUS AURIC CELL EVENT"
+                },
+                {
+                    "lang": "GER",
+                    "text": "BONUS-AURAZELLEN-EVENT"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "EVENTO DE C\u00c9LULAS DE AURA DE BONIFICACI\u00d3N"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "EVENTO DE C\u00c9LULAS \u00c1URICAS ADICIONALES"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "\u00c9V\u00c9NEMENT \u00c0 CELLULES D'ORA BONUS"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "EVENTO CELLULE AURICHE BONUS"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30aa\u30fc\u30ea\u30c3\u30af\u30bb\u30eb\u306e\u30dc\u30fc\u30ca\u30b9\u30a4\u30d9\u30f3\u30c8"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ubcf4\ub108\uc2a4 \uae08\ube5b \uc138\ud3ec \uc774\ubca4\ud2b8"
+                },
+                {
+                    "lang": "POL",
+                    "text": "WYDARZENIE Z DODATKOWYMI Z\u0141OCISTYMI MIKROBIOMAMI"
+                },
+                {
+                    "lang": "POR",
+                    "text": "EVENTO DE C\u00c9LULAS DE AURA B\u00d4NUS"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0421\u041e\u0411\u042b\u0422\u0418\u0415 \u0421 \u0411\u041e\u041d\u0423\u0421\u041d\u042b\u041c\u0418 \u0417\u041e\u041b\u041e\u0422\u042b\u041c\u0418 \u041a\u041b\u0415\u0422\u041a\u0410\u041c\u0418"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e2d\u0e35\u0e40\u0e27\u0e19\u0e17\u0e4c\u0e40\u0e0b\u0e25\u0e25\u0e4c\u0e2d\u0e2d\u0e23\u0e48\u0e32\u0e42\u0e1a\u0e19\u0e31\u0e2a"
+                },
+                {
+                    "lang": "TR",
+                    "text": "BONUS ALTIN H\u00dcCRE ETK\u0130NL\u0130\u011e\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u989d\u5916\u6697\u91d1\u7ec6\u80de\u6d3b\u52a8"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u984d\u5916\u6697\u91d1\u7d30\u80de\u6d3b\u52d5"
+                }
+            ],
+            "textId": "EVENTBANNER_BonusACEventSavannah_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Return to The Fog daily to claim exclusive rewards."
                 },
                 {
@@ -1495,6 +1625,136 @@
                 }
             ],
             "textId": "EVENTBANNER_Calendar_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "TBD"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "EVENTBANNER_GachaSavannah_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "THE ENTITY'S BOX"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "EVENTBANNER_Gacha_TITLE"
         },
         {
             "loc": [
@@ -9997,6 +10257,44 @@
             "startDate": "2020-08-13T19:30:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2020-11-10T20:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2020-08-13T19:30:01",
+            "campaignName": "Savannah_Gacha",
+            "deepLink": "/Storefront_Gacha/",
+            "descriptionId": "EVENTBANNER_GachaSavannah_DESC",
+            "displayEndDate": "2020-11-10T20:30:01",
+            "displayStartDate": "2020-08-13T19:30:01",
+            "endDate": "2020-11-10T20:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2020-11-10T20:30:01",
+            "hotStartDate": "2020-08-13T19:30:01",
+            "id": "Savannah_Gacha",
+            "imageUrl": "events/eventPlaceholderImage2.png",
+            "startDate": "2020-08-13T19:30:01",
+            "titleId": "EVENTBANNER_Gacha_TITLE",
+            "type": "Gacha"
+        },
+        {
+            "bannerEndDate": "2020-11-10T20:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2020-08-13T19:30:01",
+            "campaignName": "BonusACEvent_Savannah",
+            "deepLink": "/Storefront_Premium/",
+            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
+            "displayEndDate": "2020-11-10T20:30:01",
+            "displayStartDate": "2020-08-13T19:30:01",
+            "endDate": "2020-11-10T20:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2020-11-10T20:30:01",
+            "hotStartDate": "2020-08-13T19:30:01",
+            "id": "BonusACEvent_Savannah",
+            "imageUrl": "events/eventPlaceholderImage1.png",
+            "startDate": "2020-08-13T19:30:01",
+            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
+            "type": "BonusACEvent"
         }
     ],
     "crateKeys": [

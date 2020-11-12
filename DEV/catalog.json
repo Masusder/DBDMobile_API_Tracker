@@ -83111,135 +83111,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "GS_Head013",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "GS_Head013",
-            "character": "Kate",
-            "kind": "Customization",
-            "newEndDate": "2020-09-24T23:59:59",
-            "newStartDate": "2020-09-11T00:00:00",
-            "outfitId": "GS_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "unbreakable": true,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "GS_Torso013",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "GS_Torso013",
-            "character": "Kate",
-            "kind": "Customization",
-            "newEndDate": "2020-09-24T23:59:59",
-            "newStartDate": "2020-09-11T00:00:00",
-            "outfitId": "GS_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Torso",
-            "unbreakable": true,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "GS_Legs013",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "GS_Legs013",
-            "character": "Kate",
-            "kind": "Customization",
-            "newEndDate": "2020-09-24T23:59:59",
-            "newStartDate": "2020-09-11T00:00:00",
-            "outfitId": "GS_outfit_013",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Legs",
-            "unbreakable": true,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
             }
         ],
         "eventCostList": [],
@@ -93208,28 +93079,6 @@
             "outfit"
         ],
         "consumable": false,
-        "id": "GS_outfit_013",
-        "metaData": {
-            "character": "Kate",
-            "discountPercentage": 0.1,
-            "items": [
-                "GS_Head013",
-                "GS_Torso013",
-                "GS_Legs013"
-            ],
-            "newEndDate": "2020-09-24T23:59:59",
-            "newStartDate": "2020-09-11T00:00:00",
-            "unbreakable": true
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
         "id": "DK_outfit_012",
         "metaData": {
             "character": "Smoke",
@@ -96795,7 +96644,7 @@
             {
                 "amount": 1,
                 "id": "Oni",
-                "type": "Inventory"
+                "type": "inventory"
             },
             {
                 "amount": 1,

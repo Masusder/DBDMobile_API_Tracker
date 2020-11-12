@@ -22,7 +22,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Common"
@@ -47,7 +47,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Uncommon"
@@ -60,11 +60,11 @@
                         },
                         {
                             "type": "AddOn",
-                            "weight": "60"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -72,7 +72,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Rare"
@@ -85,11 +85,11 @@
                         },
                         {
                             "type": "AddOn",
-                            "weight": "60"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -97,7 +97,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "VeryRare"
@@ -110,11 +110,11 @@
                         },
                         {
                             "type": "AddOn",
-                            "weight": "60"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -122,7 +122,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "UltraRare"
@@ -143,11 +143,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Epic"
@@ -168,11 +168,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "SuperEpic"
@@ -193,11 +193,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "UltraEpic"
@@ -220,15 +220,15 @@
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "75"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -256,15 +256,15 @@
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "75"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -288,19 +288,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "65"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "15"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "20"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -324,19 +324,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "15"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -344,7 +344,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "40"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -360,19 +360,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "10"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -380,7 +380,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "50"
+                            "weight": "0"
                         }
                     ]
                 }
@@ -425,7 +425,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Common"
@@ -450,7 +450,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Uncommon"
@@ -459,15 +459,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -475,7 +475,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Rare"
@@ -484,15 +484,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -500,7 +500,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "VeryRare"
@@ -509,15 +509,15 @@
                     "content": [
                         {
                             "type": "Items",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "AddOn",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "Offerings",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "SuperChests",
@@ -525,7 +525,7 @@
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "UltraRare"
@@ -546,11 +546,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "Epic"
@@ -571,11 +571,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "SuperEpic"
@@ -596,11 +596,11 @@
                         },
                         {
                             "type": "SuperChests",
-                            "weight": "100"
+                            "weight": "0"
                         },
                         {
                             "type": "EntityBox",
-                            "weight": "0"
+                            "weight": "100"
                         }
                     ],
                     "rarity": "UltraEpic"
@@ -623,15 +623,15 @@
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "75"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -659,15 +659,15 @@
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "25"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "75"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -691,19 +691,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "65"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "15"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "20"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -727,19 +727,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "35"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "15"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -747,7 +747,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "40"
+                            "weight": "0"
                         }
                     ]
                 },
@@ -763,19 +763,19 @@
                         },
                         {
                             "type": "Rare",
-                            "weight": "40"
+                            "weight": "0"
                         },
                         {
                             "type": "VeryRare",
-                            "weight": "50"
+                            "weight": "0"
                         },
                         {
                             "type": "UltraRare",
-                            "weight": "10"
+                            "weight": "0"
                         },
                         {
                             "type": "Epic",
-                            "weight": "0"
+                            "weight": "100"
                         },
                         {
                             "type": "SuperEpic",
@@ -783,7 +783,7 @@
                         },
                         {
                             "type": "UltraEpic",
-                            "weight": "50"
+                            "weight": "0"
                         }
                     ]
                 }
@@ -1189,7 +1189,7 @@
         },
         {
             "categories": [
-                "entityChest"
+                "entityBox"
             ],
             "defaultCost": [
                 {
@@ -1197,7 +1197,7 @@
                 }
             ],
             "eventID": "None",
-            "id": "EntityChest",
+            "id": "EntityBox",
             "rarity": "Epic",
             "rarityContent": [
                 {
@@ -1793,19 +1793,19 @@
         "ticketsRewards": [
             {
                 "id": "SilverKillerTicket",
-                "weight": 0
+                "weight": 20
             },
             {
                 "id": "GoldKillerTicket",
-                "weight": 0
+                "weight": 20
             },
             {
                 "id": "SilverSurvivorTicket",
-                "weight": 0
+                "weight": 20
             },
             {
                 "id": "GoldSurvivorTicket",
-                "weight": 0
+                "weight": 20
             }
         ]
     },

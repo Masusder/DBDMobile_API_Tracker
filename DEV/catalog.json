@@ -97509,7 +97509,7 @@
     },
     {
         "categories": [
-            "entityChest"
+            "entityBox"
         ],
         "consumable": true,
         "defaultCost": [
@@ -97518,7 +97518,7 @@
                 "price": 15000
             }
         ],
-        "id": "EntityChest",
+        "id": "EntityBox",
         "metaData": {
             "rarity": "Epic"
         },

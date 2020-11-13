@@ -1573,147 +1573,147 @@
                 "endDate": "2020-12-13T00:00:01",
                 "id": "DO_Head01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:02",
                 "id": "DO_Body01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:01",
+                "startDate": "2019-11-23T00:00:01",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:03",
                 "id": "DO_W01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:02",
+                "startDate": "2019-11-23T00:00:02",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:04",
                 "id": "NK_Head01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-11-23T00:00:03",
+                "startDate": "2019-11-23T00:00:03",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:05",
                 "id": "NK_Torso01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-11-23T00:00:04",
+                "startDate": "2019-11-23T00:00:04",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:06",
                 "id": "NK_Legs01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-11-23T00:00:05",
+                "startDate": "2019-11-23T00:00:05",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:07",
                 "id": "KK_Head01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:06",
+                "startDate": "2019-11-23T00:00:06",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:08",
                 "id": "KK_Body01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:07",
+                "startDate": "2019-11-23T00:00:07",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:09",
                 "id": "KK_W01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:08",
+                "startDate": "2019-11-23T00:00:08",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:10",
                 "id": "KK_Head02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:09",
+                "startDate": "2019-11-23T00:00:09",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:11",
                 "id": "KK_Body02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:10",
+                "startDate": "2019-11-23T00:00:10",
                 "weight": 100
             },
             {
                 "endDate": "2020-12-13T00:00:12",
                 "id": "KK_W02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-11-23T00:00:11",
+                "startDate": "2019-11-23T00:00:11",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:13",
                 "id": "CM_Head02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:12",
+                "startDate": "2019-11-23T00:00:12",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:14",
                 "id": "CM_Torso02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:13",
+                "startDate": "2019-11-23T00:00:13",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:15",
                 "id": "CM_Legs02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:14",
+                "startDate": "2019-11-23T00:00:14",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:16",
                 "id": "JP_Head01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:15",
+                "startDate": "2019-11-23T00:00:15",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:17",
                 "id": "JP_Torso01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:16",
+                "startDate": "2019-11-23T00:00:16",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:18",
                 "id": "JP_Legs01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2020-12-14T00:00:17",
+                "startDate": "2019-11-23T00:00:17",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:19",
                 "id": "MK_Mask01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2020-12-14T00:00:18",
+                "startDate": "2019-11-23T00:00:18",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:20",
                 "id": "MK_Body01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2020-12-14T00:00:19",
+                "startDate": "2019-11-23T00:00:19",
                 "weight": 100
             },
             {
                 "endDate": "2021-01-10T00:00:21",
                 "id": "MK_W01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2020-12-14T00:00:20",
+                "startDate": "2019-11-23T00:00:20",
                 "weight": 100
             }
         ],
@@ -1761,15 +1761,15 @@
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 0
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 50
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 0
             }
         ],
         "survivor": [
@@ -1779,15 +1779,15 @@
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 0
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 50
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 0
             }
         ],
         "ticketsRewards": [

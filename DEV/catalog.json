@@ -78114,135 +78114,6 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "MK_Mask007",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "MK_Mask007",
-            "character": "Plague",
-            "kind": "Customization",
-            "newEndDate": "2019-08-06T14:59:59",
-            "newStartDate": "2019-07-23T15:00:00",
-            "outfitId": "MK_outfit_007",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "MK_Body007",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "MK_Body007",
-            "character": "Plague",
-            "kind": "Customization",
-            "newEndDate": "2019-08-06T14:59:59",
-            "newStartDate": "2019-07-23T15:00:00",
-            "outfitId": "MK_outfit_007",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Torso",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "MK_W007",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "MK_W007",
-            "character": "Plague",
-            "kind": "Customization",
-            "newEndDate": "2019-08-06T14:59:59",
-            "newStartDate": "2019-07-23T15:00:00",
-            "outfitId": "MK_outfit_007",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Weapon",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
                 "price": 325
             }
         ],
@@ -81986,7 +81857,18 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 266.0
+                    }
+                ],
+                "endDate": "2020-11-12T21:00:00",
+                "startDate": "2020-11-12T00:00:00"
+            }
+        ],
         "id": "FM_Head011",
         "initialQuantity": 0,
         "metaData": {
@@ -82025,7 +81907,18 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 267.0
+                    }
+                ],
+                "endDate": "2020-11-12T21:00:00",
+                "startDate": "2020-11-12T00:00:00"
+            }
+        ],
         "id": "FM_Torso011",
         "initialQuantity": 0,
         "metaData": {
@@ -82064,7 +81957,18 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 267.0
+                    }
+                ],
+                "endDate": "2020-11-12T21:00:00",
+                "startDate": "2020-11-12T00:00:00"
+            }
+        ],
         "id": "FM_Legs011",
         "initialQuantity": 0,
         "metaData": {
@@ -92542,28 +92446,6 @@
             ],
             "newEndDate": "2019-04-02T14:59:59",
             "newStartDate": "2019-03-19T15:00:00",
-            "unbreakable": false
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
-        "id": "MK_outfit_007",
-        "metaData": {
-            "character": "Plague",
-            "discountPercentage": 0.1,
-            "items": [
-                "MK_Mask007",
-                "MK_Body007",
-                "MK_W007"
-            ],
-            "newEndDate": "2019-08-06T14:59:59",
-            "newStartDate": "2019-07-23T15:00:00",
             "unbreakable": false
         },
         "nonSecure": false,

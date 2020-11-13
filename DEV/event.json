@@ -2356,7 +2356,9 @@
                                 "type": "RetentionRewards",
                                 "value": [
                                     "13SlotsCalendar_Raleigh1",
-                                    "13SlotsCalendar_Raleigh2"
+                                    "13SlotsCalendar_Raleigh2",
+                                    "13SlotsCalendar_Savannah1",
+                                    "13SlotsCalendar_Savannah2"
                                 ]
                             }
                         ]
@@ -2591,6 +2593,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Halloween2020",
+        "startDate": 1
+    },
+    "HumiliatedLordBanner_20210104": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "HumiliatedLordBanner"
+                ]
+            }
+        },
+        "id": "HumiliatedLordBanner_20210104",
         "startDate": 1
     },
     "HuntressStarterBanner_20201005": {
@@ -4121,6 +4142,250 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "Promopack2020_1105_1118",
+        "startDate": 1
+    },
+    "Promopack2020_1207_1220": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1207_1220happyHour": {
+                    "effects": {
+                        "Promopack2020_1207_1220PromoPack": [
+                            {
+                                "id": "Promopack2020_1207_1220PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "GreekSurvivorBundle",
+                                    "BearStarterPack1",
+                                    "LegionSusieStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1207_1220happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1207_1220",
+        "startDate": 1
+    },
+    "Promopack2020_1207_2021_0221": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1207_2021_0221happyHour": {
+                    "effects": {
+                        "Promopack2020_1207_2021_0221PromoPack": [
+                            {
+                                "id": "Promopack2020_1207_2021_0221PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle",
+                                    "NewPlayerBundle2"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1207_2021_0221happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1207_2021_0221",
+        "startDate": 1
+    },
+    "Promopack2020_1221_2021_0103": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2020_1221_2021_0103happyHour": {
+                    "effects": {
+                        "Promopack2020_1221_2021_0103PromoPack": [
+                            {
+                                "id": "Promopack2020_1221_2021_0103PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "OniStarterPack",
+                                    "YuiStarterPack",
+                                    "LegionSweaterBundle",
+                                    "SurvivorUglysweater"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2020_1221_2021_0103happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2020_1221_2021_0103",
+        "startDate": 1
+    },
+    "Promopack2021_0104_0117": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2021_0104_0117happyHour": {
+                    "effects": {
+                        "Promopack2021_0104_0117PromoPack": [
+                            {
+                                "id": "Promopack2021_0104_0117PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "HumilatedLordPack",
+                                    "DevAdamPack",
+                                    "Killer07StarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2021_0104_0117happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2021_0104_0117",
+        "startDate": 1
+    },
+    "Promopack2021_0118_0131": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2021_0118_0131happyHour": {
+                    "effects": {
+                        "Promopack2021_0118_0131PromoPack": [
+                            {
+                                "id": "Promopack2021_0118_0131PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "JeffStarterPack",
+                                    "SpiritStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2021_0118_0131happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2021_0118_0131",
+        "startDate": 1
+    },
+    "Promopack2021_0201_0214": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2021_0201_0214happyHour": {
+                    "effects": {
+                        "Promopack2021_0201_0214PromoPack": [
+                            {
+                                "id": "Promopack2021_0201_0214PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LunarCharPack",
+                                    "SSoutfitsPack",
+                                    "SmokeHardManStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2021_0201_0214happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2021_0201_0214",
+        "startDate": 1
+    },
+    "Promopack2021_0212_0214": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2021_0212_0214happyHour": {
+                    "effects": {
+                        "Promopack2021_0212_0214PromoPack": [
+                            {
+                                "id": "Promopack2021_0212_0214PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "ValPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2021_0212_0214happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2021_0212_0214",
+        "startDate": 1
+    },
+    "Promopack2021_0215_0228": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack2021_0215_0228happyHour": {
+                    "effects": {
+                        "Promopack2021_0215_0228PromoPack": [
+                            {
+                                "id": "Promopack2021_0215_0228PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "JakeStarterPack",
+                                    "KateStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack2021_0215_0228happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack2021_0215_0228",
         "startDate": 1
     },
     "PromopackDiscountTest": {

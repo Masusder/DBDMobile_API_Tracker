@@ -438,6 +438,18 @@
             "newEndDate": "2019-08-21T15:00:00"
         },
         {
+            "id": "DF_outfit_011",
+            "defaultCost": [],
+            "character": "Dwight",
+            "storeItems": [
+                "DF_Head011",
+                "DF_Torso011",
+                "DF_Legs011"
+            ],
+            "newStartDate": "2019-08-07T15:00:02",
+            "newEndDate": "2019-08-21T15:00:01"
+        },
+        {
             "id": "Meg_outfit_002",
             "defaultCost": [
                 {
@@ -4494,6 +4506,18 @@
             "newEndDate": "2018-06-25T23:59:59"
         },
         {
+            "id": "SwedenSurvivor_outfit_01_04",
+            "defaultCost": [],
+            "character": "Yui",
+            "storeItems": [
+                "SwedenSurvivor_Head01_04",
+                "SwedenSurvivor_Torso01_04",
+                "SwedenSurvivor_Legs01_04"
+            ],
+            "newStartDate": "2018-06-12T00:00:06",
+            "newEndDate": "2018-06-26T00:00:05"
+        },
+        {
             "id": "SwedenSurvivor_outfit_01_CV01",
             "defaultCost": [
                 {
@@ -6163,6 +6187,18 @@
             "newEndDate": "2019-06-19T14:59:59"
         },
         {
+            "id": "WI_outfit_04_01",
+            "defaultCost": [],
+            "character": "Witch",
+            "storeItems": [
+                "WI_Head04_01",
+                "WI_Body04_01",
+                "WI_W04_01"
+            ],
+            "newStartDate": "2019-06-05T15:00:01",
+            "newEndDate": "2019-06-19T15:00:00"
+        },
+        {
             "id": "Killer07_outfit_001",
             "defaultCost": [
                 {
@@ -7810,6 +7846,18 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2020-08-13T00:00:00"
+        },
+        {
+            "id": "SwedenKiller_outfit_01_01",
+            "defaultCost": [],
+            "character": "Oni",
+            "storeItems": [
+                "SwedenKiller_Mask01_01",
+                "SwedenKiller_Body01_01",
+                "SwedenKiller_W01_01"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
         },
         {
             "id": "SwedenKiller_outfit_02",

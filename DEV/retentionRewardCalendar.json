@@ -501,7 +501,7 @@
     },
     "13SlotsCalendar_Raleigh1": {
         "claimType": "minute",
-        "endDate": 1607299199,
+        "endDate": 1605571199,
         "id": "13SlotsCalendar_Raleigh1",
         "rewards": [
             {
@@ -622,7 +622,7 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1606348800
+        "startDate": 1605484800
     },
     "13SlotsCalendar_Raleigh2": {
         "claimType": "minute",
@@ -751,7 +751,7 @@
     },
     "13SlotsCalendar_Savannah1": {
         "claimType": "minute",
-        "endDate": 1605907800,
+        "endDate": 1605475800,
         "id": "13SlotsCalendar_Savannah1",
         "rewards": [
             {
@@ -876,7 +876,7 @@
     },
     "13SlotsCalendar_Savannah2": {
         "claimType": "minute",
-        "endDate": 1605916799,
+        "endDate": 1605535199,
         "id": "13SlotsCalendar_Savannah2",
         "rewards": [
             {

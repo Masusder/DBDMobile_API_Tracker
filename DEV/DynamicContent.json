@@ -10215,17 +10215,17 @@
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2050-09-03T18:00:01",
+            "bannerEndDate": "2020-09-03T18:00:01",
             "bannerPriority": 2,
             "bannerStartDate": "2020-09-03T18:00:01",
             "campaignName": "Bloodhunt_20210211",
             "deepLink": "/Menu_Characters_Survivors/",
             "descriptionId": "EVENTBANNER_BloodhuntLunar_DESC",
-            "displayEndDate": "2050-09-03T18:00:01",
+            "displayEndDate": "2020-09-03T18:00:01",
             "displayStartDate": "2020-09-03T18:00:01",
-            "endDate": "2050-09-03T18:00:01",
+            "endDate": "2020-09-03T18:00:01",
             "eventPriority": 2,
-            "hotEndDate": "2050-09-03T18:00:01",
+            "hotEndDate": "2020-09-03T18:00:01",
             "hotStartDate": "2020-09-03T18:00:01",
             "id": "Bloodhunt_20210211",
             "imageUrl": "events/eventPlaceholderImage2.png",
@@ -10301,13 +10301,13 @@
         {
             "descriptionId": "CRATEKEY_default_DESC",
             "keyId": "crateKey01",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_NormalGold",
+            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_SmallBoxGold",
             "titleId": "CRATEKEY_default_TITLE"
         },
         {
             "descriptionId": "CRATEKEY_default_DESC",
             "keyId": "crateKey02",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_NormalViolet",
+            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_SmallBoxViolet",
             "titleId": "CRATEKEY_default_TITLE"
         },
         {
@@ -10351,7 +10351,7 @@
             "nameId": "GACHACRATE_Crate01"
         },
         {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_NormalViolet",
+            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_SmallBoxViolet",
             "bestRewardIconCount": 6,
             "crateId": "crate02",
             "nameId": "GACHACRATE_Crate02"
@@ -10369,7 +10369,7 @@
             "nameId": "GACHACRATE_PremiumCrate"
         },
         {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_NormalGold",
+            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_SmallBoxGold",
             "bestRewardIconCount": 5,
             "crateId": "crateTest",
             "nameId": "GACHACRATE_CrateTest"

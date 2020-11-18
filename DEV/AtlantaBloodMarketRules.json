@@ -1757,7 +1757,7 @@
         "killer": [
             {
                 "type": "item",
-                "weight": 50
+                "weight": 100
             },
             {
                 "type": "currency",
@@ -1765,7 +1765,7 @@
             },
             {
                 "type": "freeTicket",
-                "weight": 50
+                "weight": 0
             },
             {
                 "type": "consumable",
@@ -1775,7 +1775,7 @@
         "survivor": [
             {
                 "type": "item",
-                "weight": 50
+                "weight": 100
             },
             {
                 "type": "currency",
@@ -1783,7 +1783,7 @@
             },
             {
                 "type": "freeTicket",
-                "weight": 50
+                "weight": 0
             },
             {
                 "type": "consumable",

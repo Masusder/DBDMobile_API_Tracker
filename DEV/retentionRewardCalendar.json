@@ -570,7 +570,7 @@
             {
                 "amount": 5,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Cells",
@@ -579,7 +579,7 @@
             {
                 "amount": 1,
                 "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "BloodstoneChalice",
@@ -695,7 +695,7 @@
             {
                 "amount": 200,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Shards",
@@ -704,7 +704,7 @@
             {
                 "amount": 1,
                 "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "GoldSurvivorTicket",
@@ -820,7 +820,7 @@
             {
                 "amount": 1,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Item_Camper_Flashlight02",
@@ -829,7 +829,7 @@
             {
                 "amount": 20000,
                 "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "Bloodpoints",
@@ -945,7 +945,7 @@
             {
                 "amount": 1,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "BoneDoll",
@@ -954,7 +954,7 @@
             {
                 "amount": 1,
                 "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "SealedEnvelope",

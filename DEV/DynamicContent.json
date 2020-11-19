@@ -10346,7 +10346,7 @@
     "gachaCrates": [
         {
             "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_PremiumViolet",
-            "bestRewardIconCount": 3,
+            "bestRewardIconCount": 6,
             "crateId": "crate01",
             "nameId": "GACHACRATE_Crate01"
         },

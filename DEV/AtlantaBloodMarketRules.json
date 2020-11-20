@@ -2253,12 +2253,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 1000
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 1000
                             }
@@ -2367,12 +2367,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 2000
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 2000
                             }
@@ -2995,12 +2995,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 800
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 800
                             }
@@ -3010,12 +3010,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 400
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 400
                             }
@@ -3025,12 +3025,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 100
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 100
                             }
@@ -3159,12 +3159,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 600
                             }
@@ -3174,12 +3174,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 450
                             }
@@ -3189,12 +3189,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 200
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 200
                             }
@@ -4703,12 +4703,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 1000
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 1000
                             }
@@ -4822,12 +4822,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 2000
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 2000
                             }
@@ -5450,12 +5450,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 800
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 800
                             }
@@ -5465,12 +5465,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 400
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 400
                             }
@@ -5480,9 +5480,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 100
                             },
                             {
                                 "maxCount": 1,
@@ -5614,12 +5614,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 600
                             }
@@ -5629,12 +5629,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 450
                             }
@@ -5644,12 +5644,12 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 200
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 200
                             }

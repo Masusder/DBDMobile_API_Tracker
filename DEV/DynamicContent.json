@@ -1760,71 +1760,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "@#Crate_Test"
-                },
-                {
-                    "lang": "GER",
-                    "text": ""
-                },
-                {
-                    "lang": "SPA",
-                    "text": ""
-                },
-                {
-                    "lang": "MEX",
-                    "text": ""
-                },
-                {
-                    "lang": "FRE",
-                    "text": ""
-                },
-                {
-                    "lang": "ITA",
-                    "text": ""
-                },
-                {
-                    "lang": "JPN",
-                    "text": ""
-                },
-                {
-                    "lang": "KOR",
-                    "text": ""
-                },
-                {
-                    "lang": "POL",
-                    "text": ""
-                },
-                {
-                    "lang": "POR",
-                    "text": ""
-                },
-                {
-                    "lang": "RUS",
-                    "text": ""
-                },
-                {
-                    "lang": "TH",
-                    "text": ""
-                },
-                {
-                    "lang": "TR",
-                    "text": ""
-                },
-                {
-                    "lang": "CHS",
-                    "text": ""
-                },
-                {
-                    "lang": "CHT",
-                    "text": ""
-                }
-            ],
-            "textId": "GACHACRATE_CrateTest"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "AURIC CELLS"
                 },
                 {
@@ -10300,31 +10235,7 @@
     "crateKeys": [
         {
             "descriptionId": "CRATEKEY_default_DESC",
-            "keyId": "crateKey01",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_SmallBoxGold",
-            "titleId": "CRATEKEY_default_TITLE"
-        },
-        {
-            "descriptionId": "CRATEKEY_default_DESC",
-            "keyId": "crateKey02",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_SmallBoxViolet",
-            "titleId": "CRATEKEY_default_TITLE"
-        },
-        {
-            "descriptionId": "CRATEKEY_default_DESC",
-            "keyId": "crateKeyPassed",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_PremiumGold",
-            "titleId": "CRATEKEY_default_TITLE"
-        },
-        {
-            "descriptionId": "CRATEKEY_default_DESC",
-            "keyId": "PremiumCrateKey",
-            "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_PremiumRed",
-            "titleId": "CRATEKEY_default_TITLE"
-        },
-        {
-            "descriptionId": "CRATEKEY_default_DESC",
-            "keyId": "crateKeyTest",
+            "keyId": "crateKeySavannah",
             "staticImageUrl": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaKey_PremiumViolet",
             "titleId": "CRATEKEY_default_TITLE"
         }
@@ -10347,32 +10258,8 @@
         {
             "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_PremiumViolet",
             "bestRewardIconCount": 6,
-            "crateId": "crate01",
+            "crateId": "crateSavannah",
             "nameId": "GACHACRATE_Crate01"
-        },
-        {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_SmallBoxViolet",
-            "bestRewardIconCount": 6,
-            "crateId": "crate02",
-            "nameId": "GACHACRATE_Crate02"
-        },
-        {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_PremiumGold",
-            "bestRewardIconCount": 3,
-            "crateId": "cratePassed",
-            "nameId": "GACHACRATE_CratePassed"
-        },
-        {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_PremiumRed",
-            "bestRewardIconCount": 3,
-            "crateId": "PremiumCrate",
-            "nameId": "GACHACRATE_PremiumCrate"
-        },
-        {
-            "appearancePath": "/Game/UI/UMGAssets/Tally/Gacha/Frames/Atl_GachaCrate_SmallBoxGold",
-            "bestRewardIconCount": 5,
-            "crateId": "crateTest",
-            "nameId": "GACHACRATE_CrateTest"
         }
     ],
     "popups": {

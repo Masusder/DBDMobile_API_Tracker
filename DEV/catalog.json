@@ -97226,7 +97226,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 50
+                "quantity": 20
             }
         ],
         "defaultCost": [
@@ -97253,7 +97253,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 15
+                "quantity": 40
             }
         ],
         "defaultCost": [
@@ -97280,7 +97280,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 25
+                "quantity": 80
             }
         ],
         "defaultCost": [
@@ -97307,7 +97307,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 125
+                "quantity": 30
             }
         ],
         "defaultCost": [
@@ -97334,7 +97334,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 100
+                "quantity": 60
             }
         ],
         "defaultCost": [
@@ -97361,7 +97361,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 115
+                "quantity": 120
             }
         ],
         "defaultCost": [
@@ -97388,7 +97388,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 250
+                "quantity": 60
             }
         ],
         "defaultCost": [
@@ -97415,7 +97415,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 200
+                "quantity": 120
             }
         ],
         "defaultCost": [
@@ -97442,7 +97442,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 225
+                "quantity": 240
             }
         ],
         "defaultCost": [
@@ -97916,65 +97916,9 @@
             "crateKey"
         ],
         "consumable": true,
-        "id": "crateKey01",
+        "id": "crateKeySavannah",
         "metaData": {
-            "crateId": "crate01"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "crateKey"
-        ],
-        "consumable": true,
-        "id": "crateKey02",
-        "metaData": {
-            "crateId": "crate02"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "crateKey"
-        ],
-        "consumable": true,
-        "id": "crateKeyPassed",
-        "metaData": {
-            "crateId": "cratePassed"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "crateKey"
-        ],
-        "consumable": true,
-        "id": "PremiumCrateKey",
-        "metaData": {
-            "crateId": "PremiumCrate"
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": false
-    },
-    {
-        "categories": [
-            "crateKey"
-        ],
-        "consumable": true,
-        "id": "crateKeyTest",
-        "metaData": {
-            "crateId": "crateTest"
+            "crateId": "crateSavannah"
         },
         "nonSecure": false,
         "premium": false,
@@ -98184,6 +98128,17 @@
         ],
         "consumable": false,
         "id": "KeyFragmentTest",
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": false
+    },
+    {
+        "categories": [
+            "refundFragment"
+        ],
+        "consumable": false,
+        "id": "KeyFragmentSavannah",
         "nonSecure": false,
         "premium": false,
         "purchasable": false,

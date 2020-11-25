@@ -23282,7 +23282,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "1"
+            "limit": "10"
         },
         "unique": false
     },
@@ -23343,7 +23343,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "1"
+            "limit": "10"
         },
         "unique": false
     },
@@ -23404,7 +23404,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "1"
+            "limit": "10"
         },
         "unique": false
     },
@@ -67237,14 +67237,14 @@
         "id": "WI_Head04_01",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "WI_Head04_02",
+            "base_itemId": "WI_Head04_01",
             "character": "Witch",
             "kind": "Customization",
             "newEndDate": "2019-09-11T15:00:00",
             "newStartDate": "2019-08-28T15:00:01",
             "outfitId": "WI_outfit_04_01",
-            "quality": "V1",
-            "qualityName": "quality2",
+            "quality": "V0",
+            "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
             "unbreakable": false,
@@ -67271,14 +67271,14 @@
         "id": "WI_Body04_01",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "WI_Body04_02",
+            "base_itemId": "WI_Body04_01",
             "character": "Witch",
             "kind": "Customization",
             "newEndDate": "2019-09-11T15:00:01",
             "newStartDate": "2019-08-28T15:00:02",
             "outfitId": "WI_outfit_04_01",
-            "quality": "V2",
-            "qualityName": "quality3",
+            "quality": "V0",
+            "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
             "unbreakable": false,
@@ -67305,14 +67305,14 @@
         "id": "WI_W04_01",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "WI_W04_02",
+            "base_itemId": "WI_W04_01",
             "character": "Witch",
             "kind": "Customization",
             "newEndDate": "2019-09-11T15:00:02",
             "newStartDate": "2019-08-28T15:00:03",
             "outfitId": "WI_outfit_04_01",
-            "quality": "V3",
-            "qualityName": "quality4",
+            "quality": "V0",
+            "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
             "unbreakable": false,

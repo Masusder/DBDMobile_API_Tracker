@@ -24267,6 +24267,193 @@
     },
     {
         "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DF_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyElf",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2020-07-01T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_elf"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_elf"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DF_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyElfTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_elf_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DF_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DF_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 299.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyElfTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-12T00:00:00",
+                    "startDate": "2017-07-12T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_elf_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "character"
         ],
         "id": "Dwight",
@@ -28239,7 +28426,12 @@
         "consumable": false,
         "consumptionCurrenciesList": [],
         "consumptionObjectList": [],
-        "defaultCost": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
         "eventCostList": [],
         "id": "DF_Head011",
         "initialQuantity": 0,
@@ -28247,7 +28439,7 @@
             "base_itemId": "DF_Head011",
             "character": "Dwight",
             "kind": "Customization",
-            "newEndDate": "2020-01-15T15:00:00",
+            "newEndDate": "2020-11-30T15:00:01",
             "newStartDate": "2020-01-01T15:00:01",
             "outfitId": "DF_outfit_011",
             "quality": "V0",
@@ -28263,7 +28455,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -28273,7 +28465,12 @@
         "consumable": false,
         "consumptionCurrenciesList": [],
         "consumptionObjectList": [],
-        "defaultCost": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
         "eventCostList": [],
         "id": "DF_Torso011",
         "initialQuantity": 0,
@@ -28281,7 +28478,7 @@
             "base_itemId": "DF_Torso011",
             "character": "Dwight",
             "kind": "Customization",
-            "newEndDate": "2020-01-15T15:00:01",
+            "newEndDate": "2020-11-30T15:00:02",
             "newStartDate": "2020-01-01T15:00:02",
             "outfitId": "DF_outfit_011",
             "quality": "V0",
@@ -28297,7 +28494,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -28307,7 +28504,12 @@
         "consumable": false,
         "consumptionCurrenciesList": [],
         "consumptionObjectList": [],
-        "defaultCost": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
         "eventCostList": [],
         "id": "DF_Legs011",
         "initialQuantity": 0,
@@ -28315,7 +28517,7 @@
             "base_itemId": "DF_Legs011",
             "character": "Dwight",
             "kind": "Customization",
-            "newEndDate": "2020-01-15T15:00:02",
+            "newEndDate": "2020-11-30T15:00:03",
             "newStartDate": "2020-01-01T15:00:03",
             "outfitId": "DF_outfit_011",
             "quality": "V0",
@@ -28331,7 +28533,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -85300,12 +85502,12 @@
                 "DF_Torso011",
                 "DF_Legs011"
             ],
-            "newEndDate": "2019-08-21T15:00:01",
+            "newEndDate": "2020-11-30T15:00:02",
             "newStartDate": "2019-08-07T15:00:02",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {

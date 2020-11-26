@@ -439,7 +439,13 @@
         },
         {
             "id": "DF_outfit_011",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
             "character": "Dwight",
             "storeItems": [
                 "DF_Head011",
@@ -447,7 +453,7 @@
                 "DF_Legs011"
             ],
             "newStartDate": "2019-08-07T15:00:02",
-            "newEndDate": "2019-08-21T15:00:01"
+            "newEndDate": "2020-11-30T15:00:02"
         },
         {
             "id": "Meg_outfit_002",

@@ -908,7 +908,7 @@
                 },
                 {
                     "type": "Rare",
-                    "weight": 0
+                    "weight": 50
                 },
                 {
                     "type": "VeryRare",
@@ -1761,15 +1761,15 @@
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 0
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 0
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 0
             }
         ],
         "survivor": [
@@ -1779,15 +1779,15 @@
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 0
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 0
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 0
             }
         ],
         "ticketsRewards": [
@@ -3346,21 +3346,21 @@
                 "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:02",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Head02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2020-05-25T00:00:03",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Torso02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2020-05-25T00:00:04",
+                "endDate": "2022-01-01T00:00:01",
                 "id": "DK_Legs02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",

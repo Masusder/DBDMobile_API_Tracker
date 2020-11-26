@@ -468,6 +468,23 @@
         "id": "PurchasePopupBasic2",
         "startDate": 1
     },
+    "PurchasePopupElf": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupElf"
+            }
+        },
+        "id": "PurchasePopupElf",
+        "startDate": 1
+    },
     "PurchasePopupEntertainer": {
         "assets": {},
         "components": {

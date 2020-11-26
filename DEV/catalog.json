@@ -4498,6 +4498,29 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
+                "price": 7000
+            }
+        ],
+        "id": "ADDON_LFChainsaw_IridescentFlesh",
+        "metaData": {
+            "character": "Cannibal",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "UltraRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
                 "price": 3000
             }
         ],
@@ -7143,6 +7166,305 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Chainsaw_001",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Chainsaw_002",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Chainsaw_003",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Chainsaw_004",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Chainsaw_005",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Chainsaw_006",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Chainsaw_007",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Chainsaw_008",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "Addon_Chainsaw_009",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Chainsaw_010",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Chainsaw_011",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Chainsaw_012",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 7000
+            }
+        ],
+        "id": "Addon_HillbillyChainsaw_IridescentBrick",
+        "metaData": {
+            "character": "HillBilly",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "UltraRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
                 "price": 5000
             }
         ],
@@ -8608,282 +8930,6 @@
         "id": "Addon_Blinker_012",
         "metaData": {
             "character": "Nurse",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "Addon_Chainsaw_001",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 3000
-            }
-        ],
-        "id": "Addon_Chainsaw_002",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Common",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 3000
-            }
-        ],
-        "id": "Addon_Chainsaw_003",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Common",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "Addon_Chainsaw_004",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 3000
-            }
-        ],
-        "id": "Addon_Chainsaw_005",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Common",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 5000
-            }
-        ],
-        "id": "Addon_Chainsaw_006",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Rare",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "Addon_Chainsaw_007",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Uncommon",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 5000
-            }
-        ],
-        "id": "Addon_Chainsaw_008",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Rare",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 6000
-            }
-        ],
-        "id": "Addon_Chainsaw_009",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "VeryRare",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 5000
-            }
-        ],
-        "id": "Addon_Chainsaw_010",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Rare",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 3000
-            }
-        ],
-        "id": "Addon_Chainsaw_011",
-        "metaData": {
-            "character": "HillBilly",
-            "enabled": true,
-            "eventID": "None",
-            "rarity": "Common",
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": false
-    },
-    {
-        "categories": [
-            "addon"
-        ],
-        "consumable": false,
-        "defaultCost": [
-            {
-                "currencyId": "Bloodpoints",
-                "price": 4000
-            }
-        ],
-        "id": "Addon_Chainsaw_012",
-        "metaData": {
-            "character": "HillBilly",
             "enabled": true,
             "eventID": "None",
             "rarity": "Uncommon",

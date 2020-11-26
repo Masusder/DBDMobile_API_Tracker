@@ -409,13 +409,7 @@
         },
         {
             "id": "Dwight_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 135,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Dwight",
             "storeItems": [
                 "DF_Head01_04",
@@ -1337,13 +1331,7 @@
         },
         {
             "id": "Claudette_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 135,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Claudette",
             "storeItems": [
                 "CM_Head01_02",
@@ -4961,13 +4949,7 @@
         },
         {
             "id": "Trapper_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 135,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Chuckles",
             "storeItems": [
                 "TR_Head01_03",
@@ -5535,13 +5517,7 @@
         },
         {
             "id": "Hillbilly_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 90,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "HillBilly",
             "storeItems": [
                 "Hillbilly_Body01_03",

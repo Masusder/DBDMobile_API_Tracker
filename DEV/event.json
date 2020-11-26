@@ -1,4 +1,38 @@
 {
+    "BPDwightYuiOniNurse": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BPDwightYuiOniNursehappyHour": {
+                    "effects": {
+                        "BPDwightYuiOniNurse": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Yui",
+                                    "Oni",
+                                    "Nurse"
+                                ],
+                                "id": "BPDwightYuiOniNurse",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "BPDwightYuiOniNursehappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BPDwightYuiOniNurse",
+        "startDate": 1
+    },
     "BPSav1": {
         "assets": {},
         "components": {
@@ -519,6 +553,23 @@
         "id": "PurchasePopupPremium3",
         "startDate": 1
     },
+    "PurchasePopupShoplifter": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupShoplifter"
+            }
+        },
+        "id": "PurchasePopupShoplifter",
+        "startDate": 1
+    },
     "PurchasePopupStarter": {
         "assets": {},
         "components": {
@@ -588,6 +639,40 @@
             }
         },
         "id": "RitualsRewardsOverrideTest2",
+        "startDate": 1
+    },
+    "XPDwightYuiOniNurse": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XPDwightYuiOniNursehappyHour": {
+                    "effects": {
+                        "XPDwightYuiOniNurse": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Yui",
+                                    "Oni",
+                                    "Nurse"
+                                ],
+                                "id": "XPDwightYuiOniNurse",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "XPDwightYuiOniNursehappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XPDwightYuiOniNurse",
         "startDate": 1
     },
     "XPSav1": {

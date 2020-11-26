@@ -908,7 +908,7 @@
                 },
                 {
                     "type": "Rare",
-                    "weight": 50
+                    "weight": 0
                 },
                 {
                     "type": "VeryRare",
@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 900
+                    "weight": 0
                 }
             ]
         },
@@ -3346,21 +3346,21 @@
                 "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2022-01-01T00:00:01",
+                "endDate": "2020-05-25T00:00:02",
                 "id": "DK_Head02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:01",
+                "endDate": "2020-05-25T00:00:03",
                 "id": "DK_Torso02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2022-01-01T00:00:01",
+                "endDate": "2020-05-25T00:00:04",
                 "id": "DK_Legs02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
@@ -4054,7 +4054,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 70
+                        "weight": 100
                     },
                     {
                         "type": "shardsPack",
@@ -4079,7 +4079,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 30
+                        "weight": 100
                     },
                     {
                         "type": "shardsPack",
@@ -4104,7 +4104,7 @@
                 "content": [
                     {
                         "type": "item",
-                        "weight": 20
+                        "weight": 0
                     },
                     {
                         "type": "shardsPack",
@@ -4159,22 +4159,22 @@
                     {
                         "id": "SmallShardPack",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack",
+                        "type": "shardsPack",
+                        "weight": 100
                     },
                     {
                         "id": "SmallCellsPack",
                         "type": "cellsPack",
-                        "weight": 0
-                    },
-                    {
-                        "id": "SmallShardPack01",
-                        "type": "shardsPack",
-                        "weight": 0
-                    },
-                    {
-                        "id": "SmallShardPack02",
-                        "type": "shardsPack",
-                        "weight": 0
+                        "weight": 50
                     }
                 ],
                 "rarity": "Epic"
@@ -4186,24 +4186,24 @@
                         "weight": 0
                     },
                     {
-                        "id": "MediumShardPack",
+                        "id": "SmallShardPack01",
                         "type": "shardsPack",
-                        "weight": 0
-                    },
-                    {
-                        "id": "MediumCellsPack",
-                        "type": "cellsPack",
-                        "weight": 0
+                        "weight": 500
                     },
                     {
                         "id": "MediumShardPack01",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 250
                     },
                     {
-                        "id": "MediumShardPack02",
+                        "id": "LargeShardPack01",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 100
+                    },
+                    {
+                        "id": "MediumCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
                     }
                 ],
                 "rarity": "SuperEpic"
@@ -4215,24 +4215,24 @@
                         "weight": 0
                     },
                     {
-                        "id": "LargeShardPack",
+                        "id": "SmallShardPack02",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 500
                     },
                     {
-                        "id": "LargeCellsPack",
-                        "type": "cellsPack",
-                        "weight": 0
-                    },
-                    {
-                        "id": "LargeShardPack01",
+                        "id": "MediumShardPack02",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 250
                     },
                     {
                         "id": "LargeShardPack02",
                         "type": "shardsPack",
-                        "weight": 0
+                        "weight": 100
+                    },
+                    {
+                        "id": "LargeCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
                     }
                 ],
                 "rarity": "UltraEpic"

@@ -67,6 +67,62 @@
         "id": "BPSav1",
         "startDate": 1
     },
+    "Bloodhunt_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BPhappyHour": {
+                    "effects": {
+                        "Bloodhunt_BP": [
+                            {
+                                "id": "Bloodhunt_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP",
+        "startDate": 1
+    },
+    "Bloodhunt_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XPhappyHour": {
+                    "effects": {
+                        "Bloodhunt_XP": [
+                            {
+                                "id": "Bloodhunt_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP",
+        "startDate": 1
+    },
     "DefaultCalendar": {
         "assets": {},
         "components": {

@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 0
+                    "weight": 500
                 }
             ]
         },
@@ -1761,15 +1761,15 @@
             },
             {
                 "type": "currency",
-                "weight": 0
+                "weight": 2000
             },
             {
                 "type": "freeTicket",
-                "weight": 0
+                "weight": 500
             },
             {
                 "type": "consumable",
-                "weight": 0
+                "weight": 2000
             }
         ],
         "survivor": [
@@ -1779,15 +1779,15 @@
             },
             {
                 "type": "currency",
-                "weight": 0
+                "weight": 2000
             },
             {
                 "type": "freeTicket",
-                "weight": 0
+                "weight": 500
             },
             {
                 "type": "consumable",
-                "weight": 0
+                "weight": 2000
             }
         ],
         "ticketsRewards": [

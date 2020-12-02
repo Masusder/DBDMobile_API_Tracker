@@ -258,6 +258,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_harvester"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_4"
+            },
+            {
+                "premiumStoreId": "purchase_popup_shoplifter"
+            },
+            {
+                "premiumStoreId": "purchase_popup_elfdwight"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -294,6 +306,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_harvester_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_3_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_4_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_shoplifter_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_elfDwight_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -330,6 +354,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_harvester_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_3_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_basic_4_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_shoplifter_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_elfDwight_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -650,7 +686,6 @@
     {
         "currencyCodes": "default",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios;android",
         "products": [
             {
@@ -665,7 +700,6 @@
     {
         "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios",
         "products": [
             {
@@ -680,7 +714,6 @@
     {
         "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios",
         "products": [
             {
@@ -695,7 +728,6 @@
     {
         "currencyCodes": "default",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios;android",
         "products": [
             {
@@ -710,7 +742,6 @@
     {
         "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios",
         "products": [
             {
@@ -725,7 +756,6 @@
     {
         "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios",
         "products": [
             {
@@ -740,7 +770,6 @@
     {
         "currencyCodes": "default",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios;android",
         "products": [
             {
@@ -755,7 +784,6 @@
     {
         "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios",
         "products": [
             {
@@ -770,7 +798,6 @@
     {
         "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 130,
         "premiumStores": "ios",
         "products": [
             {
@@ -785,7 +812,6 @@
     {
         "currencyCodes": "default",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios;android",
         "products": [
             {
@@ -793,14 +819,13 @@
                 "premiumStoreId": "auric_cell_pack_4_150"
             }
         ],
-        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "specifiedRule": "First_Purchase_150_Single_Test_CP4",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
     {
         "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios",
         "products": [
             {
@@ -808,14 +833,13 @@
                 "premiumStoreId": "auric_cell_pack_4_150_T3"
             }
         ],
-        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "specifiedRule": "First_Purchase_150_Single_Test_CP4",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
     {
         "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 150,
         "premiumStores": "ios",
         "products": [
             {
@@ -823,7 +847,7 @@
                 "premiumStoreId": "auric_cell_pack_4_150_T2"
             }
         ],
-        "specifiedRule": "First_Purchase_150_Single_Test_2020-07-16",
+        "specifiedRule": "First_Purchase_150_Single_Test_CP4",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -956,7 +980,6 @@
     {
         "currencyCodes": "default",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 120,
         "premiumStores": "ios;android",
         "products": [
             {
@@ -971,7 +994,6 @@
     {
         "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 120,
         "premiumStores": "ios",
         "products": [
             {
@@ -986,7 +1008,6 @@
     {
         "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
         "endDate": "2050-07-12T00:00:00",
-        "multiplier": 120,
         "premiumStores": "ios",
         "products": [
             {
@@ -995,6 +1016,48 @@
             }
         ],
         "specifiedRule": "First_Purchase_120_Single_Test_CP6",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "default",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios;android",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T3"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
+        "startDate": "2017-07-12T00:00:00",
+        "type": "store"
+    },
+    {
+        "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
+        "endDate": "2050-07-12T00:00:00",
+        "premiumStores": "ios",
+        "products": [
+            {
+                "clientDBId": "cellsPack3",
+                "premiumStoreId": "auric_cell_pack_3_175_T2"
+            }
+        ],
+        "specifiedRule": "First_Purchase_175_Single_Test_CP3",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     }

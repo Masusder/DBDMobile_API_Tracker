@@ -7847,7 +7847,7 @@
         },
         {
             "id": "JakeStarterPack",
-            "imageUrl": "promoPacks/Store_Banner_4-SL8.png",
+            "imageUrl": "promoPacks/Jake_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/JakeStarterPack.png",
             "titleId": "PROMOPACK_JakeStarterPack_TITLE"
         },
@@ -7895,7 +7895,7 @@
         },
         {
             "id": "KateStarterPack",
-            "imageUrl": "promoPacks/Store_Banner_6-SL9.png",
+            "imageUrl": "promoPacks/Kate_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/KateStarterPack.png",
             "titleId": "PROMOPACK_KateStarterPack_TITLE"
         },
@@ -7967,7 +7967,7 @@
         },
         {
             "id": "SpiritStarterPack",
-            "imageUrl": "promoPacks/The_Spirit_Tattered.png",
+            "imageUrl": "promoPacks/Spirit_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/SpiritStarterPack.png",
             "titleId": "PROMOPACK_SpiritStarterPack_TITLE"
         },
@@ -8009,13 +8009,13 @@
         },
         {
             "id": "DevAdamPack",
-            "imageUrl": "promoPacks/Dev_Pick-Bundle.png",
+            "imageUrl": "promoPacks/Adam_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/AdamStarterPack.png",
             "titleId": "PROMOPACK_DevAdamPack_TITLE"
         },
         {
             "id": "JaneStarterPack",
-            "imageUrl": "promoPacks/Jane-Starter_Pack.png",
+            "imageUrl": "promoPacks/Jane_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_JaneStarterPack_TITLE"
         },
@@ -8081,7 +8081,7 @@
         },
         {
             "id": "SmokeHardManStarterPack",
-            "imageUrl": "promoPacks/David-Starter_Pack.png",
+            "imageUrl": "promoPacks/David_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/DavidHardmanStarterPack.png",
             "titleId": "PROMOPACK_SmokeHardManStarterPack_TITLE"
         },
@@ -8141,7 +8141,7 @@
         },
         {
             "id": "LegionSusieStarterPack",
-            "imageUrl": "promoPacks/3-The-Legion_Starter-Pack_02.png",
+            "imageUrl": "promoPacks/Legion_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/LegionSusieStarterPack.png",
             "titleId": "PROMOPACK_LegionSusieStarterPack_TITLE"
         },
@@ -8183,67 +8183,67 @@
         },
         {
             "id": "NewPlayerBundle2",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Start-up_Bundle2.png",
             "marketingImageUrl": "promoPacks/marketingImages/NewStarterBundle.png",
             "titleId": "PROMOPACK_NewPlayerBundle2_TITLE"
         },
         {
             "id": "GreekSurvivorBundle",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Greek-Legends-Character_Bundle.png",
             "marketingImageUrl": "promoPacks/marketingImages/GreekLegendsCharacter.png",
             "titleId": "PROMOPACK_GreekSurvivorBundle_TITLE"
         },
         {
             "id": "BearStarterPack1",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Huntress_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/HuntressStarterPack.png",
             "titleId": "PROMOPACK_BearStarterPack1_TITLE"
         },
         {
             "id": "OniStarterPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Oni_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/OniStarterPack.png",
             "titleId": "PROMOPACK_OniStarterPack_TITLE"
         },
         {
             "id": "YuiStarterPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Yui_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/YuiStarterPack.png",
             "titleId": "PROMOPACK_YuiStarterPack_TITLE"
         },
         {
             "id": "LegionSweaterBundle",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Legion-Sweaters.png",
             "marketingImageUrl": "promoPacks/marketingImages/LegionUglySweaters.png",
             "titleId": "PROMOPACK_LegionSweaterBundle_TITLE"
         },
         {
             "id": "SurvivorUglysweater",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Choice-Ugly-Sweaters.png",
             "marketingImageUrl": "promoPacks/marketingImages/SurvivorUglySweaters.png",
             "titleId": "PROMOPACK_SurvivorUglysweater_TITLE"
         },
         {
             "id": "HumilatedLordPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Humilated-Lord_Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/HumiliatedLordPack.png",
             "titleId": "PROMOPACK_HumilatedLordPack_TITLE"
         },
         {
             "id": "LunarCharPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Lunar-Character_Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/LunarCharacterPack.png",
             "titleId": "PROMOPACK_LunarCharPack_TITLE"
         },
         {
             "id": "SSoutfitsPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Scarlet-Swarm_Outfits.png",
             "marketingImageUrl": "promoPacks/marketingImages/ScarletSwarmPack.png",
             "titleId": "PROMOPACK_SSoutfitsPack_TITLE"
         },
         {
             "id": "ValPack",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Valentines_Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/ValentinesDayPack.png",
             "titleId": "PROMOPACK_ValPack_TITLE"
         }

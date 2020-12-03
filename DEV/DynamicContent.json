@@ -8321,7 +8321,7 @@
         },
         {
             "id": "Killer07StarterPack",
-            "imageUrl": "promoPacks/Doctor_Starter-Pack.png",
+            "imageUrl": "promoPacks/Doctor_Starter-PackNew.png",
             "marketingImageUrl": "promoPacks/marketingImages/DoctorStarterPack.png",
             "titleId": "PROMOPACK_Killer07StarterPack_TITLE"
         },
@@ -8339,7 +8339,7 @@
         },
         {
             "id": "JeffStarterPack",
-            "imageUrl": "promoPacks/Jeff_Starter-Pack.png",
+            "imageUrl": "promoPacks/Jeff_Starter-PackNew.png",
             "marketingImageUrl": "promoPacks/marketingImages/JeffStarterPack.png",
             "titleId": "PROMOPACK_JeffStarterPack_TITLE"
         },
@@ -8405,7 +8405,7 @@
         },
         {
             "id": "JaneStarterPack",
-            "imageUrl": "promoPacks/Jane-Starter_Pack.png",
+            "imageUrl": "promoPacks/Jane_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_JaneStarterPack_TITLE"
         },
@@ -8543,7 +8543,7 @@
         },
         {
             "id": "LegionSusieStarterPack",
-            "imageUrl": "promoPacks/3-The-Legion_Starter-Pack_02.png",
+            "imageUrl": "promoPacks/Legion_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/LegionSusieStarterPack.png",
             "titleId": "PROMOPACK_LegionSusieStarterPack_TITLE"
         },
@@ -8579,19 +8579,19 @@
         },
         {
             "id": "NewPlayerBundle2",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Start-up_Bundle2.png",
             "marketingImageUrl": "promoPacks/marketingImages/NewStarterBundle.png",
             "titleId": "PROMOPACK_NewPlayerBundle2_TITLE"
         },
         {
             "id": "GreekSurvivorBundle",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Greek-Legends-Character_Bundle.png",
             "marketingImageUrl": "promoPacks/marketingImages/GreekLegendsCharacter.png",
             "titleId": "PROMOPACK_GreekSurvivorBundle_TITLE"
         },
         {
             "id": "BearStarterPack1",
-            "imageUrl": "promoPacks/2-Beginners-Gear_02.png",
+            "imageUrl": "promoPacks/Huntress_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/HuntressStarterPack.png",
             "titleId": "PROMOPACK_BearStarterPack1_TITLE"
         },
@@ -8633,8 +8633,8 @@
         },
         {
             "id": "SSoutfitsPack",
-            "imageUrl": "promoPacks/Scarlet-Swarm_Outfits.png",
-            "marketingImageUrl": "promoPacks/marketingImages/ScarletSwarmPack.png",
+            "imageUrl": "promoPacks/Scarlet-Swarm_OutfitsFixed.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Scarlet-Swarm_OutfitsFixed.png",
             "titleId": "PROMOPACK_SSoutfitsPack_TITLE"
         },
         {
@@ -8646,20 +8646,38 @@
     ],
     "atlantaEventsUIData": [
         {
-            "bannerEndDate": "2050-09-03T18:00:01",
+            "bannerEndDate": "2020-12-02T20:00:00",
             "bannerPriority": 2,
             "bannerStartDate": "2020-09-03T18:00:01",
             "campaignName": "DefaultCalendar",
             "descriptionId": "EVENTBANNER_Calendar_DESC",
-            "displayEndDate": "2050-09-03T18:00:01",
+            "displayEndDate": "2020-12-02T20:00:00",
             "displayStartDate": "2020-09-03T18:00:01",
-            "endDate": "2050-09-03T18:00:01",
+            "endDate": "2020-12-02T20:00:00",
             "eventPriority": 2,
-            "hotEndDate": "2050-09-03T18:00:01",
+            "hotEndDate": "2020-12-02T20:00:00",
             "hotStartDate": "2020-09-03T18:00:01",
             "id": "Default_Calendar",
             "imageUrl": "events/CalendarSavannah1.png",
             "startDate": "2020-09-03T18:00:01",
+            "titleId": "EVENTBANNER_Calendar_TITLE",
+            "type": "Calendar"
+        },
+        {
+            "bannerEndDate": "2020-12-02T23:00:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2020-12-02T20:00:01",
+            "campaignName": "DefaultCalendar",
+            "descriptionId": "EVENTBANNER_Calendar_DESC",
+            "displayEndDate": "2020-12-02T23:00:01",
+            "displayStartDate": "2020-12-02T20:00:01",
+            "endDate": "2020-12-02T23:00:01",
+            "eventPriority": 2,
+            "hotEndDate": "2020-12-02T23:00:01",
+            "hotStartDate": "2020-12-02T20:00:01",
+            "id": "Default_Calendar",
+            "imageUrl": "events/CalendarSavannah2.png",
+            "startDate": "2020-12-02T20:00:01",
             "titleId": "EVENTBANNER_Calendar_TITLE",
             "type": "Calendar"
         },
@@ -8727,52 +8745,52 @@
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2020-11-16T23:59:59",
+            "bannerEndDate": "2020-12-04T23:59:59",
             "bannerPriority": 2,
-            "bannerStartDate": "2020-11-16T00:00:01",
+            "bannerStartDate": "2020-12-02T00:00:01",
             "campaignName": "Bloodhunt_20210101",
             "deepLink": "/Menu_Characters_Survivors/",
             "descriptionId": "EVENTBANNER_Bloodhunt20200101_DESC",
-            "displayEndDate": "2020-11-16T23:59:59",
-            "displayStartDate": "2020-11-16T00:00:01",
-            "endDate": "2020-11-16T23:59:59",
+            "displayEndDate": "2020-12-04T23:59:59",
+            "displayStartDate": "2020-12-02T00:00:01",
+            "endDate": "2020-12-04T23:59:59",
             "eventPriority": 2,
-            "hotEndDate": "2020-11-16T23:59:59",
-            "hotStartDate": "2020-11-16T00:00:01",
+            "hotEndDate": "2020-12-04T23:59:59",
+            "hotStartDate": "2020-12-02T00:00:01",
             "id": "Bloodhunt_20210101",
             "imageUrl": "events/KateCherylExecutionerDoctor.png",
             "relatedItemsId": [
-                "Executioner",
+                "K20",
                 "Kate",
-                "Cheryl",
+                "S22",
                 "Killer07"
             ],
-            "startDate": "2020-11-16T00:00:01",
+            "startDate": "2020-12-02T00:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2020-10-13T15:30:01",
+            "bannerEndDate": "2020-12-04T23:59:59",
             "bannerPriority": 2,
-            "bannerStartDate": "2020-10-13T14:30:01",
+            "bannerStartDate": "2020-12-02T00:00:01",
             "campaignName": "Bloodhunt_20210108",
             "deepLink": "/Menu_Characters_Survivors/",
             "descriptionId": "EVENTBANNER_Bloodhunt20200108_DESC",
-            "displayEndDate": "2020-10-13T15:30:01",
-            "displayStartDate": "2020-10-13T14:30:01",
-            "endDate": "2020-10-13T15:30:01",
+            "displayEndDate": "2020-12-04T23:59:59",
+            "displayStartDate": "2020-12-02T00:00:01",
+            "endDate": "2020-12-04T23:59:59",
             "eventPriority": 2,
-            "hotEndDate": "2020-10-13T15:30:01",
-            "hotStartDate": "2020-10-13T14:30:01",
+            "hotEndDate": "2020-12-04T23:59:59",
+            "hotStartDate": "2020-12-02T00:00:01",
             "id": "Bloodhunt_20210108",
             "imageUrl": "events/MegDavidTrapperWraith.png",
             "relatedItemsId": [
                 "Meg",
-                "David",
+                "Smoke",
                 "Chuckles",
                 "Bob"
             ],
-            "startDate": "2020-10-13T14:30:01",
+            "startDate": "2020-12-02T00:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
         },
@@ -9084,20 +9102,20 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-22T13:30:01",
+            "endDate": "2020-12-04T23:30:01",
             "id": "OniStarterBanner",
             "imageUrl": "marketingBanner/Savannah_OniDemonicForce.png",
             "priority": 3,
-            "startDate": "2020-10-22T13:30:01",
+            "startDate": "2020-12-02T13:30:01",
             "titleId": "MARKETINGBANNER_OniStarter_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T15:00:01",
+            "endDate": "2020-12-04T23:30:01",
             "id": "YuiStarterBanner",
             "imageUrl": "marketingBanner/Savannah_YuiVersatileOutfit.png",
             "priority": 4,
-            "startDate": "2020-10-15T15:00:01",
+            "startDate": "2020-12-02T13:30:01",
             "titleId": "MARKETINGBANNER_YuiStarter_TITLE"
         },
         {
@@ -9111,11 +9129,11 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T18:00:01",
+            "endDate": "2020-12-04T23:30:01",
             "id": "SpiritStarterBanner",
             "imageUrl": "marketingBanner/Savannah_TheSpiritPack.png",
             "priority": 6,
-            "startDate": "2020-10-15T18:00:01",
+            "startDate": "2020-12-02T13:30:01",
             "titleId": "MARKETINGBANNER_SpiritStarter_TITLE"
         },
         {
@@ -9147,11 +9165,11 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T19:30:01",
+            "endDate": "2020-12-04T23:30:01",
             "id": "KateStarterBanner",
             "imageUrl": "marketingBanner/Savannah_KateDensonPack.png",
             "priority": 10,
-            "startDate": "2020-10-15T19:30:01",
+            "startDate": "2020-12-02T13:30:01",
             "titleId": "MARKETINGBANNER_KateStarter_TITLE"
         }
     ],

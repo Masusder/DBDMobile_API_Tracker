@@ -33,6 +33,40 @@
         "id": "BPDwightYuiOniNurse",
         "startDate": 1
     },
+    "BPKateBillHuntressLegion": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BPKateBillHuntressLegionhappyHour": {
+                    "effects": {
+                        "BPKateBillHuntressLegion": [
+                            {
+                                "characters": [
+                                    "Kate",
+                                    "Bear",
+                                    "Bill",
+                                    "Legion"
+                                ],
+                                "id": "BPKateBillHuntressLegion",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "BPKateBillHuntressLegionhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BPKateBillHuntressLegion",
+        "startDate": 1
+    },
     "BPSav1": {
         "assets": {},
         "components": {
@@ -174,6 +208,25 @@
         "id": "HumiliatedLordBanner_20210104",
         "startDate": 1
     },
+    "KateStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "KateStarterBanner"
+                ]
+            }
+        },
+        "id": "KateStarterBanner",
+        "startDate": 1
+    },
     "NewCalendar_20191205": {
         "assets": {},
         "components": {
@@ -201,6 +254,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "NewCalendar_20191205",
+        "startDate": 1
+    },
+    "OniStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "OniStarterBanner"
+                ]
+            }
+        },
+        "id": "OniStarterBanner",
         "startDate": 1
     },
     "Promopack2020_1207_1220": {
@@ -371,7 +443,10 @@
                                 "value": [
                                     "LunarCharPack",
                                     "SSoutfitsPack",
-                                    "SmokeHardManStarterPack"
+                                    "SmokeHardManStarterPack",
+                                    "ValPack",
+                                    "JakeStarterPack",
+                                    "KateStarterPack"
                                 ]
                             }
                         ]
@@ -430,8 +505,7 @@
                                 "type": "PromoPack",
                                 "value": [
                                     "JakeStarterPack",
-                                    "KateStarterPack",
-                                    "FreeTicketBundle"
+                                    "KateStarterPack"
                                 ]
                             }
                         ]
@@ -749,6 +823,25 @@
         "id": "RitualsRewardsOverrideTest2",
         "startDate": 1
     },
+    "SpiritStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "SpiritStarterBanner"
+                ]
+            }
+        },
+        "id": "SpiritStarterBanner",
+        "startDate": 1
+    },
     "XPDwightYuiOniNurse": {
         "assets": {},
         "components": {
@@ -783,6 +876,40 @@
         "id": "XPDwightYuiOniNurse",
         "startDate": 1
     },
+    "XPKateBillHuntressLegion": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XPKateBillHuntressLegionhappyHour": {
+                    "effects": {
+                        "XPKateBillHuntressLegion": [
+                            {
+                                "characters": [
+                                    "Kate",
+                                    "Bear",
+                                    "Bill",
+                                    "Legion"
+                                ],
+                                "id": "XPKateBillHuntressLegion",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "XPKateBillHuntressLegionhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XPKateBillHuntressLegion",
+        "startDate": 1
+    },
     "XPSav1": {
         "assets": {},
         "components": {
@@ -815,6 +942,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "XPSav1",
+        "startDate": 1
+    },
+    "YuiStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "YuiStarterBanner"
+                ]
+            }
+        },
+        "id": "YuiStarterBanner",
         "startDate": 1
     }
 }

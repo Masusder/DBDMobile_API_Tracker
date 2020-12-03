@@ -1779,15 +1779,15 @@
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 0
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 0
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 0
             }
         ],
         "ticketsRewards": [

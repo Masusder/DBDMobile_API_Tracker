@@ -126,7 +126,7 @@
     },
     "13SlotsCalendar_Raleigh1": {
         "claimType": "minute",
-        "endDate": 1606939200,
+        "endDate": 1607122800,
         "id": "13SlotsCalendar_Raleigh1",
         "rewards": [
             {
@@ -247,7 +247,7 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1606867200
+        "startDate": 1606953600
     },
     "13SlotsCalendar_Raleigh2": {
         "claimType": "minute",

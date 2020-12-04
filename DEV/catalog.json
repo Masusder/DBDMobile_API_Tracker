@@ -24363,11 +24363,11 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_elf"
+                "productId": "purchase_popup_elfdwight"
             },
             {
                 "platformId": "android",
-                "productId": "purchase_popup_elf"
+                "productId": "purchase_popup_elfdwight"
             }
         ],
         "purchasable": true,
@@ -24428,7 +24428,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_elf_T2"
+                "productId": "purchase_popup_elfDwight_T2"
             }
         ],
         "purchasable": true,
@@ -24489,7 +24489,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_elf_T3"
+                "productId": "purchase_popup_elfDwight_T3"
             }
         ],
         "purchasable": true,

@@ -189,6 +189,44 @@
         "id": "DefaultCalendar",
         "startDate": 1
     },
+    "GreekLegendBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "GreekLegendBanner"
+                ]
+            }
+        },
+        "id": "GreekLegendBanner",
+        "startDate": 1
+    },
+    "HumiliatedLordBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "HumiliatedLordBanner"
+                ]
+            }
+        },
+        "id": "HumiliatedLordBanner",
+        "startDate": 1
+    },
     "HumiliatedLordBanner_20210104": {
         "assets": {},
         "components": {
@@ -208,6 +246,25 @@
         "id": "HumiliatedLordBanner_20210104",
         "startDate": 1
     },
+    "JeffStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "JeffStarterBanner"
+                ]
+            }
+        },
+        "id": "JeffStarterBanner",
+        "startDate": 1
+    },
     "KateStarterBanner": {
         "assets": {},
         "components": {
@@ -225,6 +282,44 @@
             }
         },
         "id": "KateStarterBanner",
+        "startDate": 1
+    },
+    "LegionStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "LegionStarterBanner"
+                ]
+            }
+        },
+        "id": "LegionStarterBanner",
+        "startDate": 1
+    },
+    "LunarCharBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "LunarCharBanner"
+                ]
+            }
+        },
+        "id": "LunarCharBanner",
         "startDate": 1
     },
     "NewCalendar_20191205": {
@@ -840,6 +935,25 @@
             }
         },
         "id": "SpiritStarterBanner",
+        "startDate": 1
+    },
+    "ValPackBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "ValPackBanner"
+                ]
+            }
+        },
+        "id": "ValPackBanner",
         "startDate": 1
     },
     "XPDwightYuiOniNurse": {

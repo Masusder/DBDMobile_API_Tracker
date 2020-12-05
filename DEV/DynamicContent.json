@@ -9066,20 +9066,20 @@
     "storeMarketingBanner": [
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-09-09T14:00:01",
+            "endDate": "2020-12-04T23:00:01",
             "id": "GreekLegendBanner",
-            "imageUrl": "marketingBanner/placeholderBanner1.jpg",
+            "imageUrl": "marketingBanner/DBD_GreekLegendsPack_Banner.png",
             "priority": 1,
-            "startDate": "2020-09-09T14:00:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_GreekLegend_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-09-09T19:00:01",
+            "endDate": "2020-12-04T23:00:01",
             "id": "LegionStarterBanner",
-            "imageUrl": "marketingBanner/placeholderBanner2.jpg",
+            "imageUrl": "marketingBanner/DBD_LeigonPack_Banner.png",
             "priority": 2,
-            "startDate": "2020-09-09T19:00:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_LegionStarter_TITLE"
         },
         {
@@ -9102,11 +9102,11 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-11-16T23:59:59",
+            "endDate": "2020-12-04T23:00:01",
             "id": "HumiliatedLordBanner",
-            "imageUrl": "marketingBanner/placeholderBanner1.jpg",
+            "imageUrl": "marketingBanner/DBD_OniHumiliatedLord_Banner.png",
             "priority": 5,
-            "startDate": "2020-11-16T00:00:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_HumiliatedLord_TITLE"
         },
         {
@@ -9120,29 +9120,29 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T19:30:01",
+            "endDate": "2020-12-04T23:00:01",
             "id": "JeffStarterBanner",
-            "imageUrl": "marketingBanner/placeholderBanner1.jpg",
+            "imageUrl": "marketingBanner/DBD_JeffStarterPack_Banner.png",
             "priority": 7,
-            "startDate": "2020-10-15T19:30:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_JeffStarter_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T16:30:01",
+            "endDate": "2020-12-04T23:00:01",
             "id": "LunarCharBanner",
-            "imageUrl": "marketingBanner/placeholderBanner2.jpg",
+            "imageUrl": "marketingBanner/DBD_LunarCharacterPack_Banner.png",
             "priority": 8,
-            "startDate": "2020-10-15T16:30:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_LunarChar_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-10-15T18:00:01",
+            "endDate": "2020-12-04T23:00:01",
             "id": "ValPackBanner",
-            "imageUrl": "marketingBanner/placeholderBanner1.jpg",
+            "imageUrl": "marketingBanner/DBD_ValPack_Banner.png",
             "priority": 9,
-            "startDate": "2020-10-15T18:00:01",
+            "startDate": "2020-12-04T14:00:01",
             "titleId": "MARKETINGBANNER_ValPack_TITLE"
         },
         {

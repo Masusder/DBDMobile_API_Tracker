@@ -16410,6 +16410,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_Single_Test_2020-07-16"
             ]
         },
         "nonSecure": false,
@@ -16741,6 +16744,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_Single_Test_2020-07-16"
             ]
         },
         "nonSecure": false,
@@ -17056,6 +17062,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_Single_Test_2020-07-16"
             ]
         },
         "nonSecure": false,
@@ -20253,6 +20262,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,
@@ -20588,6 +20600,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,
@@ -20903,6 +20918,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,

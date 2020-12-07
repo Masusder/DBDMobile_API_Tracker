@@ -73,7 +73,7 @@
                                 "id": "BP20201224",
                                 "role": "Global",
                                 "type": "Bloodpoints",
-                                "value": 2.0
+                                "value": 3.0
                             }
                         ]
                     },
@@ -884,6 +884,57 @@
         "id": "PurchasePopupBasic2",
         "startDate": 1
     },
+    "PurchasePopupBasic3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupBasic3"
+            }
+        },
+        "id": "PurchasePopupBasic3",
+        "startDate": 1
+    },
+    "PurchasePopupBasic4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupBasic4"
+            }
+        },
+        "id": "PurchasePopupBasic4",
+        "startDate": 1
+    },
+    "PurchasePopupElf": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupElf"
+            }
+        },
+        "id": "PurchasePopupElf",
+        "startDate": 1
+    },
     "PurchasePopupEntertainer": {
         "assets": {},
         "components": {
@@ -950,6 +1001,23 @@
             }
         },
         "id": "PurchasePopupPremium3",
+        "startDate": 1
+    },
+    "PurchasePopupShoplifter": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupShoplifter"
+            }
+        },
+        "id": "PurchasePopupShoplifter",
         "startDate": 1
     },
     "PurchasePopupStarter": {
@@ -1081,7 +1149,7 @@
                                 "id": "XP20201224",
                                 "role": "Global",
                                 "type": "Experience",
-                                "value": 2.0
+                                "value": 3.0
                             }
                         ]
                     },

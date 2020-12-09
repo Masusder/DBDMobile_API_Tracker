@@ -6477,8 +6477,8 @@
                 "DO_Body006",
                 "DO_W006"
             ],
-            "newStartDate": "2018-10-19T18:00:00",
-            "newEndDate": "2018-11-02T17:59:59"
+            "newStartDate": "2021-10-19T18:00:00",
+            "newEndDate": "2021-11-02T17:59:59"
         },
         {
             "id": "Killer07_outfit_014",
@@ -6653,29 +6653,6 @@
             ],
             "newStartDate": "2018-10-19T18:00:00",
             "newEndDate": "2018-11-02T17:59:59"
-        },
-        {
-            "id": "Bear_outfit_008",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "LunarNewYearCoins",
-                    "price": 3,
-                    "discountPercentage": 0
-                }
-            ],
-            "character": "Bear",
-            "storeItems": [
-                "BE_Mask008",
-                "BE_Body008",
-                "BE_W008"
-            ],
-            "newStartDate": "2019-01-30T19:00:00",
-            "newEndDate": "2019-02-13T18:59:59"
         },
         {
             "id": "BE_outfit_009",

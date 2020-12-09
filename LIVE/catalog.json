@@ -15227,6 +15227,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15276,6 +15279,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15325,6 +15331,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15374,6 +15383,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15423,6 +15435,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15472,6 +15487,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15521,6 +15539,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15570,6 +15591,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15615,6 +15639,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15660,6 +15687,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15705,6 +15735,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15750,6 +15783,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15795,6 +15831,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15840,6 +15879,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15885,6 +15927,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15930,6 +15975,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15975,6 +16023,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16020,6 +16071,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16065,6 +16119,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16110,6 +16167,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16155,6 +16215,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -65265,8 +65328,8 @@
             "base_itemId": "DO_Head006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
+            "newEndDate": "2021-11-02T17:59:59",
+            "newStartDate": "2021-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -65304,8 +65367,8 @@
             "base_itemId": "DO_Body006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
+            "newEndDate": "2021-11-02T17:59:59",
+            "newStartDate": "2021-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -65343,8 +65406,8 @@
             "base_itemId": "DO_W006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
+            "newEndDate": "2021-11-02T17:59:59",
+            "newStartDate": "2021-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -67006,49 +67069,6 @@
             }
         ],
         "eventCostList": [],
-        "id": "BE_Mask008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "BE_Mask008",
-            "character": "Bear",
-            "kind": "Customization",
-            "newEndDate": "2019-02-13T18:59:59",
-            "newStartDate": "2019-01-30T19:00:00",
-            "outfitId": "Bear_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "SpecialEvent",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "android": true,
-                "gas3": true,
-                "ios": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
-                "currencyId": "LunarNewYearCoins",
-                "price": 1
-            }
-        ],
-        "eventCostList": [],
         "id": "BE_Body008",
         "initialQuantity": 0,
         "metaData": {
@@ -67057,12 +67077,10 @@
             "kind": "Customization",
             "newEndDate": "2019-02-13T18:59:59",
             "newStartDate": "2019-01-30T19:00:00",
-            "outfitId": "Bear_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "SpecialEvent",
             "type": "Torso",
-            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -67100,12 +67118,10 @@
             "kind": "Customization",
             "newEndDate": "2019-02-13T18:59:59",
             "newStartDate": "2019-01-30T19:00:00",
-            "outfitId": "Bear_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "SpecialEvent",
             "type": "Weapon",
-            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -87962,8 +87978,8 @@
                 "DO_Body006",
                 "DO_W006"
             ],
-            "newEndDate": "2018-11-02T17:59:59",
-            "newStartDate": "2018-10-19T18:00:00",
+            "newEndDate": "2021-11-02T17:59:59",
+            "newStartDate": "2021-10-19T18:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88160,28 +88176,6 @@
             ],
             "newEndDate": "2018-11-02T17:59:59",
             "newStartDate": "2018-10-19T18:00:00",
-            "unbreakable": false
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
-        "id": "Bear_outfit_008",
-        "metaData": {
-            "character": "Bear",
-            "discountPercentage": 0.1,
-            "items": [
-                "BE_Mask008",
-                "BE_Body008",
-                "BE_W008"
-            ],
-            "newEndDate": "2019-02-13T18:59:59",
-            "newStartDate": "2019-01-30T19:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93666,7 +93660,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 200
+                "quantity": 150
             }
         ],
         "defaultCost": [
@@ -93693,7 +93687,7 @@
         "consumptionCurrenciesList": [
             {
                 "currencyId": "Shards",
-                "quantity": 300
+                "quantity": 200
             }
         ],
         "defaultCost": [

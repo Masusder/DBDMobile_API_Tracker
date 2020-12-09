@@ -1721,17 +1721,17 @@
             {
                 "id": "EntityBoxBloodpointsPack_Small",
                 "type": "bloodpointsPack",
-                "weight": 5000
+                "weight": 0
             },
             {
                 "id": "EntityBoxBloodpointsPack_Medium",
                 "type": "bloodpointsPack",
-                "weight": 4000
+                "weight": 0
             },
             {
                 "id": "EntityBoxBloodpointsPack_Large",
                 "type": "bloodpointsPack",
-                "weight": 3000
+                "weight": 0
             },
             {
                 "id": "EntityBoxShardsPack_Small",
@@ -1757,37 +1757,37 @@
         "killer": [
             {
                 "type": "item",
-                "weight": 50
+                "weight": 200
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 1000
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 1000
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 6000
             }
         ],
         "survivor": [
             {
                 "type": "item",
-                "weight": 50
+                "weight": 200
             },
             {
                 "type": "currency",
-                "weight": 2000
+                "weight": 1000
             },
             {
                 "type": "freeTicket",
-                "weight": 500
+                "weight": 1000
             },
             {
                 "type": "consumable",
-                "weight": 2000
+                "weight": 6000
             }
         ],
         "ticketsRewards": [

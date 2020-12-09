@@ -101,6 +101,62 @@
         "id": "BPSav1",
         "startDate": 1
     },
+    "Bloodhunt3X_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt3X_BPhappyHour": {
+                    "effects": {
+                        "Bloodhunt3X_BP": [
+                            {
+                                "id": "Bloodhunt3X_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt3X_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt3X_BP",
+        "startDate": 1
+    },
+    "Bloodhunt3X_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt3X_XPhappyHour": {
+                    "effects": {
+                        "Bloodhunt3X_XP": [
+                            {
+                                "id": "Bloodhunt3X_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt3X_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt3X_XP",
+        "startDate": 1
+    },
     "Bloodhunt_BP": {
         "assets": {},
         "components": {

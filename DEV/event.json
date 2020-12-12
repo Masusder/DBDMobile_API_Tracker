@@ -709,31 +709,21 @@
             "happyHour": {
                 "ProvingGround_TesthappyHour": {
                     "effects": {
-                        "ProvingGround_TestProvingGround": [
+                        "ProvingGround_TesteventProvingGroundCharacterRandId": [
                             {
-                                "id": "ProvingGround_TestProvingGround",
-                                "type": "ProvingGround",
+                                "id": "ProvingGround_TesteventProvingGroundCharacterRandId",
+                                "type": "ProvingGroundCharacterRand",
                                 "value": [
-                                    "P",
-                                    "r",
-                                    "o",
-                                    "v",
-                                    "i",
-                                    "n",
-                                    "g",
-                                    "G",
-                                    "r",
-                                    "o",
-                                    "u",
-                                    "n",
-                                    "d",
-                                    "S",
-                                    "t",
-                                    "o",
-                                    "r",
-                                    "e",
-                                    "0",
-                                    "1"
+                                    "ProvingGroundCharRand01"
+                                ]
+                            }
+                        ],
+                        "ProvingGround_TesteventProvingGroundStoreId": [
+                            {
+                                "id": "ProvingGround_TesteventProvingGroundStoreId",
+                                "type": "ProvingGroundStore",
+                                "value": [
+                                    "ProvingGroundStore01"
                                 ]
                             }
                         ]

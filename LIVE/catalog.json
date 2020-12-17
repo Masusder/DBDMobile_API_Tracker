@@ -2289,7 +2289,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "Common",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2311,7 +2311,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "Uncommon",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2333,7 +2333,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "Rare",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2355,7 +2355,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "VeryRare",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2377,7 +2377,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "Uncommon",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2399,7 +2399,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "Rare",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2421,7 +2421,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "VeryRare",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -2443,7 +2443,7 @@
             "enabled": true,
             "eventID": "None",
             "rarity": "UltraRare",
-            "role": "Survivor"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -15227,9 +15227,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15279,9 +15276,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15331,9 +15325,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15383,9 +15374,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15435,9 +15423,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15487,9 +15472,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15539,9 +15521,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15591,9 +15570,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15639,9 +15615,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15687,9 +15660,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15735,9 +15705,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15783,9 +15750,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15831,9 +15795,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15879,9 +15840,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15927,9 +15885,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15975,9 +15930,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16023,9 +15975,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16071,9 +16020,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16119,9 +16065,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16167,9 +16110,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16215,9 +16155,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
             ]
         },
         "nonSecure": false,

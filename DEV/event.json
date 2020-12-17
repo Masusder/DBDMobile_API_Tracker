@@ -225,10 +225,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "13SlotsCalendar_Raleigh1",
-                                    "13SlotsCalendar_Raleigh2",
-                                    "13SlotsCalendar_Savannah1",
-                                    "13SlotsCalendar_Savannah2"
+                                    "13SlotsCalendar_Tucson1",
+                                    "7SlotsCalendar_Tucson2"
                                 ]
                             }
                         ]
@@ -981,6 +979,74 @@
             }
         },
         "id": "SpiritStarterBanner",
+        "startDate": 1
+    },
+    "TucsonNACW_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "TucsonNACW_BPhappyHour": {
+                    "effects": {
+                        "TucsonNACW_BP": [
+                            {
+                                "characters": [
+                                    "Nea",
+                                    "Ash",
+                                    "Clown",
+                                    "Bob"
+                                ],
+                                "id": "TucsonNACW_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "TucsonNACW_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "TucsonNACW_BP",
+        "startDate": 1
+    },
+    "TucsonNACW_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "TucsonNACW_XPhappyHour": {
+                    "effects": {
+                        "TucsonNACW_XP": [
+                            {
+                                "characters": [
+                                    "Nea",
+                                    "Ash",
+                                    "Clown",
+                                    "Bob"
+                                ],
+                                "id": "TucsonNACW_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "TucsonNACW_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "TucsonNACW_XP",
         "startDate": 1
     },
     "ValPackBanner": {

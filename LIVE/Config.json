@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -308,6 +308,7 @@
         "value": {
             "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609205096052418441976264915429",
             "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609205096052418441976264915429",
+            "KrakenAnalyticsV2": "https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
             "KrakenAnalytics": "https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
             "KrakenLogs": "https://gamelogs.live.bhvrdbd.com/api/v1/gameLogs/batch"
         },
@@ -679,6 +680,9 @@
             "4.4.0_375948live": "4.4.0_375948live-1607359689",
             "4.4.0_376385live": "4.4.0_376385live-1607440420",
             "4.4.0_376434live": "4.4.0_376434live-1607445296",
+            "4.4.0_377946live": "4.4.0_377946live-1607702040",
+            "4.4.0_378357live": "4.4.0_378357live-1607961862",
+            "4.4.0_378378live": "4.4.0_378378live-1607963047",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -695,7 +699,8 @@
             "m_4.3.2_375834live": "m_4.3.2_375834live-1607354046",
             "m_4.3.2_376249live": "m_4.3.2_376249live-1607380245",
             "m_4.3.2_376404live": "m_4.3.2_376404live-1607442283",
-            "m_4.3.2_376611live": "m_4.3.2_376611live-1607459270"
+            "m_4.3.2_376611live": "m_4.3.2_376611live-1607459270",
+            "m_4.3.2_380082live": "m_4.3.2_380082live-1608223279"
         },
         "keyName": "VER_CLIENT_DATA"
     },

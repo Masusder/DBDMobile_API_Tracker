@@ -624,6 +624,131 @@
         ],
         "startDate": 1605484800
     },
+    "13SlotsCalendar_Tucson1": {
+        "claimType": "minute",
+        "endDate": 1640217599,
+        "id": "13SlotsCalendar_Tucson1",
+        "rewards": [
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "FleshDoll",
+                "type": "inventory"
+            },
+            {
+                "amount": 10000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Item_Camper_MedKit03",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "GoldSurvivorTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 15000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "SurvivorPudding",
+                "type": "inventory"
+            },
+            {
+                "amount": 100,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Shards",
+                "type": "currency"
+            },
+            {
+                "amount": 20000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "GoldKillerTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 5,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Cells",
+                "type": "currency"
+            },
+            {
+                "amount": 25000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 100,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Shards",
+                "type": "currency"
+            },
+            {
+                "amount": 10,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": true
+                },
+                "id": "Cells",
+                "type": "currency"
+            }
+        ],
+        "startDate": 1608508801
+    },
     "7SlotsCalendar_NewP_09_12": {
         "claimType": "day",
         "endDate": 1609459199,
@@ -765,5 +890,76 @@
             }
         ],
         "startDate": 1607472001
+    },
+    "7SlotsCalendar_Tucson2": {
+        "claimType": "minute",
+        "endDate": 1640390399,
+        "id": "7SlotsCalendar_Tucson2",
+        "rewards": [
+            {
+                "amount": 15000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "GoldKillerTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "ThornDoll",
+                "type": "inventory"
+            },
+            {
+                "amount": 25000,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "StampedPostcard",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "GoldSurvivorTicket",
+                "type": "inventory"
+            },
+            {
+                "amount": 100,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": true
+                },
+                "id": "Shards",
+                "type": "currency"
+            }
+        ],
+        "startDate": 1608681601
     }
 }

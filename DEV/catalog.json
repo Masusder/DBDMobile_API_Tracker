@@ -15229,7 +15229,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack1_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15281,7 +15282,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack2_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15593,7 +15595,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack1_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15641,7 +15644,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack2_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15929,7 +15933,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack1_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -15977,7 +15982,8 @@
                 }
             ],
             "firstPurchaseRule": [
-                "First_Purchase_2020-06-17"
+                "First_Purchase_2020-06-17",
+                "First_Purchase_Pack2_2020-06-17"
             ]
         },
         "nonSecure": false,
@@ -16263,6 +16269,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16312,6 +16322,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16361,6 +16375,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_CP3",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16410,6 +16429,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_2020-07-16",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16459,6 +16483,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16508,6 +16536,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16557,6 +16589,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16606,6 +16642,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16651,6 +16691,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16696,6 +16740,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_CP3",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16741,6 +16790,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_2020-07-16",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16786,6 +16840,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16831,6 +16889,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16876,6 +16938,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16921,6 +16987,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -16966,6 +17036,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17011,6 +17085,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_CP3",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17056,6 +17135,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_Single_Test_2020-07-16",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17101,6 +17185,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17146,6 +17234,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17191,6 +17283,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_150_2020-07-23_Test",
+                "First_Purchase_150_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17236,6 +17332,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack1_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17285,6 +17386,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack2_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17334,6 +17440,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack3_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17383,6 +17494,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17432,6 +17547,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP5",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17481,6 +17601,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -17530,6 +17655,12 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17579,6 +17710,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack1_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17624,6 +17760,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack2_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17669,6 +17810,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack3_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17714,6 +17860,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17759,6 +17909,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP5",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -17804,6 +17959,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -17849,6 +18009,12 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -17894,6 +18060,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack1_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17939,6 +18110,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack2_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -17984,6 +18160,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_Pack3_2020-07-29"
             ]
         },
         "nonSecure": false,
@@ -18029,6 +18210,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -18074,6 +18259,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP5",
+                "First_Purchase_130_2020-07-16_Test"
             ]
         },
         "nonSecure": false,
@@ -18119,6 +18309,11 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP6"
             ]
         },
         "nonSecure": false,
@@ -18164,6 +18359,12 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_130_2020-08-09_Test",
+                "First_Purchase_130_Single_Test_CP7",
+                "First_Purchase_130_2020-07-16_Test",
+                "First_Purchase_130_Single_Test_CP7"
             ]
         },
         "nonSecure": false,
@@ -18209,6 +18410,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18258,6 +18463,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18307,6 +18516,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18356,6 +18569,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18405,6 +18622,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18454,6 +18675,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18503,6 +18728,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18552,6 +18781,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18597,6 +18830,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18642,6 +18879,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18687,6 +18928,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18732,6 +18977,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18777,6 +19026,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18822,6 +19075,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18867,6 +19124,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP1",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18912,6 +19173,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP2",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -18957,6 +19222,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP3",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19002,6 +19271,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP4",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19047,6 +19320,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP5",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19092,6 +19369,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP6",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19137,6 +19418,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_120_Single_Test_CP7",
+                "First_Purchase_120_All"
             ]
         },
         "nonSecure": false,
@@ -19182,6 +19467,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP1",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19231,6 +19520,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP2",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19280,6 +19573,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP3",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19329,6 +19626,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP4",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19378,6 +19679,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19427,6 +19732,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP6",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19476,6 +19785,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP7",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19525,6 +19838,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP1",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19570,6 +19887,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP2",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19615,6 +19936,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP3",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19660,6 +19985,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP4",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19705,6 +20034,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19750,6 +20083,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP6",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19795,6 +20132,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP7",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19840,6 +20181,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP1",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19885,6 +20230,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP2",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19930,6 +20279,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP3",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -19975,6 +20328,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP4",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -20020,6 +20377,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP5",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -20065,6 +20426,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP6",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -20110,6 +20475,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_110_Single_Test_CP7",
+                "First_Purchase_110_All"
             ]
         },
         "nonSecure": false,
@@ -20155,6 +20524,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20204,6 +20577,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20253,6 +20630,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20302,6 +20683,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20351,6 +20736,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20400,6 +20789,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20449,6 +20842,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20498,6 +20895,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20543,6 +20944,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20588,6 +20993,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20633,6 +21042,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20678,6 +21091,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20723,6 +21140,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20768,6 +21189,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20813,6 +21238,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP1",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20858,6 +21287,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP2",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20903,6 +21336,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP3",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20948,6 +21385,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP4",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -20993,6 +21434,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP5",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21038,6 +21483,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP6",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21083,6 +21532,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_175_Single_Test_CP7",
+                "First_Purchase_175_All"
             ]
         },
         "nonSecure": false,
@@ -21128,6 +21581,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21177,6 +21634,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21226,6 +21687,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21275,6 +21740,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21324,6 +21793,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21373,6 +21846,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21422,6 +21899,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21471,6 +21952,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21516,6 +22001,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21561,6 +22050,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21606,6 +22099,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21651,6 +22148,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21696,6 +22197,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21741,6 +22246,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21786,6 +22295,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP1",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21831,6 +22344,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP2",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21876,6 +22393,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP3",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21921,6 +22442,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP4",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -21966,6 +22491,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP5",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -22011,6 +22540,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP6",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -22056,6 +22589,10 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_300_Single_Test_CP7",
+                "First_Purchase_300_All"
             ]
         },
         "nonSecure": false,
@@ -79889,6 +80426,102 @@
         "metaData": {
             "base_itemId": "CA_W01",
             "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "SD_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SD_Head01",
+            "character": "Nightmare",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "SD_Body01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SD_Body01",
+            "character": "Nightmare",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "SD_W01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SD_W01",
+            "character": "Nightmare",
             "kind": "Customization",
             "newEndDate": "2020-01-15T14:59:59",
             "newStartDate": "2020-01-01T15:00:00",

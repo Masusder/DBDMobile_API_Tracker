@@ -55742,6 +55742,102 @@
         "consumptionObjectList": [],
         "defaultCost": [],
         "eventCostList": [],
+        "id": "QS_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QS_Head01",
+            "character": "Quentin",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "QS_Torso01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QS_Torso01",
+            "character": "Quentin",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "QS_Legs01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QS_Legs01",
+            "character": "Quentin",
+            "kind": "Customization",
+            "newEndDate": "2020-01-15T14:59:59",
+            "newStartDate": "2020-01-01T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
         "id": "QS_Torso01_P01",
         "initialQuantity": 0,
         "metaData": {

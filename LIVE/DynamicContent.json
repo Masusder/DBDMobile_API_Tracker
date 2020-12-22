@@ -8773,9 +8773,9 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/GreekCharacterStorefront.jpg",
-            "newEndDate": "2020-12-21T14:59:59",
-            "newStartDate": "2020-12-07T15:00:01",
+            "imageUrl": "promoPacks/OniStarterStorefront.jpg",
+            "newEndDate": "2021-01-04T14:59:59",
+            "newStartDate": "2020-12-21T15:00:01",
             "type": "PromoPacks"
         }
     ]

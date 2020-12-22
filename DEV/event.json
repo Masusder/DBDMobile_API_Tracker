@@ -1049,6 +1049,74 @@
         "id": "TucsonNACW_XP",
         "startDate": 1
     },
+    "TucsonNYKT_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "TucsonNYKT_BPhappyHour": {
+                    "effects": {
+                        "TucsonNYKT_BP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Yui",
+                                    "Kate",
+                                    "Chuckles"
+                                ],
+                                "id": "TucsonNYKT_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "TucsonNYKT_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "TucsonNYKT_BP",
+        "startDate": 1
+    },
+    "TucsonNYKT_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "TucsonNYKT_XPhappyHour": {
+                    "effects": {
+                        "TucsonNYKT_XP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Yui",
+                                    "Kate",
+                                    "Chuckles"
+                                ],
+                                "id": "TucsonNYKT_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "TucsonNYKT_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "TucsonNYKT_XP",
+        "startDate": 1
+    },
     "ValPackBanner": {
         "assets": {},
         "components": {

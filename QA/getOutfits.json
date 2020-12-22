@@ -7002,13 +7002,7 @@
         },
         {
             "id": "Claudette_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Claudette",
             "storeItems": [
                 "CM_Head01_02",
@@ -7020,13 +7014,7 @@
         },
         {
             "id": "Dwight_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Dwight",
             "storeItems": [
                 "DF_Head01_04",
@@ -7038,13 +7026,7 @@
         },
         {
             "id": "Trapper_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Chuckles",
             "storeItems": [
                 "TR_Head01_03",
@@ -7056,13 +7038,7 @@
         },
         {
             "id": "Hillbilly_outfit_Winter",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 720,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "HillBilly",
             "storeItems": [
                 "Hillbilly_Body01_03",
@@ -7073,13 +7049,7 @@
         },
         {
             "id": "Meg_outfit_Wilderness",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Meg",
             "storeItems": [
                 "MT_Head01_02_Wilderness",
@@ -7091,13 +7061,7 @@
         },
         {
             "id": "Wraith_outfit_Wilderness",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Bob",
             "storeItems": [
                 "WR_Head01_03_Wilderness",

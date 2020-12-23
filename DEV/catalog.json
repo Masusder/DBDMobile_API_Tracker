@@ -85828,7 +85828,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -85867,7 +85867,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -85906,7 +85906,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Legs",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -85932,10 +85932,10 @@
             }
         ],
         "eventCostList": [],
-        "id": "ML_Head008",
+        "id": "ML_Hand008",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "ML_Head008",
+            "base_itemId": "ML_Hand008",
             "character": "Ash",
             "kind": "Customization",
             "newEndDate": "2020-12-24T00:00:00",
@@ -95234,7 +95234,7 @@
             ],
             "newEndDate": "2020-12-24T00:00:00",
             "newStartDate": "2020-11-04T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -95250,7 +95250,7 @@
             "character": "Ash",
             "discountPercentage": 0.1,
             "items": [
-                "ML_Head008",
+                "ML_Hand008",
                 "ML_Torso008",
                 "ML_Legs008"
             ],

@@ -8252,7 +8252,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
+                    "price": 1250,
                     "discountPercentage": 0.1
                 }
             ],
@@ -8331,7 +8331,7 @@
             "character": "Nurse",
             "storeItems": [
                 "TN_Head010",
-                "TN_Torso_010",
+                "TN_Body010",
                 "TN_W010"
             ],
             "newStartDate": "2020-11-04T00:00:00",

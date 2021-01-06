@@ -24909,7 +24909,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -24970,7 +24970,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -25031,7 +25031,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "3"
+            "limit": "1"
         },
         "unique": false
     },
@@ -85811,7 +85811,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
+                "price": 463
             }
         ],
         "eventCostList": [],
@@ -85850,7 +85850,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
+                "price": 463
             }
         ],
         "eventCostList": [],
@@ -85889,7 +85889,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
+                "price": 463
             }
         ],
         "eventCostList": [],
@@ -86322,10 +86322,10 @@
             }
         ],
         "eventCostList": [],
-        "id": "TN_Torso_010",
+        "id": "TN_Body010",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "TN_Torso_010",
+            "base_itemId": "TN_Body010",
             "character": "Nurse",
             "kind": "Customization",
             "newEndDate": "2020-12-24T00:00:00",
@@ -95317,7 +95317,7 @@
             "discountPercentage": 0.1,
             "items": [
                 "TN_Head010",
-                "TN_Torso_010",
+                "TN_Body010",
                 "TN_W010"
             ],
             "newEndDate": "2020-12-24T00:00:00",

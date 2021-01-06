@@ -8773,9 +8773,7 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/OniStarterStorefront.jpg",
-            "newEndDate": "2021-01-04T14:59:59",
-            "newStartDate": "2020-12-21T15:00:01",
+            "imageUrl": "promoPacks/BaseGame_Storefront.png",
             "type": "PromoPacks"
         }
     ]

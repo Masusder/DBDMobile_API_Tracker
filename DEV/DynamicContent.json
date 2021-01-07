@@ -8642,6 +8642,24 @@
             "imageUrl": "promoPacks/Valentines_Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/ValentinesDayPack.png",
             "titleId": "PROMOPACK_ValPack_TITLE"
+        },
+        {
+            "id": "BaseGameBundle_05",
+            "imageUrl": "promoPacks/Valentines_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+        },
+        {
+            "id": "NeaDeluxeBundle",
+            "imageUrl": "promoPacks/Valentines_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_NeaDeluxeBundle_TITLE"
+        },
+        {
+            "id": "CharacterBundle_01",
+            "imageUrl": "promoPacks/Valentines_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_CharacterBundle01_TITLE"
         }
     ],
     "atlantaEventsUIData": [
@@ -8957,6 +8975,94 @@
             "startDate": "2020-12-01T00:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "BonusACEvent"
+        },
+        {
+            "bannerEndDate": "2021-01-01T00:00:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-01-01T00:00:01",
+            "campaignName": "Bloodhunt_Tucson1",
+            "deepLink": "/Menu_Characters_Survivors/",
+            "descriptionId": "EVENTBANNER_Tucson1_DESC",
+            "displayEndDate": "2021-01-01T00:00:01",
+            "displayStartDate": "2021-01-01T00:00:01",
+            "endDate": "2021-01-01T00:00:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-01-01T00:00:01",
+            "hotStartDate": "2021-01-01T00:00:01",
+            "id": "Bloodhunt_Tucson1",
+            "imageUrl": "events/All_Characters_BH.png",
+            "startDate": "2021-01-01T00:00:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-01-01T00:00:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-01-01T00:00:01",
+            "campaignName": "Bloodhunt_Tucson2",
+            "deepLink": "/Menu_Characters_Survivors/",
+            "descriptionId": "EVENTBANNER_Tucson2_DESC",
+            "displayEndDate": "2021-01-01T00:00:01",
+            "displayStartDate": "2021-01-01T00:00:01",
+            "endDate": "2021-01-01T00:00:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-01-01T00:00:01",
+            "hotStartDate": "2021-01-01T00:00:01",
+            "id": "Bloodhunt_Tucson2",
+            "imageUrl": "events/All_Characters_BH.png",
+            "relatedItemsId": [
+                "Nea",
+                "Ash",
+                "Clown",
+                "Bob"
+            ],
+            "startDate": "2021-01-01T00:00:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-01-01T00:00:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-01-01T00:00:01",
+            "campaignName": "Bloodhunt_Tucson3",
+            "deepLink": "/Menu_Characters_Survivors/",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
+            "displayEndDate": "2021-01-01T00:00:01",
+            "displayStartDate": "2021-01-01T00:00:01",
+            "endDate": "2021-01-01T00:00:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-01-01T00:00:01",
+            "hotStartDate": "2021-01-01T00:00:01",
+            "id": "Bloodhunt_Tucson3",
+            "imageUrl": "events/All_Characters_BH.png",
+            "startDate": "2021-01-01T00:00:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-01-01T00:00:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-01-01T00:00:01",
+            "campaignName": "Bloodhunt_Tucson4",
+            "deepLink": "/Menu_Characters_Survivors/",
+            "descriptionId": "EVENTBANNER_Tucson4_DESC",
+            "displayEndDate": "2021-01-01T00:00:01",
+            "displayStartDate": "2021-01-01T00:00:01",
+            "endDate": "2021-01-01T00:00:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-01-01T00:00:01",
+            "hotStartDate": "2021-01-01T00:00:01",
+            "id": "Bloodhunt_Tucson4",
+            "imageUrl": "events/All_Characters_BH.png",
+            "relatedItemsId": [
+                "Nurse",
+                "Yui",
+                "Kate",
+                "Chuckles"
+            ],
+            "startDate": "2021-01-01T00:00:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
         }
     ],
     "crateKeys": [

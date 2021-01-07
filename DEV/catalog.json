@@ -98892,6 +98892,154 @@
     },
     {
         "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Bear",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Smoke",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Bob",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Feng",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1200
+            }
+        ],
+        "id": "BaseGameBundle_05",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "NK_Head012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Torso012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Legs012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Head009",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Torso009",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Legs009",
+                "type": "inventory"
+            },
+            {
+                "amount": 9000,
+                "id": "Shards",
+                "type": "currency"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 2100
+            }
+        ],
+        "id": "NeaDeluxeBundle",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Yui",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Kate",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Nurse",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1200
+            }
+        ],
+        "id": "CharacterBundle_01",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "shardsPack"
         ],
         "consumable": true,

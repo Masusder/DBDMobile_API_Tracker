@@ -8958,25 +8958,6 @@
             "type": "Gacha"
         },
         {
-            "bannerEndDate": "2020-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2020-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2020-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2020-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "BonusACEvent_Savannah",
-            "imageUrl": "events/Auric_Cell_50.png",
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "BonusACEvent"
-        },
-        {
             "bannerEndDate": "2021-01-01T00:00:01",
             "bannerPriority": 2,
             "bannerStartDate": "2021-01-01T00:00:01",
@@ -9063,6 +9044,44 @@
             "startDate": "2021-01-01T00:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-12-01T23:59:59",
+            "bannerPriority": 2,
+            "bannerStartDate": "2020-12-01T00:00:01",
+            "campaignName": "BonusACEvent_Savannah",
+            "deepLink": "/Storefront_Premium/",
+            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
+            "displayEndDate": "2021-12-01T23:59:59",
+            "displayStartDate": "2020-12-01T00:00:01",
+            "endDate": "2021-12-01T23:59:59",
+            "eventPriority": 2,
+            "hotEndDate": "2021-12-01T23:59:59",
+            "hotStartDate": "2020-12-01T00:00:01",
+            "id": "BonusACEvent_Savannah",
+            "imageUrl": "events/Auric_Cell_50.png",
+            "startDate": "2020-12-01T00:00:01",
+            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
+            "type": "BonusACEvent"
+        },
+        {
+            "bannerEndDate": "2021-12-01T23:59:59",
+            "bannerPriority": 2,
+            "bannerStartDate": "2020-12-01T00:00:01",
+            "campaignName": "BonusACEvent_Savannah",
+            "deepLink": "/Storefront_Premium/",
+            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
+            "displayEndDate": "2021-12-01T23:59:59",
+            "displayStartDate": "2020-12-01T00:00:01",
+            "endDate": "2021-12-01T23:59:59",
+            "eventPriority": 2,
+            "hotEndDate": "2021-12-01T23:59:59",
+            "hotStartDate": "2020-12-01T00:00:01",
+            "id": "FirstPremiumPurchaseEvent",
+            "imageUrl": "events/eventPlaceholderImage1.png",
+            "startDate": "2020-12-01T00:00:01",
+            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
+            "type": "FirstPremiumPurchase"
         }
     ],
     "crateKeys": [
@@ -9166,6 +9185,11 @@
                 "descriptionId": "PURCHASEPOPUP_elf_DESC",
                 "imageUrl": "purchasePopups/ElfDwightPurchasePopup.png",
                 "titleId": "PURCHASEPOPUP_elf_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_feng_DESC",
+                "imageUrl": "purchasePopups/BunnyFeng_Direct_Popup.png",
+                "titleId": "PURCHASEPOPUP_feng_TITLE"
             }
         ]
     },

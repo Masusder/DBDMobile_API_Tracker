@@ -22858,18 +22858,6 @@
             {
                 "objectId": "FM_Legs011",
                 "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Head011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Torso011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Legs011_01",
-                "quantity": 1.0
             }
         ],
         "defaultCost": [
@@ -23292,18 +23280,6 @@
             {
                 "objectId": "FM_Legs011",
                 "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Head011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Torso011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Legs011_01",
-                "quantity": 1.0
             }
         ],
         "defaultCost": [
@@ -23433,18 +23409,6 @@
             },
             {
                 "objectId": "FM_Legs011",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Head011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Torso011_01",
-                "quantity": 1.0
-            },
-            {
-                "objectId": "FM_Legs011_01",
                 "quantity": 1.0
             }
         ],
@@ -25032,6 +24996,205 @@
         "purchasable": true,
         "purchaseCap": {
             "limit": "1"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_feng_2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
         },
         "unique": false
     },
@@ -99753,25 +99916,25 @@
         "consumptionReward": [
             {
                 "amount": 50,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Cells",
                 "type": "currency"
             },
             {
                 "amount": 1000,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Shards",
                 "type": "currency"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }
@@ -99804,25 +99967,25 @@
         "consumptionReward": [
             {
                 "amount": 50,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Cells",
                 "type": "currency"
             },
             {
                 "amount": 1000,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Shards",
                 "type": "currency"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }
@@ -99855,25 +100018,25 @@
         "consumptionReward": [
             {
                 "amount": 50,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Cells",
                 "type": "currency"
             },
             {
                 "amount": 1000,
-                "gameSpecificData": "day",
+                "gameSpecificData": "Daily",
                 "id": "Shards",
                 "type": "currency"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "renewal",
+                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }

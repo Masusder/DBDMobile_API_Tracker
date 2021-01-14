@@ -284,7 +284,7 @@
         ],
         "id": "AzarovKey",
         "metaData": {
-            "enabled": true,
+            "enabled": false,
             "eventID": "None",
             "rarity": "Rare",
             "role": "None"

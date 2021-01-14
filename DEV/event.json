@@ -404,6 +404,35 @@
         "id": "NewCalendar_20191205",
         "startDate": 1
     },
+    "NurseStarterPack": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "NurseStarterPackhappyHour": {
+                    "effects": {
+                        "NurseStarterPackPromoPack": [
+                            {
+                                "id": "NurseStarterPackPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NurseStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "NurseStarterPackhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "NurseStarterPack",
+        "startDate": 1
+    },
     "OniStarterBanner": {
         "assets": {},
         "components": {

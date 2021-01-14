@@ -2085,71 +2085,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
-                },
-                {
-                    "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "Pakiet dewelopera"
-                },
-                {
-                    "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "PROMOPACK_AlexWraithBundle_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "April Outfit Bundle"
                 },
                 {
@@ -4095,71 +4030,6 @@
                 }
             ],
             "textId": "PROMOPACK_JeffStarterPack_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
-                },
-                {
-                    "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "Pakiet dewelopera"
-                },
-                {
-                    "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "PROMOPACK_JuliaSmokeBundle_TITLE"
         },
         {
             "loc": [
@@ -8308,12 +8178,6 @@
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
-            "id": "AlexWraithBundle",
-            "imageUrl": "promoPacks/Wraith_Dev_Pick.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
-            "titleId": "PROMOPACK_AlexWraithBundle_TITLE"
-        },
-        {
             "id": "BearAdamPack",
             "imageUrl": "promoPacks/Huntress-Adam.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
@@ -8348,12 +8212,6 @@
             "imageUrl": "promoPacks/The-Trapper_Past-Time-Bundle.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_TrapperOutfitBundle_0423_TITLE"
-        },
-        {
-            "id": "JuliaSmokeBundle",
-            "imageUrl": "promoPacks/Devs-Pick-Bundle_Julia.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
-            "titleId": "PROMOPACK_JuliaSmokeBundle_TITLE"
         },
         {
             "id": "SpiritStarterPack",
@@ -9094,14 +8952,17 @@
     ],
     "eventItemsPacks": [
         {
+            "endDate": "2021-09-23T23:59:59",
             "imageUrl": "eventItemsPacks/ATL_ACEvent_AuricBG.png",
             "titleId": "PURCHASEPOPUP_basic1_TITLE"
         },
         {
+            "endDate": "2021-09-23T23:59:59",
             "imageUrl": "eventItemsPacks/ATL_ACEvent_AuricBG.png",
             "titleId": "PURCHASEPOPUP_basic2_TITLE"
         },
         {
+            "endDate": "2021-09-23T23:59:59",
             "imageUrl": "eventItemsPacks/ATL_ACEvent_AuricBG.png",
             "titleId": "PURCHASEPOPUP_premium2_TITLE"
         }

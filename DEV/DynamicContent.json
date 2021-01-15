@@ -1305,6 +1305,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Earn double the Bloodpoints and character experience when playing as Nea, Ash, The Clown and The Wraith while the Bloodhunt+ is on."
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "EVENTBANNER_Tucson2_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "INVENTORY PROMO PACK"
                 },
                 {
@@ -8835,27 +8900,27 @@
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2021-01-01T00:00:01",
+            "bannerEndDate": "2021-01-19T18:00:01",
             "bannerPriority": 2,
-            "bannerStartDate": "2021-01-01T00:00:01",
+            "bannerStartDate": "2021-01-19T14:00:01",
             "campaignName": "Bloodhunt_Tucson2",
             "deepLink": "/Menu_Characters_Survivors/",
             "descriptionId": "EVENTBANNER_Tucson2_DESC",
-            "displayEndDate": "2021-01-01T00:00:01",
-            "displayStartDate": "2021-01-01T00:00:01",
-            "endDate": "2021-01-01T00:00:01",
+            "displayEndDate": "2021-01-19T18:00:01",
+            "displayStartDate": "2021-01-19T14:00:01",
+            "endDate": "2021-01-19T18:00:01",
             "eventPriority": 2,
-            "hotEndDate": "2021-01-01T00:00:01",
-            "hotStartDate": "2021-01-01T00:00:01",
+            "hotEndDate": "2021-01-19T18:00:01",
+            "hotStartDate": "2021-01-19T14:00:01",
             "id": "Bloodhunt_Tucson2",
-            "imageUrl": "events/All_Characters_BH.png",
+            "imageUrl": "events/AshNeaClownWraith.png",
             "relatedItemsId": [
                 "Nea",
                 "Ash",
                 "Clown",
                 "Bob"
             ],
-            "startDate": "2021-01-01T00:00:01",
+            "startDate": "2021-01-19T14:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
         },

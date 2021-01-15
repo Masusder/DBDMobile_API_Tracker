@@ -67006,6 +67006,47 @@
             }
         ],
         "eventCostList": [],
+        "id": "BE_Mask008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "BE_Mask008",
+            "character": "Bear",
+            "kind": "Customization",
+            "newEndDate": "2019-02-13T18:59:59",
+            "newStartDate": "2019-01-30T19:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "LunarNewYearCoins",
+                "price": 1
+            }
+        ],
+        "eventCostList": [],
         "id": "BE_Body008",
         "initialQuantity": 0,
         "metaData": {

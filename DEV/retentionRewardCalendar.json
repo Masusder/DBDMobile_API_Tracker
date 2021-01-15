@@ -626,7 +626,7 @@
     },
     "13SlotsCalendar_Tucson1": {
         "claimType": "minute",
-        "endDate": 1640044799,
+        "endDate": 1611089999,
         "id": "13SlotsCalendar_Tucson1",
         "rewards": [
             {
@@ -747,7 +747,7 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1608422401
+        "startDate": 1611079201
     },
     "7SlotsCalendar_NewP_09_12": {
         "claimType": "day",

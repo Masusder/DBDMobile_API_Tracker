@@ -915,136 +915,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Receive 75% extra Auric Cells when purchasing the 1100 Auric Cell pack."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Erhalte 75\u00a0% zus\u00e4tzliche Aurazellen, wenn du das Pack mit 1.100 Aurazellen kaufst."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Recibe un 75\u00a0% m\u00e1s de c\u00e9lulas de aura al comprar el lote de 1100 c\u00e9lulas de aura."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Recibe un 75\u00a0% de c\u00e9lulas \u00e1uricas adicionales al comprar el lote de 1100 c\u00e9lulas \u00e1uricas."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Recevez 75\u00a0% de cellules d\u2019ora en plus pour l'achat du pack de 1\u00a0100\u00a0cellules d'ora."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Ricevi il 75% di cellule auriche extra acquistando il pacchetto da 1.100 cellule auriche."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "1100\u30aa\u30fc\u30ea\u30c3\u30af\u30bb\u30eb\u30d1\u30c3\u30af\u8cfc\u5165\u3067\u30aa\u30fc\u30ea\u30c3\u30af\u30bb\u30eb\u304c\u3055\u3089\u306b75%\u5897\u91cf\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "1100 \uae08\ube5b \uc138\ud3ec \ud329\uc744 \uad6c\ub9e4 \uc2dc, \uae08\ube5b \uc138\ud3ec\uac00 75% \ub354 \ucd94\uac00\ub85c \uc81c\uacf5\ub429\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a o 75% wi\u0119cej z\u0142ocistych mikrobiom\u00f3w przy zakupie pakietu 1100 z\u0142ocistych mikrobiom\u00f3w."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Obtenha 75% a mais de C\u00e9lulas de Aura ao comprar o pacote com 1.100 C\u00e9lulas de Aura."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u0435 \u0435\u0449\u0435 75% \u0437\u043e\u043b\u043e\u0442\u044b\u0445 \u043a\u043b\u0435\u0442\u043e\u043a \u043f\u0440\u0438 \u043f\u043e\u043a\u0443\u043f\u043a\u0435 \u043d\u0430\u0431\u043e\u0440\u0430 \u0438\u0437 1100 \u0437\u043e\u043b\u043e\u0442\u044b\u0445 \u043a\u043b\u0435\u0442\u043e\u043a."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e40\u0e0b\u0e25\u0e25\u0e4c\u0e2d\u0e2d\u0e23\u0e48\u0e32\u0e40\u0e1e\u0e34\u0e48\u0e21 75% \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e0b\u0e37\u0e49\u0e2d\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e0b\u0e25\u0e25\u0e4c\u0e2d\u0e2d\u0e23\u0e48\u0e32 1100 \u0e40\u0e0b\u0e25\u0e25\u0e4c"
-                },
-                {
-                    "lang": "TR",
-                    "text": "1.100 Alt\u0131n H\u00fccre paketi al\u0131rken %75 ekstra Alt\u0131n H\u00fccre al."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8d2d\u4e701100\u6697\u91d1\u7ec6\u80de\u793c\u5305\u65f6\uff0c\u83b7\u5f9775%\u989d\u5916\u6697\u91d1\u7ec6\u80de\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u8cfc\u8cb71100\u6697\u91d1\u7d30\u80de\u5305\u6642\uff0c\u7372\u5f9775%\u984d\u5916\u6697\u91d1\u7d30\u80de\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_BonusACEventSavannah_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "BONUS AURIC CELL EVENT"
-                },
-                {
-                    "lang": "GER",
-                    "text": "BONUS-AURAZELLEN-EVENT"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "EVENTO DE C\u00c9LULAS DE AURA DE BONIFICACI\u00d3N"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "EVENTO DE C\u00c9LULAS \u00c1URICAS ADICIONALES"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "\u00c9V\u00c9NEMENT \u00c0 CELLULES D'ORA BONUS"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "EVENTO CELLULE AURICHE BONUS"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30aa\u30fc\u30ea\u30c3\u30af\u30bb\u30eb\u306e\u30dc\u30fc\u30ca\u30b9\u30a4\u30d9\u30f3\u30c8"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ubcf4\ub108\uc2a4 \uae08\ube5b \uc138\ud3ec \uc774\ubca4\ud2b8"
-                },
-                {
-                    "lang": "POL",
-                    "text": "WYDARZENIE Z DODATKOWYMI Z\u0141OCISTYMI MIKROBIOMAMI"
-                },
-                {
-                    "lang": "POR",
-                    "text": "EVENTO DE C\u00c9LULAS DE AURA EXTRAS"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0421\u041e\u0411\u042b\u0422\u0418\u0415 \u0421 \u0411\u041e\u041d\u0423\u0421\u041d\u042b\u041c\u0418 \u0417\u041e\u041b\u041e\u0422\u042b\u041c\u0418 \u041a\u041b\u0415\u0422\u041a\u0410\u041c\u0418"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e2d\u0e35\u0e40\u0e27\u0e19\u0e17\u0e4c\u0e40\u0e0b\u0e25\u0e25\u0e4c\u0e2d\u0e2d\u0e23\u0e48\u0e32\u0e42\u0e1a\u0e19\u0e31\u0e2a"
-                },
-                {
-                    "lang": "TR",
-                    "text": "BONUS ALTIN H\u00dcCRE ETK\u0130NL\u0130\u011e\u0130"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u989d\u5916\u6697\u91d1\u7ec6\u80de\u6d3b\u52a8"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u984d\u5916\u6697\u91d1\u7d30\u80de\u6d3b\u52d5"
-                }
-            ],
-            "textId": "EVENTBANNER_BonusACEventSavannah_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Return to The Fog daily to claim exclusive rewards."
                 },
                 {
@@ -2274,6 +2144,71 @@
                     "text": "\u4e3b\u904a\u6232\u540c\u6346\u5305"
                 }
             ],
+            "textId": "PROMOPACK_BaseGameBundle05_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Base Game Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Basisspiel-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete del juego base"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete del juego b\u00e1sico"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de jeu de base"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle di gioco base"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u672c\u7de8\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uae30\ubcf8 \uac8c\uc784 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Podstawowy pakiet gry"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Conjunto de Jogo B\u00e1sico"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u043d\u0430\u0431\u043e\u0440"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e01\u0e21\u0e2b\u0e25\u0e31\u0e01"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Temel Oyun Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u57fa\u7840\u6e38\u620f\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u4e3b\u904a\u6232\u540c\u6346\u5305"
+                }
+            ],
             "textId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
@@ -2535,6 +2470,71 @@
                 }
             ],
             "textId": "PROMOPACK_CanadaDayClaudette_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Grim Matsuri Mega Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_CharacterBundle01_TITLE"
         },
         {
             "loc": [
@@ -5005,6 +5005,71 @@
                 }
             ],
             "textId": "PROMOPACK_NashvilleSurvivorPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Nea Deluxe Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_NeaDeluxeBundle_TITLE"
         },
         {
             "loc": [
@@ -8594,7 +8659,7 @@
             "descriptionId": "EVENTBANNER_Calendar_DESC",
             "displayEndDate": "2050-12-02T20:00:00",
             "displayStartDate": "2020-09-03T18:00:01",
-            "endDate": "2020-12-02T20:00:00",
+            "endDate": "2050-12-02T20:00:00",
             "eventPriority": 2,
             "hotEndDate": "2050-12-02T20:00:00",
             "hotStartDate": "2020-09-03T18:00:01",
@@ -8967,145 +9032,6 @@
             "startDate": "2021-01-01T00:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "BonusACEvent_Savannah",
-            "imageUrl": "events/Auric_Cell_50.png",
-            "relatedItemsId": [
-                "1",
-                "2",
-                "3",
-                "4"
-            ],
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "BonusACEvent"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "FirstPremiumPurchaseEventTest2pack",
-            "imageUrl": "events/eventPlaceholderImage1.png",
-            "relatedItemsId": [
-                "2",
-                "3"
-            ],
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "FirstPremiumPurchase"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "FirstPremiumPurchaseEventTest5pack",
-            "imageUrl": "events/eventPlaceholderImage1.png",
-            "relatedItemsId": [
-                "1",
-                "4",
-                "5",
-                "6",
-                "7"
-            ],
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "FirstPremiumPurchase"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_Bloodhunt20200205_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "FirstPremiumPurchaseEventTest3pack",
-            "imageUrl": "events/eventPlaceholderImage1.png",
-            "relatedItemsId": [
-                "1",
-                "2",
-                "3"
-            ],
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "FirstPremiumPurchase"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "FirstPremiumPurchaseEventTest1pack",
-            "imageUrl": "events/eventPlaceholderImage1.png",
-            "relatedItemsId": [
-                "3"
-            ],
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "FirstPremiumPurchase"
-        },
-        {
-            "bannerEndDate": "2021-12-01T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-12-01T00:00:01",
-            "campaignName": "BonusACEvent_Savannah",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_Bloodhunt20200205_DESC",
-            "displayEndDate": "2021-12-01T23:59:59",
-            "displayStartDate": "2020-12-01T00:00:01",
-            "endDate": "2021-12-01T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2021-12-01T23:59:59",
-            "hotStartDate": "2020-12-01T00:00:01",
-            "id": "FirstPremiumPurchaseEventTestEveryPack",
-            "imageUrl": "events/eventPlaceholderImage1.png",
-            "startDate": "2020-12-01T00:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "FirstPremiumPurchase"
         }
     ],
     "crateKeys": [

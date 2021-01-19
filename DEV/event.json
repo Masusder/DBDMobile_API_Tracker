@@ -225,7 +225,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "7SlotsCalendar_Tucson2"
+                                    "7SlotsCalendar_Tucson2",
+                                    "13SlotsCalendar_Tucson1"
                                 ]
                             }
                         ]

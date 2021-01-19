@@ -86551,6 +86551,123 @@
     },
     {
         "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Head018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Head018",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-24T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "CM_outfit_018",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Torso018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Torso018",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-24T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "CM_outfit_018",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Legs018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Legs018",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-24T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "outfitId": "CM_outfit_018",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "outfit"
         ],
         "consumable": false,
@@ -95486,6 +95603,28 @@
             "newEndDate": "2020-12-24T00:00:00",
             "newStartDate": "2020-11-04T00:00:00",
             "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "CM_outfit_018",
+        "metaData": {
+            "character": "Claudette",
+            "discountPercentage": 0.1,
+            "items": [
+                "CM_Head018",
+                "CM_Torso018",
+                "CM_Legs018"
+            ],
+            "newEndDate": "2020-12-24T00:00:00",
+            "newStartDate": "2020-11-04T00:00:00",
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,

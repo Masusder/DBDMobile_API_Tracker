@@ -8336,6 +8336,24 @@
             ],
             "newStartDate": "2020-11-04T00:00:00",
             "newEndDate": "2020-12-24T00:00:00"
+        },
+        {
+            "id": "CM_outfit_018",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Claudette",
+            "storeItems": [
+                "CM_Head018",
+                "CM_Torso018",
+                "CM_Legs018"
+            ],
+            "newStartDate": "2020-11-04T00:00:00",
+            "newEndDate": "2020-12-24T00:00:00"
         }
     ]
 }

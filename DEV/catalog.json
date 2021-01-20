@@ -22758,7 +22758,7 @@
         ],
         "purchasable": true,
         "purchaseCap": {
-            "limit": "1"
+            "limit": "10"
         },
         "unique": false
     },

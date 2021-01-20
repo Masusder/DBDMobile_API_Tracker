@@ -101,6 +101,35 @@
         "id": "BPSav1",
         "startDate": 1
     },
+    "BearStarterPack": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "BearStarterPackhappyHour": {
+                    "effects": {
+                        "BearStarterPackPromoPack": [
+                            {
+                                "id": "BearStarterPackPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BearStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "BearStarterPackhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "BearStarterPack",
+        "startDate": 1
+    },
     "Bloodhunt3X_BP": {
         "assets": {},
         "components": {

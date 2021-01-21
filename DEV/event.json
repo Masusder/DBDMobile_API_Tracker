@@ -881,6 +881,23 @@
         "id": "PurchasePopupFeng",
         "startDate": 1
     },
+    "PurchasePopupFeng2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupFeng2"
+            }
+        },
+        "id": "PurchasePopupFeng2",
+        "startDate": 1
+    },
     "PurchasePopupOni": {
         "assets": {},
         "components": {

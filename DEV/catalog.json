@@ -86559,7 +86559,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 250
+                "price": 400
             }
         ],
         "eventCostList": [],
@@ -86574,7 +86574,7 @@
             "outfitId": "CM_outfit_018",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "type": "Head",
             "unbreakable": true,
             "version": {
@@ -86598,7 +86598,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 250
+                "price": 400
             }
         ],
         "eventCostList": [],
@@ -86613,7 +86613,7 @@
             "outfitId": "CM_outfit_018",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "type": "Torso",
             "unbreakable": true,
             "version": {
@@ -86637,7 +86637,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 250
+                "price": 400
             }
         ],
         "eventCostList": [],
@@ -86652,7 +86652,7 @@
             "outfitId": "CM_outfit_018",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "Rare",
+            "rarity": "VeryRare",
             "type": "Legs",
             "unbreakable": true,
             "version": {

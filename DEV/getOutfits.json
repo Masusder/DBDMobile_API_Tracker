@@ -8342,7 +8342,7 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 675,
+                    "price": 1080,
                     "discountPercentage": 0.1
                 }
             ],

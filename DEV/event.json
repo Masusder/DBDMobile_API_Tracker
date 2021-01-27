@@ -272,6 +272,35 @@
         "id": "DefaultCalendar",
         "startDate": 1
     },
+    "FreeTicketBundle": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "FreeTicketBundlehappyHour": {
+                    "effects": {
+                        "FreeTicketBundlePromoPack": [
+                            {
+                                "id": "FreeTicketBundlePromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "FreeTicketBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "FreeTicketBundlehappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "FreeTicketBundle",
+        "startDate": 1
+    },
     "GreekLegendBanner": {
         "assets": {},
         "components": {

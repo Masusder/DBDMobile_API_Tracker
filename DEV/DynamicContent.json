@@ -1565,6 +1565,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "GRIM MATSURI MEGA BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_GrimMatsuri_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "HUMILIATED LORD BUNDLE"
                 },
                 {
@@ -1885,6 +1950,71 @@
                 }
             ],
             "textId": "MARKETINGBANNER_LunarChar_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "NEA DELUXE BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_NeaDeluxe_TITLE"
         },
         {
             "loc": [
@@ -9472,6 +9602,33 @@
             "priority": 10,
             "startDate": "2020-12-02T13:30:01",
             "titleId": "MARKETINGBANNER_KateStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-02-05T23:00:01",
+            "id": "GrimMatsuriBanner",
+            "imageUrl": "marketingBanner/GrimMatsuriBanner.png",
+            "priority": 1,
+            "startDate": "2021-02-01T14:00:01",
+            "titleId": "MARKETINGBANNER_GrimMatsuri_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-02-05T23:00:01",
+            "id": "KateStarterPackBanner",
+            "imageUrl": "marketingBanner/KateStarterPackBanner.png",
+            "priority": 2,
+            "startDate": "2021-02-01T14:00:01",
+            "titleId": "MARKETINGBANNER_KateStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-02-05T23:00:01",
+            "id": "NeaDeluxeBanner",
+            "imageUrl": "marketingBanner/NeaDeluxeBanner.png",
+            "priority": 3,
+            "startDate": "2021-02-01T14:00:01",
+            "titleId": "MARKETINGBANNER_NeaDeluxe_TITLE"
         }
     ],
     "storefrontUIData": [

@@ -320,6 +320,25 @@
         "id": "GreekLegendBanner",
         "startDate": 1
     },
+    "GrimMatsuriBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "GrimMatsuriBanner"
+                ]
+            }
+        },
+        "id": "GrimMatsuriBanner",
+        "startDate": 1
+    },
     "HumiliatedLordBanner": {
         "assets": {},
         "components": {
@@ -396,6 +415,25 @@
         "id": "KateStarterBanner",
         "startDate": 1
     },
+    "KateStarterPackBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "KateStarterPackBanner"
+                ]
+            }
+        },
+        "id": "KateStarterPackBanner",
+        "startDate": 1
+    },
     "LegionStarterBanner": {
         "assets": {},
         "components": {
@@ -432,6 +470,25 @@
             }
         },
         "id": "LunarCharBanner",
+        "startDate": 1
+    },
+    "NeaDeluxeBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "NeaDeluxeBanner"
+                ]
+            }
+        },
+        "id": "NeaDeluxeBanner",
         "startDate": 1
     },
     "NewCalendar_20191205": {

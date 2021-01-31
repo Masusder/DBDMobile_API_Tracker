@@ -98237,20 +98237,17 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 200
+                "price": 50
             }
         ],
         "id": "FreeTicketBundle",
         "metaData": {
-            "highlighted": true,
-            "priority": 10
+            "highlighted": false,
+            "priority": 0
         },
         "nonSecure": false,
         "premium": false,
         "purchasable": true,
-        "purchaseCap": {
-            "limit": 10
-        },
         "unique": false
     },
     {

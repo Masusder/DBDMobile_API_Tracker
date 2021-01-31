@@ -844,6 +844,126 @@
         "id": "PromopackShardsTest",
         "startDate": 1
     },
+    "PromopackTucson1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackTucson1happyHour": {
+                    "effects": {
+                        "PromopackTucson1PromoPack": [
+                            {
+                                "id": "PromopackTucson1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_05",
+                                    "NewPlayerBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackTucson1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackTucson1",
+        "startDate": 1
+    },
+    "PromopackTucson2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackTucson2happyHour": {
+                    "effects": {
+                        "PromopackTucson2PromoPack": [
+                            {
+                                "id": "PromopackTucson2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NeaDeluxeBundle",
+                                    "SmokeHardManStarterPack",
+                                    "NurseStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackTucson2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackTucson2",
+        "startDate": 1
+    },
+    "PromopackTucson3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackTucson3happyHour": {
+                    "effects": {
+                        "PromopackTucson3PromoPack": [
+                            {
+                                "id": "PromopackTucson3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "CharacterBundle_01"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackTucson3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackTucson3",
+        "startDate": 1
+    },
+    "PromopackTucson4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackTucson4happyHour": {
+                    "effects": {
+                        "PromopackTucson4PromoPack": [
+                            {
+                                "id": "PromopackTucson4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "YuiStarterPack",
+                                    "KateStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackTucson4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackTucson4",
+        "startDate": 1
+    },
     "ProvingGround_Test": {
         "assets": {},
         "components": {

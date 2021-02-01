@@ -9438,12 +9438,6 @@
             "hotStartDate": "2021-01-21T00:00:01",
             "id": "BonusAC_Test_3",
             "imageUrl": "events/Auric_Cell_50.png",
-            "relatedItemsId": [
-                "3",
-                "4",
-                "5",
-                "7"
-            ],
             "startDate": "2021-01-21T00:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "BonusACEvent"

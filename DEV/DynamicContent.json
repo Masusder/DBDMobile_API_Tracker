@@ -9458,7 +9458,7 @@
             "id": "BonusAC_Test_4",
             "imageUrl": "events/Auric_Cell_50.png",
             "relatedItemsId": [
-                "2",
+                "3",
                 "7"
             ],
             "startDate": "2021-01-21T00:00:01",
@@ -9699,7 +9699,7 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/NeaDeluxeStorefront.png",
+            "imageUrl": "promoPacks/YuiStarterStorefront.png",
             "newEndDate": "2021-02-05T23:00:00",
             "newStartDate": "2020-10-14T17:00:01",
             "type": "PromoPacks"

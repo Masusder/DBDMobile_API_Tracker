@@ -9373,6 +9373,9 @@
             "hotStartDate": "2021-01-20T00:00:01",
             "id": "FirstPurchaseEvent",
             "imageUrl": "events/Auric_Cell_30.png",
+            "relatedItemsId": [
+                "200"
+            ],
             "startDate": "2021-01-20T00:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "FirstPremiumPurchase"
@@ -9394,72 +9397,6 @@
             "imageUrl": "events/Auric_Cell_50.png",
             "relatedItemsId": [
                 "3"
-            ],
-            "startDate": "2021-01-21T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "BonusACEvent"
-        },
-        {
-            "bannerEndDate": "2022-01-21T23:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-01-21T00:00:01",
-            "campaignName": "BonusAC_Test_2",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2022-01-21T23:00:01",
-            "displayStartDate": "2021-01-21T00:00:01",
-            "endDate": "2022-01-21T23:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2022-01-21T23:00:01",
-            "hotStartDate": "2021-01-21T00:00:01",
-            "id": "BonusAC_Test_2",
-            "imageUrl": "events/Auric_Cell_50.png",
-            "relatedItemsId": [
-                "1",
-                "2",
-                "3"
-            ],
-            "startDate": "2021-01-21T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "BonusACEvent"
-        },
-        {
-            "bannerEndDate": "2022-01-21T23:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-01-21T00:00:01",
-            "campaignName": "BonusAC_Test_3",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2022-01-21T23:00:01",
-            "displayStartDate": "2021-01-21T00:00:01",
-            "endDate": "2022-01-21T23:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2022-01-21T23:00:01",
-            "hotStartDate": "2021-01-21T00:00:01",
-            "id": "BonusAC_Test_3",
-            "imageUrl": "events/Auric_Cell_50.png",
-            "startDate": "2021-01-21T00:00:01",
-            "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
-            "type": "BonusACEvent"
-        },
-        {
-            "bannerEndDate": "2022-01-21T23:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-01-21T00:00:01",
-            "campaignName": "BonusAC_Test_4",
-            "deepLink": "/Storefront_Premium/",
-            "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2022-01-21T23:00:01",
-            "displayStartDate": "2021-01-21T00:00:01",
-            "endDate": "2022-01-21T23:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2022-01-21T23:00:01",
-            "hotStartDate": "2021-01-21T00:00:01",
-            "id": "BonusAC_Test_4",
-            "imageUrl": "events/Auric_Cell_50.png",
-            "relatedItemsId": [
-                "3",
-                "7"
             ],
             "startDate": "2021-01-21T00:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",

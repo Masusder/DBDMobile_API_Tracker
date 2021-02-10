@@ -1,5 +1,16 @@
 {
-    "LoadingScreenData": [],
+    "LoadingScreenData": [
+        {
+            "id": "loading_Halloween",
+            "imageRole": "both",
+            "imageUrlList": [
+                "loadingScreen/ATL_LoadingS_Halloween_03.png",
+                "loadingScreen/ATL_LoadingS_Halloween_02.png",
+                "loadingScreen/ATL_LoadingS_Halloween_01.png"
+            ],
+            "type": "generic"
+        }
+    ],
     "Localization": [
         {
             "loc": [
@@ -1235,136 +1246,6 @@
                 }
             ],
             "textId": "EVENTBANNER_FirstPurchase_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Open an Obsidian Crate for a chance to collect many rare outfits."
-                },
-                {
-                    "lang": "GER",
-                    "text": "\u00d6ffne eine Obsidian-Kiste, um Chancen auf viele seltene Outfits zu bekommen."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Abre una caja de obsidiana para tener una oportunidad de conseguir atuendos raros."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Abre una caja obsidiana para tener la oportunidad de conseguir varios atuendos poco comunes."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Ouvrez une Caisse obsidienne pour tenter d'obtenir de nombreuses tenues rares."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Apri una cassa di ossidiana per avere la possibilit\u00e0 di ottenere tanti completi rari."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u9ed2\u66dc\u77f3\u30af\u30ec\u30fc\u30c8\u958b\u653e\u3067\u30ec\u30a2\u306e\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u591a\u6570\u5165\u624b\u306e\u30c1\u30e3\u30f3\u30b9\u3042\u308a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud751\uc694\uc11d \uc0c1\uc790\ub97c \uc5f4\uace0 \ub9ce\uc740 \ud76c\uadc0 \uc758\uc0c1\uc744 \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Otw\u00f3rz obsydianow\u0105 skrzyni\u0119, aby zyska\u0107 szans\u0119 zdobycia wielu rzadkich stroj\u00f3w."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Abra um Caixote de Obsidiana para ter a chance de receber v\u00e1rios trajes raros."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u043e\u0431\u0441\u0438\u0434\u0438\u0430\u043d\u043e\u0432\u044b\u0439 \u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440 \u0440\u0430\u0434\u0438 \u0448\u0430\u043d\u0441\u0430 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043c\u043d\u043e\u0433\u043e \u0440\u0435\u0434\u043a\u0438\u0445 \u043d\u0430\u0431\u043e\u0440\u043e\u0432 \u043e\u0434\u0435\u0436\u0434\u044b."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e40\u0e1b\u0e34\u0e14\u0e2b\u0e35\u0e1a\u0e2d\u0e2d\u0e0b\u0e34\u0e40\u0e14\u0e35\u0e22\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e38\u0e49\u0e19\u0e23\u0e31\u0e1a\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e2b\u0e32\u0e22\u0e32\u0e01"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Bir\u00e7ok nadir k\u0131yafeti toplama \u015fans\u0131 i\u00e7in bir Obsidyen Sand\u0131k a\u00e7."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u83b7\u5f97\u4e00\u4ef6\u9ed1\u66dc\u77f3\u7bb1\u5b50\uff0c\u6709\u673a\u4f1a\u6536\u96c6\u5404\u79cd\u7a00\u5c11\u5957\u88c5\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u555f\u4e00\u500b\u9ed1\u66dc\u77f3\u5bf6\u7bb1\u5373\u6709\u6a5f\u6703\u53d6\u5f97\u5404\u7a2e\u5e0c\u6709\u9053\u5177\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_GachaSavannah_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "THE ENTITY'S CRATE"
-                },
-                {
-                    "lang": "GER",
-                    "text": "DIE ENTITUS-KISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DEL ENTE"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DEL ENTE"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "CAISSE DE L'ENTIT\u00c9"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "CASSA DELL'ENTIT\u00c0"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30a8\u30f3\u30c6\u30a3\u30c6\u30a3\u306e\u30af\u30ec\u30fc\u30c8"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uc5d4\ud2f0\ud2f0\uc758 \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "SKRZYNIA BYTU"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXOTE DA ENTIDADE"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041a\u041e\u041d\u0422\u0415\u0419\u041d\u0415\u0420 \u0421\u0423\u0429\u041d\u041e\u0421\u0422\u0418"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e25\u0e31\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e2d\u0e19\u0e17\u0e34\u0e15\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "MAHLUK'UN SANDI\u011eI"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u6076\u7075\u7684\u7bb1\u5b50"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u60e1\u9748\u5bf6\u7bb1"
-                }
-            ],
-            "textId": "EVENTBANNER_Gacha_TITLE"
         },
         {
             "loc": [
@@ -9250,25 +9131,6 @@
             "startDate": "2020-08-13T19:30:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2020-11-16T23:59:59",
-            "bannerPriority": 2,
-            "bannerStartDate": "2020-11-16T00:00:01",
-            "campaignName": "Savannah_Gacha",
-            "deepLink": "/Storefront_Gacha/",
-            "descriptionId": "EVENTBANNER_GachaSavannah_DESC",
-            "displayEndDate": "2020-11-16T23:59:59",
-            "displayStartDate": "2020-11-16T00:00:01",
-            "endDate": "2020-11-16T23:59:59",
-            "eventPriority": 2,
-            "hotEndDate": "2020-11-16T23:59:59",
-            "hotStartDate": "2020-11-16T00:00:01",
-            "id": "Savannah_Gacha",
-            "imageUrl": "events/All_Characters_BH.png",
-            "startDate": "2020-11-16T00:00:01",
-            "titleId": "EVENTBANNER_Gacha_TITLE",
-            "type": "Gacha"
         },
         {
             "bannerEndDate": "2021-01-01T00:00:01",

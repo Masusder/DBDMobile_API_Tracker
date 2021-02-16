@@ -904,11 +904,11 @@
                 },
                 {
                     "type": "Uncommon",
-                    "weight": 0
+                    "weight": 50
                 },
                 {
                     "type": "Rare",
-                    "weight": 0
+                    "weight": 50
                 },
                 {
                     "type": "VeryRare",
@@ -3577,88 +3577,88 @@
                 "startDate": "2020-06-12T00:00:01"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Head02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Torso02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Legs02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_Mask01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_Body01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_W01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_Head01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_Body01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_W01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Head01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Torso01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Legs01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2020-02-22T00:00:00"
             },
             {
                 "endDate": "2020-05-25T00:00:01",

@@ -1570,150 +1570,234 @@
         ],
         "cosmeticRewardsPerRole": [
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "DO_Head01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "DO_Body01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:03",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "DO_W01_04_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "NK_Head01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "NK_Torso01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "NK_Legs01_06_TWater",
                 "role": "Camper",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_Head01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_Body01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2020-12-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_W01_03_TWater",
                 "role": "Slasher",
-                "startDate": "2020-12-07T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_Head02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_Body02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "KK_W02_02_School",
                 "role": "Slasher",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "CM_Head02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "CM_Torso02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-01-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "CM_Legs02_05_School",
                 "role": "Camper",
-                "startDate": "2020-12-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "JP_Head01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "JP_Torso01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "JP_Legs01_02_NightSky",
                 "role": "Camper",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "MK_Mask01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "MK_Body01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
                 "weight": 100
             },
             {
-                "endDate": "2021-02-21T00:00:00",
+                "endDate": "2019-12-23T00:00:00",
                 "id": "MK_W01_04_NightSky",
                 "role": "Slasher",
-                "startDate": "2021-01-22T00:00:00",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_Mask01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_Body01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_W01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_Head01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_Body01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_W01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Head02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Torso02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Legs02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Head01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Torso01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Legs01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
                 "weight": 100
             }
         ],
@@ -1761,7 +1845,7 @@
             },
             {
                 "type": "currency",
-                "weight": 1000
+                "weight": 800
             },
             {
                 "type": "freeTicket",
@@ -1779,7 +1863,7 @@
             },
             {
                 "type": "currency",
-                "weight": 1000
+                "weight": 800
             },
             {
                 "type": "freeTicket",
@@ -3430,21 +3514,21 @@
                 "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2021-02-21T00:00:01",
+                "endDate": "2020-02-21T00:00:01",
                 "id": "GS_Head01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
                 "startDate": "2020-01-15T00:00:01"
             },
             {
-                "endDate": "2021-02-21T00:00:02",
+                "endDate": "2020-02-21T00:00:02",
                 "id": "GS_Torso01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
                 "startDate": "2020-01-15T00:00:02"
             },
             {
-                "endDate": "2021-02-21T00:00:03",
+                "endDate": "2020-02-21T00:00:03",
                 "id": "GS_Legs01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
@@ -3472,109 +3556,109 @@
                 "startDate": "2019-12-12T00:00:00"
             },
             {
-                "endDate": "2021-02-21T00:00:01",
+                "endDate": "2020-02-21T00:00:01",
                 "id": "HA_Head01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
                 "startDate": "2020-01-15T00:00:01"
             },
             {
-                "endDate": "2021-02-21T00:00:02",
+                "endDate": "2020-02-21T00:00:02",
                 "id": "HA_Body01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
                 "startDate": "2020-01-15T00:00:02"
             },
             {
-                "endDate": "2021-02-21T00:00:03",
+                "endDate": "2020-02-21T00:00:03",
                 "id": "HA_Claw01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
                 "startDate": "2020-01-15T00:00:03"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Head02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Torso02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "AV_Legs02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_Mask01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_Body01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-07T00:00:01",
                 "id": "BE_W01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-02-22T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_Head01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_Body01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "GK_W01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Head01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Torso01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
-                "endDate": "2020-05-25T00:00:01",
+                "endDate": "2021-03-22T00:00:01",
                 "id": "MS_Legs01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2019-12-12T00:00:00"
+                "startDate": "2021-03-08T00:00:00"
             },
             {
                 "endDate": "2020-05-25T00:00:01",

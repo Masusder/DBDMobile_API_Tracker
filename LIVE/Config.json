@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "false",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -251,8 +251,6 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -486,6 +484,8 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -510,8 +510,6 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -674,6 +672,15 @@
             "4.4.0_382797live": "4.4.0_382797live-1609784939",
             "4.4.0_386953live": "4.4.0_386953live-1610727995",
             "4.4.0_389386live": "4.4.0_389386live-1611329675",
+            "4.5.0_395558live": "4.5.0_395558live-1612800675",
+            "4.5.0_395671live": "4.5.0_395671live-1612806255",
+            "4.5.0_396205live": "4.5.0_396205live-1612889261",
+            "4.5.0_396659live": "4.5.0_396659live-1612971116",
+            "4.5.0_396915live": "4.5.0_396915live-1612989303",
+            "4.5.0_397246live": "4.5.0_397246live-1613057474",
+            "4.5.0_397326live": "4.5.0_397326live-1613062168",
+            "4.5.0_397881live": "4.5.0_397881live-1613146086",
+            "4.5.0_397960live": "4.5.0_397960live-1613153358",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -700,7 +707,8 @@
             "m_4.3.2_386511live": "m_4.3.2_386511live-1610655223",
             "m_4.3.2_393569live": "m_4.3.2_393569live-1612301867",
             "m_4.3.2_394675live": "m_4.3.2_394675live-1612471552",
-            "m_4.3.2_394724live": "m_4.3.2_394724live-1612473367"
+            "m_4.3.2_394724live": "m_4.3.2_394724live-1612473367",
+            "m_4.4.0_398651live": "m_4.4.0_398651live-1613425964"
         },
         "keyName": "VER_CLIENT_DATA"
     },

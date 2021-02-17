@@ -1501,7 +1501,7 @@
                     },
                     {
                         "type": "equippableItem",
-                        "weight": 0
+                        "weight": 800
                     },
                     {
                         "type": "addon",
@@ -5022,9 +5022,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5186,9 +5186,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5350,9 +5350,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5514,9 +5514,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5678,9 +5678,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"

@@ -21033,6 +21033,25 @@
                 "price": 500
             }
         ],
+        "id": "Nightmare",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
         "id": "Eric",
         "metaData": {
             "grantedIfFree": false,

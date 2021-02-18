@@ -2,8 +2,14 @@
     "specialEvents": [
         {
             "eventId": "HalloweenMobile2020",
-            "mainEndTime": "2020-10-01T00:00:00",
-            "postEndTime": "2020-10-01T00:00:00",
+            "mainEndTime": "2022-10-01T00:00:00",
+            "postEndTime": "2022-10-01T00:00:00",
+            "startTime": "2020-08-01T00:00:00"
+        },
+        {
+            "eventId": "AnniversaryMobile2020",
+            "mainEndTime": "2022-10-01T00:00:00",
+            "postEndTime": "2022-10-01T00:00:00",
             "startTime": "2020-08-01T00:00:00"
         }
     ]

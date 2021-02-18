@@ -2693,6 +2693,28 @@
     },
     {
         "categories": [
+            "offering"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "CarnageCupcake",
+        "metaData": {
+            "enabled": true,
+            "eventID": "AnniversaryMobile2020",
+            "rarity": "SpecialEvent",
+            "role": "None"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
             "equippableItem"
         ],
         "consumable": false,

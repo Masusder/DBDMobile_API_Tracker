@@ -330,71 +330,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
-                },
-                {
-                    "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "Pakiet dewelopera"
-                },
-                {
-                    "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "PROMOPACK_AlexWraithBundle_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "April Outfit Bundle"
                 },
                 {
@@ -455,6 +390,71 @@
                 }
             ],
             "textId": "PROMOPACK_AprilBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Base Game Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Basisspiel-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete del juego base"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete del juego b\u00e1sico"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de jeu de base"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle di gioco base"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u672c\u7de8\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uae30\ubcf8 \uac8c\uc784 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Podstawowy pakiet gry"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Jogo B\u00e1sico"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0411\u0430\u0437\u043e\u0432\u044b\u0439 \u043d\u0430\u0431\u043e\u0440"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e01\u0e21\u0e2b\u0e25\u0e31\u0e01"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Temel Oyun Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u57fa\u7840\u6e38\u620f\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u4e3b\u904a\u6232\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_BaseGameBundle05_TITLE"
         },
         {
             "loc": [
@@ -594,6 +594,71 @@
                 },
                 {
                     "lang": "GER",
+                    "text": "J\u00e4gerin-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n de la Cazadora"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial de la Cazadora"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de la Chasseuse"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale la Cacciatrice"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30cf\u30f3\u30c8\u30ec\u30b9\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ud5cc\ud2b8\ub9ac\uc2a4 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet \u0141owczyni"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial da Ca\u00e7adora"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u041e\u0445\u043e\u0442\u043d\u0438\u0446\u0435\u0439"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e2e\u0e31\u0e19\u0e40\u0e17\u0e23\u0e2a"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Avc\u0131 Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u5973\u730e\u624b\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5973\u7375\u624b\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_BearStarterPack1_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Huntress Starter Pack"
+                },
+                {
+                    "lang": "GER",
                     "text": "Die-J\u00e4gerin-Anf\u00e4nger-Pack"
                 },
                 {
@@ -715,6 +780,71 @@
                 }
             ],
             "textId": "PROMOPACK_CanadaDayClaudette_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Grim Matsuri Mega Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "\u201eD\u00fcsteres Matsuri-Fest\u201c-Megabundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Megapaquete de Matsuri tenebrosa"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Mega paquete de Matsuri tenebrosa"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "M\u00e9ga lot de Matsuri sinistre"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Mega bundle Matsuri funebre"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u304a\u305e\u307e\u3057\u3044\u796d\u308a\u30e1\u30ac\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc74c\uc0b0\ud55c \ucd95\uc81c \uba54\uac00 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Megazestaw Ponury Festiwal"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Megapacote do Festival Japon\u00eas Sombrio"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041c\u0435\u0433\u0430\u043d\u0430\u0431\u043e\u0440 \u00ab\u041c\u0440\u0430\u0447\u043d\u044b\u0439 \u041c\u0430\u0446\u0443\u0440\u0438\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e17\u0e28\u0e01\u0e32\u0e25\u0e2a\u0e22\u0e2d\u0e07\u0e21\u0e2b\u0e36\u0e21\u0e32"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Kasvetli Festival Mega Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u51b7\u8840\u796d\u5927\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u51b7\u8840\u796d\u8d85\u5927\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_CharacterBundle01_TITLE"
         },
         {
             "loc": [
@@ -1045,71 +1175,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
-                },
-                {
-                    "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "Pakiet dewelopera"
-                },
-                {
-                    "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "PROMOPACK_DevKatePack_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Dwight's Weekend Attire"
                 },
                 {
@@ -1370,6 +1435,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "FOUL BILE BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": "\u00dcBLE-GALLE-BUNDLE"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "PAQUETE DE BILIS F\u00c9TIDA"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "PAQUETE DE BILIS F\u00c9TIDA"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "LOT BILE VENIMEUSE"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "BUNDLE BILE RIPUGNANTE"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u4e0d\u6f54\u306a\u80c6\u6c41\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc5ed\uaca8\uc6b4 \uc99d\uc624 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "PAKIET ODRA\u017bAJ\u0104CEJ \u017b\u00d3\u0141CI"
+                },
+                {
+                    "lang": "POR",
+                    "text": "PACOTE DE BILE S\u00d3RDIDA"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0410\u0411\u041e\u0420 \u00ab\u041c\u0415\u0420\u0417\u041a\u0410\u042f \u0416\u0415\u041b\u0427\u042c\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e19\u0e49\u0e33\u0e14\u0e35\u0e42\u0e2a\u0e42\u0e04\u0e23\u0e01"
+                },
+                {
+                    "lang": "TR",
+                    "text": "AS\u0130TL\u0130 SAFRA PAKET\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u6076\u81ed\u80c6\u6c41\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u60e1\u81ed\u81bd\u6c41\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_FoulBileBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Ticket Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Ticket-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete de billetes"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de boletos"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de tickets"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle biglietti"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30c1\u30b1\u30c3\u30c8\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ud2f0\ucf13 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet bilet\u00f3w"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Bilhetes"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u0431\u0438\u043b\u0435\u0442\u043e\u0432"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e15\u0e31\u0e4b\u0e27"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Bilet Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u7968\u5238\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u9580\u7968\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_FreeTicketBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Friendship Bundle"
                 },
                 {
@@ -1500,6 +1695,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Greek Legends Character Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Charakter-Bundle \u201eGriechische Legenden\u201c"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de personaje Leyendas griegas"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de personaje de Leyendas griegas"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de personnages L\u00e9gendes grecques"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle personaggio Leggende greche"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30ae\u30ea\u30b7\u30e3\u306e\u4f1d\u8aac\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uadf8\ub9ac\uc2a4 \uc804\uc124 \uce90\ub9ad\ud130 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet postaci greckich legend"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Personagem das Lendas Gregas"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u00ab\u041b\u0435\u0433\u0435\u043d\u0434\u044b \u0413\u0440\u0435\u0446\u0438\u0438\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e43\u0e19\u0e15\u0e33\u0e19\u0e32\u0e19\u0e01\u0e23\u0e35\u0e01"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Yunan Efsaneleri Karakter Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u5e0c\u814a\u4f20\u8bf4\u89d2\u8272\u6346\u7ed1\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5e0c\u81d8\u50b3\u5947\u89d2\u8272\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_GreekSurvivorBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Hag Starter Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Die-Hexe-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n de la Bruja"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial de la Bruja"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de la Harpie"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale la Strega"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30cf\u30b0\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ud574\uadf8 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet Wied\u017amy"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial da Bruxa"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u0412\u0435\u0434\u044c\u043c\u043e\u0439"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e41\u0e2e\u0e47\u0e01"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Acuze Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u5996\u5deb\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5deb\u5996\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_HagMudStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "The Hag Starter Pack"
                 },
                 {
@@ -1565,6 +1890,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "HALLOWED KILLERS"
+                },
+                {
+                    "lang": "GER",
+                    "text": "HEILIGE KILLER"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "ASESINOS SAGRADOS"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "ASESINOS SAGRADOS"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "TUEURS CONSACR\u00c9S"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "KILLER SACRALIZZATI"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u795e\u8056\u306a\u308b\u6bba\u4eba\u9b3c"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc2e0\uc131\ud55c \uc0b4\uc778\ub9c8"
+                },
+                {
+                    "lang": "POL",
+                    "text": "HALLOWEENOWI ZAB\u00d3JCY"
+                },
+                {
+                    "lang": "POR",
+                    "text": "ASSASSINOS ASSOMBROSOS"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0421\u0412\u042f\u0429\u0415\u041d\u041d\u042b\u0415 \u0423\u0411\u0418\u0419\u0426\u042b"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e06\u0e32\u0e15\u0e01\u0e23\u0e28\u0e31\u0e01\u0e14\u0e34\u0e4c\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c"
+                },
+                {
+                    "lang": "TR",
+                    "text": "KUTSAL KAT\u0130LLER"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u4e07\u5723\u6740\u624b"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u842c\u8056\u6bba\u624b"
+                }
+            ],
+            "textId": "PROMOPACK_HallowedBlightKillerPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "VIGO'S APOTHECARY"
+                },
+                {
+                    "lang": "GER",
+                    "text": "VIGOS APOTHEKE"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "BOTICA DE VIGO"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "BOTICARIO DE VIGO"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "APOTHICAIRE DE VIGO"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "FARMACIA DI VIGO"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30f4\u30a3\u30b4\u306e\u85ac\u5c4b"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ube44\uace0\uc758 \uc57d\uc81c"
+                },
+                {
+                    "lang": "POL",
+                    "text": "APTEKA VIGONA"
+                },
+                {
+                    "lang": "POR",
+                    "text": "APOTEC\u00c1RIO DE VIGO"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041f\u0420\u041e\u0412\u0418\u0417\u041e\u0420 \u0412\u0418\u0413\u041e"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e23\u0e49\u0e32\u0e19\u0e02\u0e32\u0e22\u0e22\u0e32\u0e02\u0e2d\u0e07\u0e27\u0e34\u0e42\u0e01\u0e49"
+                },
+                {
+                    "lang": "TR",
+                    "text": "VIGO'NUN ECZANES\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u5a01\u6208\u7684\u836f\u5242\u5e08"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5a01\u6208\u7684\u85e5\u623f"
+                }
+            ],
+            "textId": "PROMOPACK_HallowedBlightSurvivorPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Hillbilly Spring Hunting Bundle"
                 },
                 {
@@ -1625,6 +2080,71 @@
                 }
             ],
             "textId": "PROMOPACK_HillbillyOutfitBundle_0430_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Humilated Lord Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Pack \u201eGedem\u00fctigter F\u00fcrst\u201c"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote del Humillado"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote de Se\u00f1or humillado"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de Seigneur humili\u00e9"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto Signore umiliato"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u4fae\u8fb1\u3055\u308c\u305f\u9818\u4e3b\u30d1\u30c3\u30af"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uba74\ubc15\ub2f9\ud55c \uc601\uc8fc \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet poni\u017conego lorda"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote do Lorde Humilhado"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u043d\u044b\u0439 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e02\u0e38\u0e19\u0e19\u0e32\u0e07\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e2b\u0e22\u0e32\u0e21\u0e2b\u0e21\u0e34\u0e48\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "A\u015fa\u011f\u0131lanm\u0131\u015f Derebeyi Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u53d7\u8fb1\u7684\u9886\u4e3b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u4fae\u8fb1\u9738\u4e3b\u7d44\u5408\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_HumilatedLordPack_TITLE"
         },
         {
             "loc": [
@@ -1825,66 +2345,66 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
+                    "text": "Kate's Wanderlust Bundle"
                 },
                 {
                     "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
+                    "text": "Kates-Fernweh-Bundle"
                 },
                 {
                     "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
+                    "text": "Paquete de pasi\u00f3n por viajar de Kate"
                 },
                 {
                     "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
+                    "text": "Paquete de esp\u00edritu viajero de Kate"
                 },
                 {
                     "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
+                    "text": "Lot Envie de voyages de Kate"
                 },
                 {
                     "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
+                    "text": "Bundle Voglia di viaggiare di Kate"
                 },
                 {
                     "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
+                    "text": "\u30b1\u30a4\u30c8\u306e\u65c5\u884c\u71b1\u30d0\u30f3\u30c9\u30eb"
                 },
                 {
                     "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
+                    "text": "\ucf00\uc774\ud2b8\uc758 \ubc29\ub791\ubcbd \ubc88\ub4e4"
                 },
                 {
                     "lang": "POL",
-                    "text": "Pakiet dewelopera"
+                    "text": "Pakiet w\u0119drownika dla Kate"
                 },
                 {
                     "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
+                    "text": "Pacote A Cruzada de Kate"
                 },
                 {
                     "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0422\u044f\u0433\u0430 \u041a\u0435\u0439\u0442 \u043a \u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0438\u044f\u043c\u00bb"
                 },
                 {
                     "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e04\u0e27\u0e32\u0e21\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e04\u0e17"
                 },
                 {
                     "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
+                    "text": "Kate'in Seyahat Tutkusu Paketi"
                 },
                 {
                     "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
+                    "text": "\u51ef\u7279\u7684\u6f2b\u6e38\u7656\u793c\u5305"
                 },
                 {
                     "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
+                    "text": "\u51f1\u7279\u7684\u6d41\u6d6a\u4e4b\u5fc3\u540c\u6346\u5305"
                 }
             ],
-            "textId": "PROMOPACK_JuliaSmokeBundle_TITLE"
+            "textId": "PROMOPACK_KateOutfitPack_TITLE"
         },
         {
             "loc": [
@@ -2085,6 +2605,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "The Legion Starter Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Legion-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n de la Legi\u00f3n"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial de la Legi\u00f3n"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de la L\u00e9gion"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale Legione"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30ea\u30fc\u30b8\u30e7\u30f3\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uad70\ub2e8 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet Legionu"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial da Legi\u00e3o"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u041b\u0435\u0433\u0438\u043e\u043d\u043e\u043c"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "\u00c7ete Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u519b\u56e2\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8ecd\u5718\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_LegionSusieStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Legion's Sweater Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Legion-Pullover-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de jers\u00e9is de la Legi\u00f3n"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de su\u00e9teres de la Legi\u00f3n"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de pulls de la L\u00e9gion"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle maglione della Legione"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30ea\u30fc\u30b8\u30e7\u30f3\u306e\u30bb\u30fc\u30bf\u30fc\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uad70\ub2e8\uc758 \uc2a4\uc6e8\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet swetra Legionu"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote do Su\u00e9ter da Legi\u00e3o"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0421\u0432\u0438\u0442\u0435\u0440 \u041b\u0435\u0433\u0438\u043e\u043d\u0430\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e2a\u0e40\u0e27\u0e15\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e02\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "\u00c7ete'nin Kazak Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u519b\u56e2\u7684\u6bdb\u8863\u6346\u7ed1\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8ecd\u5718\u6bdb\u8863\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_LegionSweaterBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Treacherous Killers Bundle"
                 },
                 {
@@ -2210,6 +2860,71 @@
                 }
             ],
             "textId": "PROMOPACK_LincolnSurvivorPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Lunar Character Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Mond-Charakter-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de personajes lunar"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote de personaje lunar"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de personnages lunaire"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto personaggi Lunare"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u6708\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d1\u30c3\u30af"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub2ec \uce90\ub9ad\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Ksi\u0119\u017cycowy pakiet postaci"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Personagem Lunar"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u00ab\u041b\u0443\u043d\u043d\u044b\u0439 \u041d\u043e\u0432\u044b\u0439 \u0433\u043e\u0434\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e15\u0e23\u0e38\u0e29\u0e08\u0e35\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Ay Karakter Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u65b0\u5e74\u89d2\u8272\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u6708\u5149\u89d2\u8272\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_LunarCharPack_TITLE"
         },
         {
             "loc": [
@@ -2540,6 +3255,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Nea Deluxe Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Nea-Deluxe-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete deluxe de Nea"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete deluxe de Nea"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de Nea de luxe"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle deluxe Nea"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30cd\u30a2\u306e\u30c7\u30e9\u30c3\u30af\u30b9\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub2c8\uc544 \ub514\ub7ed\uc2a4 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet Deluxe dla Nei"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Deluxe da Nea"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0414\u0435\u043b\u044e\u043a\u0441-\u043d\u0430\u0431\u043e\u0440 \u041d\u0435\u0438"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e2b\u0e23\u0e39\u0e2b\u0e23\u0e32\u0e02\u0e2d\u0e07\u0e40\u0e19\u0e35\u0e22"
+                },
+                {
+                    "lang": "TR",
+                    "text": "L\u00fcks Nea Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u59ae\u5a05\u8c6a\u534e\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u59ae\u5a6d\u8c6a\u83ef\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_NeaDeluxeBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Nea Starter Pack"
                 },
                 {
@@ -2670,6 +3450,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Start-up Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Start-Up-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete inicial"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de lancement"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle iniziale"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc2a4\ud0c0\ud2b8 \uc5c5 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet pocz\u0105tkowy"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de In\u00edcio"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0411\u044b\u0441\u0442\u0440\u044b\u0439 \u0441\u0442\u0430\u0440\u0442\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e01\u0e32\u0e23\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Giri\u015fimci Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u65b0\u624b\u6346\u7ed1\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u65b0\u624b\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_NewPlayerBundle2_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Beginner's Gear"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Anf\u00e4ngerkleidung"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Equipo de principiante"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Conjunto de principiante"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "\u00c9quipement de d\u00e9butant"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Attrezzatura da principiante"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u521d\u5fc3\u8005\u7528\u306e\u30ae\u30a2"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ucd08\uae09\uc790\uc758 \uc7a5\ube44"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Sprz\u0119t pocz\u0105tkuj\u0105cego"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Traje de Iniciante"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0421\u043d\u0430\u0440\u044f\u0436\u0435\u043d\u0438\u0435 \u043d\u043e\u0432\u0438\u0447\u043a\u0430"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e02\u0e2d\u0e07\u0e1c\u0e39\u0e49\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Ba\u015flang\u0131\u00e7 Ekipman\u0131"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u65b0\u624b\u88c5\u5907"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u65b0\u624b\u88dd\u5099"
+                }
+            ],
+            "textId": "PROMOPACK_NewPlayerBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Nurse and Ace Character Bundle"
                 },
                 {
@@ -2730,6 +3640,266 @@
                 }
             ],
             "textId": "PROMOPACK_NurseAcePack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Nurse's Memories Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Erinnerungen-der-Krankenschwester-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete de recuerdos de la Enfermera"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de recuerdos de la Enfermera"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot Souvenirs de l\u2019Infirmi\u00e8re"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle Ricordi dell'Infermiera"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30ca\u30fc\u30b9\u306e\u56de\u9867\u9332\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub108\uc2a4\uc758 \uae30\uc5b5 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet wspomnie\u0144 Piel\u0119gniarki"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Mem\u00f3rias da Enfermeira"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u041c\u0435\u043c\u0443\u0430\u0440\u044b \u041c\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u044b\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e02\u0e2d\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e2a\u0e32\u0e27"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Hem\u015fire'nin An\u0131lar\u0131 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u62a4\u58eb\u7684\u56de\u5fc6\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8b77\u58eb\u7684\u56de\u61b6\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_NurseOutfitBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Nurse Starter Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Die-Krankenschwester-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n de la Enfermera"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial de la Enfermera"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de l\u2019Infirmi\u00e8re"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale l'Infermiera"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30ca\u30fc\u30b9\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub108\uc2a4 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet Piel\u0119gniarki"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial da Enfermeira"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u041c\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u043e\u0439"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e2a"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Hem\u015fire Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u62a4\u58eb\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8b77\u58eb\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_NurseStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Oni Starter Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Oni-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n del Oni"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial del Oni"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de l'Oni"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale Oni"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u9b3c\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc545\uadc0 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet Oni"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial do Oni"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u041e\u043d\u0438"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e42\u0e2d\u0e19\u0e34"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Oni Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u9b3c\u6b66\u58eb\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u9b3c\u6b66\u8005\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_OniStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Back to School Killer Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Zur\u00fcck-zur-Schule-Killer-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete De vuelta a las clases de asesino"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote de asesino De vuelta a las clases"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de tueur Retour \u00e0 l'\u00e9cole"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle killer Ritorno a scuola"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u65b0\u5b66\u671f\u30d0\u30f3\u30c9\u30eb\uff08\u6bba\u4eba\u9b3c\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub2e4\uc2dc \ud559\uad50\ub85c \uc0b4\uc778\ub9c8 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet Powr\u00f3t do szko\u0142y dla zab\u00f3jcy"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Assassino de Volta \u00e0 Escola"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u0443\u0431\u0438\u0439\u0446\u044b \u00ab\u041e\u0431\u0440\u0430\u0442\u043d\u043e \u0432 \u0448\u043a\u043e\u043b\u0443\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e06\u0e32\u0e15\u0e01\u0e23\u0e01\u0e25\u0e31\u0e1a\u0e2a\u0e39\u0e48\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Okula D\u00f6n\u00fc\u015f Katil Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u8fd4\u6821\u6740\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8fd4\u6821\u6bba\u624b\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_PierreKillerPack_TITLE"
         },
         {
             "loc": [
@@ -2930,6 +4100,201 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "Scarlet Swarm Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Scharlachroter-Schwarm-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de la Muchedumbre escarlata"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de Enjambre escarlata"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de Nu\u00e9e \u00e9carlate"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle Sciame scarlatto"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u7dcb\u8272\u306e\u7fa4\u308c\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub2e4\ud64d\uc0c9 \ubb34\ub9ac \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet szkar\u0142atnego roju"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote do Enxame Escarlate"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0410\u043b\u0430\u044f \u0441\u0442\u0430\u044f\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e1d\u0e39\u0e07\u0e0a\u0e19\u0e2a\u0e35\u0e41\u0e14\u0e07\u0e2a\u0e14"
+                },
+                {
+                    "lang": "TR",
+                    "text": "K\u0131z\u0131l S\u00fcr\u00fc Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u7329\u7ea2\u72c2\u6f6e\u6346\u7ed1\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u8d64\u7d05\u7fa4\u96c6\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_SSoutfitsPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Stranger Things Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Stranger-Things-Bundle"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Paquete de Stranger Things"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote de Stranger Things"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot Stranger Things"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle Stranger Things"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30fb\u30b7\u30f3\u30b0\u30b9 \u672a\u77e5\u306e\u4e16\u754c\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uae30\ubb18\ud55c \uc774\uc57c\uae30 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet Stranger Things"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Stranger Things"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u041e\u0447\u0435\u043d\u044c \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u0434\u0435\u043b\u0430\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e2a\u0e40\u0e15\u0e23\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c \u0e18\u0e34\u0e07\u0e2a\u0e4c"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Stranger Things Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u602a\u5947\u7269\u8bed\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u300a\u602a\u5947\u7269\u8a9e\u300b\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_StrangerThingsPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Survivor's Ugly Sweater Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": "H\u00e4sslicher-Pullover-Bundle \u201e\u00dcberlebende\u201c"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de jers\u00e9is feos del superviviente"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Paquete de su\u00e9ter feo del sobreviviente"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Lot de pulls moches de survivants"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Bundle maglione orrendo da sopravvissuto"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30c0\u30b5\u3044\u30bb\u30fc\u30bf\u30fc\u30d0\u30f3\u30c9\u30eb\uff08\u30b5\u30d0\u30a4\u30d0\u30fc\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc0dd\uc874\uc790\uc758 \ucd0c\uc2a4\ub7ec\uc6b4 \uc2a4\uc6e8\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet brzydkiego swetra ocala\u0142ego"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote do Su\u00e9ter Feioso de Sobrevivente"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0423\u0436\u0430\u0441\u043d\u044b\u0439 \u0441\u0432\u0438\u0442\u0435\u0440 \u0432\u044b\u0436\u0438\u0432\u0448\u0435\u0433\u043e\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e40\u0e2a\u0e37\u0e49\u0e2d\u0e2a\u0e40\u0e27\u0e15\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e2d\u0e31\u0e1b\u0e25\u0e31\u0e01\u0e29\u0e13\u0e4c\u0e02\u0e2d\u0e07\u0e1c\u0e39\u0e49\u0e23\u0e2d\u0e14\u0e0a\u0e35\u0e27\u0e34\u0e15"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Kurban'\u0131n \u00c7irkin Kazak Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u9003\u751f\u8005\u7684\u4e11\u6bdb\u8863\u6346\u7ed1\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5016\u5b58\u8005\u919c\u964b\u6bdb\u8863\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_SurvivorUglysweater_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Trapper's Pastime Bundle"
                 },
                 {
@@ -2990,6 +4355,71 @@
                 }
             ],
             "textId": "PROMOPACK_TrapperOutfitBundle_0423_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Valentine's Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Valentine-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de San Valent\u00edn"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote de San Valent\u00edn"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de l'amour"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto San Valentino"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30d1\u30c3\u30af"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ubc1c\ub80c\ud0c0\uc778 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pakiet walentynkowy"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote de Dia dos Namorados"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d\u0430"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Sevgililer Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u60c5\u4eba\u8282\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u74e6\u502b\u4e01\u7d44\u5408\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_ValPack_TITLE"
         },
         {
             "loc": [
@@ -3120,268 +4550,517 @@
                 }
             ],
             "textId": "PROMOPACK_WraithStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Yui Starter Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": "Yui-Anf\u00e4nger-Pack"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Lote de iniciaci\u00f3n de Yui"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Lote inicial de Yui"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Pack de d\u00e9part de Yui"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Pacchetto iniziale Yui"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u7d50\u8863\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc720\uc774 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "Pocz\u0105tkowy pakiet Yui"
+                },
+                {
+                    "lang": "POR",
+                    "text": "Pacote Inicial da Yui"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0432\u0438\u0447\u043a\u0430 \u0441 \u042e\u0438"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e22\u0e39\u0e2d\u0e34"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Yui Ba\u015flang\u0131\u00e7 Paketi"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u552f\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u512a\u8863\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "PROMOPACK_YuiStarterPack_TITLE"
         }
     ],
     "Promopacks": [
         {
             "id": "NeaStarterTier2",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NeaStarterPack_TITLE"
         },
         {
             "id": "NeaStarterTier3",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NeaStarterPack_TITLE"
         },
         {
             "id": "CurrencyPromoPack",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_CurrencyPack_TITLE"
         },
         {
             "id": "LoadoutItemsPromoPack",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "INVENTORY PROMO PACK"
         },
         {
             "id": "BaseGameBundle",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BaseGameBundleFixed.png",
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
             "id": "NeaStarterPack",
             "imageUrl": "promoPacks/Store_Banner_2-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NeaStarterPack_TITLE"
         },
         {
             "id": "WraithStarterPack",
             "imageUrl": "promoPacks/Store_Banner_3-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_WraithStarterPack_TITLE"
         },
         {
             "id": "JakeStarterPack",
-            "imageUrl": "promoPacks/Store_Banner_4-SL8.png",
+            "imageUrl": "promoPacks/Jake_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/JakeStarterPack.png",
             "titleId": "PROMOPACK_JakeStarterPack_TITLE"
         },
         {
             "id": "LegionStarterPack",
             "imageUrl": "promoPacks/Store_Banner_5-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_LegionStarterPack_TITLE"
         },
         {
             "id": "BaseGameBundle_1",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
             "id": "FengStarterPack",
             "imageUrl": "promoPacks/Store_Banner_1-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_FengStarterPack_TITLE"
         },
         {
             "id": "ClownStarterPack",
             "imageUrl": "promoPacks/Store_Banner_2-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_ClownStarterPack_TITLE"
         },
         {
             "id": "SmokeStarterPack",
             "imageUrl": "promoPacks/Store_Banner_3-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_SmokeStarterPack_TITLE"
         },
         {
             "id": "NurseStarterPack",
-            "imageUrl": "promoPacks/Store_Banner_4-SL9.png",
-            "titleId": "PROMOPACK_SmokeStarterPack_TITLE"
+            "imageUrl": "promoPacks/NurseStarterSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/NurseStarterBigPromo.png",
+            "titleId": "PROMOPACK_NurseStarterPack_TITLE"
         },
         {
             "id": "HagStarterPack",
             "imageUrl": "promoPacks/Store_Banner_5-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_HagStarterPack_TITLE"
         },
         {
             "id": "KateStarterPack",
-            "imageUrl": "promoPacks/Store_Banner_6-SL9.png",
+            "imageUrl": "promoPacks/KateStarterSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/KateStarterBigPromo.png",
             "titleId": "PROMOPACK_KateStarterPack_TITLE"
         },
         {
             "id": "AprilBundle",
             "imageUrl": "promoPacks/Store_Banner_7-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_AprilBundle_TITLE"
         },
         {
             "id": "BearStarterPack",
             "imageUrl": "promoPacks/Store_Banner_8-SL9.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BearStarterPack_TITLE"
         },
         {
             "id": "BaseGameBundle_2",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
-        },
-        {
-            "id": "AlexWraithBundle",
-            "imageUrl": "promoPacks/Wraith_Dev_Pick.png",
-            "titleId": "PROMOPACK_AlexWraithBundle_TITLE"
         },
         {
             "id": "BearAdamPack",
             "imageUrl": "promoPacks/Huntress-Adam.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BearAdamPack_TITLE"
         },
         {
             "id": "Killer07StarterPack",
             "imageUrl": "promoPacks/Doctor_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/DoctorStarterPack.png",
             "titleId": "PROMOPACK_Killer07StarterPack_TITLE"
         },
         {
             "id": "NeaStarterPack0416",
             "imageUrl": "promoPacks/Nea_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/NeaStarterPackFixed.png",
             "titleId": "PROMOPACK_NeaStarterPack0416_TITLE"
         },
         {
             "id": "GhostfaceBundle",
             "imageUrl": "promoPacks/Ghostface_Bundle_Jane_Ace.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_GhostfaceBundle_TITLE"
         },
         {
             "id": "JeffStarterPack",
             "imageUrl": "promoPacks/Jeff_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/JeffStarterPack.png",
             "titleId": "PROMOPACK_JeffStarterPack_TITLE"
         },
         {
             "id": "TrapperOutfitBundle_0423",
             "imageUrl": "promoPacks/The-Trapper_Past-Time-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_TrapperOutfitBundle_0423_TITLE"
         },
         {
-            "id": "JuliaSmokeBundle",
-            "imageUrl": "promoPacks/Devs-Pick-Bundle_Julia.png",
-            "titleId": "PROMOPACK_JuliaSmokeBundle_TITLE"
-        },
-        {
             "id": "SpiritStarterPack",
-            "imageUrl": "promoPacks/The_Spirit_Tattered.png",
+            "imageUrl": "promoPacks/Spirit_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/SpiritStarterPack.png",
             "titleId": "PROMOPACK_SpiritStarterPack_TITLE"
         },
         {
             "id": "DwightOutfitBundle_0430",
             "imageUrl": "promoPacks/Dwight_Weekend-Attire.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_DwightOutfitBundle_0430_TITLE"
         },
         {
             "id": "HillbillyOutfitBundle_0430",
             "imageUrl": "promoPacks/Hillbilly_Spring-Hunting-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_HillbillyOutfitBundle_0430_TITLE"
         },
         {
             "id": "MegSpringBundle",
             "imageUrl": "promoPacks/Meg_Spring-Wardrobe.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_MegSpringBundle_TITLE"
         },
         {
             "id": "BaseGameBundle_3",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
             "id": "LincolnKillerPack",
             "imageUrl": "promoPacks/Treacherous_Killers-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_LincolnKillerPack_TITLE"
         },
         {
             "id": "LincolnSurvivorPack",
             "imageUrl": "promoPacks/Survivors_at_Sea-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_LincolnSurvivorPack_TITLE"
         },
         {
             "id": "DevAdamPack",
-            "imageUrl": "promoPacks/Dev_Pick-Bundle.png",
+            "imageUrl": "promoPacks/Adam_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/AdamStarterPack.png",
             "titleId": "PROMOPACK_DevAdamPack_TITLE"
         },
         {
             "id": "JaneStarterPack",
-            "imageUrl": "promoPacks/Jane-Starter_Pack.png",
+            "imageUrl": "promoPacks/Jane_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_JaneStarterPack_TITLE"
-        },
-        {
-            "id": "DevKatePack",
-            "imageUrl": "promoPacks/Dev-Pick_Bundle.png",
-            "titleId": "PROMOPACK_DevKatePack_TITLE"
         },
         {
             "id": "AceStarterPack",
             "imageUrl": "promoPacks/Ace-Starter_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_AceStarterPack_TITLE"
         },
         {
             "id": "Dwighty300Pack",
             "imageUrl": "promoPacks/Dwight-First_Date.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_Dwighty300Pack_TITLE"
         },
         {
             "id": "BaseGameBundle_4",
             "imageUrl": "promoPacks/Store_Banner_1-SL8.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_BaseGameBundle_TITLE"
         },
         {
             "id": "MadisonKillerPack",
             "imageUrl": "promoPacks/Killers_Under_the_Night_Sky.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_MadisonKillerPack_TITLE"
         },
         {
             "id": "MadisonSurvivorPack",
             "imageUrl": "promoPacks/Survivors_Under_the_Night_Sky.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_MadisonSurvivorPack_TITLE"
         },
         {
             "id": "FengCampusStarterPack",
             "imageUrl": "promoPacks/Feng_started-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_FengCampusStarterPack_TITLE"
         },
         {
             "id": "CanadaDayClaudette",
             "imageUrl": "promoPacks/Canada_Day-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_CanadaDayClaudette_TITLE"
         },
         {
             "id": "NurseAcePack",
             "imageUrl": "promoPacks/Nurse-and-Ace_Character-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NurseAcePack_TITLE"
         },
         {
             "id": "WarIsHellPack",
             "imageUrl": "promoPacks/War_is_Hell_Outfit-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_WarIsHellPack_TITLE"
         },
         {
             "id": "SmokeHardManStarterPack",
-            "imageUrl": "promoPacks/David-Starter_Pack.png",
+            "imageUrl": "promoPacks/DavidStarterSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/DavidHardmanStarterPack.png",
             "titleId": "PROMOPACK_SmokeHardManStarterPack_TITLE"
         },
         {
             "id": "ClownPulcinellaStarterPack",
             "imageUrl": "promoPacks/Clown-Starter_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/ClownStarterPackFixed.png",
             "titleId": "PROMOPACK_ClownPulcinellaStarterPack_TITLE"
         },
         {
             "id": "NashvilleKillerPack",
             "imageUrl": "promoPacks/Cookout-Killers.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NashvilleKillerPack_TITLE"
         },
         {
             "id": "NashvilleSurvivorPack",
             "imageUrl": "promoPacks/Dine-In-Survivors.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_NashvilleSurvivorPack_TITLE"
         },
         {
             "id": "FriendshipPack",
             "imageUrl": "promoPacks/Friendship_Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_FriendshipPack_TITLE"
         },
         {
             "id": "ChucklesHillbillyPack",
             "imageUrl": "promoPacks/First_Killer_Outfit-Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_ChucklesHillbillyPack_TITLE"
+        },
+        {
+            "id": "NurseOutfitBundle",
+            "imageUrl": "promoPacks/1-Nurses-Memories_Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_NurseOutfitBundle_TITLE"
+        },
+        {
+            "id": "KateOutfitPack",
+            "imageUrl": "promoPacks/2-Kates-Wanderlust_Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_KateOutfitPack_TITLE"
+        },
+        {
+            "id": "PierreKillerPack",
+            "imageUrl": "promoPacks/1-Back-To-School-Killer_Bundle_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_PierreKillerPack_TITLE"
+        },
+        {
+            "id": "NewPlayerBundle",
+            "imageUrl": "promoPacks/BeginnersGearSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BeginnersGearFixed.png",
+            "titleId": "PROMOPACK_NewPlayerBundle_TITLE"
+        },
+        {
+            "id": "LegionSusieStarterPack",
+            "imageUrl": "promoPacks/Legion_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/LegionSusieStarterPack.png",
+            "titleId": "PROMOPACK_LegionSusieStarterPack_TITLE"
+        },
+        {
+            "id": "StrangerThingsPack",
+            "imageUrl": "promoPacks/4-Stranger-Things_Pack_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_StrangerThingsPack_TITLE"
+        },
+        {
+            "id": "HagMudStarterPack",
+            "imageUrl": "promoPacks/5-The-Hag_Starter-Pack_02.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "titleId": "PROMOPACK_HagMudStarterPack_TITLE"
+        },
+        {
+            "id": "HallowedBlightSurvivorPack",
+            "imageUrl": "promoPacks/1-Vigos-Apothecary.png",
+            "marketingImageUrl": "promoPacks/marketingImages/VigosApothecaryFixed.png",
+            "titleId": "PROMOPACK_HallowedBlightSurvivorPack_TITLE"
+        },
+        {
+            "id": "FoulBileBundle",
+            "imageUrl": "promoPacks/FoulBileFixed.png",
+            "marketingImageUrl": "promoPacks/marketingImages/FoulBileBundle.png",
+            "titleId": "PROMOPACK_FoulBileBundle_TITLE"
+        },
+        {
+            "id": "HallowedBlightKillerPack",
+            "imageUrl": "promoPacks/HallowedKillersFixed.png",
+            "marketingImageUrl": "promoPacks/marketingImages/HallowedKillersFixed.png",
+            "titleId": "PROMOPACK_HallowedBlightKillerPack_TITLE"
+        },
+        {
+            "id": "FreeTicketBundle",
+            "imageUrl": "promoPacks/Golden_Tickets.png",
+            "marketingImageUrl": "promoPacks/marketingImages/TicketBundleFixed.png",
+            "titleId": "PROMOPACK_FreeTicketBundle_TITLE"
+        },
+        {
+            "id": "NewPlayerBundle2",
+            "imageUrl": "promoPacks/Start-up_Bundle2.png",
+            "marketingImageUrl": "promoPacks/marketingImages/NewStarterBundle.png",
+            "titleId": "PROMOPACK_NewPlayerBundle2_TITLE"
+        },
+        {
+            "id": "GreekSurvivorBundle",
+            "imageUrl": "promoPacks/Greek-Legends-Character_Bundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/GreekLegendsCharacter.png",
+            "titleId": "PROMOPACK_GreekSurvivorBundle_TITLE"
+        },
+        {
+            "id": "BearStarterPack1",
+            "imageUrl": "promoPacks/Huntress_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/HuntressStarterPack.png",
+            "titleId": "PROMOPACK_BearStarterPack1_TITLE"
+        },
+        {
+            "id": "OniStarterPack",
+            "imageUrl": "promoPacks/Oni_Starter-Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/OniStarterPack.png",
+            "titleId": "PROMOPACK_OniStarterPack_TITLE"
+        },
+        {
+            "id": "YuiStarterPack",
+            "imageUrl": "promoPacks/YuiStarterSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/YuiStarterPack.png",
+            "titleId": "PROMOPACK_YuiStarterPack_TITLE"
+        },
+        {
+            "id": "LegionSweaterBundle",
+            "imageUrl": "promoPacks/Legion-Sweaters.png",
+            "marketingImageUrl": "promoPacks/marketingImages/LegionUglySweaters.png",
+            "titleId": "PROMOPACK_LegionSweaterBundle_TITLE"
+        },
+        {
+            "id": "SurvivorUglysweater",
+            "imageUrl": "promoPacks/Choice-Ugly-Sweaters.png",
+            "marketingImageUrl": "promoPacks/marketingImages/SurvivorUglySweaters.png",
+            "titleId": "PROMOPACK_SurvivorUglysweater_TITLE"
+        },
+        {
+            "id": "HumilatedLordPack",
+            "imageUrl": "promoPacks/Humilated-Lord_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/HumiliatedLordPack.png",
+            "titleId": "PROMOPACK_HumilatedLordPack_TITLE"
+        },
+        {
+            "id": "LunarCharPack",
+            "imageUrl": "promoPacks/Lunar-Character_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/LunarCharacterPack.png",
+            "titleId": "PROMOPACK_LunarCharPack_TITLE"
+        },
+        {
+            "id": "SSoutfitsPack",
+            "imageUrl": "promoPacks/Scarlet-Swarm_OutfitsFixed.png",
+            "marketingImageUrl": "promoPacks/marketingImages/Scarlet-Swarm_OutfitsFixed.png",
+            "titleId": "PROMOPACK_SSoutfitsPack_TITLE"
+        },
+        {
+            "id": "ValPack",
+            "imageUrl": "promoPacks/Valentines_Pack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/ValentinesDayPack.png",
+            "titleId": "PROMOPACK_ValPack_TITLE"
+        },
+        {
+            "id": "BaseGameBundle_05",
+            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+        },
+        {
+            "id": "NeaDeluxeBundle",
+            "imageUrl": "promoPacks/NeaDeluxeSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/NeaDeluxeBigPromo.png",
+            "titleId": "PROMOPACK_NeaDeluxeBundle_TITLE"
+        },
+        {
+            "id": "CharacterBundle_01",
+            "imageUrl": "promoPacks/GrimMatsuriSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/GrimMatsuriBigPromo.png",
+            "titleId": "PROMOPACK_CharacterBundle01_TITLE"
         }
     ],
     "atlantaEventsUIData": [

@@ -979,7 +979,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 0
+                    "weight": 40
                 }
             ]
         },
@@ -1030,7 +1030,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 0
+                    "weight": 40
                 }
             ]
         },
@@ -1081,7 +1081,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 0
+                    "weight": 40
                 }
             ]
         },
@@ -1132,7 +1132,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 0
+                    "weight": 40
                 }
             ]
         },
@@ -1183,7 +1183,7 @@
                 },
                 {
                     "type": "SpecialEvent",
-                    "weight": 0
+                    "weight": 40
                 }
             ]
         },
@@ -1365,6 +1365,31 @@
                     }
                 ],
                 "rarity": "UltraRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 800
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "SpecialEvent"
             }
         ],
         "survivor": [
@@ -1497,11 +1522,11 @@
                 "content": [
                     {
                         "type": "offering",
-                        "weight": 0
+                        "weight": 800
                     },
                     {
                         "type": "equippableItem",
-                        "weight": 800
+                        "weight": 1000
                     },
                     {
                         "type": "addon",
@@ -2567,9 +2592,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -2731,9 +2756,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -2895,9 +2920,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -3059,9 +3084,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -3223,9 +3248,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 500
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5024,7 +5049,7 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 5000
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5188,7 +5213,7 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 5000
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5350,9 +5375,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 2,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 5000
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5514,9 +5539,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 2,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 5000
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5680,7 +5705,7 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 5000
                             }
                         ],
                         "type": "SpecialEvent"

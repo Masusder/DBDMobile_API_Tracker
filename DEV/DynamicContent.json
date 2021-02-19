@@ -3219,71 +3219,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Dev's Pick Bundle"
-                },
-                {
-                    "lang": "GER",
-                    "text": "Entwicklerauswahl-Bundle"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Paquete de selecci\u00f3n de los desarrolladores"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Paquete de elecci\u00f3n del desarrollador"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Choix des d\u00e9veloppeurs"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Bundle scelto dagli sviluppatori"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u958b\u767a\u30c1\u30fc\u30e0\u304a\u3059\u3059\u3081\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uac1c\ubc1c\uc9c4 \ud53d \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "Pakiet dewelopera"
-                },
-                {
-                    "lang": "POR",
-                    "text": "Conjunto Escolha dos Desenvolvedores"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0430\u0431\u043e\u0440 \u00ab\u0412\u044b\u0431\u043e\u0440 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0430\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e1c\u0e39\u0e49\u0e1e\u0e31\u0e12\u0e19\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e2a\u0e23\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Geli\u015ftiricinin Se\u00e7tikleri Paketi"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5f00\u53d1\u8005\u7504\u9009\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u958b\u767c\u5546\u7cbe\u9078\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "PROMOPACK_DevKatePack_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Dwight's Weekend Attire"
                 },
                 {
@@ -8669,7 +8604,7 @@
         },
         {
             "id": "Killer07StarterPack",
-            "imageUrl": "promoPacks/Doctor_Starter-PackNew.png",
+            "imageUrl": "promoPacks/Doctor_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/DoctorStarterPack.png",
             "titleId": "PROMOPACK_Killer07StarterPack_TITLE"
         },
@@ -8687,7 +8622,7 @@
         },
         {
             "id": "JeffStarterPack",
-            "imageUrl": "promoPacks/Jeff_Starter-PackNew.png",
+            "imageUrl": "promoPacks/Jeff_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/JeffStarterPack.png",
             "titleId": "PROMOPACK_JeffStarterPack_TITLE"
         },
@@ -8750,12 +8685,6 @@
             "imageUrl": "promoPacks/Jane_Starter-Pack.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
             "titleId": "PROMOPACK_JaneStarterPack_TITLE"
-        },
-        {
-            "id": "DevKatePack",
-            "imageUrl": "promoPacks/Dev-Pick_Bundle.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
-            "titleId": "PROMOPACK_DevKatePack_TITLE"
         },
         {
             "id": "AceStarterPack",
@@ -8860,18 +8789,6 @@
             "titleId": "PROMOPACK_KateOutfitPack_TITLE"
         },
         {
-            "id": "FreeTicketBundle",
-            "imageUrl": "promoPacks/Golden_Tickets.png",
-            "marketingImageUrl": "promoPacks/marketingImages/TicketBundleFixed.png",
-            "titleId": "PROMOPACK_FreeTicketBundle_TITLE"
-        },
-        {
-            "id": "ShardsOutfitTestPack",
-            "imageUrl": "promoPacks/The-Trapper_Past-Time-Bundle.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
-            "titleId": "PROMOPACK_TrapperOutfitBundle_0423_TITLE"
-        },
-        {
             "id": "PierreKillerPack",
             "imageUrl": "promoPacks/1-Back-To-School-Killer_Bundle_02.png",
             "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
@@ -8918,6 +8835,12 @@
             "imageUrl": "promoPacks/HallowedKillersFixed.png",
             "marketingImageUrl": "promoPacks/marketingImages/HallowedKillersFixed.png",
             "titleId": "PROMOPACK_HallowedBlightKillerPack_TITLE"
+        },
+        {
+            "id": "FreeTicketBundle",
+            "imageUrl": "promoPacks/Golden_Tickets.png",
+            "marketingImageUrl": "promoPacks/marketingImages/TicketBundleFixed.png",
+            "titleId": "PROMOPACK_FreeTicketBundle_TITLE"
         },
         {
             "id": "NewPlayerBundle2",

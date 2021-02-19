@@ -2636,6 +2636,28 @@
                 "price": 5000
             }
         ],
+        "id": "WalesThemeOffering",
+        "metaData": {
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "None"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "offering"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
         "id": "SacrificalWard",
         "metaData": {
             "enabled": true,
@@ -3629,7 +3651,7 @@
         "id": "Item_Camper_Flashlight_Anniversary2020",
         "metaData": {
             "enabled": true,
-            "eventID": "Anniversary2020",
+            "eventID": "AnniversaryMobile2020",
             "rarity": "SpecialEvent",
             "role": "Camper"
         },
@@ -3651,7 +3673,7 @@
         "id": "Item_Camper_Medkit_Anniversary2020",
         "metaData": {
             "enabled": true,
-            "eventID": "Anniversary2020",
+            "eventID": "AnniversaryMobile2020",
             "rarity": "SpecialEvent",
             "role": "Camper"
         },

@@ -4415,9 +4415,9 @@
                                 "weight": 500
                             },
                             {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 500
+                                "maxCount": 1,
+                                "minCount": 1,
+                                "weight": 5000
                             }
                         ],
                         "type": "chest"
@@ -4534,9 +4534,9 @@
                                 "weight": 550
                             },
                             {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 350
+                                "maxCount": 1,
+                                "minCount": 1,
+                                "weight": 5000
                             }
                         ],
                         "type": "chest"
@@ -4654,8 +4654,8 @@
                             },
                             {
                                 "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 550
+                                "minCount": 1,
+                                "weight": 5000
                             }
                         ],
                         "type": "chest"
@@ -4773,8 +4773,8 @@
                             },
                             {
                                 "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 600
+                                "minCount": 1,
+                                "weight": 5000
                             }
                         ],
                         "type": "chest"
@@ -4893,7 +4893,7 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 1,
-                                "weight": 1200
+                                "weight": 5000
                             }
                         ],
                         "type": "chest"

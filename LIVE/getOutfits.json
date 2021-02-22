@@ -8223,6 +8223,96 @@
             ],
             "newStartDate": "2021-02-01T15:00:00",
             "newEndDate": "2021-02-08T14:59:59"
+        },
+        {
+            "id": "NK_outfit_012",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1250,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Nea",
+            "storeItems": [
+                "NK_Head012",
+                "NK_Torso012",
+                "NK_Legs012"
+            ],
+            "newStartDate": "2021-02-22T15:00:00",
+            "newEndDate": "2021-03-01T14:59:59"
+        },
+        {
+            "id": "ML_outfit_008",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Ash",
+            "storeItems": [
+                "ML_Hand008",
+                "ML_Torso008",
+                "ML_Legs008"
+            ],
+            "newStartDate": "2021-02-22T15:00:00",
+            "newEndDate": "2021-03-01T14:59:59"
+        },
+        {
+            "id": "SwedenSurvivor_outfit_009",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Yui",
+            "storeItems": [
+                "SwedenSurvivor_Head009",
+                "SwedenSurvivor_Torso009",
+                "SwedenSurvivor_Legs009"
+            ],
+            "newStartDate": "2021-03-08T15:00:00",
+            "newEndDate": "2021-03-15T14:59:59"
+        },
+        {
+            "id": "GS_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Kate",
+            "storeItems": [
+                "GS_Head011",
+                "GS_Torso011",
+                "GS_Legs011"
+            ],
+            "newStartDate": "2021-03-08T15:00:00",
+            "newEndDate": "2021-03-15T14:59:59"
+        },
+        {
+            "id": "TN_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Nurse",
+            "storeItems": [
+                "TN_Head010",
+                "TN_Body010",
+                "TN_W010"
+            ],
+            "newStartDate": "2021-03-08T15:00:00",
+            "newEndDate": "2021-03-15T14:59:59"
         }
     ]
 }

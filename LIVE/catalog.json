@@ -15227,6 +15227,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15276,6 +15279,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15325,6 +15331,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15374,6 +15383,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15423,6 +15435,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15472,6 +15487,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15521,6 +15539,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15570,6 +15591,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15615,6 +15639,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15660,6 +15687,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15705,6 +15735,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15750,6 +15783,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15795,6 +15831,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15840,6 +15879,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15885,6 +15927,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15930,6 +15975,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -15975,6 +16023,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -16020,6 +16071,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -16065,6 +16119,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -16110,6 +16167,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -16155,6 +16215,9 @@
                         "ios": true
                     }
                 }
+            ],
+            "firstPurchaseRule": [
+                "First_Purchase_2X"
             ]
         },
         "nonSecure": false,
@@ -16347,9 +16410,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_150_Single_Test_CP4"
             ]
         },
         "nonSecure": false,
@@ -16681,9 +16741,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_150_Single_Test_CP4"
             ]
         },
         "nonSecure": false,
@@ -16999,9 +17056,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_150_Single_Test_CP4"
             ]
         },
         "nonSecure": false,
@@ -18294,9 +18348,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,
@@ -18346,9 +18397,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,
@@ -18394,9 +18442,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_175_Single_Test_CP3"
             ]
         },
         "nonSecure": false,
@@ -20608,6 +20653,205 @@
             {
                 "platformId": "ios",
                 "productId": "purchase_popup_elfDwight_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "1"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_feng_2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "1"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "1"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Feng",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyFeng2Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_feng_2_T3"
             }
         ],
         "purchasable": true,
@@ -65380,8 +65624,8 @@
             "base_itemId": "DO_Head006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2020-11-02T17:59:59",
-            "newStartDate": "2020-10-19T18:00:00",
+            "newEndDate": "2018-11-02T17:59:59",
+            "newStartDate": "2018-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -65419,8 +65663,8 @@
             "base_itemId": "DO_Body006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2020-11-02T17:59:59",
-            "newStartDate": "2020-10-19T18:00:00",
+            "newEndDate": "2018-11-02T17:59:59",
+            "newStartDate": "2018-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -65458,8 +65702,8 @@
             "base_itemId": "DO_W006",
             "character": "Killer07",
             "kind": "Customization",
-            "newEndDate": "2020-11-02T17:59:59",
-            "newStartDate": "2020-10-19T18:00:00",
+            "newEndDate": "2018-11-02T17:59:59",
+            "newStartDate": "2018-10-19T18:00:00",
             "outfitId": "Killer07_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -81342,6 +81586,591 @@
     },
     {
         "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 463
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Head012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Head012",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "NK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 463
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Torso012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Torso012",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "NK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 463
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Legs012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Legs012",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "NK_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "ML_Hand008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "ML_Hand008",
+            "character": "Ash",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "ML_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "ML_Torso008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "ML_Torso008",
+            "character": "Ash",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "ML_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "ML_Legs008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "ML_Legs008",
+            "character": "Ash",
+            "kind": "Customization",
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "outfitId": "ML_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Head009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Head009",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "SwedenSurvivor_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Torso009",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "SwedenSurvivor_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Legs009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Legs009",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "SwedenSurvivor_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Head011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Head011",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "GS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Torso011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Torso011",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "GS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Legs011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Legs011",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "GS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "TN_Head010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TN_Head010",
+            "character": "Nurse",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "TN_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "TN_Body010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TN_Body010",
+            "character": "Nurse",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "TN_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "TN_W010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TN_W010",
+            "character": "Nurse",
+            "kind": "Customization",
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "outfitId": "TN_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "outfit"
         ],
         "consumable": false,
@@ -90152,6 +90981,116 @@
     },
     {
         "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "NK_outfit_012",
+        "metaData": {
+            "character": "Nea",
+            "discountPercentage": 0.1,
+            "items": [
+                "NK_Head012",
+                "NK_Torso012",
+                "NK_Legs012"
+            ],
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "ML_outfit_008",
+        "metaData": {
+            "character": "Ash",
+            "discountPercentage": 0.1,
+            "items": [
+                "ML_Hand008",
+                "ML_Torso008",
+                "ML_Legs008"
+            ],
+            "newEndDate": "2021-03-01T14:59:59",
+            "newStartDate": "2021-02-22T15:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "SwedenSurvivor_outfit_009",
+        "metaData": {
+            "character": "Yui",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenSurvivor_Head009",
+                "SwedenSurvivor_Torso009",
+                "SwedenSurvivor_Legs009"
+            ],
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "GS_outfit_011",
+        "metaData": {
+            "character": "Kate",
+            "discountPercentage": 0.1,
+            "items": [
+                "GS_Head011",
+                "GS_Torso011",
+                "GS_Legs011"
+            ],
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "TN_outfit_010",
+        "metaData": {
+            "character": "Nurse",
+            "discountPercentage": 0.1,
+            "items": [
+                "TN_Head010",
+                "TN_Body010",
+                "TN_W010"
+            ],
+            "newEndDate": "2021-03-15T14:59:59",
+            "newStartDate": "2021-03-08T15:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "promoPack"
         ],
         "consumable": true,
@@ -93397,6 +94336,154 @@
             }
         ],
         "id": "ValPack",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 1
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Bear",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Smoke",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Bob",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Feng",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1200
+            }
+        ],
+        "id": "BaseGameBundle_05",
+        "metaData": {
+            "highlighted": false,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 1
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "NK_Head012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Torso012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Legs012",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Head009",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Torso009",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "NK_Legs009",
+                "type": "inventory"
+            },
+            {
+                "amount": 9000,
+                "id": "Shards",
+                "type": "currency"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 2100
+            }
+        ],
+        "id": "NeaDeluxeBundle",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 1
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "Yui",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Kate",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "Nurse",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1200
+            }
+        ],
+        "id": "CharacterBundle_01",
         "metaData": {
             "highlighted": true,
             "priority": 0

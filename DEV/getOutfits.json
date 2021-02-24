@@ -1,6 +1,18 @@
 {
     "outfits": [
         {
+            "id": "KK_Mask017",
+            "defaultCost": [],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask017",
+                "KK_Body017",
+                "KK_W017"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
             "id": "Dwight_outfit_001",
             "defaultCost": [
                 {
@@ -8354,6 +8366,78 @@
             ],
             "newStartDate": "2020-11-04T00:00:00",
             "newEndDate": "2020-12-24T00:00:00"
+        },
+        {
+            "id": "SwedenKiller_outfit_009",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1350,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Oni",
+            "storeItems": [
+                "SwedenKiller_Mask009",
+                "SwedenKiller_Body009",
+                "SwedenKiller_W009"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
+            "id": "SwedenSurvivor_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Yui",
+            "storeItems": [
+                "SwedenSurvivor_Head011",
+                "SwedenSurvivor_Torso011",
+                "SwedenSurvivor_Legs011"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
+            "id": "KS_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Jeff",
+            "storeItems": [
+                "KS_Head011",
+                "KS_Torso011",
+                "KS_Legs011"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
+            "id": "CM_outfit_013",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Claudette",
+            "storeItems": [
+                "CM_Head013",
+                "CM_Torso013",
+                "CM_Legs013"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
         }
     ]
 }

@@ -67,38 +67,23 @@
         "id": "BPKateBillHuntressLegion",
         "startDate": 1
     },
-    "BPSav1": {
+    "BaseGameBundle5": {
         "assets": {},
         "components": {
             "achievement": {},
-            "happyHour": {
-                "BPSav1happyHour": {
-                    "effects": {
-                        "BPSav1": [
-                            {
-                                "characters": [
-                                    "Pig",
-                                    "Eric",
-                                    "Meg",
-                                    "Claudette"
-                                ],
-                                "id": "BPSav1",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "BPSav1happyHour",
-                    "repeatDelays": []
-                }
-            },
+            "happyHour": {},
             "leaderboard": {},
             "scenario": {}
         },
         "endDate": 1,
-        "gameSpecificData": {},
-        "id": "BPSav1",
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "BaseGameBundle5"
+                ]
+            }
+        },
+        "id": "BaseGameBundle5",
         "startDate": 1
     },
     "BearStarterPack": {
@@ -254,8 +239,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "7SlotsCalendar_Tucson2",
-                                    "13SlotsCalendar_Tucson1"
+                                    "13SlotsCalendar_Utica1",
+                                    "9SlotsCalendar_Utica2"
                                 ]
                             }
                         ]
@@ -301,25 +286,6 @@
         "id": "FreeTicketBundle",
         "startDate": 1
     },
-    "GreekLegendBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "GreekLegendBanner"
-                ]
-            }
-        },
-        "id": "GreekLegendBanner",
-        "startDate": 1
-    },
     "GrimMatsuriBanner": {
         "assets": {},
         "components": {
@@ -339,7 +305,7 @@
         "id": "GrimMatsuriBanner",
         "startDate": 1
     },
-    "HumiliatedLordBanner": {
+    "JeffStarterPack": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -351,68 +317,11 @@
         "gameSpecificData": {
             "marketingBannerIds": {
                 "id": [
-                    "HumiliatedLordBanner"
+                    "JeffStarterPack"
                 ]
             }
         },
-        "id": "HumiliatedLordBanner",
-        "startDate": 1
-    },
-    "HumiliatedLordBanner_20210104": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "HumiliatedLordBanner"
-                ]
-            }
-        },
-        "id": "HumiliatedLordBanner_20210104",
-        "startDate": 1
-    },
-    "JeffStarterBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "JeffStarterBanner"
-                ]
-            }
-        },
-        "id": "JeffStarterBanner",
-        "startDate": 1
-    },
-    "KateStarterBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "KateStarterBanner"
-                ]
-            }
-        },
-        "id": "KateStarterBanner",
+        "id": "JeffStarterPack",
         "startDate": 1
     },
     "KateStarterPackBanner": {
@@ -434,7 +343,7 @@
         "id": "KateStarterPackBanner",
         "startDate": 1
     },
-    "LegionStarterBanner": {
+    "LegionSusieStarterPack": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -446,30 +355,11 @@
         "gameSpecificData": {
             "marketingBannerIds": {
                 "id": [
-                    "LegionStarterBanner"
+                    "LegionSusieStarterPack"
                 ]
             }
         },
-        "id": "LegionStarterBanner",
-        "startDate": 1
-    },
-    "LunarCharBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "LunarCharBanner"
-                ]
-            }
-        },
-        "id": "LunarCharBanner",
+        "id": "LegionSusieStarterPack",
         "startDate": 1
     },
     "NeaDeluxeBanner": {
@@ -549,7 +439,7 @@
         "id": "NurseStarterPack",
         "startDate": 1
     },
-    "OniStarterBanner": {
+    "OniStarterPack": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -561,258 +451,11 @@
         "gameSpecificData": {
             "marketingBannerIds": {
                 "id": [
-                    "OniStarterBanner"
+                    "OniStarterPack"
                 ]
             }
         },
-        "id": "OniStarterBanner",
-        "startDate": 1
-    },
-    "Promopack2020_1207_1220": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2020_1207_1220happyHour": {
-                    "effects": {
-                        "Promopack2020_1207_1220PromoPack": [
-                            {
-                                "id": "Promopack2020_1207_1220PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "GreekSurvivorBundle",
-                                    "BearStarterPack1",
-                                    "LegionSusieStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2020_1207_1220happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2020_1207_1220",
-        "startDate": 1
-    },
-    "Promopack2020_1207_2021_0221": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2020_1207_2021_0221happyHour": {
-                    "effects": {
-                        "Promopack2020_1207_2021_0221PromoPack": [
-                            {
-                                "id": "Promopack2020_1207_2021_0221PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "BaseGameBundle",
-                                    "NewPlayerBundle2"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2020_1207_2021_0221happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2020_1207_2021_0221",
-        "startDate": 1
-    },
-    "Promopack2020_1221_2021_0103": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2020_1221_2021_0103happyHour": {
-                    "effects": {
-                        "Promopack2020_1221_2021_0103PromoPack": [
-                            {
-                                "id": "Promopack2020_1221_2021_0103PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "OniStarterPack",
-                                    "YuiStarterPack",
-                                    "LegionSweaterBundle",
-                                    "SurvivorUglysweater"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2020_1221_2021_0103happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2020_1221_2021_0103",
-        "startDate": 1
-    },
-    "Promopack2021_0104_0117": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2021_0104_0117happyHour": {
-                    "effects": {
-                        "Promopack2021_0104_0117PromoPack": [
-                            {
-                                "id": "Promopack2021_0104_0117PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "HumilatedLordPack",
-                                    "DevAdamPack",
-                                    "Killer07StarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2021_0104_0117happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2021_0104_0117",
-        "startDate": 1
-    },
-    "Promopack2021_0118_0131": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2021_0118_0131happyHour": {
-                    "effects": {
-                        "Promopack2021_0118_0131PromoPack": [
-                            {
-                                "id": "Promopack2021_0118_0131PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "JeffStarterPack",
-                                    "SpiritStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2021_0118_0131happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2021_0118_0131",
-        "startDate": 1
-    },
-    "Promopack2021_0201_0214": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2021_0201_0214happyHour": {
-                    "effects": {
-                        "Promopack2021_0201_0214PromoPack": [
-                            {
-                                "id": "Promopack2021_0201_0214PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "LunarCharPack",
-                                    "SSoutfitsPack",
-                                    "SmokeHardManStarterPack",
-                                    "ValPack",
-                                    "JakeStarterPack",
-                                    "KateStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2021_0201_0214happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2021_0201_0214",
-        "startDate": 1
-    },
-    "Promopack2021_0212_0214": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2021_0212_0214happyHour": {
-                    "effects": {
-                        "Promopack2021_0212_0214PromoPack": [
-                            {
-                                "id": "Promopack2021_0212_0214PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "ValPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2021_0212_0214happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2021_0212_0214",
-        "startDate": 1
-    },
-    "Promopack2021_0215_0228": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "Promopack2021_0215_0228happyHour": {
-                    "effects": {
-                        "Promopack2021_0215_0228PromoPack": [
-                            {
-                                "id": "Promopack2021_0215_0228PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "JakeStarterPack",
-                                    "KateStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "Promopack2021_0215_0228happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "Promopack2021_0215_0228",
+        "id": "OniStarterPack",
         "startDate": 1
     },
     "PromopackShardsTest": {
@@ -962,6 +605,182 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "PromopackTucson4",
+        "startDate": 1
+    },
+    "PromopackUtica1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica1happyHour": {
+                    "effects": {
+                        "PromopackUtica1PromoPack": [
+                            {
+                                "id": "PromopackUtica1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_05",
+                                    "NewPlayerBundle",
+                                    "FreeTicketBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica1",
+        "startDate": 1
+    },
+    "PromopackUtica2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica2happyHour": {
+                    "effects": {
+                        "PromopackUtica2PromoPack": [
+                            {
+                                "id": "PromopackUtica2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "OniStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica2",
+        "startDate": 1
+    },
+    "PromopackUtica3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica3happyHour": {
+                    "effects": {
+                        "PromopackUtica3PromoPack": [
+                            {
+                                "id": "PromopackUtica3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "YuiStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica3",
+        "startDate": 1
+    },
+    "PromopackUtica4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica4happyHour": {
+                    "effects": {
+                        "PromopackUtica4PromoPack": [
+                            {
+                                "id": "PromopackUtica4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "JeffStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica4",
+        "startDate": 1
+    },
+    "PromopackUtica5": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica5happyHour": {
+                    "effects": {
+                        "PromopackUtica5PromoPack": [
+                            {
+                                "id": "PromopackUtica5PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LegionSusieStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica5happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica5",
+        "startDate": 1
+    },
+    "PromopackUtica6": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica6happyHour": {
+                    "effects": {
+                        "PromopackUtica6PromoPack": [
+                            {
+                                "id": "PromopackUtica6PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "FoulBileBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica6happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica6",
         "startDate": 1
     },
     "ProvingGround_Test": {
@@ -1243,48 +1062,29 @@
         "id": "RitualsRewardsOverrideTest2",
         "startDate": 1
     },
-    "SpiritStarterBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "SpiritStarterBanner"
-                ]
-            }
-        },
-        "id": "SpiritStarterBanner",
-        "startDate": 1
-    },
-    "TucsonNACW_BP": {
+    "UticaCWBM_BP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "TucsonNACW_BPhappyHour": {
+                "UticaCWBM_BPhappyHour": {
                     "effects": {
-                        "TucsonNACW_BP": [
+                        "UticaCWBM_BP": [
                             {
                                 "characters": [
-                                    "Nea",
-                                    "Ash",
-                                    "Clown",
-                                    "Bob"
+                                    "Cannibal",
+                                    "Bob",
+                                    "Bill",
+                                    "Meg"
                                 ],
-                                "id": "TucsonNACW_BP",
+                                "id": "UticaCWBM_BP",
                                 "role": "Global",
                                 "type": "Bloodpoints",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "TucsonNACW_BPhappyHour",
+                    "id": "UticaCWBM_BPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -1293,32 +1093,32 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "TucsonNACW_BP",
+        "id": "UticaCWBM_BP",
         "startDate": 1
     },
-    "TucsonNACW_XP": {
+    "UticaCWBM_XP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "TucsonNACW_XPhappyHour": {
+                "UticaCWBM_XPhappyHour": {
                     "effects": {
-                        "TucsonNACW_XP": [
+                        "UticaCWBM_XP": [
                             {
                                 "characters": [
-                                    "Nea",
-                                    "Ash",
-                                    "Clown",
-                                    "Bob"
+                                    "Cannibal",
+                                    "Bob",
+                                    "Bill",
+                                    "Meg"
                                 ],
-                                "id": "TucsonNACW_XP",
+                                "id": "UticaCWBM_XP",
                                 "role": "Global",
                                 "type": "Experience",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "TucsonNACW_XPhappyHour",
+                    "id": "UticaCWBM_XPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -1327,32 +1127,32 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "TucsonNACW_XP",
+        "id": "UticaCWBM_XP",
         "startDate": 1
     },
-    "TucsonNYKT_BP": {
+    "UticaDNST_BP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "TucsonNYKT_BPhappyHour": {
+                "UticaDNST_BPhappyHour": {
                     "effects": {
-                        "TucsonNYKT_BP": [
+                        "UticaDNST_BP": [
                             {
                                 "characters": [
-                                    "Nurse",
-                                    "Yui",
-                                    "Kate",
+                                    "Demogorgon",
+                                    "Nancy",
+                                    "Steve",
                                     "Chuckles"
                                 ],
-                                "id": "TucsonNYKT_BP",
+                                "id": "UticaDNST_BP",
                                 "role": "Global",
                                 "type": "Bloodpoints",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "TucsonNYKT_BPhappyHour",
+                    "id": "UticaDNST_BPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -1361,32 +1161,32 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "TucsonNYKT_BP",
+        "id": "UticaDNST_BP",
         "startDate": 1
     },
-    "TucsonNYKT_XP": {
+    "UticaDNST_XP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "TucsonNYKT_XPhappyHour": {
+                "UticaDNST_XPhappyHour": {
                     "effects": {
-                        "TucsonNYKT_XP": [
+                        "UticaDNST_XP": [
                             {
                                 "characters": [
-                                    "Nurse",
-                                    "Yui",
-                                    "Kate",
+                                    "Demogorgon",
+                                    "Nancy",
+                                    "Steve",
                                     "Chuckles"
                                 ],
-                                "id": "TucsonNYKT_XP",
+                                "id": "UticaDNST_XP",
                                 "role": "Global",
                                 "type": "Experience",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "TucsonNYKT_XPhappyHour",
+                    "id": "UticaDNST_XPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -1395,26 +1195,211 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "TucsonNYKT_XP",
+        "id": "UticaDNST_XP",
         "startDate": 1
     },
-    "ValPackBanner": {
+    "UticaECCS_BP": {
         "assets": {},
         "components": {
             "achievement": {},
-            "happyHour": {},
+            "happyHour": {
+                "UticaECCS_BPhappyHour": {
+                    "effects": {
+                        "UticaECCS_BP": [
+                            {
+                                "characters": [
+                                    "K20",
+                                    "S22",
+                                    "Claudette",
+                                    "Spirit"
+                                ],
+                                "id": "UticaECCS_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaECCS_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
             "leaderboard": {},
             "scenario": {}
         },
         "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "ValPackBanner"
-                ]
-            }
+        "gameSpecificData": {},
+        "id": "UticaECCS_BP",
+        "startDate": 1
+    },
+    "UticaECCS_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "UticaECCS_XPhappyHour": {
+                    "effects": {
+                        "UticaECCS_XP": [
+                            {
+                                "characters": [
+                                    "K20",
+                                    "S22",
+                                    "Claudette",
+                                    "Spirit"
+                                ],
+                                "id": "UticaECCS_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaECCS_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
         },
-        "id": "ValPackBanner",
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "UticaECCS_XP",
+        "startDate": 1
+    },
+    "UticaNQLJ_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "UticaNQLJ_BPhappyHour": {
+                    "effects": {
+                        "UticaNQLJ_BP": [
+                            {
+                                "characters": [
+                                    "Nightmare",
+                                    "Quentin",
+                                    "Legion",
+                                    "Jeff"
+                                ],
+                                "id": "UticaNQLJ_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaNQLJ_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "UticaNQLJ_BP",
+        "startDate": 1
+    },
+    "UticaNQLJ_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "UticaNQLJ_XPhappyHour": {
+                    "effects": {
+                        "UticaNQLJ_XP": [
+                            {
+                                "characters": [
+                                    "Nightmare",
+                                    "Quentin",
+                                    "Legion",
+                                    "Jeff"
+                                ],
+                                "id": "UticaNQLJ_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaNQLJ_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "UticaNQLJ_XP",
+        "startDate": 1
+    },
+    "UticaOYDF_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "UticaOYDF_BPhappyHour": {
+                    "effects": {
+                        "UticaOYDF_BP": [
+                            {
+                                "characters": [
+                                    "Oni",
+                                    "Yui",
+                                    "Killer07",
+                                    "Feng"
+                                ],
+                                "id": "UticaOYDF_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaOYDF_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "UticaOYDF_BP",
+        "startDate": 1
+    },
+    "UticaOYDF_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "UticaOYDF_XPhappyHour": {
+                    "effects": {
+                        "UticaOYDF_XP": [
+                            {
+                                "characters": [
+                                    "Oni",
+                                    "Yui",
+                                    "Killer07",
+                                    "Feng"
+                                ],
+                                "id": "UticaOYDF_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "UticaOYDF_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "UticaOYDF_XP",
         "startDate": 1
     },
     "XPDwightYuiOniNurse": {
@@ -1485,41 +1470,7 @@
         "id": "XPKateBillHuntressLegion",
         "startDate": 1
     },
-    "XPSav1": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "XPSav1happyHour": {
-                    "effects": {
-                        "XPSav1": [
-                            {
-                                "characters": [
-                                    "Pig",
-                                    "Eric",
-                                    "Meg",
-                                    "Claudette"
-                                ],
-                                "id": "XPSav1",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "XPSav1happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "XPSav1",
-        "startDate": 1
-    },
-    "YuiStarterBanner": {
+    "YuiStarterPack": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -1531,11 +1482,11 @@
         "gameSpecificData": {
             "marketingBannerIds": {
                 "id": [
-                    "YuiStarterBanner"
+                    "YuiStarterPack"
                 ]
             }
         },
-        "id": "YuiStarterBanner",
+        "id": "YuiStarterPack",
         "startDate": 1
     }
 }

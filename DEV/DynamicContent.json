@@ -1529,66 +1529,66 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "GREEK LEGEND CHARACTER BUNDLE"
+                    "text": "BASE GAME BUNDLE"
                 },
                 {
                     "lang": "GER",
-                    "text": "CHARAKTER-BUNDLE \u201eGRIECHISCHE LEGENDEN\u201c"
+                    "text": ""
                 },
                 {
                     "lang": "SPA",
-                    "text": "LOTE DE PERSONAJES LEYENDA GRIEGA"
+                    "text": ""
                 },
                 {
                     "lang": "MEX",
-                    "text": "PAQUETE DE PERSONAJE DE LEYENDA GRIEGA"
+                    "text": ""
                 },
                 {
                     "lang": "FRE",
-                    "text": "LOT DE PERSONNAGES L\u00c9GENDES GRECQUES"
+                    "text": ""
                 },
                 {
                     "lang": "ITA",
-                    "text": "BUNDLE PERSONAGGIO LEGGENDE GRECHE"
+                    "text": ""
                 },
                 {
                     "lang": "JPN",
-                    "text": "\u30ae\u30ea\u30b7\u30e3\u306e\u4f1d\u8aac\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d0\u30f3\u30c9\u30eb"
+                    "text": ""
                 },
                 {
                     "lang": "KOR",
-                    "text": "\uadf8\ub9ac\uc2a4 \uc804\uc124 \uce90\ub9ad\ud130 \ubc88\ub4e4"
+                    "text": ""
                 },
                 {
                     "lang": "POL",
-                    "text": "PAKIET POSTACI GRECKICH LEGEND"
+                    "text": ""
                 },
                 {
                     "lang": "POR",
-                    "text": "PACOTE DE PERSONAGEM DA LENDA GREGA"
+                    "text": ""
                 },
                 {
                     "lang": "RUS",
-                    "text": "\u041d\u0410\u0411\u041e\u0420 \u041f\u0415\u0420\u0421\u041e\u041d\u0410\u0416\u0415\u0419 \u00ab\u041b\u0415\u0413\u0415\u041d\u0414\u042b \u0413\u0420\u0415\u0426\u0418\u0418\u00bb"
+                    "text": ""
                 },
                 {
                     "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e43\u0e19\u0e15\u0e33\u0e19\u0e32\u0e19\u0e01\u0e23\u0e35\u0e01"
+                    "text": ""
                 },
                 {
                     "lang": "TR",
-                    "text": "YUNAN EFSANES\u0130 KARAKTER PAKET\u0130"
+                    "text": ""
                 },
                 {
                     "lang": "CHS",
-                    "text": "\u5e0c\u814a\u4f20\u8bf4\u89d2\u8272\u6346\u7ed1\u5305"
+                    "text": ""
                 },
                 {
                     "lang": "CHT",
-                    "text": "\u5e0c\u81d8\u50b3\u5947\u89d2\u8272\u540c\u6346\u5305"
+                    "text": ""
                 }
             ],
-            "textId": "MARKETINGBANNER_GreekLegend_TITLE"
+            "textId": "MARKETINGBANNER_BaseGameBundle5_TITLE"
         },
         {
             "loc": [
@@ -1654,71 +1654,6 @@
                 }
             ],
             "textId": "MARKETINGBANNER_GrimMatsuri_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "HUMILIATED LORD BUNDLE"
-                },
-                {
-                    "lang": "GER",
-                    "text": "BUNDLE \u201eGEDEM\u00dcTIGTER F\u00dcRST\u201c"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "LOTE DEL HUMILLADO"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "PAQUETE DE SE\u00d1OR HUMILLADO"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "LOT SEIGNEUR HUMILI\u00c9"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "BUNDLE SIGNORE UMILIATO"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u4fae\u8fb1\u3055\u308c\u305f\u9818\u4e3b\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uba74\ubc15\ub2f9\ud55c \uc601\uc8fc \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "PAKIET PONI\u017bONEGO LORDA"
-                },
-                {
-                    "lang": "POR",
-                    "text": "PACOTE DO LORDE HUMILHADO"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0410\u0411\u041e\u0420 \u00ab\u041e\u0421\u041a\u041e\u0420\u0411\u041b\u0415\u041d\u041d\u042b\u0419 \u041f\u0420\u0410\u0412\u0418\u0422\u0415\u041b\u042c\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e02\u0e38\u0e19\u0e19\u0e32\u0e07\u0e1c\u0e39\u0e49\u0e16\u0e39\u0e01\u0e2b\u0e22\u0e32\u0e21\u0e2b\u0e21\u0e34\u0e48\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "A\u015eA\u011eILANMI\u015e DEREBEY\u0130 PAKET\u0130"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u53d7\u8fb1\u7684\u9886\u4e3b\u6346\u7ed1\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u4fae\u8fb1\u9738\u4e3b\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "MARKETINGBANNER_HumiliatedLord_TITLE"
         },
         {
             "loc": [
@@ -1919,71 +1854,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "LUNAR CHARACTER BUNDLE"
-                },
-                {
-                    "lang": "GER",
-                    "text": "MOND-CHARAKTER-BUNDLE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "LOTE DE PERSONAJES LUNAR"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "PAQUETE DE PERSONAJE LUNAR"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "LOT DE PERSONNAGES LUNAIRE"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "BUNDLE PERSONAGGIO LUNARE"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u6708\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ub2ec \uce90\ub9ad\ud130 \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "KSI\u0118\u017bYCOWY PAKIET POSTACI"
-                },
-                {
-                    "lang": "POR",
-                    "text": "PACOTE DE PERSONAGEM LUNAR"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0410\u0411\u041e\u0420 \u041f\u0415\u0420\u0421\u041e\u041d\u0410\u0416\u0415\u0419 \u00ab\u041b\u0423\u041d\u041d\u042b\u0419 \u041d\u041e\u0412\u042b\u0419 \u0413\u041e\u0414\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e15\u0e23\u0e38\u0e29\u0e08\u0e35\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "AY KARAKTER PAKET\u0130"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u65b0\u5e74\u89d2\u8272\u6346\u7ed1\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u6708\u5149\u89d2\u8272\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "MARKETINGBANNER_LunarChar_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "NEA DELUXE BUNDLE"
                 },
                 {
@@ -2109,136 +1979,6 @@
                 }
             ],
             "textId": "MARKETINGBANNER_OniStarter_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "SPIRIT STARTER PACK"
-                },
-                {
-                    "lang": "GER",
-                    "text": "GESPENST-ANF\u00c4NGER-PACK"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "LOTE DE INICIACI\u00d3N DEL ESP\u00cdRITU"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "LOTE INICIAL DEL ESP\u00cdRITU"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "PACK DE D\u00c9PART DE L'ESPRIT"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "PACCHETTO INIZIALE SPIRITO"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30b9\u30d4\u30ea\u30c3\u30c8\uff09"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uc2a4\ud53c\ub9bf \uc2a4\ud0c0\ud130 \ud329"
-                },
-                {
-                    "lang": "POL",
-                    "text": "POCZ\u0104TKOWY PAKIET ZJAWY"
-                },
-                {
-                    "lang": "POR",
-                    "text": "PACOTE INICIAL DO ESP\u00cdRITO"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0410\u0411\u041e\u0420 \u041d\u041e\u0412\u0418\u0427\u041a\u0410 \u0421 \u0414\u0423\u0425\u041e\u041c"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e15"
-                },
-                {
-                    "lang": "TR",
-                    "text": "RUH BA\u015eLANGI\u00c7 PAKET\u0130"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u6028\u7075\u65b0\u624b\u793c\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u9748\u9b42\u65b0\u624b\u5305"
-                }
-            ],
-            "textId": "MARKETINGBANNER_SpiritStarter_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "VALENTINE'S BUNDLE"
-                },
-                {
-                    "lang": "GER",
-                    "text": "VALENTINE-BUNDLE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "LOTE DE SAN VALELENT\u00cdN"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "PAQUETE DE SAN VALENT\u00cdN"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "LOT DE L'AMOUR"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "BUNDLE SAN VALENTINO"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30d0\u30f3\u30c9\u30eb"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ubc1c\ub80c\ud0c0\uc778 \ubc88\ub4e4"
-                },
-                {
-                    "lang": "POL",
-                    "text": "PAKIET WALENTYNKOWY"
-                },
-                {
-                    "lang": "POR",
-                    "text": "PACOTE DE DIA DOS NAMORADOS"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u041d\u0410\u0411\u041e\u0420 \u0412\u0410\u041b\u0415\u041d\u0422\u0418\u041d\u0410"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e27\u0e31\u0e19\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c"
-                },
-                {
-                    "lang": "TR",
-                    "text": "SEVG\u0130L\u0130LER PAKET\u0130"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u60c5\u4eba\u8282\u6346\u7ed1\u5305"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u74e6\u502b\u4e01\u540c\u6346\u5305"
-                }
-            ],
-            "textId": "MARKETINGBANNER_ValPack_TITLE"
         },
         {
             "loc": [
@@ -9451,96 +9191,6 @@
     "storeMarketingBanner": [
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "GreekLegendBanner",
-            "imageUrl": "marketingBanner/DBD_GreekLegendsPack_Banner.png",
-            "priority": 1,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_GreekLegend_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "LegionStarterBanner",
-            "imageUrl": "marketingBanner/DBD_LeigonPack_Banner.png",
-            "priority": 2,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_LegionStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:30:01",
-            "id": "OniStarterBanner",
-            "imageUrl": "marketingBanner/Savannah_OniDemonicForce.png",
-            "priority": 3,
-            "startDate": "2020-12-02T13:30:01",
-            "titleId": "MARKETINGBANNER_OniStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:30:01",
-            "id": "YuiStarterBanner",
-            "imageUrl": "marketingBanner/Savannah_YuiVersatileOutfit.png",
-            "priority": 4,
-            "startDate": "2020-12-02T13:30:01",
-            "titleId": "MARKETINGBANNER_YuiStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "HumiliatedLordBanner",
-            "imageUrl": "marketingBanner/DBD_OniHumiliatedLord_Banner.png",
-            "priority": 5,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_HumiliatedLord_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:30:01",
-            "id": "SpiritStarterBanner",
-            "imageUrl": "marketingBanner/Savannah_TheSpiritPack.png",
-            "priority": 6,
-            "startDate": "2020-12-02T13:30:01",
-            "titleId": "MARKETINGBANNER_SpiritStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "JeffStarterBanner",
-            "imageUrl": "marketingBanner/DBD_JeffStarterPack_Banner.png",
-            "priority": 7,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_JeffStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "LunarCharBanner",
-            "imageUrl": "marketingBanner/DBD_LunarCharacterPack_Banner.png",
-            "priority": 8,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_LunarChar_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:00:01",
-            "id": "ValPackBanner",
-            "imageUrl": "marketingBanner/DBD_ValPack_Banner.png",
-            "priority": 9,
-            "startDate": "2020-12-04T14:00:01",
-            "titleId": "MARKETINGBANNER_ValPack_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2020-12-04T23:30:01",
-            "id": "KateStarterBanner",
-            "imageUrl": "marketingBanner/Savannah_KateDensonPack.png",
-            "priority": 10,
-            "startDate": "2020-12-02T13:30:01",
-            "titleId": "MARKETINGBANNER_KateStarter_TITLE"
-        },
-        {
-            "deepLink": "/Storefront_SpecialOffers/",
             "endDate": "2021-02-05T23:00:01",
             "id": "GrimMatsuriBanner",
             "imageUrl": "marketingBanner/GrimMatsuriBanner.png",
@@ -9565,6 +9215,51 @@
             "priority": 3,
             "startDate": "2021-02-01T14:00:01",
             "titleId": "MARKETINGBANNER_NeaDeluxe_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-03-01T18:30:01",
+            "id": "OniStarterPack",
+            "imageUrl": "marketingBanner/Savannah_OniDemonicForce.png",
+            "priority": 1,
+            "startDate": "2021-03-01T14:00:01",
+            "titleId": "MARKETINGBANNER_OniStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-03-01T18:30:01",
+            "id": "YuiStarterPack",
+            "imageUrl": "marketingBanner/Savannah_YuiVersatileOutfit.png",
+            "priority": 2,
+            "startDate": "2021-03-01T14:00:01",
+            "titleId": "MARKETINGBANNER_YuiStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-03-01T18:30:01",
+            "id": "JeffStarterPack",
+            "imageUrl": "marketingBanner/DBD_JeffStarterPack_Banner.png",
+            "priority": 3,
+            "startDate": "2021-03-01T14:00:01",
+            "titleId": "MARKETINGBANNER_JeffStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-03-01T18:30:01",
+            "id": "LegionSusieStarterPack",
+            "imageUrl": "marketingBanner/DBD_LeigonPack_Banner.png",
+            "priority": 4,
+            "startDate": "2021-03-01T14:00:01",
+            "titleId": "MARKETINGBANNER_LegionStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-03-01T18:30:01",
+            "id": "BaseGameBundle5",
+            "imageUrl": "marketingBanner/NeaDeluxeBanner.png",
+            "priority": 5,
+            "startDate": "2021-03-01T14:00:01",
+            "titleId": "MARKETINGBANNER_BaseGameBundle5_TITLE"
         }
     ],
     "storefrontUIData": [

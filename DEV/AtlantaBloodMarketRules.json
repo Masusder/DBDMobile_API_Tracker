@@ -1972,12 +1972,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -2086,12 +2086,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -2200,12 +2200,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             }
                         ],
                         "type": "superChest"
@@ -2314,12 +2314,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             }
                         ],
                         "type": "superChest"
@@ -2428,12 +2428,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             }
                         ],
                         "type": "superChest"
@@ -2592,14 +2592,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -2756,14 +2756,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -2922,12 +2922,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             }
                         ],
                         "type": "UltraEpic"
@@ -3086,12 +3086,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             }
                         ],
                         "type": "UltraEpic"
@@ -3250,12 +3250,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             }
                         ],
                         "type": "UltraEpic"
@@ -4363,14 +4363,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -4482,14 +4482,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             }
                         ],
                         "type": "superChest"
@@ -4603,12 +4603,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             }
                         ],
                         "type": "superChest"
@@ -4722,12 +4722,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             }
                         ],
                         "type": "superChest"
@@ -4841,12 +4841,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             }
                         ],
                         "type": "superChest"
@@ -5005,14 +5005,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 30
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -5169,14 +5169,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             },
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 60
+                                "weight": 0
                             }
                         ],
                         "type": "UltraEpic"
@@ -5335,12 +5335,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 120
+                                "weight": 80
                             }
                         ],
                         "type": "UltraEpic"
@@ -5499,12 +5499,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 240
+                                "weight": 160
                             }
                         ],
                         "type": "UltraEpic"
@@ -5663,12 +5663,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 480
+                                "weight": 320
                             }
                         ],
                         "type": "UltraEpic"

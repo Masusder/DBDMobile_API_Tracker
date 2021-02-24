@@ -86756,6 +86756,591 @@
     },
     {
         "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Mask009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Mask009",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenKiller_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_Body009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_Body009",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenKiller_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenKiller_W009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenKiller_W009",
+            "character": "Oni",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenKiller_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Weapon",
+            "unbreakable": true,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Head011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Head011",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Torso011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Torso011",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "SwedenSurvivor_Legs011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "SwedenSurvivor_Legs011",
+            "character": "Yui",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "SwedenSurvivor_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Head011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Head011",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Torso011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Torso011",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KS_Legs011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KS_Legs011",
+            "character": "Jeff",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KS_outfit_011",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Head013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Head013",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "CM_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Torso013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Torso013",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "CM_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Legs013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Legs013",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "CM_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Mask017",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Mask017",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_Mask017",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body017",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body017",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_Mask017",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_W017",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_W017",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_Mask017",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "outfit"
         ],
         "consumable": false,
@@ -95720,6 +96305,116 @@
     },
     {
         "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "SwedenKiller_outfit_009",
+        "metaData": {
+            "character": "Oni",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenKiller_Mask009",
+                "SwedenKiller_Body009",
+                "SwedenKiller_W009"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "SwedenSurvivor_outfit_011",
+        "metaData": {
+            "character": "Yui",
+            "discountPercentage": 0.1,
+            "items": [
+                "SwedenSurvivor_Head011",
+                "SwedenSurvivor_Torso011",
+                "SwedenSurvivor_Legs011"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KS_outfit_011",
+        "metaData": {
+            "character": "Jeff",
+            "discountPercentage": 0.1,
+            "items": [
+                "KS_Head011",
+                "KS_Torso011",
+                "KS_Legs011"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "CM_outfit_013",
+        "metaData": {
+            "character": "Claudette",
+            "discountPercentage": 0.1,
+            "items": [
+                "CM_Head013",
+                "CM_Torso013",
+                "CM_Legs013"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KK_Mask017",
+        "metaData": {
+            "character": "Legion",
+            "discountPercentage": 0.1,
+            "items": [
+                "KK_Mask017",
+                "KK_Body017",
+                "KK_W017"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "promoPack"
         ],
         "consumable": true,
@@ -98525,7 +99220,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 700
+                "price": 790
             }
         ],
         "id": "LegionSusieStarterPack",
@@ -98944,7 +99639,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 1280
+                "price": 790
             }
         ],
         "id": "OniStarterPack",
@@ -98990,7 +99685,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 1100
+                "price": 790
             }
         ],
         "id": "YuiStarterPack",

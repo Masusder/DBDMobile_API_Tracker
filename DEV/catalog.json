@@ -2727,7 +2727,7 @@
         "id": "CarnageCupcake",
         "metaData": {
             "enabled": true,
-            "eventID": "Anniversary2020",
+            "eventID": "MobileAnniversary2021",
             "rarity": "SpecialEvent",
             "role": "None"
         },
@@ -3651,7 +3651,7 @@
         "id": "Item_Camper_Flashlight_Anniversary2020",
         "metaData": {
             "enabled": true,
-            "eventID": "Anniversary2020",
+            "eventID": "MobileAnniversary2021",
             "rarity": "SpecialEvent",
             "role": "Camper"
         },
@@ -3673,7 +3673,7 @@
         "id": "Item_Camper_Medkit_Anniversary2020",
         "metaData": {
             "enabled": true,
-            "eventID": "Anniversary2020",
+            "eventID": "MobileAnniversary2021",
             "rarity": "SpecialEvent",
             "role": "Camper"
         },

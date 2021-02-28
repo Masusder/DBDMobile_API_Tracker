@@ -783,6 +783,52 @@
         "id": "PromopackUtica6",
         "startDate": 1
     },
+    "Promopack_Test15Plus": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack_Test15PlushappyHour": {
+                    "effects": {
+                        "Promopack_Test15PlusPromoPack": [
+                            {
+                                "id": "Promopack_Test15PlusPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NeaDeluxeBundle",
+                                    "SmokeHardManStarterPack",
+                                    "NurseStarterPack",
+                                    "BaseGameBundle_05",
+                                    "NewPlayerBundle",
+                                    "FreeTicketBundle",
+                                    "Killer07StarterPack",
+                                    "SpiritStarterPack",
+                                    "JaneStarterPack",
+                                    "HagMudStarterPack",
+                                    "FoulBileBundle",
+                                    "HumilatedLordPack",
+                                    "SSoutfitsPack",
+                                    "LunarCharPack",
+                                    "LegionSusieStarterPack",
+                                    "NashvilleSurvivorPack",
+                                    "NeaStarterPack",
+                                    "WraithStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack_Test15PlushappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack_Test15Plus",
+        "startDate": 1
+    },
     "ProvingGround_Test": {
         "assets": {},
         "components": {

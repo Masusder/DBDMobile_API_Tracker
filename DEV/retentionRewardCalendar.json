@@ -251,7 +251,7 @@
     },
     "13SlotsCalendar_Utica1": {
         "claimType": "minute",
-        "endDate": 1614815999,
+        "endDate": 1614610799,
         "id": "13SlotsCalendar_Utica1",
         "rewards": [
             {
@@ -658,7 +658,7 @@
             {
                 "amount": 50,
                 "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "Cells",
@@ -667,13 +667,13 @@
             {
                 "amount": 200,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": true
                 },
                 "id": "Cells",
                 "type": "currency"
             }
         ],
-        "startDate": 1614816001
+        "startDate": 1614556801
     }
 }

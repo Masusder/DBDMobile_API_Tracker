@@ -4066,7 +4066,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "I'm known for getting easily scared, good thing I'm working on a horror game !"
+                    "text": "I'm known for getting easily scared, good thing I'm working on a horror game!"
                 },
                 {
                     "lang": "GER",
@@ -4326,7 +4326,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Thank you for a full year of putting up with my bad puns; here's to many more to come!\\n\\nPs. Did you know that The Oni has a signature magic trick? It's called Abra Kadabra \u00e0 la Kazan."
+                    "text": "Thank you for a full year of putting up with my bad puns; here's to many more to come! PS. Did you know that The Oni has a signature magic trick? It's called Abracadabra \u00e0 la Kazan."
                 },
                 {
                     "lang": "GER",
@@ -12218,70 +12218,70 @@
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2021-03-03T18:30:01",
+            "bannerEndDate": "2021-03-03T20:30:01",
             "bannerPriority": 2,
-            "bannerStartDate": "2021-03-03T17:00:01",
+            "bannerStartDate": "2021-03-03T20:00:01",
             "campaignName": "FirstPurchaseEvent",
             "deepLink": "/Storefront_Premium/",
             "descriptionId": "EVENTBANNER_FirstPurchase_DESC",
-            "displayEndDate": "2021-03-03T18:30:01",
-            "displayStartDate": "2021-03-03T17:00:01",
-            "endDate": "2021-03-03T18:30:01",
+            "displayEndDate": "2021-03-03T20:30:01",
+            "displayStartDate": "2021-03-03T20:00:01",
+            "endDate": "2021-03-03T20:30:01",
             "eventPriority": 2,
-            "hotEndDate": "2021-03-03T18:30:01",
-            "hotStartDate": "2021-03-03T17:00:01",
+            "hotEndDate": "2021-03-03T20:30:01",
+            "hotStartDate": "2021-03-03T20:00:01",
             "id": "FirstPurchaseEvent",
             "imageUrl": "events/Auric_Cell_30.png",
             "relatedItemsId": [
                 "200"
             ],
-            "startDate": "2021-03-03T17:00:01",
+            "startDate": "2021-03-03T20:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "FirstPremiumPurchase"
         },
         {
-            "bannerEndDate": "2021-03-03T17:00:01",
+            "bannerEndDate": "2021-03-03T20:00:01",
             "bannerPriority": 2,
-            "bannerStartDate": "2021-03-03T16:00:01",
+            "bannerStartDate": "2021-03-03T19:00:01",
             "campaignName": "BonusAC_Test_1",
             "deepLink": "/Storefront_Premium/",
             "descriptionId": "EVENTBANNER_BonusACEventSavannah_DESC",
-            "displayEndDate": "2021-03-03T17:00:01",
-            "displayStartDate": "2021-03-03T16:00:01",
-            "endDate": "2021-03-03T17:00:01",
+            "displayEndDate": "2021-03-03T20:00:01",
+            "displayStartDate": "2021-03-03T19:00:01",
+            "endDate": "2021-03-03T20:00:01",
             "eventPriority": 2,
-            "hotEndDate": "2021-03-03T17:00:01",
-            "hotStartDate": "2021-03-03T16:00:01",
+            "hotEndDate": "2021-03-03T20:00:01",
+            "hotStartDate": "2021-03-03T19:00:01",
             "id": "BonusAC_Test_1",
             "imageUrl": "events/Auric_Cell_50.png",
             "relatedItemsId": [
                 "2",
                 "3"
             ],
-            "startDate": "2021-03-03T16:00:01",
+            "startDate": "2021-03-03T19:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "BonusACEvent"
         },
         {
             "bannerEndDate": "2021-03-03T21:30:01",
             "bannerPriority": 2,
-            "bannerStartDate": "2021-03-03T20:00:01",
+            "bannerStartDate": "2021-03-03T20:30:01",
             "campaignName": "IntoTheWildernessBox",
             "deepLink": "/Bloodmarket_Survivors/",
             "descriptionId": "EVENTBANNER_WildernessBox_DESC",
             "displayEndDate": "2021-03-03T21:30:01",
-            "displayStartDate": "2021-03-03T20:00:01",
+            "displayStartDate": "2021-03-03T20:30:01",
             "endDate": "2021-03-03T21:30:01",
             "eventPriority": 2,
             "hotEndDate": "2021-03-03T21:30:01",
-            "hotStartDate": "2021-03-03T20:00:01",
+            "hotStartDate": "2021-03-03T20:30:01",
             "id": "IntoTheWildernessBox",
             "imageUrl": "events/All_Characters_BH.png",
             "relatedItemsId": [
                 "WR_Body01_03_Wilderness",
                 "MT_Torso01_02_Wilderness"
             ],
-            "startDate": "2021-03-03T20:00:01",
+            "startDate": "2021-03-03T20:30:01",
             "titleId": "EVENTBANNER_WildernessBox_TITLE",
             "type": "Bloodhunt"
         }

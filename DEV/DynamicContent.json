@@ -4911,7 +4911,7 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Find the Savannah Speedster Meg and Sinner's Slaughter Wraith outfits in the special Anniversary Boxes. For a limited time only."
+                    "text": "Find the Savannah Speedster Meg and Sinner's Slaughter Wraith outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
                 },
                 {
                     "lang": "GER",
@@ -10436,6 +10436,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "ONE BUNNY IS GOOD BUT TWO IS BETTER"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_DoubleBunny_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "DOUBLE TROUBLE OFFER"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_DoubleBunny_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "THE HOLIDAY CHEER WON'T DELIVER ITS-ELF"
                 },
                 {
@@ -10951,6 +11081,266 @@
                 }
             ],
             "textId": "PURCHASEPOPUP_harvester_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "TRACK THE LOST AS THE MIGHTY MINOTAUR"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_MinotaurOni_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "A-MAZE-ING OFFER"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_MinotaurOni_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "TRACK THE LOST AS THE MIGHTY MINOTAUR"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_MinotaurSolo_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "A-MAZE-ING OFFER"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_MinotaurSolo_TITLE"
         },
         {
             "loc": [
@@ -12079,7 +12469,7 @@
         {
             "id": "FoulBileBundle",
             "imageUrl": "promoPacks/FoulBileFixed.png",
-            "marketingImageUrl": "promoPacks/marketingImages/FoulBileBundle.png",
+            "marketingImageUrl": "promoPacks/marketingImages/FoulBileBundleFixedMask.png",
             "titleId": "PROMOPACK_FoulBileBundle_TITLE"
         },
         {
@@ -12395,6 +12785,21 @@
                 "descriptionId": "PURCHASEPOPUP_feng_DESC",
                 "imageUrl": "purchasePopups/BunnyFeng_Direct_Popup.png",
                 "titleId": "PURCHASEPOPUP_feng_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_MinotaurOni_DESC",
+                "imageUrl": "purchasePopups/MinotaurOni_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_MinotaurOni_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_MinotaurSolo_DESC",
+                "imageUrl": "purchasePopups/MinotaurSolo_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_MinotaurSolo_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_DoubleBunny_DESC",
+                "imageUrl": "purchasePopups/DoubleBunny_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_DoubleBunny_TITLE"
             }
         ]
     },

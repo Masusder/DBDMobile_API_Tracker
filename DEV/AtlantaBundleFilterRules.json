@@ -276,6 +276,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -330,6 +339,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -384,6 +402,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

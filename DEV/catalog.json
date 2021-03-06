@@ -25288,6 +25288,639 @@
     },
     {
         "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurOni",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotauroni"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_minotauroni"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurOniTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotauroni_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurOniTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotauroni_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 899.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurSolo",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotaursolo"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_minotaursolo"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurSoloTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotaursolo_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyMinotaurSoloTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_minotaursolo_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011_01",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDoubleBunny",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_doublebunny"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_doublebunny"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011_01",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDoubleBunnyTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_doublebunny_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FM_Head011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Head011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Torso011_01",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FM_Legs011_01",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDoubleBunnyTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_doublebunny_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "character"
         ],
         "id": "Dwight",

@@ -270,6 +270,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_elfdwight"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng_2"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -318,6 +321,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_elfDwight_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng_2_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -366,6 +372,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_elfDwight_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_feng_2_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

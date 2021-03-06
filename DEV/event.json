@@ -901,6 +901,57 @@
         "id": "PurchasePopupBasic2",
         "startDate": 1
     },
+    "PurchasePopupBasic3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupBasic3"
+            }
+        },
+        "id": "PurchasePopupBasic3",
+        "startDate": 1
+    },
+    "PurchasePopupBasic4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupBasic4"
+            }
+        },
+        "id": "PurchasePopupBasic4",
+        "startDate": 1
+    },
+    "PurchasePopupDoubleBunny": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupDoubleBunny"
+            }
+        },
+        "id": "PurchasePopupDoubleBunny",
+        "startDate": 1
+    },
     "PurchasePopupElf": {
         "assets": {},
         "components": {
@@ -967,6 +1018,40 @@
             }
         },
         "id": "PurchasePopupFeng2",
+        "startDate": 1
+    },
+    "PurchasePopupMinotaurOni": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupMinotaurOni"
+            }
+        },
+        "id": "PurchasePopupMinotaurOni",
+        "startDate": 1
+    },
+    "PurchasePopupMinotaurSolo": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupMinotaurSolo"
+            }
+        },
+        "id": "PurchasePopupMinotaurSolo",
         "startDate": 1
     },
     "PurchasePopupOni": {

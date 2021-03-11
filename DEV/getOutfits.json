@@ -1,18 +1,6 @@
 {
     "outfits": [
         {
-            "id": "KK_Mask017",
-            "defaultCost": [],
-            "character": "Legion",
-            "storeItems": [
-                "KK_Mask017",
-                "KK_Body017",
-                "KK_W017"
-            ],
-            "newStartDate": "2021-02-23T00:00:00",
-            "newEndDate": "2021-03-09T00:00:00"
-        },
-        {
             "id": "Dwight_outfit_001",
             "defaultCost": [
                 {
@@ -8435,6 +8423,42 @@
                 "CM_Head013",
                 "CM_Torso013",
                 "CM_Legs013"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
+            "id": "KK_outfit_017",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask017",
+                "KK_Body017",
+                "KK_W017"
+            ],
+            "newStartDate": "2021-02-23T00:00:00",
+            "newEndDate": "2021-03-09T00:00:00"
+        },
+        {
+            "id": "KK_outfit_018",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Legion",
+            "storeItems": [
+                "KK_Mask018",
+                "KK_Body018",
+                "KK_W018"
             ],
             "newStartDate": "2021-02-23T00:00:00",
             "newEndDate": "2021-03-09T00:00:00"

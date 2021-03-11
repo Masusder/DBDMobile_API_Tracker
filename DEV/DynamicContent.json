@@ -13670,25 +13670,25 @@
             "type": "FirstPremiumPurchase"
         },
         {
-            "bannerEndDate": "2021-03-10T17:00:01",
+            "bannerEndDate": "2021-03-10T23:00:01",
             "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T16:00:01",
+            "bannerStartDate": "2021-03-10T17:00:01",
             "campaignName": "BonusAC_Utica",
             "deepLink": "/Storefront_Premium/",
             "descriptionId": "EVENTBANNER_BonusACEventUtica_DESC",
-            "displayEndDate": "2021-03-10T17:00:01",
-            "displayStartDate": "2021-03-10T16:00:01",
-            "endDate": "2021-03-10T17:00:01",
+            "displayEndDate": "2021-03-10T23:00:01",
+            "displayStartDate": "2021-03-10T17:00:01",
+            "endDate": "2021-03-10T23:00:01",
             "eventPriority": 2,
-            "hotEndDate": "2021-03-10T17:00:01",
-            "hotStartDate": "2021-03-10T16:00:01",
+            "hotEndDate": "2021-03-10T23:00:01",
+            "hotStartDate": "2021-03-10T17:00:01",
             "id": "BonusAC_Utica",
             "imageUrl": "events/Auric_Cell_50.png",
             "relatedItemsId": [
                 "2",
                 "3"
             ],
-            "startDate": "2021-03-10T16:00:01",
+            "startDate": "2021-03-10T17:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "BonusACEvent"
         },

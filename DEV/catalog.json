@@ -26737,6 +26737,25 @@
     },
     {
         "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "K23",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "item"
         ],
         "consumable": false,
@@ -87877,7 +87896,7 @@
             "kind": "Customization",
             "newEndDate": "2021-03-09T00:00:00",
             "newStartDate": "2021-02-23T00:00:00",
-            "outfitId": "KK_Mask017",
+            "outfitId": "KK_outfit_017",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -87916,7 +87935,7 @@
             "kind": "Customization",
             "newEndDate": "2021-03-09T00:00:00",
             "newStartDate": "2021-02-23T00:00:00",
-            "outfitId": "KK_Mask017",
+            "outfitId": "KK_outfit_017",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -87955,7 +87974,124 @@
             "kind": "Customization",
             "newEndDate": "2021-03-09T00:00:00",
             "newStartDate": "2021-02-23T00:00:00",
-            "outfitId": "KK_Mask017",
+            "outfitId": "KK_outfit_017",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Mask018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Mask018",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_outfit_018",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_Body018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_Body018",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_outfit_018",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "KK_W018",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "KK_W018",
+            "character": "Legion",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "outfitId": "KK_outfit_018",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -97029,7 +97165,7 @@
             "outfit"
         ],
         "consumable": false,
-        "id": "KK_Mask017",
+        "id": "KK_outfit_017",
         "metaData": {
             "character": "Legion",
             "discountPercentage": 0.1,
@@ -97037,6 +97173,28 @@
                 "KK_Mask017",
                 "KK_Body017",
                 "KK_W017"
+            ],
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "KK_outfit_018",
+        "metaData": {
+            "character": "Legion",
+            "discountPercentage": 0.1,
+            "items": [
+                "KK_Mask018",
+                "KK_Body018",
+                "KK_W018"
             ],
             "newEndDate": "2021-03-09T00:00:00",
             "newStartDate": "2021-02-23T00:00:00",

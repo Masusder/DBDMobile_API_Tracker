@@ -347,6 +347,36 @@
         "id": "Promopack_Base_1",
         "startDate": 1
     },
+    "Promopack_Test": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Promopack_TesthappyHour": {
+                    "effects": {
+                        "Promopack_TestPromoPack": [
+                            {
+                                "id": "Promopack_TestPromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NurseStarterPack",
+                                    "KateStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "Promopack_TesthappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Promopack_Test",
+        "startDate": 1
+    },
     "Promopack_Test_SL9": {
         "assets": {},
         "components": {

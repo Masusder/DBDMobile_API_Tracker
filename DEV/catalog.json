@@ -3683,6 +3683,28 @@
     },
     {
         "categories": [
+            "equippableItem"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 0
+            }
+        ],
+        "id": "Item_Slasher_ThrowingKnives",
+        "metaData": {
+            "enabled": false,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
             "addon"
         ],
         "consumable": false,
@@ -13935,6 +13957,466 @@
         "id": "ADDON_TormentMode_IridescentSealofMetatron",
         "metaData": {
             "character": "K20",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "UltraRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Trickster_01",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Trickster_02",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Trickster_03",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 3000
+            }
+        ],
+        "id": "Addon_Trickster_04",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Trickster_05",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Trickster_06",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Trickster_07",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Trickster_08",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 4000
+            }
+        ],
+        "id": "Addon_Trickster_09",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Uncommon",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Trickster_10",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Trickster_11",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Trickster_12",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Trickster_13",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 5000
+            }
+        ],
+        "id": "Addon_Trickster_14",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "Rare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "Addon_Trickster_15",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "Addon_Trickster_16",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "Addon_Trickster_17",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 6000
+            }
+        ],
+        "id": "Addon_Trickster_18",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "VeryRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 7000
+            }
+        ],
+        "id": "Addon_Trickster_19",
+        "metaData": {
+            "character": "K23",
+            "enabled": true,
+            "eventID": "None",
+            "rarity": "UltraRare",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "addon"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 7000
+            }
+        ],
+        "id": "Addon_Trickster_20",
+        "metaData": {
+            "character": "K23",
             "enabled": true,
             "eventID": "None",
             "rarity": "UltraRare",
@@ -26749,6 +27231,25 @@
         "metaData": {
             "grantedIfFree": false,
             "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 501
+            }
+        ],
+        "id": "S25",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -88106,6 +88607,390 @@
         "nonSecure": false,
         "premium": false,
         "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Head01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Body01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Body01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Weapon01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Weapon01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Head01_P01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Body01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Body01_P01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K23_Weapon01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K23_Weapon01_P01",
+            "character": "K23",
+            "kind": "Customization",
+            "newEndDate": "2021-03-08T23:59:59",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Head01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Torso01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Torso01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Legs01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Legs01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Head01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Head01_P01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Torso01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Torso01_P01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S25_Legs01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S25_Legs01_P01",
+            "character": "S25",
+            "kind": "Customization",
+            "newEndDate": "2021-03-09T00:00:00",
+            "newStartDate": "2021-02-23T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
         "unique": true
     },
     {

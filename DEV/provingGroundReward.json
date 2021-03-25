@@ -1,0 +1,26 @@
+{
+    "0": {
+        "BonusObsidianBones": 0,
+        "ObsidianBones": 0
+    },
+    "1": {
+        "BonusObsidianBones": 0,
+        "ObsidianBones": 1
+    },
+    "2": {
+        "BonusObsidianBones": 0,
+        "ObsidianBones": 2
+    },
+    "3": {
+        "BonusObsidianBones": 0,
+        "ObsidianBones": 3
+    },
+    "4": {
+        "BonusObsidianBones": 1,
+        "ObsidianBones": 4
+    },
+    "5": {
+        "BonusObsidianBones": 2,
+        "ObsidianBones": 5
+    }
+}

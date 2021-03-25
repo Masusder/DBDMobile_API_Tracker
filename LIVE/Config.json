@@ -315,20 +315,7 @@
         "keyName": "ANALYTICS_ENDPOINTS"
     },
     {
-        "value": {
-            "Mobile": {
-                "dbd_match_making_filter_unidirectional_always": true,
-                "dbd_match_making_filter_good_latency": 120,
-                "dbd_match_making_filter_skip_region_checks": false,
-                "dbd_match_making_filter_min_geo_distance": 1000,
-                "dbd_match_making_filter_ok_latency": 250,
-                "dbd_match_making_filter_expansion_duration": 90000,
-                "dbd_match_making_filter_max_geo_distance": 10000,
-                "dbd_match_making_filter_unidirectional": true,
-                "dbd_match_making_filter_max_rank_diff": 20,
-                "dbd_match_making_filter_min_rank_diff": 1
-            }
-        },
+        "value": {},
         "keyName": "MATCHMAKING_CONFIG"
     },
     {
@@ -723,7 +710,12 @@
             "m_4.4.0_407701live": "m_4.4.0_407701live-1615305454",
             "m_4.4.0_410616live": "m_4.4.0_410616live-1615905355",
             "m_4.4.1_406284live": "m_4.4.1_406284live-1614884513",
-            "m_4.4.1_406413live": "m_4.4.1_406413live-1614891116"
+            "m_4.4.1_406413live": "m_4.4.1_406413live-1614891116",
+            "m_4.4.1_414527live": "m_4.4.1_414527live-1616684437",
+            "m_4.4.1_414591live": "m_4.4.1_414591live-1616689213",
+            "m_4.4.1_414718live": "m_4.4.1_414718live-1616698949",
+            "m_4.4.1_414756live": "m_4.4.1_414756live-1616700961",
+            "m_4.4.1_414802live": "m_4.4.1_414802live-1616704129"
         },
         "keyName": "VER_CLIENT_DATA"
     },

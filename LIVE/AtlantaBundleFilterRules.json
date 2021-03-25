@@ -273,6 +273,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -324,6 +333,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -375,6 +393,15 @@
             },
             {
                 "premiumStoreId": "purchase_popup_feng_2_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotauroni_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_minotaursolo_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_doublebunny_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -912,7 +939,7 @@
                 "premiumStoreId": "auric_cell_pack_2_130"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack2_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack2",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -926,7 +953,7 @@
                 "premiumStoreId": "auric_cell_pack_2_130_T3"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack2_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack2",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -940,7 +967,7 @@
                 "premiumStoreId": "auric_cell_pack_2_130_T2"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack2_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack2",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -954,7 +981,7 @@
                 "premiumStoreId": "auric_cell_pack_3_130"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack3_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack3",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -968,7 +995,7 @@
                 "premiumStoreId": "auric_cell_pack_3_130_T3"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack3_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack3",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },
@@ -982,7 +1009,7 @@
                 "premiumStoreId": "auric_cell_pack_3_130_T2"
             }
         ],
-        "specifiedRule": "First_Purchase_130_Pack3_2020-09-13",
+        "specifiedRule": "First_Purchase_130_Pack3",
         "startDate": "2017-07-12T00:00:00",
         "type": "store"
     },

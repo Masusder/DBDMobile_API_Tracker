@@ -26879,18 +26879,6 @@
                 "price": 500
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 400
-                    }
-                ],
-                "endDate": "2020-07-08T20:30:00",
-                "startDate": "2020-07-08T14:30:00"
-            }
-        ],
         "id": "Clown",
         "metaData": {
             "grantedIfFree": false,
@@ -27140,7 +27128,7 @@
         "defaultCost": [
             {
                 "currencyId": "Shards",
-                "price": 10800
+                "price": 9000
             },
             {
                 "currencyId": "Cells",
@@ -27163,7 +27151,7 @@
         "defaultCost": [
             {
                 "currencyId": "Shards",
-                "price": 10800
+                "price": 9000
             },
             {
                 "currencyId": "Cells",
@@ -101033,7 +101021,7 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 900
+                "price": 600
             }
         ],
         "id": "LincolnKillerPack",
@@ -103174,6 +103162,67 @@
             }
         ],
         "id": "CharacterBundle_01",
+        "metaData": {
+            "highlighted": true,
+            "priority": 0
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": 10
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "promoPack"
+        ],
+        "consumable": true,
+        "consumptionReward": [
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Mask008",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_Body008",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "SwedenKiller_W008",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "HK_Head010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "HK_Body010",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
+                "id": "HK_W010",
+                "type": "inventory"
+            },
+            {
+                "amount": 9000,
+                "id": "Shards",
+                "type": "currency"
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 2100
+            }
+        ],
+        "id": "YamaokaDeluxeBundle",
         "metaData": {
             "highlighted": true,
             "priority": 0

@@ -487,126 +487,6 @@
         "id": "PromopackShardsTest",
         "startDate": 1
     },
-    "PromopackTucson1": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackTucson1happyHour": {
-                    "effects": {
-                        "PromopackTucson1PromoPack": [
-                            {
-                                "id": "PromopackTucson1PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "BaseGameBundle_05",
-                                    "NewPlayerBundle"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackTucson1happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackTucson1",
-        "startDate": 1
-    },
-    "PromopackTucson2": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackTucson2happyHour": {
-                    "effects": {
-                        "PromopackTucson2PromoPack": [
-                            {
-                                "id": "PromopackTucson2PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "NeaDeluxeBundle",
-                                    "SmokeHardManStarterPack",
-                                    "NurseStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackTucson2happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackTucson2",
-        "startDate": 1
-    },
-    "PromopackTucson3": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackTucson3happyHour": {
-                    "effects": {
-                        "PromopackTucson3PromoPack": [
-                            {
-                                "id": "PromopackTucson3PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "CharacterBundle_01"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackTucson3happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackTucson3",
-        "startDate": 1
-    },
-    "PromopackTucson4": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackTucson4happyHour": {
-                    "effects": {
-                        "PromopackTucson4PromoPack": [
-                            {
-                                "id": "PromopackTucson4PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "YuiStarterPack",
-                                    "KateStarterPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackTucson4happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackTucson4",
-        "startDate": 1
-    },
     "PromopackUtica1": {
         "assets": {},
         "components": {
@@ -783,41 +663,26 @@
         "id": "PromopackUtica6",
         "startDate": 1
     },
-    "Promopack_Test15Plus": {
+    "PromopackVail1": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "Promopack_Test15PlushappyHour": {
+                "PromopackVail1happyHour": {
                     "effects": {
-                        "Promopack_Test15PlusPromoPack": [
+                        "PromopackVail1PromoPack": [
                             {
-                                "id": "Promopack_Test15PlusPromoPack",
+                                "id": "PromopackVail1PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "NeaDeluxeBundle",
-                                    "SmokeHardManStarterPack",
-                                    "NurseStarterPack",
                                     "BaseGameBundle_05",
                                     "NewPlayerBundle",
-                                    "FreeTicketBundle",
-                                    "Killer07StarterPack",
-                                    "SpiritStarterPack",
-                                    "JaneStarterPack",
-                                    "HagMudStarterPack",
-                                    "FoulBileBundle",
-                                    "HumilatedLordPack",
-                                    "SSoutfitsPack",
-                                    "LunarCharPack",
-                                    "LegionSusieStarterPack",
-                                    "NashvilleSurvivorPack",
-                                    "NeaStarterPack",
-                                    "WraithStarterPack"
+                                    "FreeTicketBundle"
                                 ]
                             }
                         ]
                     },
-                    "id": "Promopack_Test15PlushappyHour",
+                    "id": "PromopackVail1happyHour",
                     "repeatDelays": []
                 }
             },
@@ -826,7 +691,156 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "Promopack_Test15Plus",
+        "id": "PromopackVail1",
+        "startDate": 1
+    },
+    "PromopackVail2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail2happyHour": {
+                    "effects": {
+                        "PromopackVail2PromoPack": [
+                            {
+                                "id": "PromopackVail2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "YamaokaDeluxeBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail2",
+        "startDate": 1
+    },
+    "PromopackVail3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail3happyHour": {
+                    "effects": {
+                        "PromopackVail3PromoPack": [
+                            {
+                                "id": "PromopackVail3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "ClownStarterPack",
+                                    "FengStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail3",
+        "startDate": 1
+    },
+    "PromopackVail4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail4happyHour": {
+                    "effects": {
+                        "PromopackVail4PromoPack": [
+                            {
+                                "id": "PromopackVail4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "SSoutfitsPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail4",
+        "startDate": 1
+    },
+    "PromopackVail5": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail5happyHour": {
+                    "effects": {
+                        "PromopackVail5PromoPack": [
+                            {
+                                "id": "PromopackVail5PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LincolnKillerPack",
+                                    "ChucklesHillbillyPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail5happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail5",
+        "startDate": 1
+    },
+    "PromopackVail6": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail6happyHour": {
+                    "effects": {
+                        "PromopackVail6PromoPack": [
+                            {
+                                "id": "PromopackVail6PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "SmokeStarterPack",
+                                    "AceStarterPack",
+                                    "MegSpringBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail6happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail6",
         "startDate": 1
     },
     "ProvingGround_Test": {

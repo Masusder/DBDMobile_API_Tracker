@@ -103249,7 +103249,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "SmallShardPack",
@@ -103276,7 +103276,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "SmallShardPack01",
@@ -103303,7 +103303,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "SmallShardPack02",
@@ -103330,7 +103330,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "MediumShardPack",
@@ -103357,7 +103357,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "MediumShardPack01",
@@ -103384,7 +103384,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "MediumShardPack02",
@@ -103411,7 +103411,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "LargeShardPack",
@@ -103438,7 +103438,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "LargeShardPack01",
@@ -103465,7 +103465,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "LargeShardPack02",
@@ -103492,7 +103492,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "SmallCellsPack",
@@ -103519,7 +103519,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "MediumCellsPack",
@@ -103546,7 +103546,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "LargeCellsPack",
@@ -103573,7 +103573,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "EntityBoxBloodpointsPack_Small",
@@ -103600,7 +103600,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "EntityBoxBloodpointsPack_Medium",
@@ -103627,7 +103627,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "EntityBoxBloodpointsPack_Large",
@@ -103654,7 +103654,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "EntityBoxShardsPack_Small",
@@ -103681,7 +103681,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "EntityBoxShardsPack_Medium",
@@ -103708,7 +103708,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "EntityBoxShardsPack_Large",
@@ -103735,7 +103735,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "EntityBoxCellsPack",
@@ -103756,7 +103756,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "SuperChest01",
@@ -103776,7 +103776,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 30000
+                "price": 20000
             }
         ],
         "id": "SuperChest02",
@@ -103796,7 +103796,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 30000
             }
         ],
         "id": "SuperChest03",
@@ -103916,7 +103916,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 15000
+                "price": 10000
             }
         ],
         "id": "EntityBox",

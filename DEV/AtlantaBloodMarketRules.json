@@ -3808,21 +3808,21 @@
             {
                 "id": "SuperChest01",
                 "reward": {
-                    "id": "CarnageCupcake",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             },
             {
                 "id": "SuperChest02",
                 "reward": {
-                    "id": "CarnageCupcake",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             },
             {
                 "id": "SuperChest03",
                 "reward": {
-                    "id": "CarnageCupcake",
+                    "id": "BloodyPartyStreamers",
                     "type": "shardsPack"
                 }
             }

@@ -1547,6 +1547,70 @@
         "id": "UticaOYDF_XP",
         "startDate": 1
     },
+    "VailTY_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailTY_BPhappyHour": {
+                    "effects": {
+                        "VailTY_BP": [
+                            {
+                                "characters": [
+                                    "S25",
+                                    "K23"
+                                ],
+                                "id": "VailTY_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "VailTY_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailTY_BP",
+        "startDate": 1
+    },
+    "VailTY_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailTY_XPhappyHour": {
+                    "effects": {
+                        "VailTY_XP": [
+                            {
+                                "characters": [
+                                    "S25",
+                                    "K23"
+                                ],
+                                "id": "VailTY_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "VailTY_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailTY_XP",
+        "startDate": 1
+    },
     "XPDwightYuiOniNurse": {
         "assets": {},
         "components": {

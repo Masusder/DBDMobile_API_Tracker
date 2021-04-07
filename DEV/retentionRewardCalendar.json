@@ -126,7 +126,7 @@
     },
     "13SlotsCalendar_Vail1": {
         "claimType": "minute",
-        "endDate": 1617839999,
+        "endDate": 1617753599,
         "id": "13SlotsCalendar_Vail1",
         "rewards": [
             {
@@ -478,6 +478,6 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1617840001
+        "startDate": 1617753601
     }
 }

@@ -227,6 +227,25 @@
         "id": "Bloodhunt_XP",
         "startDate": 1
     },
+    "DavidStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "DavidStarterBanner"
+                ]
+            }
+        },
+        "id": "DavidStarterBanner",
+        "startDate": 1
+    },
     "DefaultCalendar": {
         "assets": {},
         "components": {
@@ -360,6 +379,25 @@
             }
         },
         "id": "LegionSusieStarterPack",
+        "startDate": 1
+    },
+    "MegSpringBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "MegSpringBanner"
+                ]
+            }
+        },
+        "id": "MegSpringBanner",
         "startDate": 1
     },
     "NeaDeluxeBanner": {
@@ -1207,344 +1245,23 @@
         "id": "RitualsRewardsOverrideTest2",
         "startDate": 1
     },
-    "UticaCWBM_BP": {
+    "ScarletSwarmBanner": {
         "assets": {},
         "components": {
             "achievement": {},
-            "happyHour": {
-                "UticaCWBM_BPhappyHour": {
-                    "effects": {
-                        "UticaCWBM_BP": [
-                            {
-                                "characters": [
-                                    "Cannibal",
-                                    "Bob",
-                                    "Bill",
-                                    "Meg"
-                                ],
-                                "id": "UticaCWBM_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaCWBM_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
+            "happyHour": {},
             "leaderboard": {},
             "scenario": {}
         },
         "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaCWBM_BP",
-        "startDate": 1
-    },
-    "UticaCWBM_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaCWBM_XPhappyHour": {
-                    "effects": {
-                        "UticaCWBM_XP": [
-                            {
-                                "characters": [
-                                    "Cannibal",
-                                    "Bob",
-                                    "Bill",
-                                    "Meg"
-                                ],
-                                "id": "UticaCWBM_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaCWBM_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "ScarletSwarmBanner"
+                ]
+            }
         },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaCWBM_XP",
-        "startDate": 1
-    },
-    "UticaDNST_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaDNST_BPhappyHour": {
-                    "effects": {
-                        "UticaDNST_BP": [
-                            {
-                                "characters": [
-                                    "Demogorgon",
-                                    "Nancy",
-                                    "Steve",
-                                    "Chuckles"
-                                ],
-                                "id": "UticaDNST_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaDNST_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaDNST_BP",
-        "startDate": 1
-    },
-    "UticaDNST_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaDNST_XPhappyHour": {
-                    "effects": {
-                        "UticaDNST_XP": [
-                            {
-                                "characters": [
-                                    "Demogorgon",
-                                    "Nancy",
-                                    "Steve",
-                                    "Chuckles"
-                                ],
-                                "id": "UticaDNST_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaDNST_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaDNST_XP",
-        "startDate": 1
-    },
-    "UticaECCS_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaECCS_BPhappyHour": {
-                    "effects": {
-                        "UticaECCS_BP": [
-                            {
-                                "characters": [
-                                    "K20",
-                                    "S22",
-                                    "Claudette",
-                                    "Spirit"
-                                ],
-                                "id": "UticaECCS_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaECCS_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaECCS_BP",
-        "startDate": 1
-    },
-    "UticaECCS_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaECCS_XPhappyHour": {
-                    "effects": {
-                        "UticaECCS_XP": [
-                            {
-                                "characters": [
-                                    "K20",
-                                    "S22",
-                                    "Claudette",
-                                    "Spirit"
-                                ],
-                                "id": "UticaECCS_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaECCS_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaECCS_XP",
-        "startDate": 1
-    },
-    "UticaNQLJ_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaNQLJ_BPhappyHour": {
-                    "effects": {
-                        "UticaNQLJ_BP": [
-                            {
-                                "characters": [
-                                    "Nightmare",
-                                    "Quentin",
-                                    "Legion",
-                                    "Jeff"
-                                ],
-                                "id": "UticaNQLJ_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaNQLJ_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaNQLJ_BP",
-        "startDate": 1
-    },
-    "UticaNQLJ_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaNQLJ_XPhappyHour": {
-                    "effects": {
-                        "UticaNQLJ_XP": [
-                            {
-                                "characters": [
-                                    "Nightmare",
-                                    "Quentin",
-                                    "Legion",
-                                    "Jeff"
-                                ],
-                                "id": "UticaNQLJ_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaNQLJ_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaNQLJ_XP",
-        "startDate": 1
-    },
-    "UticaOYDF_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaOYDF_BPhappyHour": {
-                    "effects": {
-                        "UticaOYDF_BP": [
-                            {
-                                "characters": [
-                                    "Oni",
-                                    "Yui",
-                                    "Killer07",
-                                    "Feng"
-                                ],
-                                "id": "UticaOYDF_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaOYDF_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaOYDF_BP",
-        "startDate": 1
-    },
-    "UticaOYDF_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "UticaOYDF_XPhappyHour": {
-                    "effects": {
-                        "UticaOYDF_XP": [
-                            {
-                                "characters": [
-                                    "Oni",
-                                    "Yui",
-                                    "Killer07",
-                                    "Feng"
-                                ],
-                                "id": "UticaOYDF_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "UticaOYDF_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "UticaOYDF_XP",
+        "id": "ScarletSwarmBanner",
         "startDate": 1
     },
     "VailTY_BP": {
@@ -1677,6 +1394,25 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "XPKateBillHuntressLegion",
+        "startDate": 1
+    },
+    "YamaokaDeluxeBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "YamaokaDeluxeBanner"
+                ]
+            }
+        },
+        "id": "YamaokaDeluxeBanner",
         "startDate": 1
     },
     "YuiStarterPack": {

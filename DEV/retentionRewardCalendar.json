@@ -391,10 +391,10 @@
         ],
         "startDate": 1607472001
     },
-    "9SlotsCalendar_Utica2": {
+    "9SlotsCalendar_Vail2": {
         "claimType": "minute",
         "endDate": 1618012799,
-        "id": "9SlotsCalendar_Utica2",
+        "id": "9SlotsCalendar_Vail2",
         "rewards": [
             {
                 "amount": 10000,

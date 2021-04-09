@@ -1,26 +1,6 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_TY",
-            "parameters": {
-                "eventName": "VailTY_BP"
-            },
-            "metaData": {
-                "startDate": "2021-04-05T00:00:00",
-                "endDate": "2021-04-07T23:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_TY",
-            "parameters": {
-                "eventName": "VailTY_XP"
-            },
-            "metaData": {
-                "startDate": "2021-04-05T00:00:00",
-                "endDate": "2021-04-07T23:59:59"
-            }
-        },
-        {
             "campaignName": "PromopackUtica1 (copy) (copy) (copy)",
             "parameters": {
                 "eventName": "PromopackUtica1"

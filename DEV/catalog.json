@@ -88702,7 +88702,7 @@
         "consumptionObjectList": [],
         "defaultCost": [],
         "eventCostList": [],
-        "id": "K23_Head01",
+        "id": "K23_Head01_P01",
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "K23_Head01_P01",
@@ -88734,7 +88734,7 @@
         "consumptionObjectList": [],
         "defaultCost": [],
         "eventCostList": [],
-        "id": "K23_Body01",
+        "id": "K23_Body01_P01",
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "K23_Body01_P01",
@@ -88766,7 +88766,7 @@
         "consumptionObjectList": [],
         "defaultCost": [],
         "eventCostList": [],
-        "id": "K23_Weapon01",
+        "id": "K23_Weapon01_P01",
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "K23_Weapon01_P01",
@@ -89463,10 +89463,10 @@
             }
         ],
         "eventCostList": [],
-        "id": "KK_Mask016",
+        "id": "KK_Head016",
         "initialQuantity": 0,
         "metaData": {
-            "base_itemId": "KK_Mask016",
+            "base_itemId": "KK_Head016",
             "character": "Legion",
             "kind": "Customization",
             "newEndDate": "2021-03-31T00:00:00",
@@ -99345,7 +99345,7 @@
             "character": "Legion",
             "discountPercentage": 0.1,
             "items": [
-                "KK_Mask016",
+                "KK_Head016",
                 "KK_Body016",
                 "KK_W016"
             ],

@@ -1760,6 +1760,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "DAVID STARTER PACK"
+                },
+                {
+                    "lang": "GER",
+                    "text": "DAVID-ANF\u00c4NGER-PACK"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "LOTE DE INICIACI\u00d3N DE DAVID"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "LOTE INICIAL DE DAVID"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "PACK DE D\u00c9PART DE DAVID"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "PACCHETTO INIZIALE DAVID"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u30c7\u30a4\u30d3\u30c3\u30c9\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ub370\uc774\ube44\ub4dc \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "POCZ\u0104TKOWY PAKIET DAVIDA"
+                },
+                {
+                    "lang": "POR",
+                    "text": "PACOTE INICIAL DO DAVID"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0410\u0411\u041e\u0420 \u041d\u041e\u0412\u0418\u0427\u041a\u0410 \u0421 \u0414\u042d\u0412\u0418\u0414\u041e\u041c"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e27\u0e34\u0e14"
+                },
+                {
+                    "lang": "TR",
+                    "text": "DAVID BA\u015eLANGI\u00c7 PAKET\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u5927\u536b\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5927\u885b\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "MARKETINGBANNER_David_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "GRIM MATSURI MEGA BUNDLE"
                 },
                 {
@@ -2020,6 +2085,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "MEG SPRING BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_MegSpring_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "NEA DELUXE BUNDLE"
                 },
                 {
@@ -2145,6 +2275,136 @@
                 }
             ],
             "textId": "MARKETINGBANNER_OniStarter_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "SCARLET SWARM BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_ScarletSwarm_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "YAMAOKA DELUXE BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_Yamaoka_TITLE"
         },
         {
             "loc": [
@@ -9769,6 +10029,42 @@
             "priority": 5,
             "startDate": "2021-03-15T14:00:01",
             "titleId": "MARKETINGBANNER_BaseGameBundle5_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-04-13T15:30:01",
+            "id": "YamaokaDeluxeBanner",
+            "imageUrl": "marketingBanner/BaseGameBundle_StoreBanner.png",
+            "priority": 1,
+            "startDate": "2021-04-13T13:30:01",
+            "titleId": "MARKETINGBANNER_Yamaoka_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-04-13T17:00:01",
+            "id": "ScarletSwarmBanner",
+            "imageUrl": "marketingBanner/ScarletSwarmBanner.png",
+            "priority": 2,
+            "startDate": "2021-04-13T15:30:01",
+            "titleId": "MARKETINGBANNER_ScarletSwarm_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-04-13T18:30:01",
+            "id": "DavidStarterBanner",
+            "imageUrl": "marketingBanner/BaseGameBundle_StoreBanner.png",
+            "priority": 3,
+            "startDate": "2021-04-13T17:00:01",
+            "titleId": "MARKETINGBANNER_David_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-04-13T20:30:01",
+            "id": "MegSpringBanner",
+            "imageUrl": "marketingBanner/ScarletSwarmBanner.png",
+            "priority": 4,
+            "startDate": "2021-04-13T18:30:01",
+            "titleId": "MARKETINGBANNER_MegSpring_TITLE"
         }
     ],
     "storefrontUIData": [

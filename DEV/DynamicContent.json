@@ -6704,59 +6704,59 @@
                 },
                 {
                     "lang": "GER",
-                    "text": ""
+                    "text": "Yamaoka-Deluxe-Bundle"
                 },
                 {
                     "lang": "SPA",
-                    "text": ""
+                    "text": "Paquete deluxe de Yamaoka"
                 },
                 {
                     "lang": "MEX",
-                    "text": ""
+                    "text": "Paquete deluxe de Yamaoka"
                 },
                 {
                     "lang": "FRE",
-                    "text": ""
+                    "text": "Lot de Yamaoka de luxe"
                 },
                 {
                     "lang": "ITA",
-                    "text": ""
+                    "text": "Bundle deluxe Yamaoka"
                 },
                 {
                     "lang": "JPN",
-                    "text": ""
+                    "text": "\u5c71\u5ca1\u306e\u30c7\u30e9\u30c3\u30af\u30b9\u30d0\u30f3\u30c9\u30eb"
                 },
                 {
                     "lang": "KOR",
-                    "text": ""
+                    "text": "\uc57c\ub9c8\uc624\uce74 \ub514\ub7ed\uc2a4 \ubc88\ub4e4"
                 },
                 {
                     "lang": "POL",
-                    "text": ""
+                    "text": "Pakiet Deluxe dla Yamaoki"
                 },
                 {
                     "lang": "POR",
-                    "text": ""
+                    "text": "Pacote Deluxe dos Yamaoka"
                 },
                 {
                     "lang": "RUS",
-                    "text": ""
+                    "text": "\u041b\u044e\u043a\u0441-\u043d\u0430\u0431\u043e\u0440 \u042f\u043c\u0430\u043e\u043a\u0438"
                 },
                 {
                     "lang": "TH",
-                    "text": ""
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e2b\u0e23\u0e39\u0e2b\u0e23\u0e32\u0e02\u0e2d\u0e07\u0e22\u0e32\u0e21\u0e32\u0e42\u0e2d\u0e01\u0e30"
                 },
                 {
                     "lang": "TR",
-                    "text": ""
+                    "text": "L\u00fcks Yamaoka Paketi"
                 },
                 {
                     "lang": "CHS",
-                    "text": ""
+                    "text": "\u5c71\u5ca1\u8c6a\u534e\u793c\u5305"
                 },
                 {
                     "lang": "CHT",
-                    "text": ""
+                    "text": "\u5c71\u5ca1\u8c6a\u83ef\u540c\u6346\u5305"
                 }
             ],
             "textId": "PROMOPACK_YamaokaDeluxeBundle_TITLE"
@@ -9101,19 +9101,19 @@
         {
             "id": "FengStarterPack",
             "imageUrl": "promoPacks/Store_Banner_1-SL9.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/FengStarter_Big.png",
             "titleId": "PROMOPACK_FengStarterPack_TITLE"
         },
         {
             "id": "ClownStarterPack",
             "imageUrl": "promoPacks/Store_Banner_2-SL9.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/ClownStarter_Big.png",
             "titleId": "PROMOPACK_ClownStarterPack_TITLE"
         },
         {
             "id": "SmokeStarterPack",
             "imageUrl": "promoPacks/Store_Banner_3-SL9.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/SmokeStarter_Big.png",
             "titleId": "PROMOPACK_SmokeStarterPack_TITLE"
         },
         {
@@ -9209,7 +9209,7 @@
         {
             "id": "MegSpringBundle",
             "imageUrl": "promoPacks/Meg_Spring-Wardrobe.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/MegSpring_Big.png",
             "titleId": "PROMOPACK_MegSpringBundle_TITLE"
         },
         {
@@ -9221,7 +9221,7 @@
         {
             "id": "LincolnKillerPack",
             "imageUrl": "promoPacks/Treacherous_Killers-Bundle.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/LincolnKiller_Big.png",
             "titleId": "PROMOPACK_LincolnKillerPack_TITLE"
         },
         {
@@ -9245,7 +9245,7 @@
         {
             "id": "AceStarterPack",
             "imageUrl": "promoPacks/Ace-Starter_Pack.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/AceStarter_Big.png",
             "titleId": "PROMOPACK_AceStarterPack_TITLE"
         },
         {
@@ -9329,7 +9329,7 @@
         {
             "id": "ChucklesHillbillyPack",
             "imageUrl": "promoPacks/First_Killer_Outfit-Bundle.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "marketingImageUrl": "promoPacks/marketingImages/FirstKiller_Big.png",
             "titleId": "PROMOPACK_ChucklesHillbillyPack_TITLE"
         },
         {
@@ -9352,7 +9352,7 @@
         },
         {
             "id": "NewPlayerBundle",
-            "imageUrl": "promoPacks/BeginnersGearSmallPromo.png",
+            "imageUrl": "promoPacks/BeginnersGear_Small.png",
             "marketingImageUrl": "promoPacks/marketingImages/BeginnersGearFixed.png",
             "titleId": "PROMOPACK_NewPlayerBundle_TITLE"
         },
@@ -9394,7 +9394,7 @@
         },
         {
             "id": "FreeTicketBundle",
-            "imageUrl": "promoPacks/Golden_Tickets.png",
+            "imageUrl": "promoPacks/FreeTicket_Small.png",
             "marketingImageUrl": "promoPacks/marketingImages/TicketBundleFixed.png",
             "titleId": "PROMOPACK_FreeTicketBundle_TITLE"
         },
@@ -9478,8 +9478,8 @@
         },
         {
             "id": "YamaokaDeluxeBundle",
-            "imageUrl": "promoPacks/NeaDeluxeSmallPromo.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "imageUrl": "promoPacks/YamaokaDeluxe_Small.png",
+            "marketingImageUrl": "promoPacks/marketingImages/YamaokaDeluxe_Big.png",
             "titleId": "PROMOPACK_YamaokaDeluxeBundle_TITLE"
         }
     ],
@@ -10032,16 +10032,16 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-04-13T15:30:01",
+            "endDate": "2021-04-15T23:30:01",
             "id": "YamaokaDeluxeBanner",
-            "imageUrl": "marketingBanner/BaseGameBundle_StoreBanner.png",
+            "imageUrl": "marketingBanner/YamaokaDeluxe_StoreBanner.png",
             "priority": 1,
             "startDate": "2021-04-13T13:30:01",
             "titleId": "MARKETINGBANNER_Yamaoka_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-04-13T17:00:01",
+            "endDate": "2021-04-15T23:00:01",
             "id": "ScarletSwarmBanner",
             "imageUrl": "marketingBanner/ScarletSwarmBanner.png",
             "priority": 2,
@@ -10050,18 +10050,18 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-04-13T18:30:01",
+            "endDate": "2021-04-15T23:30:01",
             "id": "DavidStarterBanner",
-            "imageUrl": "marketingBanner/BaseGameBundle_StoreBanner.png",
+            "imageUrl": "marketingBanner/Atl_Main_Banner_SmokeStarterPack.png",
             "priority": 3,
             "startDate": "2021-04-13T17:00:01",
             "titleId": "MARKETINGBANNER_David_TITLE"
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-04-13T20:30:01",
+            "endDate": "2021-04-15T23:30:01",
             "id": "MegSpringBanner",
-            "imageUrl": "marketingBanner/ScarletSwarmBanner.png",
+            "imageUrl": "marketingBanner/Atl_Main_Banner_MegSpringBundle.png",
             "priority": 4,
             "startDate": "2021-04-13T18:30:01",
             "titleId": "MARKETINGBANNER_MegSpring_TITLE"
@@ -10069,8 +10069,8 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/FoulBile_Storefront.jpg",
-            "newEndDate": "2021-03-15T23:00:00",
+            "imageUrl": "promoPacks/YamaokaDeluxe_Storefront.png",
+            "newEndDate": "2021-04-15T23:00:00",
             "newStartDate": "2021-03-12T15:00:01",
             "type": "PromoPacks"
         }

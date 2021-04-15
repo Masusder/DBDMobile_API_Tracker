@@ -219,16 +219,16 @@
         "id": "OniStarterPackBanner",
         "startDate": 1
     },
-    "PromopackUtica1": {
+    "PromopackVail1": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica1happyHour": {
+                "PromopackVail1happyHour": {
                     "effects": {
-                        "PromopackUtica1PromoPack": [
+                        "PromopackVail1PromoPack": [
                             {
-                                "id": "PromopackUtica1PromoPack",
+                                "id": "PromopackVail1PromoPack",
                                 "type": "PromoPack",
                                 "value": [
                                     "NewPlayerBundle",
@@ -238,7 +238,7 @@
                             }
                         ]
                     },
-                    "id": "PromopackUtica1happyHour",
+                    "id": "PromopackVail1happyHour",
                     "repeatDelays": []
                 }
             },
@@ -247,27 +247,27 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica1",
+        "id": "PromopackVail1",
         "startDate": 1
     },
-    "PromopackUtica2": {
+    "PromopackVail2": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica2happyHour": {
+                "PromopackVail2happyHour": {
                     "effects": {
-                        "PromopackUtica2PromoPack": [
+                        "PromopackVail2PromoPack": [
                             {
-                                "id": "PromopackUtica2PromoPack",
+                                "id": "PromopackVail2PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "OniStarterPack"
+                                    "YamaokaDeluxeBundle"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackUtica2happyHour",
+                    "id": "PromopackVail2happyHour",
                     "repeatDelays": []
                 }
             },
@@ -276,27 +276,28 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica2",
+        "id": "PromopackVail2",
         "startDate": 1
     },
-    "PromopackUtica3": {
+    "PromopackVail3": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica3happyHour": {
+                "PromopackVail3happyHour": {
                     "effects": {
-                        "PromopackUtica3PromoPack": [
+                        "PromopackVail3PromoPack": [
                             {
-                                "id": "PromopackUtica3PromoPack",
+                                "id": "PromopackVail3PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "YuiStarterPack"
+                                    "ClownStarterPack",
+                                    "FengStarterPack"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackUtica3happyHour",
+                    "id": "PromopackVail3happyHour",
                     "repeatDelays": []
                 }
             },
@@ -305,27 +306,27 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica3",
+        "id": "PromopackVail3",
         "startDate": 1
     },
-    "PromopackUtica4": {
+    "PromopackVail4": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica4happyHour": {
+                "PromopackVail4happyHour": {
                     "effects": {
-                        "PromopackUtica4PromoPack": [
+                        "PromopackVail4PromoPack": [
                             {
-                                "id": "PromopackUtica4PromoPack",
+                                "id": "PromopackVail4PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "JeffStarterPack"
+                                    "SSoutfitsPack"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackUtica4happyHour",
+                    "id": "PromopackVail4happyHour",
                     "repeatDelays": []
                 }
             },
@@ -334,27 +335,28 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica4",
+        "id": "PromopackVail4",
         "startDate": 1
     },
-    "PromopackUtica5": {
+    "PromopackVail5": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica5happyHour": {
+                "PromopackVail5happyHour": {
                     "effects": {
-                        "PromopackUtica5PromoPack": [
+                        "PromopackVail5PromoPack": [
                             {
-                                "id": "PromopackUtica5PromoPack",
+                                "id": "PromopackVail5PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "LegionSusieStarterPack"
+                                    "LincolnKillerPack",
+                                    "ChucklesHillbillyPack"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackUtica5happyHour",
+                    "id": "PromopackVail5happyHour",
                     "repeatDelays": []
                 }
             },
@@ -363,27 +365,29 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica5",
+        "id": "PromopackVail5",
         "startDate": 1
     },
-    "PromopackUtica6": {
+    "PromopackVail6": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackUtica6happyHour": {
+                "PromopackVail6happyHour": {
                     "effects": {
-                        "PromopackUtica6PromoPack": [
+                        "PromopackVail6PromoPack": [
                             {
-                                "id": "PromopackUtica6PromoPack",
+                                "id": "PromopackVail6PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "FoulBileBundle"
+                                    "SmokeStarterPack",
+                                    "AceStarterPack",
+                                    "MegSpringBundle"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackUtica6happyHour",
+                    "id": "PromopackVail6happyHour",
                     "repeatDelays": []
                 }
             },
@@ -392,7 +396,7 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackUtica6",
+        "id": "PromopackVail6",
         "startDate": 1
     },
     "PurchasePopupBasic3": {
@@ -765,7 +769,7 @@
                                     "Oni",
                                     "Yui",
                                     "Killer07",
-                                    "Bill"
+                                    "Feng"
                                 ],
                                 "id": "UticaOYDF_BP",
                                 "role": "Global",
@@ -799,7 +803,7 @@
                                     "Oni",
                                     "Yui",
                                     "Killer07",
-                                    "Bill"
+                                    "Feng"
                                 ],
                                 "id": "UticaOYDF_XP",
                                 "role": "Global",

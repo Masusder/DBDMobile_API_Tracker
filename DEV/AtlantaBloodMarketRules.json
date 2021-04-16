@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 0
+                    "weight": 100
                 }
             ]
         },

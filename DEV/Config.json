@@ -1,6 +1,6 @@
 [
     {
-        "value": "false",
+        "value": "False",
         "keyName": "DISABLE_BLOODLUST"
     },
     {
@@ -25,11 +25,11 @@
         "keyName": "COMMANDS_MENU"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
     },
     {
@@ -37,7 +37,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -71,7 +71,7 @@
         "keyName": "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
     },
     {
@@ -83,7 +83,43 @@
             "readonlyConfigs": [
                 "ANALYTICS_RULES",
                 "ANALYTICS_RULES_DEDICATED_SERVER",
-                "READ_ONLY_CONFIGS"
+                "APPSFLYER_CUSTOMER_ID_ENABLED",
+                "ASSET_MANAGEMENT_CDN_PATH",
+                "BAN_REASON_ENUM",
+                "BUTTON_SEQUENCE_ENABLE",
+                "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING",
+                "CDN_ROOT_FOLDER_PATH",
+                "CERTIFICATE_EMAIL_NOTIFICATION",
+                "CLIENT_VERSION",
+                "CLIENT_VERSION_V2",
+                "DBD_USING_LOOT_TABLES",
+                "DDOS_DETECTION",
+                "DDOS_DETECTION_ANALYTICS",
+                "DELTADNA_ENGAGE_TIMEOUT",
+                "DELTA_DNA_HASH_KEY",
+                "DISABLE_BLOODLUST",
+                "ENABLE_RTM_VALIDATION_ON_BOOT",
+                "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
+                "FRAME_HIKE_THRESHOLD",
+                "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
+                "GAMELIFT_INSTANCE_SHUTDOWN_TIMER",
+                "GAME_CLIENT_VERSION_CHECK_ENABLED",
+                "KRAKEN_REQUEST_ANALYTICS_LEVEL",
+                "KRAKEN_RSA_PUBLIC_KEY",
+                "MATCHMAKING_ALLOW_CROSSPLAY",
+                "MATCHMAKING_INCENTIVE_CONFIG",
+                "MATCHMAKING_USE_QUEUE_API",
+                "MS_ENDPOINT",
+                "MS_ENDPOINT_GRDK",
+                "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE",
+                "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE",
+                "READ_ONLY_CONFIGS",
+                "RECOMMENDATION_RECENT_RELEASE_THRESHOLD",
+                "RICH_PRESENCE_PLAYER_TIMER_RATE",
+                "RICH_PRESENCE_SERVER_TIMER_RATE",
+                "SEGMENTATION_V2_ENABLED",
+                "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY",
+                "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
             ]
         },
         "keyName": "READ_ONLY_CONFIGS"
@@ -93,7 +129,7 @@
         "keyName": "MS_ENDPOINT"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
@@ -105,11 +141,11 @@
         "keyName": "offenceCategories"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
-        "value": "ianfrederic.dissaux@bhvr.com;remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com;aurelie.gerault@bhvr.com",
+        "value": "remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com;aurelie.gerault@bhvr.com",
         "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
     },
     {
@@ -196,7 +232,7 @@
         "keyName": "AVAILABLE_PLATFORMS"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
@@ -844,6 +880,10 @@
             "4.7.0_421841dev": "4.7.0_421841dev-1618411617",
             "4.7.0_422113dev": "4.7.0_422113dev-1618428937",
             "4.7.0_422407dev": "4.7.0_422407dev-1618494230",
+            "4.7.0_422579dev": "4.7.0_422579dev-1618508040",
+            "4.7.0_422682dev": "4.7.0_422682dev-1618516741",
+            "4.7.0_423072dev": "4.7.0_423072dev-1618588451",
+            "4.7.0_423121dev": "4.7.0_423121dev-1618592319",
             "5.0.0_401856dev": "5.0.0_401856dev-1614093704",
             "5.0.0_407072dev": "5.0.0_407072dev-1615211848",
             "5.0.0_410069dev": "5.0.0_410069dev-1615827587",
@@ -1139,6 +1179,10 @@
             "m_4.6.0_421852dev": "m_4.6.0_421852dev-1618411822",
             "m_4.6.0_422113dev": "m_4.6.0_422113dev-1618429202",
             "m_4.6.0_422407dev": "m_4.6.0_422407dev-1618494029",
+            "m_4.6.0_422579dev": "m_4.6.0_422579dev-1618508239",
+            "m_4.6.0_422682dev": "m_4.6.0_422682dev-1618519134",
+            "m_4.6.0_423104dev": "m_4.6.0_423104dev-1618591133",
+            "m_4.6.0_423121dev": "m_4.6.0_423121dev-1618594734",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "tleonard_3.5.0_0dev": "tleonard_3.5.0_0dev-1579625694"
@@ -1170,7 +1214,7 @@
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
@@ -1178,7 +1222,7 @@
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {
-        "value": "true",
+        "value": "True",
         "keyName": "ENABLE_RTM_VALIDATION_ON_BOOT"
     },
     {

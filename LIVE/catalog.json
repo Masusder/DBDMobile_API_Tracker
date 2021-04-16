@@ -3683,6 +3683,28 @@
     },
     {
         "categories": [
+            "equippableItem"
+        ],
+        "consumable": false,
+        "defaultCost": [
+            {
+                "currencyId": "Bloodpoints",
+                "price": 0
+            }
+        ],
+        "id": "Item_Slasher_ThrowingKnives",
+        "metaData": {
+            "enabled": false,
+            "eventID": "None",
+            "rarity": "Common",
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
             "addon"
         ],
         "consumable": false,
@@ -17833,9 +17855,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack2"
             ]
         },
         "nonSecure": false,
@@ -17885,9 +17904,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack3"
             ]
         },
         "nonSecure": false,
@@ -18178,9 +18194,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack2"
             ]
         },
         "nonSecure": false,
@@ -18226,9 +18239,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack3"
             ]
         },
         "nonSecure": false,
@@ -18499,9 +18509,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack2"
             ]
         },
         "nonSecure": false,
@@ -18547,9 +18554,6 @@
                         "ios": true
                     }
                 }
-            ],
-            "firstPurchaseRule": [
-                "First_Purchase_130_Pack3"
             ]
         },
         "nonSecure": false,
@@ -84830,7 +84834,7 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "type": "Legs",
+            "type": "Weapon",
             "unbreakable": false,
             "version": {
                 "android": true,
@@ -84947,7 +84951,7 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "type": "Legs",
+            "type": "Weapon",
             "unbreakable": false,
             "version": {
                 "android": true,
@@ -85563,7 +85567,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Head010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-04-21T00:00:00",
             "newStartDate": "2021-04-14T00:00:00",
@@ -85602,7 +85606,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Torso010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-04-21T00:00:00",
             "newStartDate": "2021-04-14T00:00:00",
@@ -85641,7 +85645,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Legs010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-04-21T00:00:00",
             "newStartDate": "2021-04-14T00:00:00",
@@ -94919,7 +94923,7 @@
         "consumable": false,
         "id": "DK_outfit_010",
         "metaData": {
-            "character": "David",
+            "character": "Smoke",
             "discountPercentage": 0.1,
             "items": [
                 "DK_Head010",

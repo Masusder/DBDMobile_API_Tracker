@@ -89319,7 +89319,7 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "type": "Legs",
+            "type": "Weapon",
             "unbreakable": false,
             "version": {
                 "android": true,
@@ -89436,7 +89436,7 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "type": "Legs",
+            "type": "Weapon",
             "unbreakable": false,
             "version": {
                 "android": true,
@@ -90052,7 +90052,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Head010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-03-31T00:00:00",
             "newStartDate": "2021-03-19T00:00:00",
@@ -90091,7 +90091,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Torso010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-03-31T00:00:00",
             "newStartDate": "2021-03-19T00:00:00",
@@ -90130,7 +90130,7 @@
         "initialQuantity": 0,
         "metaData": {
             "base_itemId": "DK_Legs010",
-            "character": "David",
+            "character": "Smoke",
             "kind": "Customization",
             "newEndDate": "2021-03-31T00:00:00",
             "newStartDate": "2021-03-19T00:00:00",
@@ -99452,7 +99452,7 @@
         "consumable": false,
         "id": "DK_outfit_010",
         "metaData": {
-            "character": "David",
+            "character": "Smoke",
             "discountPercentage": 0.1,
             "items": [
                 "DK_Head010",

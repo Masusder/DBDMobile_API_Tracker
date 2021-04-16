@@ -904,11 +904,11 @@
                 },
                 {
                     "type": "Uncommon",
-                    "weight": 1000
+                    "weight": 50
                 },
                 {
                     "type": "Rare",
-                    "weight": 1000
+                    "weight": 50
                 },
                 {
                     "type": "VeryRare",
@@ -1952,12 +1952,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             }
                         ],
                         "type": "chest"
@@ -2066,12 +2066,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 600
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             }
                         ],
                         "type": "chest"
@@ -2339,12 +2339,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 100
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 100
                             }
                         ],
                         "type": "superChest"
@@ -2392,7 +2392,7 @@
                         "refreshInfoList": [
                             {
                                 "maxCount": 3,
-                                "minCount": 1,
+                                "minCount": 0,
                                 "weight": 7400
                             },
                             {
@@ -2406,13 +2406,13 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 2,
-                                "minCount": 1,
+                                "maxCount": 1,
+                                "minCount": 0,
                                 "weight": 500
                             },
                             {
-                                "maxCount": 2,
-                                "minCount": 1,
+                                "maxCount": 1,
+                                "minCount": 0,
                                 "weight": 800
                             }
                         ],
@@ -2453,12 +2453,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 800
+                                "weight": 400
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 1000
+                                "weight": 400
                             }
                         ],
                         "type": "superChest"
@@ -2567,9 +2567,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -2731,9 +2731,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -2891,6 +2891,205 @@
                             }
                         ],
                         "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            }
+                        ],
+                        "type": "Epic"
                     },
                     {
                         "refreshInfoList": [
@@ -2898,210 +3097,11 @@
                                 "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 400
-                            }
-                        ],
-                        "type": "SpecialEvent"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Legendary"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Epic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "SuperEpic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 80
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 80
-                            }
-                        ],
-                        "type": "UltraEpic"
-                    }
-                ]
-            },
-            {
-                "rarityPerRing": [
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 2000
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 2000
-                            }
-                        ],
-                        "type": "Common"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 2650
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 2650
-                            }
-                        ],
-                        "type": "Uncommon"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 1,
-                                "weight": 3000
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 1,
-                                "weight": 3000
-                            }
-                        ],
-                        "type": "Rare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 1800
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 1800
-                            }
-                        ],
-                        "type": "VeryRare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 550
-                            },
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 550
-                            }
-                        ],
-                        "type": "UltraRare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Artifact"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Spectral"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 500
-                            }
-                        ],
-                        "type": "SpecialEvent"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Legendary"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Epic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
+                                "weight": 400
                             }
                         ],
                         "type": "SuperEpic"
@@ -3223,9 +3223,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -3243,14 +3243,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             }
                         ],
                         "type": "Epic"
@@ -3258,14 +3258,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             }
                         ],
                         "type": "SuperEpic"
@@ -3325,508 +3325,508 @@
     "superChestRules": {
         "cosmeticRewardsPerRarity": [
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Head01_02_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Torso01_02_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Leg01_02_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "WR_Head01_03_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "WR_Body01_03_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "WR_Machete01_02_Wilderness",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-25T00:00:00"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HB_Body03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HB_Legs03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HB_W03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HK_W01_04_Spring",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HK_Body01_04_Spring",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "HK_Head01_04_Spring",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "CM_Head03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "CM_Torso03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "CM_Legs03_01_Spring",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "FM_Torso01_02_Spring",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "FM_Leg01_02_Spring",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-04T00:00:01",
+                "endDate": "2022-03-28T00:00:01",
                 "id": "FM_Head01_02_Spring",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-03-29T00:00:00"
+                "startDate": "2020-03-29T00:00:00"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "NK_Head01_06_TWater",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "NK_Torso01_06_TWater",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "NK_Legs01_06_TWater",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DK_Head02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DK_Torso02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DK_Legs02_03_TWater",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DO_Body01_04_TWater",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DO_Head01_04_TWater",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DO_W01_04_TWater",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Head01_03_TWater",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Body01_03_TWater",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-11T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_W01_03_TWater",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-05T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "JP_Head01_02_NightSky",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "JP_Torso01_02_NightSky",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "JP_Legs01_02_NightSky",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GS_Head01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GS_Torso01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GS_Legs01_06_NightSky",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MK_Mask01_04_NightSky",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MK_Body01_04_NightSky",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MK_W01_04_NightSky",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "HA_Head01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "HA_Body01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "HA_Claw01_03_NightSky",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "AV_Head02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "AV_Torso02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "AV_Legs02_03_CookOut",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "BE_Mask01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "BE_Body01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "BE_W01_04_CookOut",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GK_Head01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GK_Body01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "GK_W01_03_CookOut",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MS_Head01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MS_Torso01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-18T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MS_Legs01_05_CookOut",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-12T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TN_Head01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TN_Body01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TN_Weapon01_03_SummerC",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TR_Head01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TR_Body01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "TR_W01_04_SummerC",
                 "rarity": "Uncommon",
                 "role": "Slasher",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Head03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Torso03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "MT_Leg03_01_SummerC",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DF_Head01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DF_Torso01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-04-25T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "DF_Legs01_05_SummerC",
                 "rarity": "Uncommon",
                 "role": "Camper",
-                "startDate": "2021-04-19T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Head02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Torso02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Legs02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Head02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_W02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2021-05-02T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Body02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
-                "startDate": "2021-04-26T00:00:01"
+                "startDate": "2020-04-05T00:00:01"
             }
         ],
         "defaultRewardPerSuperChest": [
@@ -4043,24 +4043,24 @@
                         "weight": 0
                     },
                     {
-                        "id": "SmallShardPack",
+                        "id": "SmallShardPack02",
                         "type": "shardsPack",
                         "weight": 500
                     },
                     {
-                        "id": "MediumShardPack",
+                        "id": "MediumShardPack02",
                         "type": "shardsPack",
                         "weight": 250
                     },
                     {
-                        "id": "LargeShardPack",
+                        "id": "LargeShardPack02",
                         "type": "shardsPack",
                         "weight": 100
                     },
                     {
                         "id": "LargeCellsPack",
                         "type": "cellsPack",
-                        "weight": 0
+                        "weight": 50
                     }
                 ],
                 "rarity": "UltraEpic"
@@ -4257,24 +4257,24 @@
                         "weight": 0
                     },
                     {
-                        "id": "SmallShardPack",
+                        "id": "SmallShardPack02",
                         "type": "shardsPack",
                         "weight": 500
                     },
                     {
-                        "id": "SmallShardPack",
+                        "id": "MediumShardPack02",
                         "type": "shardsPack",
                         "weight": 250
                     },
                     {
-                        "id": "SmallShardPack",
+                        "id": "LargeShardPack02",
                         "type": "shardsPack",
                         "weight": 100
                     },
                     {
-                        "id": "SmallShardPack",
+                        "id": "LargeCellsPack",
                         "type": "cellsPack",
-                        "weight": 0
+                        "weight": 50
                     }
                 ],
                 "rarity": "UltraEpic"
@@ -4345,12 +4345,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             }
                         ],
                         "type": "chest"
@@ -4464,12 +4464,12 @@
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 550
+                                "weight": 0
                             },
                             {
                                 "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 350
+                                "weight": 0
                             }
                         ],
                         "type": "chest"
@@ -4747,12 +4747,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 130
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 130
                             }
                         ],
                         "type": "superChest"
@@ -4820,12 +4820,12 @@
                         "refreshInfoList": [
                             {
                                 "maxCount": 1,
-                                "minCount": 1,
+                                "minCount": 0,
                                 "weight": 1200
                             },
                             {
                                 "maxCount": 1,
-                                "minCount": 1,
+                                "minCount": 0,
                                 "weight": 1200
                             }
                         ],
@@ -4866,12 +4866,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 800
+                                "weight": 410
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 1000
+                                "weight": 410
                             }
                         ],
                         "type": "superChest"
@@ -4980,9 +4980,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 200
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5144,9 +5144,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 300
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5308,215 +5308,215 @@
                     {
                         "refreshInfoList": [
                             {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            },
+                            {
                                 "maxCount": 1,
                                 "minCount": 0,
                                 "weight": 400
                             }
                         ],
-                        "type": "SpecialEvent"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Legendary"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Epic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "SuperEpic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 80
-                            },
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 80
-                            }
-                        ],
-                        "type": "UltraEpic"
-                    }
-                ]
-            },
-            {
-                "rarityPerRing": [
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 2000
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 2000
-                            }
-                        ],
-                        "type": "Common"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 2650
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 2650
-                            }
-                        ],
-                        "type": "Uncommon"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 1,
-                                "weight": 3000
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 1,
-                                "weight": 3000
-                            }
-                        ],
-                        "type": "Rare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 1800
-                            },
-                            {
-                                "maxCount": 2,
-                                "minCount": 0,
-                                "weight": 1800
-                            }
-                        ],
-                        "type": "VeryRare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 550
-                            },
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 550
-                            }
-                        ],
-                        "type": "UltraRare"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Artifact"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Spectral"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 1,
-                                "minCount": 0,
-                                "weight": 500
-                            }
-                        ],
-                        "type": "SpecialEvent"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Legendary"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
-                        "type": "Epic"
-                    },
-                    {
-                        "refreshInfoList": [
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            },
-                            {
-                                "maxCount": 0,
-                                "minCount": 0,
-                                "weight": 0
-                            }
-                        ],
                         "type": "SuperEpic"
                     },
                     {
@@ -5636,9 +5636,9 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 1,
+                                "maxCount": 0,
                                 "minCount": 0,
-                                "weight": 500
+                                "weight": 0
                             }
                         ],
                         "type": "SpecialEvent"
@@ -5656,14 +5656,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 600
                             }
                         ],
                         "type": "Epic"
@@ -5671,14 +5671,14 @@
                     {
                         "refreshInfoList": [
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             },
                             {
-                                "maxCount": 0,
+                                "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 0
+                                "weight": 450
                             }
                         ],
                         "type": "SuperEpic"

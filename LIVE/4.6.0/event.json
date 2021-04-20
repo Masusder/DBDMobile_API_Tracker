@@ -1,0 +1,670 @@
+{
+    "Bloodhunt_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_BPhappyHour": {
+                    "effects": {
+                        "Bloodhunt_BP": [
+                            {
+                                "id": "Bloodhunt_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_BP",
+        "startDate": 1
+    },
+    "Bloodhunt_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Bloodhunt_XPhappyHour": {
+                    "effects": {
+                        "Bloodhunt_XP": [
+                            {
+                                "id": "Bloodhunt_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Bloodhunt_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Bloodhunt_XP",
+        "startDate": 1
+    },
+    "ChurnedCalendar": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "ChurnedCalendarhappyHour": {
+                    "effects": {
+                        "ChurnedCalendarRetentionRewards": [
+                            {
+                                "id": "ChurnedCalendarRetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "13SlotsCalendar_Churned_20_07"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "ChurnedCalendarhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "ChurnedCalendar",
+        "startDate": 1
+    },
+    "DavidStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "DavidStarterBanner"
+                ]
+            }
+        },
+        "id": "DavidStarterBanner",
+        "startDate": 1
+    },
+    "DefaultCalendar": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "DefaultCalendarhappyHour": {
+                    "effects": {
+                        "DefaultCalendarRetentionRewards": [
+                            {
+                                "id": "DefaultCalendarRetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "13SlotsCalendar_Vail1",
+                                    "9SlotsCalendar_Vail2"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "DefaultCalendarhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "DefaultCalendar",
+        "startDate": 1
+    },
+    "MegSpringBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "MegSpringBanner"
+                ]
+            }
+        },
+        "id": "MegSpringBanner",
+        "startDate": 1
+    },
+    "NewCalendar_20191209": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "NewCalendar_20191209happyHour": {
+                    "effects": {
+                        "NewCalendar_20191209RetentionRewards": [
+                            {
+                                "id": "NewCalendar_20191209RetentionRewards",
+                                "type": "RetentionRewards",
+                                "value": [
+                                    "7SlotsCalendar_NewP_Tucson"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "NewCalendar_20191209happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "NewCalendar_20191209",
+        "startDate": 1
+    },
+    "PromopackVail1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail1happyHour": {
+                    "effects": {
+                        "PromopackVail1PromoPack": [
+                            {
+                                "id": "PromopackVail1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NewPlayerBundle",
+                                    "FreeTicketBundle",
+                                    "BaseGameBundle_05"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail1",
+        "startDate": 1
+    },
+    "PromopackVail2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail2happyHour": {
+                    "effects": {
+                        "PromopackVail2PromoPack": [
+                            {
+                                "id": "PromopackVail2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "YamaokaDeluxeBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail2",
+        "startDate": 1
+    },
+    "PromopackVail3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail3happyHour": {
+                    "effects": {
+                        "PromopackVail3PromoPack": [
+                            {
+                                "id": "PromopackVail3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "ClownStarterPack",
+                                    "FengStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail3",
+        "startDate": 1
+    },
+    "PromopackVail4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail4happyHour": {
+                    "effects": {
+                        "PromopackVail4PromoPack": [
+                            {
+                                "id": "PromopackVail4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "SSoutfitsPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail4",
+        "startDate": 1
+    },
+    "PromopackVail5": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail5happyHour": {
+                    "effects": {
+                        "PromopackVail5PromoPack": [
+                            {
+                                "id": "PromopackVail5PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LincolnKillerPack",
+                                    "ChucklesHillbillyPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail5happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail5",
+        "startDate": 1
+    },
+    "PromopackVail6": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackVail6happyHour": {
+                    "effects": {
+                        "PromopackVail6PromoPack": [
+                            {
+                                "id": "PromopackVail6PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "SmokeStarterPack",
+                                    "AceStarterPack",
+                                    "MegSpringBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackVail6happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackVail6",
+        "startDate": 1
+    },
+    "ScarletSwarmBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "ScarletSwarmBanner"
+                ]
+            }
+        },
+        "id": "ScarletSwarmBanner",
+        "startDate": 1
+    },
+    "VailCFOD_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailCFOD_BPhappyHour": {
+                    "effects": {
+                        "VailCFOD_BP": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Feng",
+                                    "Oni",
+                                    "Dwight"
+                                ],
+                                "id": "VailCFOD_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailCFOD_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailCFOD_BP",
+        "startDate": 1
+    },
+    "VailCFOD_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailCFOD_XPhappyHour": {
+                    "effects": {
+                        "VailCFOD_XP": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Feng",
+                                    "Oni",
+                                    "Dwight"
+                                ],
+                                "id": "VailCFOD_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailCFOD_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailCFOD_XP",
+        "startDate": 1
+    },
+    "VailLTMC_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailLTMC_BPhappyHour": {
+                    "effects": {
+                        "VailLTMC_BP": [
+                            {
+                                "characters": [
+                                    "Legion",
+                                    "Chuckles",
+                                    "Meg",
+                                    "S22"
+                                ],
+                                "id": "VailLTMC_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailLTMC_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailLTMC_BP",
+        "startDate": 1
+    },
+    "VailLTMC_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailLTMC_XPhappyHour": {
+                    "effects": {
+                        "VailLTMC_XP": [
+                            {
+                                "characters": [
+                                    "Legion",
+                                    "Chuckles",
+                                    "Meg",
+                                    "S22"
+                                ],
+                                "id": "VailLTMC_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailLTMC_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailLTMC_XP",
+        "startDate": 1
+    },
+    "VailOPND_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailOPND_BPhappyHour": {
+                    "effects": {
+                        "VailOPND_BP": [
+                            {
+                                "characters": [
+                                    "Oni",
+                                    "Plague",
+                                    "Nea",
+                                    "Smoke"
+                                ],
+                                "id": "VailOPND_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailOPND_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailOPND_BP",
+        "startDate": 1
+    },
+    "VailOPND_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailOPND_XPhappyHour": {
+                    "effects": {
+                        "VailOPND_XP": [
+                            {
+                                "characters": [
+                                    "Oni",
+                                    "Plague",
+                                    "Nea",
+                                    "Smoke"
+                                ],
+                                "id": "VailOPND_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "VailOPND_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailOPND_XP",
+        "startDate": 1
+    },
+    "VailTY_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailTY_BPhappyHour": {
+                    "effects": {
+                        "VailTY_BP": [
+                            {
+                                "characters": [
+                                    "S25",
+                                    "K23"
+                                ],
+                                "id": "VailTY_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "VailTY_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailTY_BP",
+        "startDate": 1
+    },
+    "VailTY_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "VailTY_XPhappyHour": {
+                    "effects": {
+                        "VailTY_XP": [
+                            {
+                                "characters": [
+                                    "S25",
+                                    "K23"
+                                ],
+                                "id": "VailTY_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "VailTY_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "VailTY_XP",
+        "startDate": 1
+    },
+    "YamaokaDeluxeBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "YamaokaDeluxeBanner"
+                ]
+            }
+        },
+        "id": "YamaokaDeluxeBanner",
+        "startDate": 1
+    }
+}

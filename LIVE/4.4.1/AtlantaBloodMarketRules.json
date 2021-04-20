@@ -1,0 +1,5705 @@
+{
+    "adNodes": {
+        "killer": {
+            "contentType": [
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Common"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Uncommon"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Rare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "VeryRare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "UltraRare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Epic"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "SuperEpic"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "UltraEpic"
+                }
+            ],
+            "rarity": [
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "nodes": [
+            {
+                "count": 1
+            },
+            {
+                "count": 1
+            },
+            {
+                "count": 1
+            },
+            {
+                "count": 1
+            },
+            {
+                "count": 1
+            }
+        ],
+        "survivor": {
+            "contentType": [
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Common"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Uncommon"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Rare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "VeryRare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "UltraRare"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "Epic"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "SuperEpic"
+                },
+                {
+                    "content": [
+                        {
+                            "type": "Items",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "AddOn",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Offerings",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "SuperChests",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "EntityBox",
+                            "weight": "100"
+                        }
+                    ],
+                    "rarity": "UltraEpic"
+                }
+            ],
+            "rarity": [
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                },
+                {
+                    "rarityPerRing": [
+                        {
+                            "type": "Common",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Uncommon",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Rare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "VeryRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraRare",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "Epic",
+                            "weight": "100"
+                        },
+                        {
+                            "type": "SuperEpic",
+                            "weight": "0"
+                        },
+                        {
+                            "type": "UltraEpic",
+                            "weight": "0"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "chestDistribution": [
+        {
+            "categories": [
+                "superChest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_currency_pack"
+                }
+            ],
+            "eventID": "None",
+            "id": "SuperChest01",
+            "rarity": "Epic",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 100
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "superChest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_currency_pack"
+                }
+            ],
+            "eventID": "None",
+            "id": "SuperChest02",
+            "rarity": "SuperEpic",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 100
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "superChest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_currency_pack"
+                }
+            ],
+            "eventID": "None",
+            "id": "SuperChest03",
+            "rarity": "UltraEpic",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 1000
+                },
+                {
+                    "type": "Rare",
+                    "weight": 1000
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 100
+                }
+            ]
+        },
+        {
+            "categories": [
+                "chest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "Chest01",
+            "rarity": "Common",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 30
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "chest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "Chest02",
+            "rarity": "Uncommon",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 80
+                },
+                {
+                    "type": "Rare",
+                    "weight": 20
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "chest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "Chest03",
+            "rarity": "Rare",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 90
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 10
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "chest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "Chest04",
+            "rarity": "VeryRare",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 98
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 2
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "chest"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "Chest05",
+            "rarity": "UltraRare",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 100
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        },
+        {
+            "categories": [
+                "entityBox"
+            ],
+            "defaultCost": [
+                {
+                    "purchaseRule": "buy_bloodpoints_basic"
+                }
+            ],
+            "eventID": "None",
+            "id": "EntityBox",
+            "rarity": "Epic",
+            "rarityContent": [
+                {
+                    "type": "Common",
+                    "weight": 0
+                },
+                {
+                    "type": "Uncommon",
+                    "weight": 0
+                },
+                {
+                    "type": "Rare",
+                    "weight": 0
+                },
+                {
+                    "type": "VeryRare",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraRare",
+                    "weight": 0
+                },
+                {
+                    "type": "Epic",
+                    "weight": 0
+                },
+                {
+                    "type": "SuperEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "UltraEpic",
+                    "weight": 0
+                },
+                {
+                    "type": "SpecialEvent",
+                    "weight": 0
+                }
+            ]
+        }
+    ],
+    "chestRules": {
+        "killer": [
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 700
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Common"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 700
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Uncommon"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 700
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Rare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 700
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "VeryRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 1000
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraRare"
+            }
+        ],
+        "survivor": [
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 800
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 600
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Common"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 800
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 600
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Uncommon"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 800
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 600
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Rare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 800
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 600
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "VeryRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 500
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 800
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 600
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "offering",
+                        "weight": 0
+                    },
+                    {
+                        "type": "equippableItem",
+                        "weight": 0
+                    },
+                    {
+                        "type": "addon",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "SpecialEvent"
+            }
+        ]
+    },
+    "entityBoxRules": {
+        "consumableRewards": [
+            {
+                "rarity": "Rare",
+                "type": "addon",
+                "weight": 1000
+            },
+            {
+                "rarity": "VeryRare",
+                "type": "addon",
+                "weight": 800
+            },
+            {
+                "rarity": "UltraRare",
+                "type": "addon",
+                "weight": 500
+            },
+            {
+                "rarity": "Rare",
+                "type": "equippableItem",
+                "weight": 1000
+            },
+            {
+                "rarity": "VeryRare",
+                "type": "equippableItem",
+                "weight": 800
+            },
+            {
+                "rarity": "UltraRare",
+                "type": "equippableItem",
+                "weight": 500
+            },
+            {
+                "rarity": "Rare",
+                "type": "offering",
+                "weight": 1000
+            },
+            {
+                "rarity": "VeryRare",
+                "type": "offering",
+                "weight": 800
+            },
+            {
+                "rarity": "UltraRare",
+                "type": "offering",
+                "weight": 500
+            }
+        ],
+        "cosmeticRewardsPerRole": [
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "DO_Head01_04_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "DO_Body01_04_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "DO_W01_04_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "NK_Head01_06_TWater",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "NK_Torso01_06_TWater",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "NK_Legs01_06_TWater",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_Head01_03_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_Body01_03_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_W01_03_TWater",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_Head02_02_School",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_Body02_02_School",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "KK_W02_02_School",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "CM_Head02_05_School",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "CM_Torso02_05_School",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "CM_Legs02_05_School",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "JP_Head01_02_NightSky",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "JP_Torso01_02_NightSky",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "JP_Legs01_02_NightSky",
+                "role": "Camper",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "MK_Mask01_04_NightSky",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "MK_Body01_04_NightSky",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2019-12-23T00:00:00",
+                "id": "MK_W01_04_NightSky",
+                "role": "Slasher",
+                "startDate": "2019-11-23T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_Mask01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_Body01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "BE_W01_04_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_Head01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_Body01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "GK_W01_03_CookOut",
+                "role": "Slasher",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Head02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Torso02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "AV_Legs02_03_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Head01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Torso01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            },
+            {
+                "endDate": "2021-12-27T00:00:00",
+                "id": "MS_Legs01_05_CookOut",
+                "role": "Camper",
+                "startDate": "2020-12-17T00:00:00",
+                "weight": 100
+            }
+        ],
+        "currencyRewards": [
+            {
+                "id": "EntityBoxBloodpointsPack_Small",
+                "type": "bloodpointsPack",
+                "weight": 0
+            },
+            {
+                "id": "EntityBoxBloodpointsPack_Medium",
+                "type": "bloodpointsPack",
+                "weight": 0
+            },
+            {
+                "id": "EntityBoxBloodpointsPack_Large",
+                "type": "bloodpointsPack",
+                "weight": 0
+            },
+            {
+                "id": "EntityBoxShardsPack_Small",
+                "type": "shardsPack",
+                "weight": 1200
+            },
+            {
+                "id": "EntityBoxShardsPack_Medium",
+                "type": "shardsPack",
+                "weight": 800
+            },
+            {
+                "id": "EntityBoxShardsPack_Large",
+                "type": "shardsPack",
+                "weight": 500
+            },
+            {
+                "id": "EntityBoxCellsPack",
+                "type": "cellsPack",
+                "weight": 700
+            }
+        ],
+        "killer": [
+            {
+                "type": "item",
+                "weight": 600
+            },
+            {
+                "type": "currency",
+                "weight": 800
+            },
+            {
+                "type": "freeTicket",
+                "weight": 1000
+            },
+            {
+                "type": "consumable",
+                "weight": 6000
+            }
+        ],
+        "survivor": [
+            {
+                "type": "item",
+                "weight": 600
+            },
+            {
+                "type": "currency",
+                "weight": 800
+            },
+            {
+                "type": "freeTicket",
+                "weight": 1000
+            },
+            {
+                "type": "consumable",
+                "weight": 6000
+            }
+        ],
+        "ticketsRewards": [
+            {
+                "id": "SilverKillerTicket",
+                "weight": 20
+            },
+            {
+                "id": "GoldKillerTicket",
+                "weight": 20
+            },
+            {
+                "id": "SilverSurvivorTicket",
+                "weight": 20
+            },
+            {
+                "id": "GoldSurvivorTicket",
+                "weight": 20
+            }
+        ]
+    },
+    "killer": {
+        "contentType": [
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3250
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3350
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6150
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6150
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 600
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 600
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2700
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2900
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 6500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 6300
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 600
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2700
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2850
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6400
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6425
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 675
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2300
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2650
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 6050
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 600
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 600
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 300
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2100
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 7400
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 7200
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 800
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 1000
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            }
+        ],
+        "rarity": [
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 2,
+                                "weight": 7000
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 2,
+                                "weight": 7000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 2600
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 2600
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 200
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 4500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 4500
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3600
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3600
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 1500
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 1500
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 400
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 300
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3800
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3650
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 250
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 250
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 80
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 80
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 160
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 160
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 0,
+                                "weight": 5000
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 0,
+                                "weight": 5000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3500
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1500
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 320
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 320
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            }
+        ]
+    },
+    "nodes": [
+        {
+            "CountMax": 5,
+            "CountMin": 5,
+            "UnlockThresholds": 1
+        },
+        {
+            "CountMax": 5,
+            "CountMin": 5,
+            "UnlockThresholds": 2
+        },
+        {
+            "CountMax": 5,
+            "CountMin": 5,
+            "UnlockThresholds": 3
+        },
+        {
+            "CountMax": 5,
+            "CountMin": 5,
+            "UnlockThresholds": 3
+        },
+        {
+            "CountMax": 3,
+            "CountMin": 3,
+            "UnlockThresholds": 3
+        }
+    ],
+    "refresh": {
+        "acRefreshId": "bloodweb_refresh",
+        "bpRefreshId": "bloodweb_bloodpointsRefresh",
+        "bpRefreshRequiredMinCount": 21,
+        "refreshRetryMaxCount": 5
+    },
+    "superChestRules": {
+        "cosmeticRewardsPerRarity": [
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "MT_Head01_02_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "MT_Torso01_02_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "MT_Leg01_02_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "WR_Head01_03_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "WR_Body01_03_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-03-28T00:00:01",
+                "id": "WR_Machete01_02_Wilderness",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-25T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HB_Body03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HB_Legs03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HB_W03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HK_W01_04_Spring",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HK_Body01_04_Spring",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "HK_Head01_04_Spring",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "CM_Head03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "CM_Torso03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "CM_Legs03_01_Spring",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "FM_Torso01_02_Spring",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "FM_Leg01_02_Spring",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-04T00:00:01",
+                "id": "FM_Head01_02_Spring",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-03-29T00:00:00"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "NK_Head01_06_TWater",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "NK_Torso01_06_TWater",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "NK_Legs01_06_TWater",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DK_Head02_03_TWater",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DK_Torso02_03_TWater",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DK_Legs02_03_TWater",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DO_Body01_04_TWater",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DO_Head01_04_TWater",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "DO_W01_04_TWater",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "KK_Head01_03_TWater",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "KK_Body01_03_TWater",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-11T00:00:01",
+                "id": "KK_W01_03_TWater",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-05T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "JP_Head01_02_NightSky",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "JP_Torso01_02_NightSky",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "JP_Legs01_02_NightSky",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GS_Head01_06_NightSky",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GS_Torso01_06_NightSky",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GS_Legs01_06_NightSky",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MK_Mask01_04_NightSky",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MK_Body01_04_NightSky",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MK_W01_04_NightSky",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "HA_Head01_03_NightSky",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "HA_Body01_03_NightSky",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "HA_Claw01_03_NightSky",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "AV_Head02_03_CookOut",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "AV_Torso02_03_CookOut",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "AV_Legs02_03_CookOut",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "BE_Mask01_04_CookOut",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "BE_Body01_04_CookOut",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "BE_W01_04_CookOut",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GK_Head01_03_CookOut",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GK_Body01_03_CookOut",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "GK_W01_03_CookOut",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MS_Head01_05_CookOut",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MS_Torso01_05_CookOut",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-18T00:00:01",
+                "id": "MS_Legs01_05_CookOut",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-12T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TN_Head01_03_SummerC",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TN_Body01_03_SummerC",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TN_Weapon01_03_SummerC",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TR_Head01_04_SummerC",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TR_Body01_04_SummerC",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "TR_W01_04_SummerC",
+                "rarity": "Uncommon",
+                "role": "Slasher",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "MT_Head03_01_SummerC",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "MT_Torso03_01_SummerC",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "MT_Leg03_01_SummerC",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "DF_Head01_05_SummerC",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "DF_Torso01_05_SummerC",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-04-25T00:00:01",
+                "id": "DF_Legs01_05_SummerC",
+                "rarity": "Uncommon",
+                "role": "Camper",
+                "startDate": "2021-04-19T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "CM_Head02_05_School",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-26T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "CM_Torso02_05_School",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-26T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "CM_Legs02_05_School",
+                "rarity": "Rare",
+                "role": "Camper",
+                "startDate": "2021-04-26T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "KK_Head02_02_School",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-26T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "KK_W02_02_School",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-26T00:00:01"
+            },
+            {
+                "endDate": "2021-05-02T00:00:01",
+                "id": "KK_Body02_02_School",
+                "rarity": "Rare",
+                "role": "Slasher",
+                "startDate": "2021-04-26T00:00:01"
+            }
+        ],
+        "defaultRewardPerSuperChest": [
+            {
+                "id": "SuperChest01",
+                "reward": {
+                    "id": "BloodyPartyStreamers",
+                    "type": "shardsPack"
+                }
+            },
+            {
+                "id": "SuperChest02",
+                "reward": {
+                    "id": "BloodyPartyStreamers",
+                    "type": "shardsPack"
+                }
+            },
+            {
+                "id": "SuperChest03",
+                "reward": {
+                    "id": "BloodyPartyStreamers",
+                    "type": "shardsPack"
+                }
+            }
+        ],
+        "killer": [
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Common"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 100
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Uncommon"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 100
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Rare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "VeryRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "SmallCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
+                    }
+                ],
+                "rarity": "Epic"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack01",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack01",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack01",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "MediumCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
+                    }
+                ],
+                "rarity": "SuperEpic"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "LargeCellsPack",
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraEpic"
+            }
+        ],
+        "survivor": [
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Common"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 100
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Uncommon"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 100
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "Rare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "VeryRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "cellsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    },
+                    {
+                        "type": "shardsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraRare"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "SmallCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
+                    }
+                ],
+                "rarity": "Epic"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack01",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "MediumShardPack01",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "LargeShardPack01",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "MediumCellsPack",
+                        "type": "cellsPack",
+                        "weight": 50
+                    }
+                ],
+                "rarity": "SuperEpic"
+            },
+            {
+                "content": [
+                    {
+                        "type": "item",
+                        "weight": 0
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 500
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 250
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "shardsPack",
+                        "weight": 100
+                    },
+                    {
+                        "id": "SmallShardPack",
+                        "type": "cellsPack",
+                        "weight": 0
+                    }
+                ],
+                "rarity": "UltraEpic"
+            }
+        ]
+    },
+    "survivor": {
+        "contentType": [
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2500
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 4100
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 4100
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2900
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2900
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2400
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2500
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 4075
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 4100
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2775
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2750
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 550
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 350
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2400
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2400
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 4000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 4200
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2600
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2800
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 600
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2300
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2200
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 4000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 4000
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2600
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 2500
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 600
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 300
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            },
+            {
+                "contentPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perk"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 2000
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "offering"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 4100
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 4100
+                            }
+                        ],
+                        "type": "equippableItem"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2700
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 0,
+                                "weight": 2700
+                            }
+                        ],
+                        "type": "addon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 1,
+                                "weight": 1200
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 1,
+                                "weight": 1200
+                            }
+                        ],
+                        "type": "chest"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "perksPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "shardsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "cellsPack"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 800
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 1000
+                            }
+                        ],
+                        "type": "superChest"
+                    }
+                ]
+            }
+        ],
+        "rarity": [
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 2,
+                                "weight": 7000
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 2,
+                                "weight": 7000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 2600
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 2600
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 200
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 4500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 4500
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3600
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3600
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 1500
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 1500
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 400
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 300
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3800
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3650
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 1,
+                                "weight": 3650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 500
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 250
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 225
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 400
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 80
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 80
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 2000
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 2650
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 1,
+                                "weight": 3000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            },
+                            {
+                                "maxCount": 2,
+                                "minCount": 0,
+                                "weight": 1800
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 550
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 160
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 160
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            },
+            {
+                "rarityPerRing": [
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Common"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Uncommon"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 5,
+                                "minCount": 0,
+                                "weight": 5000
+                            },
+                            {
+                                "maxCount": 5,
+                                "minCount": 0,
+                                "weight": 5000
+                            }
+                        ],
+                        "type": "Rare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 3500
+                            }
+                        ],
+                        "type": "VeryRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1500
+                            },
+                            {
+                                "maxCount": 3,
+                                "minCount": 1,
+                                "weight": 1500
+                            }
+                        ],
+                        "type": "UltraRare"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Artifact"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Spectral"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 500
+                            }
+                        ],
+                        "type": "SpecialEvent"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Legendary"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "Epic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            },
+                            {
+                                "maxCount": 0,
+                                "minCount": 0,
+                                "weight": 0
+                            }
+                        ],
+                        "type": "SuperEpic"
+                    },
+                    {
+                        "refreshInfoList": [
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 320
+                            },
+                            {
+                                "maxCount": 1,
+                                "minCount": 0,
+                                "weight": 320
+                            }
+                        ],
+                        "type": "UltraEpic"
+                    }
+                ]
+            }
+        ]
+    }
+}

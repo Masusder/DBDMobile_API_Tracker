@@ -60,6 +60,10 @@
         "keyName": "KRAKEN_RSA_PUBLIC_KEY"
     },
     {
+        "value": "86400",
+        "keyName": "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
         "value": "true",
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
     },
@@ -70,9 +74,45 @@
     {
         "value": {
             "readonlyConfigs": [
+                "ANALYTICS_ENDPOINTS",
                 "ANALYTICS_RULES",
                 "ANALYTICS_RULES_DEDICATED_SERVER",
-                "READ_ONLY_CONFIGS"
+                "APPSFLYER_CUSTOMER_ID_ENABLED",
+                "ASSET_MANAGEMENT_CDN_PATH",
+                "BAN_REASON_ENUM",
+                "BUTTON_SEQUENCE_ENABLE",
+                "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING",
+                "CDN_ROOT_FOLDER_PATH",
+                "CERTIFICATE_EMAIL_NOTIFICATION",
+                "CLIENT_VERSION",
+                "CLIENT_VERSION_V2",
+                "DBD_USING_LOOT_TABLES",
+                "DDOS_DETECTION",
+                "DDOS_DETECTION_ANALYTICS",
+                "DELTADNA_ENGAGE_TIMEOUT",
+                "DELTA_DNA_HASH_KEY",
+                "DISABLE_BLOODLUST",
+                "ENABLE_RTM_VALIDATION_ON_BOOT",
+                "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
+                "FRAME_HIKE_THRESHOLD",
+                "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
+                "GAMELIFT_INSTANCE_SHUTDOWN_TIMER",
+                "GAME_CLIENT_VERSION_CHECK_ENABLED",
+                "KRAKEN_REQUEST_ANALYTICS_LEVEL",
+                "KRAKEN_RSA_PUBLIC_KEY",
+                "MATCHMAKING_ALLOW_CROSSPLAY",
+                "MATCHMAKING_INCENTIVE_CONFIG",
+                "MATCHMAKING_USE_QUEUE_API",
+                "MS_ENDPOINT",
+                "MS_ENDPOINT_GRDK",
+                "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE",
+                "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE",
+                "READ_ONLY_CONFIGS",
+                "RECOMMENDATION_RECENT_RELEASE_THRESHOLD",
+                "RICH_PRESENCE_PLAYER_TIMER_RATE",
+                "RICH_PRESENCE_SERVER_TIMER_RATE",
+                "SEGMENTATION_V2_ENABLED",
+                "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
             ]
         },
         "keyName": "READ_ONLY_CONFIGS"
@@ -96,6 +136,10 @@
     {
         "value": "true",
         "keyName": "SEGMENTATION_V2_ENABLED"
+    },
+    {
+        "value": "remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com;aurelie.gerault@bhvr.com",
+        "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
     },
     {
         "value": [
@@ -329,11 +373,11 @@
             "referralId": "4.4.0_373554qa",
             "achievementId": "4.4.0_373554qa",
             "leaderboardId": "4.4.0_373554qa",
-            "gameContentId": "4.5.0_388207qa",
+            "gameContentId": "4.6.0_425026qa",
             "statesPermissionsId": "4.4.0_373554qa",
             "lootTableId": "4.4.0_373554qa",
             "consentId": "4.4.0_373554qa",
-            "catalogId": "4.5.0_388897qa",
+            "catalogId": "4.6.0_425026qa",
             "actionId": "4.4.0_373554qa",
             "subscriptionId": "4.4.0_373554qa",
             "currencyId": "4.4.0_373554qa",
@@ -528,7 +572,7 @@
         "keyName": "COMMANDS_DS_BOOT"
     },
     {
-        "value": "False",
+        "value": "false",
         "keyName": "DBD_USING_LOOT_TABLES"
     },
     {
@@ -628,6 +672,11 @@
             "4.6.0_421293qa": "4.6.0_421293qa-1618323957",
             "4.6.0_421352qa": "4.6.0_421352qa-1618328512",
             "4.6.0_423121qa": "4.6.0_423121qa-1618592570",
+            "4.6.0_423507qa": "4.6.0_423507qa-1618840049",
+            "4.6.0_423738qa": "4.6.0_423738qa-1618860973",
+            "4.6.0_424006qa": "4.6.0_424006qa-1618924894",
+            "4.6.0_425026qa": "4.6.0_425026qa-1619036931",
+            "4.6.0_425461qa": "4.6.0_425461qa-1619106812",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -709,6 +758,10 @@
             "m_4.3.2_421302qa": "m_4.3.2_421302qa-1618324299",
             "m_4.3.2_421352qa": "m_4.3.2_421352qa-1618331491",
             "m_4.3.2_423121qa": "m_4.3.2_423121qa-1618594304",
+            "m_4.3.2_423738qa": "m_4.3.2_423738qa-1618864343",
+            "m_4.3.2_424018qa": "m_4.3.2_424018qa-1618925539",
+            "m_4.3.2_425026qa": "m_4.3.2_425026qa-1619037188",
+            "m_4.3.2_425477qa": "m_4.3.2_425477qa-1619110093",
             "m_4.4.0_400367qa": "m_4.4.0_400367qa-1613683987",
             "m_4.4.0_400689qa": "m_4.4.0_400689qa-1613752353"
         },
@@ -746,6 +799,10 @@
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {
+        "value": "true",
+        "keyName": "ENABLE_RTM_VALIDATION_ON_BOOT"
+    },
+    {
         "value": "wg5AL9shgIrmvj4abQfWnXHD25r8DZbS",
         "keyName": "DELTA_DNA_HASH_KEY"
     },
@@ -754,7 +811,7 @@
         "keyName": "DELTADNA_ENGAGE_TIMEOUT"
     },
     {
-        "value": "False",
+        "value": "false",
         "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
     },
     {

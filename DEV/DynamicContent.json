@@ -10595,8 +10595,8 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/SpringBundle_Storefront.png",
-            "newEndDate": "2021-04-15T23:00:00",
+            "imageUrl": "promoPacks/ScarletSwarm_Storefront.png",
+            "newEndDate": "2021-04-20T23:00:00",
             "newStartDate": "2021-03-12T15:00:01",
             "type": "PromoPacks"
         }

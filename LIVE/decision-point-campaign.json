@@ -1,26 +1,6 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_ECCS",
-            "parameters": {
-                "eventName": "UticaECCS_BP"
-            },
-            "metaData": {
-                "startDate": "2021-04-16T14:00:00",
-                "endDate": "2021-04-19T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_ECCS",
-            "parameters": {
-                "eventName": "UticaECCS_XP"
-            },
-            "metaData": {
-                "startDate": "2021-04-16T14:00:00",
-                "endDate": "2021-04-19T13:59:59"
-            }
-        },
-        {
             "campaignName": "Promopack_Utica1_Live",
             "parameters": {
                 "eventName": "PromopackUtica1"
@@ -31,13 +11,13 @@
             }
         },
         {
-            "campaignName": "Promopack_Utica5_Live",
+            "campaignName": "Promopack_Utica6_Live",
             "parameters": {
-                "eventName": "PromopackUtica5"
+                "eventName": "PromopackUtica6"
             },
             "metaData": {
-                "startDate": "2021-03-12T14:00:00",
-                "endDate": "2021-04-19T13:59:59"
+                "startDate": "2021-04-19T14:00:00",
+                "endDate": "2021-05-03T13:59:59"
             }
         }
     ]

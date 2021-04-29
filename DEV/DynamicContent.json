@@ -9871,6 +9871,24 @@
             "imageUrl": "promoPacks/YamaokaDeluxe_Small.png",
             "marketingImageUrl": "promoPacks/marketingImages/YamaokaDeluxe_Big.png",
             "titleId": "PROMOPACK_YamaokaDeluxeBundle_TITLE"
+        },
+        {
+            "id": "TricksterChromaPack",
+            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+        },
+        {
+            "id": "YunJinChromaPack",
+            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+        },
+        {
+            "id": "GreekGoddessesDeluxeBundle",
+            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
         }
     ],
     "atlantaEventsUIData": [

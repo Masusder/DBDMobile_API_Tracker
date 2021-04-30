@@ -116,7 +116,8 @@
                                 "type": "RetentionRewards",
                                 "value": [
                                     "13SlotsCalendar_Utica1",
-                                    "9SlotsCalendar_Utica2"
+                                    "9SlotsCalendar_Utica2",
+                                    "9SlotsCalendar_Utica3"
                                 ]
                             }
                         ]
@@ -393,6 +394,37 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "PromopackUtica6",
+        "startDate": 1
+    },
+    "PromopackUtica7": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackUtica7happyHour": {
+                    "effects": {
+                        "PromopackUtica7PromoPack": [
+                            {
+                                "id": "PromopackUtica7PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "NeaStarterPack0416",
+                                    "KateStarterPack",
+                                    "Killer07StarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackUtica7happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackUtica7",
         "startDate": 1
     },
     "PurchasePopupBasic3": {

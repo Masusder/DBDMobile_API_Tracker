@@ -74,9 +74,43 @@
     {
         "value": {
             "readonlyConfigs": [
+                "ANALYTICS_ENDPOINTS",
                 "ANALYTICS_RULES",
                 "ANALYTICS_RULES_DEDICATED_SERVER",
-                "READ_ONLY_CONFIGS"
+                "APPSFLYER_CUSTOMER_ID_ENABLED",
+                "ASSET_MANAGEMENT_CDN_PATH",
+                "BAN_REASON_ENUM",
+                "BUTTON_SEQUENCE_ENABLE",
+                "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING",
+                "CDN_ROOT_FOLDER_PATH",
+                "CERTIFICATE_EMAIL_NOTIFICATION",
+                "CLIENT_VERSION_V2",
+                "DBD_USING_LOOT_TABLES",
+                "DDOS_DETECTION",
+                "DDOS_DETECTION_ANALYTICS",
+                "DELTADNA_ENGAGE_TIMEOUT",
+                "DELTA_DNA_HASH_KEY",
+                "DISABLE_BLOODLUST",
+                "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
+                "FRAME_HIKE_THRESHOLD",
+                "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
+                "GAMELIFT_INSTANCE_SHUTDOWN_TIMER",
+                "GAME_CLIENT_VERSION_CHECK_ENABLED",
+                "KRAKEN_REQUEST_ANALYTICS_LEVEL",
+                "KRAKEN_RSA_PUBLIC_KEY",
+                "MATCHMAKING_ALLOW_CROSSPLAY",
+                "MATCHMAKING_INCENTIVE_CONFIG",
+                "MATCHMAKING_USE_QUEUE_API",
+                "MS_ENDPOINT",
+                "MS_ENDPOINT_GRDK",
+                "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE",
+                "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE",
+                "READ_ONLY_CONFIGS",
+                "RECOMMENDATION_RECENT_RELEASE_THRESHOLD",
+                "RICH_PRESENCE_PLAYER_TIMER_RATE",
+                "RICH_PRESENCE_SERVER_TIMER_RATE",
+                "SEGMENTATION_V2_ENABLED",
+                "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
             ]
         },
         "keyName": "READ_ONLY_CONFIGS"
@@ -100,6 +134,10 @@
     {
         "value": "true",
         "keyName": "SEGMENTATION_V2_ENABLED"
+    },
+    {
+        "value": "remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com;aurelie.gerault@bhvr.com",
+        "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
     },
     {
         "value": [
@@ -179,6 +217,10 @@
     {
         "value": "true",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
+    },
+    {
+        "value": "1",
+        "keyName": "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE"
     },
     {
         "value": "25",
@@ -513,7 +555,7 @@
         "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
     },
     {
-        "value": "False",
+        "value": "false",
         "keyName": "DBD_USING_LOOT_TABLES"
     },
     {
@@ -685,6 +727,8 @@
             "4.6.0_421852live": "4.6.0_421852live-1618412107",
             "4.6.0_421943live": "4.6.0_421943live-1618418854",
             "4.6.0_424018live": "4.6.0_424018live-1618932120",
+            "4.6.0_425338live": "4.6.0_425338live-1619098390",
+            "4.6.0_427573live": "4.6.0_427573live-1619611553",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -705,8 +749,10 @@
             "m_4.4.1_419555live": "m_4.4.1_419555live-1617897134",
             "m_4.4.1_423634live": "m_4.4.1_423634live-1618854598",
             "m_4.4.1_423667live": "m_4.4.1_423667live-1618856598",
+            "m_4.4.1_428416live": "m_4.4.1_428416live-1619708270",
             "m_4.6.0_421987live": "m_4.6.0_421987live-1618423689",
-            "m_4.6.0_423156live": "m_4.6.0_423156live-1618595115"
+            "m_4.6.0_423156live": "m_4.6.0_423156live-1618595115",
+            "m_4.6.0_426757live": "m_4.6.0_426757live-1619452814"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -754,16 +800,12 @@
         "keyName": "DELTADNA_ENGAGE_TIMEOUT"
     },
     {
-        "value": "True",
+        "value": "true",
         "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
     },
     {
         "value": "https://wstore-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT_GRDK"
-    },
-    {
-        "value": "60",
-        "keyName": "SOCIAL_BACKEND_FRIEND_SYNC_RATE"
     },
     {
         "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",

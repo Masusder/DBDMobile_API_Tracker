@@ -91,6 +91,7 @@
                 "DELTADNA_ENGAGE_TIMEOUT",
                 "DELTA_DNA_HASH_KEY",
                 "DISABLE_BLOODLUST",
+                "ENABLE_RTM_VALIDATION_ON_BOOT",
                 "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
                 "FRAME_HIKE_THRESHOLD",
                 "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
@@ -322,12 +323,12 @@
         "value": {
             "NetEase": {
                 "ios": {
-                    "date": "2020-11-19T15:00:00.000Z",
-                    "version": "4.2.1007"
+                    "date": "2021-05-03T15:30:00.000Z",
+                    "version": "4.4.1019"
                 },
                 "android": {
-                    "date": "2020-11-19T15:00:00.000Z",
-                    "version": "4.2.1013"
+                    "date": "2021-05-03T15:30:00.000Z",
+                    "version": "4.4.1019"
                 }
             },
             "fallback": {
@@ -729,6 +730,8 @@
             "4.6.0_424018live": "4.6.0_424018live-1618932120",
             "4.6.0_425338live": "4.6.0_425338live-1619098390",
             "4.6.0_427573live": "4.6.0_427573live-1619611553",
+            "4.7.0_429533live": "4.7.0_429533live-1620046420",
+            "4.7.0_430248live": "4.7.0_430248live-1620140881",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -750,6 +753,7 @@
             "m_4.4.1_423634live": "m_4.4.1_423634live-1618854598",
             "m_4.4.1_423667live": "m_4.4.1_423667live-1618856598",
             "m_4.4.1_428416live": "m_4.4.1_428416live-1619708270",
+            "m_4.4.1_429684live": "m_4.4.1_429684live-1620057471",
             "m_4.6.0_421987live": "m_4.6.0_421987live-1618423689",
             "m_4.6.0_423156live": "m_4.6.0_423156live-1618595115",
             "m_4.6.0_426757live": "m_4.6.0_426757live-1619452814"
@@ -790,6 +794,10 @@
     {
         "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:'[[queueName]]',type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:'*'))))",
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
+    },
+    {
+        "value": "true",
+        "keyName": "ENABLE_RTM_VALIDATION_ON_BOOT"
     },
     {
         "value": "paNOt2JkswAXOt7TRxqGH9vksAYE5CgG",

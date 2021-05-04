@@ -1,26 +1,6 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_2X_3",
-            "parameters": {
-                "eventName": "Bloodhunt_BP"
-            },
-            "metaData": {
-                "startDate": "2021-04-30T14:00:00",
-                "endDate": "2021-05-03T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_2X_3",
-            "parameters": {
-                "eventName": "Bloodhunt_XP"
-            },
-            "metaData": {
-                "startDate": "2021-04-30T14:00:00",
-                "endDate": "2021-05-03T13:59:59"
-            }
-        },
-        {
             "campaignName": "Promopack_Utica1_Live (copy)",
             "parameters": {
                 "eventName": "PromopackUtica1"
@@ -31,13 +11,13 @@
             }
         },
         {
-            "campaignName": "Promopack_Utica6_Live",
+            "campaignName": "Promopack_Utica7_Live",
             "parameters": {
-                "eventName": "PromopackUtica6"
+                "eventName": "PromopackUtica7"
             },
             "metaData": {
-                "startDate": "2021-04-19T14:00:00",
-                "endDate": "2021-05-03T13:59:59"
+                "startDate": "2021-05-03T14:00:00",
+                "endDate": "2021-05-17T13:59:59"
             }
         }
     ]

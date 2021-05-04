@@ -1072,6 +1072,40 @@
         "id": "PurchasePopupFeng2",
         "startDate": 1
     },
+    "PurchasePopupGreekGod": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupGreekGod"
+            }
+        },
+        "id": "PurchasePopupGreekGod",
+        "startDate": 1
+    },
+    "PurchasePopupKateVolk": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupKateVolk"
+            }
+        },
+        "id": "PurchasePopupKateVolk",
+        "startDate": 1
+    },
     "PurchasePopupMinotaurOni": {
         "assets": {},
         "components": {
@@ -1123,6 +1157,23 @@
         "id": "PurchasePopupOni",
         "startDate": 1
     },
+    "PurchasePopupOni2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupOni2"
+            }
+        },
+        "id": "PurchasePopupOni2",
+        "startDate": 1
+    },
     "PurchasePopupPremium1": {
         "assets": {},
         "components": {
@@ -1172,6 +1223,23 @@
             }
         },
         "id": "PurchasePopupShoplifter",
+        "startDate": 1
+    },
+    "PurchasePopupSoloVolk": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupSoloVolk"
+            }
+        },
+        "id": "PurchasePopupSoloVolk",
         "startDate": 1
     },
     "PurchasePopupStarter": {
@@ -1264,6 +1332,74 @@
         "id": "ScarletSwarmBanner",
         "startDate": 1
     },
+    "Test_PJHA_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Test_PJHA_BPhappyHour": {
+                    "effects": {
+                        "Test_PJHA_BP": [
+                            {
+                                "characters": [
+                                    "Plague",
+                                    "Jane",
+                                    "HillBilly",
+                                    "Ash"
+                                ],
+                                "id": "Test_PJHA_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Test_PJHA_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Test_PJHA_BP",
+        "startDate": 1
+    },
+    "Test_PJHA_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "Test_PJHA_XPhappyHour": {
+                    "effects": {
+                        "Test_PJHA_XP": [
+                            {
+                                "characters": [
+                                    "Plague",
+                                    "Jane",
+                                    "HillBilly",
+                                    "Ash"
+                                ],
+                                "id": "Test_PJHA_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "Test_PJHA_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "Test_PJHA_XP",
+        "startDate": 1
+    },
     "VailTY_BP": {
         "assets": {},
         "components": {
@@ -1326,6 +1462,346 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "VailTY_XP",
+        "startDate": 1
+    },
+    "WichitaCSJJ_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaCSJJ_BPhappyHour": {
+                    "effects": {
+                        "WichitaCSJJ_BP": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Spirit",
+                                    "Jane",
+                                    "Jake"
+                                ],
+                                "id": "WichitaCSJJ_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaCSJJ_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaCSJJ_BP",
+        "startDate": 1
+    },
+    "WichitaCSJJ_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaCSJJ_XPhappyHour": {
+                    "effects": {
+                        "WichitaCSJJ_XP": [
+                            {
+                                "characters": [
+                                    "Clown",
+                                    "Spirit",
+                                    "Jane",
+                                    "Jake"
+                                ],
+                                "id": "WichitaCSJJ_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaCSJJ_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaCSJJ_XP",
+        "startDate": 1
+    },
+    "WichitaDCNQ_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaDCNQ_BPhappyHour": {
+                    "effects": {
+                        "WichitaDCNQ_BP": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Claudette",
+                                    "Nightmare",
+                                    "Quentin"
+                                ],
+                                "id": "WichitaDCNQ_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaDCNQ_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaDCNQ_BP",
+        "startDate": 1
+    },
+    "WichitaDCNQ_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaDCNQ_XPhappyHour": {
+                    "effects": {
+                        "WichitaDCNQ_XP": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Claudette",
+                                    "Nightmare",
+                                    "Quentin"
+                                ],
+                                "id": "WichitaDCNQ_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaDCNQ_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaDCNQ_XP",
+        "startDate": 1
+    },
+    "WichitaNKML_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaNKML_BPhappyHour": {
+                    "effects": {
+                        "WichitaNKML_BP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Kate",
+                                    "Meg",
+                                    "Legion"
+                                ],
+                                "id": "WichitaNKML_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaNKML_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaNKML_BP",
+        "startDate": 1
+    },
+    "WichitaNKML_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaNKML_XPhappyHour": {
+                    "effects": {
+                        "WichitaNKML_XP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Kate",
+                                    "Meg",
+                                    "Legion"
+                                ],
+                                "id": "WichitaNKML_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaNKML_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaNKML_XP",
+        "startDate": 1
+    },
+    "WichitaTYCT_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaTYCT_BPhappyHour": {
+                    "effects": {
+                        "WichitaTYCT_BP": [
+                            {
+                                "characters": [
+                                    "K23",
+                                    "S25",
+                                    "S22",
+                                    "Chuckles"
+                                ],
+                                "id": "WichitaTYCT_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaTYCT_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaTYCT_BP",
+        "startDate": 1
+    },
+    "WichitaTYCT_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaTYCT_XPhappyHour": {
+                    "effects": {
+                        "WichitaTYCT_XP": [
+                            {
+                                "characters": [
+                                    "K23",
+                                    "S25",
+                                    "S22",
+                                    "Chuckles"
+                                ],
+                                "id": "WichitaTYCT_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaTYCT_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaTYCT_XP",
+        "startDate": 1
+    },
+    "WichitaYFWE_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaYFWE_BPhappyHour": {
+                    "effects": {
+                        "WichitaYFWE_BP": [
+                            {
+                                "characters": [
+                                    "Yui",
+                                    "Feng",
+                                    "Bob",
+                                    "K20"
+                                ],
+                                "id": "WichitaYFWE_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaYFWE_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaYFWE_BP",
+        "startDate": 1
+    },
+    "WichitaYFWE_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaYFWE_XPhappyHour": {
+                    "effects": {
+                        "WichitaYFWE_XP": [
+                            {
+                                "characters": [
+                                    "Yui",
+                                    "Feng",
+                                    "Bob",
+                                    "K20"
+                                ],
+                                "id": "WichitaYFWE_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaYFWE_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaYFWE_XP",
         "startDate": 1
     },
     "XPDwightYuiOniNurse": {

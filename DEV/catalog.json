@@ -26403,6 +26403,838 @@
     },
     {
         "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyOni2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_oni_2"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_oni_2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 699.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyOni2Tier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_oni_2_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Oni",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Mask009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_Body009",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "SwedenKiller_W009",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyOni2Tier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_oni_2_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Kate",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyKateVolk",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_katevolk"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_katevolk"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Kate",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyKateVolkTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_katevolk_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Kate",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyKateVolkTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_katevolk_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 899.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySoloVolk",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solovolk"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_solovolk"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySoloVolkTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solovolk_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "GS_Head013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Torso013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "GS_Legs013",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencySoloVolkTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_solovolk_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DK_Head012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Torso012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Legs012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Head010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Torso010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Legs010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyGreekGod",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_greekgod"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_greekgod"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DK_Head012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Torso012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Legs012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Head010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Torso010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Legs010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 999.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyGreekGodTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_greekgod_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "DK_Head012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Torso012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "DK_Legs012",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Head010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Torso010",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "HS_Legs010",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyGreekGodTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_greekgod_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "character"
         ],
         "id": "Dwight",
@@ -105902,37 +106734,37 @@
     },
     {
         "categories": [
-            "subscription"
+            "nonRenewableSubscription"
         ],
         "consumable": true,
         "consumptionReward": [
             {
-                "amount": 50,
-                "gameSpecificData": "Daily",
-                "id": "Cells",
-                "type": "currency"
-            },
-            {
-                "amount": 1000,
-                "gameSpecificData": "Daily",
-                "id": "Shards",
-                "type": "currency"
-            },
-            {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }
         ],
         "id": "monthlySubscription1",
         "metaData": {
+            "claimableReward": [
+                {
+                    "amount": 50,
+                    "gameSpecificData": "Daily",
+                    "id": "Cells",
+                    "type": "currency"
+                },
+                {
+                    "amount": 1000,
+                    "gameSpecificData": "Daily",
+                    "id": "Shards",
+                    "type": "currency"
+                }
+            ],
             "currencyCodes": "default",
             "enabled": true,
             "endDate": "2050-07-30T00:00:00",
@@ -105944,8 +106776,8 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "subs_test_vipsubscription",
-                "ios": "test_subscription"
+                "android": "monthly_pass_consumable",
+                "ios": "monthly_pass_consumable"
             }
         },
         "purchasable": true,
@@ -105953,37 +106785,37 @@
     },
     {
         "categories": [
-            "subscription"
+            "nonRenewableSubscription"
         ],
         "consumable": true,
         "consumptionReward": [
             {
-                "amount": 50,
-                "gameSpecificData": "Daily",
-                "id": "Cells",
-                "type": "currency"
-            },
-            {
-                "amount": 1000,
-                "gameSpecificData": "Daily",
-                "id": "Shards",
-                "type": "currency"
-            },
-            {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }
         ],
         "id": "monthlySubscription1Tier2",
         "metaData": {
+            "claimableReward": [
+                {
+                    "amount": 50,
+                    "gameSpecificData": "Daily",
+                    "id": "Cells",
+                    "type": "currency"
+                },
+                {
+                    "amount": 1000,
+                    "gameSpecificData": "Daily",
+                    "id": "Shards",
+                    "type": "currency"
+                }
+            ],
             "currencyCodes": "DZD;BDT;BOB;BRL;BGN;COP;HRK;CZK;EGP;GEL;GHS;HUF;INR;IQD;JOD;KZT;KES;LBP;MAD;NGN;PKR;PYG;SOL;RON;RUB;RSD;TZS;TRY;UAH",
             "enabled": true,
             "endDate": "2050-07-30T00:00:00",
@@ -105995,8 +106827,8 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "subs_test_vipsubscription",
-                "ios": "test_subscription"
+                "android": "monthly_pass_consumable",
+                "ios": "monthly_pass_consumable"
             }
         },
         "purchasable": true,
@@ -106004,37 +106836,37 @@
     },
     {
         "categories": [
-            "subscription"
+            "nonRenewableSubscription"
         ],
         "consumable": true,
         "consumptionReward": [
             {
-                "amount": 50,
-                "gameSpecificData": "Daily",
-                "id": "Cells",
-                "type": "currency"
-            },
-            {
-                "amount": 1000,
-                "gameSpecificData": "Daily",
-                "id": "Shards",
-                "type": "currency"
-            },
-            {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "SurvivorPudding",
                 "type": "inventory"
             },
             {
                 "amount": 1,
-                "gameSpecificData": "Renewal",
                 "id": "EscapeCake",
                 "type": "inventory"
             }
         ],
         "id": "monthlySubscription1Tier3",
         "metaData": {
+            "claimableReward": [
+                {
+                    "amount": 50,
+                    "gameSpecificData": "Daily",
+                    "id": "Cells",
+                    "type": "currency"
+                },
+                {
+                    "amount": 1000,
+                    "gameSpecificData": "Daily",
+                    "id": "Shards",
+                    "type": "currency"
+                }
+            ],
             "currencyCodes": "CLP;CRC;ILS;MXN;PHP;PLN;SAR;ZAR",
             "enabled": true,
             "endDate": "2050-07-30T00:00:00",
@@ -106046,8 +106878,8 @@
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
-                "android": "subs_test_vipsubscription",
-                "ios": "test_subscription"
+                "android": "monthly_pass_consumable",
+                "ios": "monthly_pass_consumable"
             }
         },
         "purchasable": true,

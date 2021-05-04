@@ -2215,6 +2215,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "GREEK GODDESS DELUXE BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "MARKETINGBANNER_GreekGoddess_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "GRIM MATSURI MEGA BUNDLE"
                 },
                 {
@@ -4225,6 +4290,71 @@
                 }
             ],
             "textId": "PROMOPACK_GhostfaceBundle_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Greek Goddess Deluxe Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_GreekGoddessDeluxe_TITLE"
         },
         {
             "loc": [
@@ -6895,6 +7025,71 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "The Trickster Chroma Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_TricksterChroma_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Valentine's Pack"
                 },
                 {
@@ -7215,6 +7410,71 @@
                 }
             ],
             "textId": "PROMOPACK_YuiStarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Yun-Jin Chroma Pack"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_YunjinChroma_TITLE"
         },
         {
             "loc": [
@@ -9876,19 +10136,19 @@
             "id": "TricksterChromaPack",
             "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
             "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
-            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+            "titleId": "PROMOPACK_TricksterChroma_TITLE"
         },
         {
             "id": "YunJinChromaPack",
             "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
             "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
-            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+            "titleId": "PROMOPACK_YunjinChroma_TITLE"
         },
         {
             "id": "GreekGoddessesDeluxeBundle",
             "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
             "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
-            "titleId": "PROMOPACK_BaseGameBundle05_TITLE"
+            "titleId": "PROMOPACK_GreekGoddessDeluxe_TITLE"
         }
     ],
     "atlantaEventsUIData": [
@@ -9936,17 +10196,17 @@
             "type": "Bloodhunt"
         },
         {
-            "bannerEndDate": "2021-03-10T18:30:01",
+            "bannerEndDate": "2022-03-10T18:30:01",
             "bannerPriority": 2,
             "bannerStartDate": "2021-03-10T17:00:01",
             "campaignName": "FirstPurchaseEvent",
             "deepLink": "/Storefront_Premium/",
             "descriptionId": "EVENTBANNER_FirstPurchase_DESC",
-            "displayEndDate": "2021-03-10T18:30:01",
+            "displayEndDate": "2022-03-10T18:30:01",
             "displayStartDate": "2021-03-10T17:00:01",
-            "endDate": "2021-03-10T18:30:01",
+            "endDate": "2022-03-10T18:30:01",
             "eventPriority": 2,
-            "hotEndDate": "2021-03-10T18:30:01",
+            "hotEndDate": "2022-03-10T18:30:01",
             "hotStartDate": "2021-03-10T17:00:01",
             "id": "FirstPurchaseEvent",
             "imageUrl": "events/Auric_Cell_30.png",
@@ -10498,6 +10758,26 @@
                 "descriptionId": "PURCHASEPOPUP_DoubleBunny_DESC",
                 "imageUrl": "purchasePopups/DoubleBunny_PurchasePopup_NoText.png",
                 "titleId": "PURCHASEPOPUP_DoubleBunny_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_MinotaurSolo_DESC",
+                "imageUrl": "purchasePopups/MinotaurSolo_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_MinotaurSolo_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_DoubleBunny_DESC",
+                "imageUrl": "purchasePopups/DoubleBunny_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_DoubleBunny_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_DoubleBunny_DESC",
+                "imageUrl": "purchasePopups/DoubleBunny_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_DoubleBunny_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_DoubleBunny_DESC",
+                "imageUrl": "purchasePopups/DoubleBunny_PurchasePopup_NoText.png",
+                "titleId": "PURCHASEPOPUP_DoubleBunny_TITLE"
             }
         ]
     },
@@ -10609,6 +10889,15 @@
             "priority": 4,
             "startDate": "2021-04-13T18:30:01",
             "titleId": "MARKETINGBANNER_MegSpring_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-04-15T23:30:01",
+            "id": "GreekGoddessBanner",
+            "imageUrl": "marketingBanner/Atl_Main_Banner_MegSpringBundle.png",
+            "priority": 1,
+            "startDate": "2021-04-13T18:30:01",
+            "titleId": "MARKETINGBANNER_GreekGoddess_TITLE"
         }
     ],
     "storefrontUIData": [

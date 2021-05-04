@@ -285,6 +285,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_doublebunny"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_katevolk"
+            },
+            {
+                "premiumStoreId": "purchase_popup_solovolk"
+            },
+            {
+                "premiumStoreId": "purchase_popup_greekgod"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -348,6 +360,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_doublebunny_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_katevolk_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_solovolk_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_greekgod_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -411,6 +435,18 @@
             },
             {
                 "premiumStoreId": "purchase_popup_doublebunny_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_katevolk_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_solovolk_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_greekgod_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

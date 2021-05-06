@@ -1,34 +1,3 @@
 {
-    "campaigns": [
-        {
-            "campaignName": "Bloodhunt_BP_NKML",
-            "parameters": {
-                "eventName": "WichitaNKML_BP"
-            },
-            "metaData": {
-                "startDate": "2021-03-01T00:00:00",
-                "endDate": "2021-03-05T23:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_NKML",
-            "parameters": {
-                "eventName": "WichitaNKML_XP"
-            },
-            "metaData": {
-                "startDate": "2021-03-01T00:00:00",
-                "endDate": "2021-03-05T23:59:59"
-            }
-        },
-        {
-            "campaignName": "PromopackUtica4 (copy)",
-            "parameters": {
-                "eventName": "PromopackUtica4"
-            },
-            "metaData": {
-                "startDate": "2021-03-01T00:00:00",
-                "endDate": "2021-05-04T23:59:59"
-            }
-        }
-    ]
+    "campaigns": []
 }

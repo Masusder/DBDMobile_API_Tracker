@@ -50,7 +50,7 @@
                 "Jnk_Scrapyard": "10",
                 "Kny_Cottage": "10",
                 "Qat_Lab": "10",
-                "Sub_Street": "10",
+                "Sub_Street": "11",
                 "Swp_GrimPantry": "10",
                 "Swp_PaleRose": "10",
                 "Ukr_Saloon": "10",
@@ -59,76 +59,166 @@
             "priority": "0"
         },
         {
-            "description": "Wales PTB",
-            "end_date": "2020-05-27T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-06T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "130"
+                "Frm_Slaughterhouse": "0"
             },
             "priority": "101",
-            "start_date": "2020-05-26T15:00:00"
+            "start_date": "2021-05-04T15:00:00"
         },
         {
-            "description": "Wales PTB",
-            "end_date": "2020-05-28T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-06T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "100"
+                "Frm_Farmhouse": "0"
             },
             "priority": "102",
-            "start_date": "2020-05-27T15:00:00"
+            "start_date": "2021-05-04T15:00:00"
         },
         {
-            "description": "Wales PTB",
-            "end_date": "2020-06-05T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-06T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "75"
+                "Frm_Barn": "20"
             },
             "priority": "103",
-            "start_date": "2020-05-28T15:00:00"
+            "start_date": "2021-05-04T15:00:00"
         },
         {
-            "description": "Wales LIVE RELEASE",
-            "end_date": "2020-06-17T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-06T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "130"
+                "Frm_Cornfield": "20"
             },
             "priority": "104",
-            "start_date": "2020-06-16T15:00:00"
+            "start_date": "2021-05-04T15:00:00"
         },
         {
-            "description": "Wales LIVE RELEASE",
-            "end_date": "2020-06-18T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-06T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "100"
+                "Frm_Silo": "20"
             },
             "priority": "105",
-            "start_date": "2020-06-17T15:00:00"
+            "start_date": "2021-05-04T15:00:00"
         },
         {
-            "description": "Wales LIVE RELEASE",
-            "end_date": "2020-06-19T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-07T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "75"
+                "Frm_Slaughterhouse": "0"
             },
             "priority": "106",
-            "start_date": "2020-06-18T15:00:00"
+            "start_date": "2021-05-06T15:00:00"
         },
         {
-            "description": "Wales LIVE RELEASE",
-            "end_date": "2020-06-22T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-07T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "60"
+                "Frm_Farmhouse": "0"
             },
             "priority": "107",
-            "start_date": "2020-06-19T15:00:00"
+            "start_date": "2021-05-06T15:00:00"
         },
         {
-            "description": "Wales LIVE RELEASE",
-            "end_date": "2020-06-23T14:59:59",
+            "description": "Draco",
+            "end_date": "2021-05-08T14:59:59",
             "maps_weight": {
-                "Wal_Level_01": "40"
+                "Frm_Farmhouse": "0"
             },
             "priority": "108",
-            "start_date": "2020-06-22T15:00:00"
+            "start_date": "2021-05-07T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-08T14:59:59",
+            "maps_weight": {
+                "Frm_Barn": "20"
+            },
+            "priority": "109",
+            "start_date": "2021-05-07T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-09T14:59:59",
+            "maps_weight": {
+                "Frm_Barn": "20"
+            },
+            "priority": "110",
+            "start_date": "2021-05-08T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-09T14:59:59",
+            "maps_weight": {
+                "Frm_Cornfield": "20"
+            },
+            "priority": "111",
+            "start_date": "2021-05-08T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-10T14:59:59",
+            "maps_weight": {
+                "Frm_Cornfield": "20"
+            },
+            "priority": "112",
+            "start_date": "2021-05-09T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-10T14:59:59",
+            "maps_weight": {
+                "Frm_Silo": "20"
+            },
+            "priority": "113",
+            "start_date": "2021-05-09T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-11T14:59:59",
+            "maps_weight": {
+                "Frm_Slaughterhouse": "20"
+            },
+            "priority": "114",
+            "start_date": "2021-05-10T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-11T14:59:59",
+            "maps_weight": {
+                "Frm_Silo": "20"
+            },
+            "priority": "115",
+            "start_date": "2021-05-10T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-12T14:59:59",
+            "maps_weight": {
+                "Frm_Farmhouse": "20"
+            },
+            "priority": "116",
+            "start_date": "2021-05-11T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-12T14:59:59",
+            "maps_weight": {
+                "Frm_Barn": "20"
+            },
+            "priority": "117",
+            "start_date": "2021-05-11T15:00:00"
+        },
+        {
+            "description": "Draco",
+            "end_date": "2021-05-12T14:59:59",
+            "maps_weight": {
+                "Frm_Cornfield": "20"
+            },
+            "priority": "118",
+            "start_date": "2021-05-11T15:00:00"
         }
     ]
 }

@@ -8437,8 +8437,8 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-17T14:00:00",
+            "newEndDate": "2021-05-24T13:59:59"
         },
         {
             "id": "FM_outfit_010",
@@ -8455,8 +8455,8 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-17T14:00:00",
+            "newEndDate": "2021-05-24T13:59:59"
         },
         {
             "id": "HK_outfit_010",
@@ -8473,8 +8473,8 @@
                 "HK_Body010",
                 "HK_W010"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-11T14:00:00",
+            "newEndDate": "2021-05-18T13:59:59"
         },
         {
             "id": "SwedenKiller_outfit_008",
@@ -8491,8 +8491,8 @@
                 "SwedenKiller_Body008",
                 "SwedenKiller_W008"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-11T14:00:00",
+            "newEndDate": "2021-05-18T13:59:59"
         },
         {
             "id": "KK_outfit_016",
@@ -8509,8 +8509,8 @@
                 "KK_Body016",
                 "KK_W016"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-24T14:00:00",
+            "newEndDate": "2021-05-31T13:59:59"
         },
         {
             "id": "KK_outfit_016_01",
@@ -8527,8 +8527,8 @@
                 "KK_Body016_01",
                 "KK_W016_01"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-24T14:00:00",
+            "newEndDate": "2021-05-31T13:59:59"
         },
         {
             "id": "KK_outfit_016_02",
@@ -8545,8 +8545,8 @@
                 "KK_Body016_02",
                 "KK_W016_02"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-24T14:00:00",
+            "newEndDate": "2021-05-31T13:59:59"
         },
         {
             "id": "KK_outfit_016_03",
@@ -8563,8 +8563,8 @@
                 "KK_Body016_03",
                 "KK_W016_03"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-24T14:00:00",
+            "newEndDate": "2021-05-31T13:59:59"
         },
         {
             "id": "AV_outfit_011",
@@ -8581,8 +8581,8 @@
                 "AV_Torso011",
                 "AV_Legs011"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-31T14:00:00",
+            "newEndDate": "2021-06-07T13:59:59"
         },
         {
             "id": "DK_outfit_010",
@@ -8599,8 +8599,8 @@
                 "DK_Torso010",
                 "DK_Legs010"
             ],
-            "newStartDate": "2021-04-14T00:00:00",
-            "newEndDate": "2021-04-21T00:00:00"
+            "newStartDate": "2021-05-31T14:00:00",
+            "newEndDate": "2021-06-07T13:59:59"
         }
     ]
 }

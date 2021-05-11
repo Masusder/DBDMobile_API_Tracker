@@ -4,6 +4,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "BronzeKillerTicket",
         "metaData": {
             "durationInMinutes": 360,
@@ -20,6 +21,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "SilverKillerTicket",
         "metaData": {
             "durationInMinutes": 720,
@@ -36,6 +38,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "GoldKillerTicket",
         "metaData": {
             "durationInMinutes": 1440,
@@ -52,6 +55,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "BronzeSurvivorTicket",
         "metaData": {
             "durationInMinutes": 360,
@@ -68,6 +72,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "SilverSurvivorTicket",
         "metaData": {
             "durationInMinutes": 720,
@@ -84,6 +89,7 @@
             "freeTicket"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "id": "GoldSurvivorTicket",
         "metaData": {
             "durationInMinutes": 1440,
@@ -84127,8 +84133,8 @@
             "base_itemId": "K23_Head01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84159,8 +84165,8 @@
             "base_itemId": "K23_Body01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84191,8 +84197,8 @@
             "base_itemId": "K23_Weapon01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84223,8 +84229,8 @@
             "base_itemId": "K23_Head01_P01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84255,8 +84261,8 @@
             "base_itemId": "K23_Body01_P01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84287,8 +84293,8 @@
             "base_itemId": "K23_Weapon01_P01",
             "character": "K23",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84319,8 +84325,8 @@
             "base_itemId": "S25_Head01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84351,8 +84357,8 @@
             "base_itemId": "S25_Torso01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84383,8 +84389,8 @@
             "base_itemId": "S25_Legs01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84415,8 +84421,8 @@
             "base_itemId": "S25_Head01_P01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84447,8 +84453,8 @@
             "base_itemId": "S25_Torso01_P01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84479,8 +84485,8 @@
             "base_itemId": "S25_Legs01_P01",
             "character": "S25",
             "kind": "Customization",
-            "newEndDate": "2021-04-27T23:59:59",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-25T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
@@ -84516,8 +84522,8 @@
             "base_itemId": "GK_Head010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84555,8 +84561,8 @@
             "base_itemId": "GK_Body010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84594,8 +84600,8 @@
             "base_itemId": "GK_W010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84633,8 +84639,8 @@
             "base_itemId": "FM_Head010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84672,8 +84678,8 @@
             "base_itemId": "FM_Torso010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84711,8 +84717,8 @@
             "base_itemId": "FM_Legs010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84750,8 +84756,8 @@
             "base_itemId": "HK_Head010",
             "character": "Spirit",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "HK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84789,8 +84795,8 @@
             "base_itemId": "HK_Body010",
             "character": "Spirit",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "HK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84828,8 +84834,8 @@
             "base_itemId": "HK_W010",
             "character": "Spirit",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "HK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84867,8 +84873,8 @@
             "base_itemId": "SwedenKiller_Mask008",
             "character": "Oni",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "SwedenKiller_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84906,8 +84912,8 @@
             "base_itemId": "SwedenKiller_Body008",
             "character": "Oni",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "SwedenKiller_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84945,8 +84951,8 @@
             "base_itemId": "SwedenKiller_W008",
             "character": "Oni",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "outfitId": "SwedenKiller_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -84984,8 +84990,8 @@
             "base_itemId": "KK_Head016",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85023,8 +85029,8 @@
             "base_itemId": "KK_Body016",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85062,8 +85068,8 @@
             "base_itemId": "KK_W016",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85101,8 +85107,8 @@
             "base_itemId": "KK_Mask016_01",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85140,8 +85146,8 @@
             "base_itemId": "KK_Body016_01",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85179,8 +85185,8 @@
             "base_itemId": "KK_W016_01",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85218,8 +85224,8 @@
             "base_itemId": "KK_Mask016_02",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85257,8 +85263,8 @@
             "base_itemId": "KK_Body016_02",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85296,8 +85302,8 @@
             "base_itemId": "KK_W016_02",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85335,8 +85341,8 @@
             "base_itemId": "KK_Mask016_03",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85374,8 +85380,8 @@
             "base_itemId": "KK_Body016_03",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85413,8 +85419,8 @@
             "base_itemId": "KK_W016_03",
             "character": "Legion",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "outfitId": "KK_outfit_016_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85452,8 +85458,8 @@
             "base_itemId": "AV_Head011",
             "character": "Ace",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "AV_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85491,8 +85497,8 @@
             "base_itemId": "AV_Torso011",
             "character": "Ace",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "AV_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85530,8 +85536,8 @@
             "base_itemId": "AV_Legs011",
             "character": "Ace",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "AV_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85569,8 +85575,8 @@
             "base_itemId": "DK_Head010",
             "character": "Smoke",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "DK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85608,8 +85614,8 @@
             "base_itemId": "DK_Torso010",
             "character": "Smoke",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "DK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85647,8 +85653,8 @@
             "base_itemId": "DK_Legs010",
             "character": "Smoke",
             "kind": "Customization",
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "outfitId": "DK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85671,6 +85677,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_001",
         "metaData": {
             "character": "Dwight",
@@ -85693,6 +85700,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_002",
         "metaData": {
             "character": "Dwight",
@@ -85715,6 +85723,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_003",
         "metaData": {
             "character": "Dwight",
@@ -85737,6 +85746,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_004",
         "metaData": {
             "character": "Dwight",
@@ -85759,6 +85769,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_005",
         "metaData": {
             "character": "Dwight",
@@ -85781,6 +85792,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_006",
         "metaData": {
             "character": "Dwight",
@@ -85803,6 +85815,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_007",
         "metaData": {
             "character": "Dwight",
@@ -85825,6 +85838,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_008",
         "metaData": {
             "character": "Dwight",
@@ -85847,6 +85861,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_009",
         "metaData": {
             "character": "Dwight",
@@ -85869,6 +85884,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_010",
         "metaData": {
             "character": "Dwight",
@@ -85891,6 +85907,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_011",
         "metaData": {
             "character": "Dwight",
@@ -85913,6 +85930,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_012",
         "metaData": {
             "character": "Dwight",
@@ -85935,6 +85953,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_013",
         "metaData": {
             "character": "Dwight",
@@ -85957,6 +85976,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_014",
         "metaData": {
             "character": "Dwight",
@@ -85979,6 +85999,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_018",
         "metaData": {
             "character": "Dwight",
@@ -86001,6 +86022,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_019",
         "metaData": {
             "character": "Dwight",
@@ -86023,6 +86045,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_008_01",
         "metaData": {
             "character": "Dwight",
@@ -86045,6 +86068,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DF_outfit_009",
         "metaData": {
             "character": "Dwight",
@@ -86067,6 +86091,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DF_outfit_010",
         "metaData": {
             "character": "Dwight",
@@ -86089,6 +86114,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_Winter",
         "metaData": {
             "character": "Dwight",
@@ -86111,6 +86137,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Dwight_outfit_SummerC",
         "metaData": {
             "character": "Dwight",
@@ -86133,6 +86160,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DF_outfit_011",
         "metaData": {
             "character": "Dwight",
@@ -86155,6 +86183,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_002",
         "metaData": {
             "character": "Meg",
@@ -86177,6 +86206,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_003",
         "metaData": {
             "character": "Meg",
@@ -86199,6 +86229,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_004",
         "metaData": {
             "character": "Meg",
@@ -86221,6 +86252,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_005",
         "metaData": {
             "character": "Meg",
@@ -86243,6 +86275,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_006",
         "metaData": {
             "character": "Meg",
@@ -86265,6 +86298,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_010",
         "metaData": {
             "character": "Meg",
@@ -86287,6 +86321,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_011",
         "metaData": {
             "character": "Meg",
@@ -86309,6 +86344,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_012",
         "metaData": {
             "character": "Meg",
@@ -86331,6 +86367,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_007",
         "metaData": {
             "character": "Meg",
@@ -86353,6 +86390,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_009",
         "metaData": {
             "character": "Meg",
@@ -86375,6 +86413,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_008",
         "metaData": {
             "character": "Meg",
@@ -86397,6 +86436,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_013",
         "metaData": {
             "character": "Meg",
@@ -86419,6 +86459,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_014",
         "metaData": {
             "character": "Meg",
@@ -86441,6 +86482,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_015",
         "metaData": {
             "character": "Meg",
@@ -86463,6 +86505,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_016",
         "metaData": {
             "character": "Meg",
@@ -86485,6 +86528,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_021",
         "metaData": {
             "character": "Meg",
@@ -86507,6 +86551,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_022",
         "metaData": {
             "character": "Meg",
@@ -86529,6 +86574,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_023",
         "metaData": {
             "character": "Meg",
@@ -86551,6 +86597,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_008_01",
         "metaData": {
             "character": "Meg",
@@ -86573,6 +86620,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_009_01",
         "metaData": {
             "character": "Meg",
@@ -86595,6 +86643,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MT_outfit_010",
         "metaData": {
             "character": "Meg",
@@ -86617,6 +86666,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_Wilderness",
         "metaData": {
             "character": "Meg",
@@ -86639,6 +86689,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Meg_outfit_SummerC",
         "metaData": {
             "character": "Meg",
@@ -86661,6 +86712,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_001",
         "metaData": {
             "character": "Claudette",
@@ -86683,6 +86735,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_002",
         "metaData": {
             "character": "Claudette",
@@ -86705,6 +86758,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_003",
         "metaData": {
             "character": "Claudette",
@@ -86727,6 +86781,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_004",
         "metaData": {
             "character": "Claudette",
@@ -86749,6 +86804,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_006",
         "metaData": {
             "character": "Claudette",
@@ -86771,6 +86827,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_010",
         "metaData": {
             "character": "Claudette",
@@ -86793,6 +86850,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_011",
         "metaData": {
             "character": "Claudette",
@@ -86815,6 +86873,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_012",
         "metaData": {
             "character": "Claudette",
@@ -86837,6 +86896,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_013",
         "metaData": {
             "character": "Claudette",
@@ -86859,6 +86919,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_014",
         "metaData": {
             "character": "Claudette",
@@ -86881,6 +86942,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_016",
         "metaData": {
             "character": "Claudette",
@@ -86903,6 +86965,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_007",
         "metaData": {
             "character": "Claudette",
@@ -86925,6 +86988,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_008",
         "metaData": {
             "character": "Claudette",
@@ -86947,6 +87011,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_009",
         "metaData": {
             "character": "Claudette",
@@ -86969,6 +87034,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_018",
         "metaData": {
             "character": "Claudette",
@@ -86991,6 +87057,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_019",
         "metaData": {
             "character": "Claudette",
@@ -87013,6 +87080,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_009_01",
         "metaData": {
             "character": "Claudette",
@@ -87035,6 +87103,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_010_01",
         "metaData": {
             "character": "Claudette",
@@ -87057,6 +87126,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "CM_outfit_012",
         "metaData": {
             "character": "Claudette",
@@ -87079,6 +87149,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_Winter",
         "metaData": {
             "character": "Claudette",
@@ -87101,6 +87172,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_Spring",
         "metaData": {
             "character": "Claudette",
@@ -87123,6 +87195,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Claudette_outfit_School",
         "metaData": {
             "character": "Claudette",
@@ -87145,6 +87218,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_001",
         "metaData": {
             "character": "Jake",
@@ -87167,6 +87241,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_002",
         "metaData": {
             "character": "Jake",
@@ -87189,6 +87264,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_003",
         "metaData": {
             "character": "Jake",
@@ -87211,6 +87287,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_004",
         "metaData": {
             "character": "Jake",
@@ -87233,6 +87310,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_005",
         "metaData": {
             "character": "Jake",
@@ -87255,6 +87333,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_006",
         "metaData": {
             "character": "Jake",
@@ -87277,6 +87356,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_007",
         "metaData": {
             "character": "Jake",
@@ -87299,6 +87379,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_008",
         "metaData": {
             "character": "Jake",
@@ -87321,6 +87402,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_009",
         "metaData": {
             "character": "Jake",
@@ -87343,6 +87425,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_010",
         "metaData": {
             "character": "Jake",
@@ -87365,6 +87448,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_011",
         "metaData": {
             "character": "Jake",
@@ -87387,6 +87471,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_012",
         "metaData": {
             "character": "Jake",
@@ -87409,6 +87494,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_013",
         "metaData": {
             "character": "Jake",
@@ -87431,6 +87517,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_017",
         "metaData": {
             "character": "Jake",
@@ -87453,6 +87540,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_007_01",
         "metaData": {
             "character": "Jake",
@@ -87475,6 +87563,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_009_01",
         "metaData": {
             "character": "Jake",
@@ -87497,6 +87586,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jake_outfit_NightSky",
         "metaData": {
             "character": "Jake",
@@ -87519,6 +87609,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_001",
         "metaData": {
             "character": "Nea",
@@ -87541,6 +87632,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_002",
         "metaData": {
             "character": "Nea",
@@ -87563,6 +87655,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_003",
         "metaData": {
             "character": "Nea",
@@ -87585,6 +87678,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_004",
         "metaData": {
             "character": "Nea",
@@ -87607,6 +87701,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_005",
         "metaData": {
             "character": "Nea",
@@ -87629,6 +87724,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_006",
         "metaData": {
             "character": "Nea",
@@ -87651,6 +87747,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_007",
         "metaData": {
             "character": "Nea",
@@ -87673,6 +87770,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_008",
         "metaData": {
             "character": "Nea",
@@ -87695,6 +87793,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_009",
         "metaData": {
             "character": "Nea",
@@ -87717,6 +87816,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_010",
         "metaData": {
             "character": "Nea",
@@ -87739,6 +87839,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_011",
         "metaData": {
             "character": "Nea",
@@ -87760,6 +87861,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_012",
         "metaData": {
             "character": "Nea",
@@ -87781,6 +87883,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_013",
         "metaData": {
             "character": "Nea",
@@ -87802,6 +87905,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_014",
         "metaData": {
             "character": "Nea",
@@ -87823,6 +87927,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_015",
         "metaData": {
             "character": "Nea",
@@ -87844,6 +87949,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_008_01",
         "metaData": {
             "character": "Nea",
@@ -87866,6 +87972,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_009_01",
         "metaData": {
             "character": "Nea",
@@ -87888,6 +87995,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "NK_outfit_010",
         "metaData": {
             "character": "Nea",
@@ -87910,6 +88018,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nea_outfit_TWater",
         "metaData": {
             "character": "Nea",
@@ -87932,6 +88041,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_001",
         "metaData": {
             "character": "Smoke",
@@ -87954,6 +88064,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_002",
         "metaData": {
             "character": "Smoke",
@@ -87976,6 +88087,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_003",
         "metaData": {
             "character": "Smoke",
@@ -87998,6 +88110,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_004",
         "metaData": {
             "character": "Smoke",
@@ -88020,6 +88133,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_005",
         "metaData": {
             "character": "Smoke",
@@ -88042,6 +88156,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_006",
         "metaData": {
             "character": "Smoke",
@@ -88064,6 +88179,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_007",
         "metaData": {
             "character": "Smoke",
@@ -88086,6 +88202,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_008",
         "metaData": {
             "character": "Smoke",
@@ -88108,6 +88225,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_009",
         "metaData": {
             "character": "Smoke",
@@ -88130,6 +88248,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_010",
         "metaData": {
             "character": "Smoke",
@@ -88151,6 +88270,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_011",
         "metaData": {
             "character": "Smoke",
@@ -88172,6 +88292,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_012",
         "metaData": {
             "character": "Smoke",
@@ -88193,6 +88314,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_013",
         "metaData": {
             "character": "Smoke",
@@ -88214,6 +88336,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_014",
         "metaData": {
             "character": "Smoke",
@@ -88235,6 +88358,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_007_01",
         "metaData": {
             "character": "Smoke",
@@ -88257,6 +88381,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_008_01",
         "metaData": {
             "character": "Smoke",
@@ -88279,6 +88404,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Smoke_outfit_TWater",
         "metaData": {
             "character": "Smoke",
@@ -88301,6 +88427,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DK_outfit_009",
         "metaData": {
             "character": "Smoke",
@@ -88323,6 +88450,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_001",
         "metaData": {
             "character": "Feng",
@@ -88345,6 +88473,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_002",
         "metaData": {
             "character": "Feng",
@@ -88367,6 +88496,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_003",
         "metaData": {
             "character": "Feng",
@@ -88389,6 +88519,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_004",
         "metaData": {
             "character": "Feng",
@@ -88411,6 +88542,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_005",
         "metaData": {
             "character": "Feng",
@@ -88433,6 +88565,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_006",
         "metaData": {
             "character": "Feng",
@@ -88455,6 +88588,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_007",
         "metaData": {
             "character": "Feng",
@@ -88477,6 +88611,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_008",
         "metaData": {
             "character": "Feng",
@@ -88499,6 +88634,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_009",
         "metaData": {
             "character": "Feng",
@@ -88521,6 +88657,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_010",
         "metaData": {
             "character": "Feng",
@@ -88542,6 +88679,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_011",
         "metaData": {
             "character": "Feng",
@@ -88563,6 +88701,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_012",
         "metaData": {
             "character": "Feng",
@@ -88584,6 +88723,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_013",
         "metaData": {
             "character": "Feng",
@@ -88605,6 +88745,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_014",
         "metaData": {
             "character": "Feng",
@@ -88626,6 +88767,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_007_01",
         "metaData": {
             "character": "Feng",
@@ -88648,6 +88790,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_008",
         "metaData": {
             "character": "Feng",
@@ -88670,6 +88813,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_009",
         "metaData": {
             "character": "Feng",
@@ -88692,6 +88836,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Feng_outfit_Spring",
         "metaData": {
             "character": "Feng",
@@ -88714,6 +88859,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_001",
         "metaData": {
             "character": "Ace",
@@ -88736,6 +88882,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_002",
         "metaData": {
             "character": "Ace",
@@ -88758,6 +88905,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_003",
         "metaData": {
             "character": "Ace",
@@ -88780,6 +88928,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_004",
         "metaData": {
             "character": "Ace",
@@ -88802,6 +88951,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_005",
         "metaData": {
             "character": "Ace",
@@ -88824,6 +88974,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_006",
         "metaData": {
             "character": "Ace",
@@ -88846,6 +88997,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_007",
         "metaData": {
             "character": "Ace",
@@ -88868,6 +89020,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_008",
         "metaData": {
             "character": "Ace",
@@ -88890,6 +89043,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_009",
         "metaData": {
             "character": "Ace",
@@ -88912,6 +89066,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_010",
         "metaData": {
             "character": "Ace",
@@ -88934,6 +89089,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_014",
         "metaData": {
             "character": "Ace",
@@ -88956,6 +89112,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_015",
         "metaData": {
             "character": "Ace",
@@ -88978,6 +89135,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_016",
         "metaData": {
             "character": "Ace",
@@ -89000,6 +89158,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_017",
         "metaData": {
             "character": "Ace",
@@ -89022,6 +89181,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_007_01",
         "metaData": {
             "character": "Ace",
@@ -89044,6 +89204,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_008_01",
         "metaData": {
             "character": "Ace",
@@ -89066,6 +89227,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Ace_outfit_CookOut",
         "metaData": {
             "character": "Ace",
@@ -89088,6 +89250,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "AV_outfit_009",
         "metaData": {
             "character": "Ace",
@@ -89110,6 +89273,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FS_outfit_006",
         "metaData": {
             "character": "Eric",
@@ -89132,6 +89296,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FS_outfit_007",
         "metaData": {
             "character": "Eric",
@@ -89154,6 +89319,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_001",
         "metaData": {
             "character": "Kate",
@@ -89176,6 +89342,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_002",
         "metaData": {
             "character": "Kate",
@@ -89198,6 +89365,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_003",
         "metaData": {
             "character": "Kate",
@@ -89220,6 +89388,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_004",
         "metaData": {
             "character": "Kate",
@@ -89242,6 +89411,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_005",
         "metaData": {
             "character": "Kate",
@@ -89263,6 +89433,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_006",
         "metaData": {
             "character": "Kate",
@@ -89284,6 +89455,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_007",
         "metaData": {
             "character": "Kate",
@@ -89305,6 +89477,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_008",
         "metaData": {
             "character": "Kate",
@@ -89326,6 +89499,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_009",
         "metaData": {
             "character": "Kate",
@@ -89347,6 +89521,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_010",
         "metaData": {
             "character": "Kate",
@@ -89369,6 +89544,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_011",
         "metaData": {
             "character": "Kate",
@@ -89391,6 +89567,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_009_01",
         "metaData": {
             "character": "Kate",
@@ -89413,6 +89590,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "GS_outfit_010",
         "metaData": {
             "character": "Kate",
@@ -89435,6 +89613,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Kate_outfit_NightSky",
         "metaData": {
             "character": "Kate",
@@ -89457,6 +89636,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_001",
         "metaData": {
             "character": "Adam",
@@ -89479,6 +89659,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_002",
         "metaData": {
             "character": "Adam",
@@ -89500,6 +89681,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_003",
         "metaData": {
             "character": "Adam",
@@ -89521,6 +89703,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_004",
         "metaData": {
             "character": "Adam",
@@ -89542,6 +89725,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_005",
         "metaData": {
             "character": "Adam",
@@ -89563,6 +89747,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_006",
         "metaData": {
             "character": "Adam",
@@ -89584,6 +89769,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_007",
         "metaData": {
             "character": "Adam",
@@ -89605,6 +89791,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_008",
         "metaData": {
             "character": "Adam",
@@ -89626,6 +89813,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_009",
         "metaData": {
             "character": "Adam",
@@ -89647,6 +89835,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_006_01",
         "metaData": {
             "character": "Adam",
@@ -89669,6 +89858,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Adam_outfit_008_01",
         "metaData": {
             "character": "Adam",
@@ -89691,6 +89881,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_CV01",
         "metaData": {
             "character": "Jeff",
@@ -89712,6 +89903,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_CV02",
         "metaData": {
             "character": "Jeff",
@@ -89733,6 +89925,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_CV03",
         "metaData": {
             "character": "Jeff",
@@ -89754,6 +89947,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_CV04",
         "metaData": {
             "character": "Jeff",
@@ -89775,6 +89969,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_01_02",
         "metaData": {
             "character": "Jeff",
@@ -89796,6 +89991,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_01_03",
         "metaData": {
             "character": "Jeff",
@@ -89817,6 +90013,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_01_04",
         "metaData": {
             "character": "Jeff",
@@ -89838,6 +90035,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_02",
         "metaData": {
             "character": "Jeff",
@@ -89860,6 +90058,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_02_01",
         "metaData": {
             "character": "Jeff",
@@ -89882,6 +90081,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_Outfit_007",
         "metaData": {
             "character": "Jeff",
@@ -89904,6 +90104,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jeff_outfit_008",
         "metaData": {
             "character": "Jeff",
@@ -89926,6 +90127,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KS_outfit_009",
         "metaData": {
             "character": "Jeff",
@@ -89948,6 +90150,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "LS_outfit_006",
         "metaData": {
             "character": "Laurie",
@@ -89970,6 +90173,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_CV01",
         "metaData": {
             "character": "Jane",
@@ -89991,6 +90195,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_CV02",
         "metaData": {
             "character": "Jane",
@@ -90012,6 +90217,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_CV03",
         "metaData": {
             "character": "Jane",
@@ -90033,6 +90239,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_CV04",
         "metaData": {
             "character": "Jane",
@@ -90054,6 +90261,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_01_02",
         "metaData": {
             "character": "Jane",
@@ -90076,6 +90284,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_01_03",
         "metaData": {
             "character": "Jane",
@@ -90098,6 +90307,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_01_04",
         "metaData": {
             "character": "Jane",
@@ -90120,6 +90330,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_02",
         "metaData": {
             "character": "Jane",
@@ -90142,6 +90353,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_02_01",
         "metaData": {
             "character": "Jane",
@@ -90164,6 +90376,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_006",
         "metaData": {
             "character": "Jane",
@@ -90186,6 +90399,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_007",
         "metaData": {
             "character": "Jane",
@@ -90208,6 +90422,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MS_outfit_008",
         "metaData": {
             "character": "Jane",
@@ -90230,6 +90445,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Jane_outfit_CookOut",
         "metaData": {
             "character": "Jane",
@@ -90252,6 +90468,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MS_outfit_009",
         "metaData": {
             "character": "Jane",
@@ -90274,6 +90491,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "ML_outfit_006",
         "metaData": {
             "character": "Ash",
@@ -90296,6 +90514,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "ML_outfit_02",
         "metaData": {
             "character": "Ash",
@@ -90318,6 +90537,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "QM_outfit_02",
         "metaData": {
             "character": "Steve",
@@ -90340,6 +90560,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "QM_outfit_006",
         "metaData": {
             "character": "Steve",
@@ -90362,6 +90583,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "QF_outfit_02",
         "metaData": {
             "character": "Nancy",
@@ -90384,6 +90606,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "QF_outfit_006",
         "metaData": {
             "character": "Nancy",
@@ -90406,6 +90629,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_006",
         "metaData": {
             "character": "Yui",
@@ -90428,6 +90652,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_01_04",
         "metaData": {
             "character": "Yui",
@@ -90450,6 +90675,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_01_CV01",
         "metaData": {
             "character": "Yui",
@@ -90472,6 +90698,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_01_CV02",
         "metaData": {
             "character": "Yui",
@@ -90494,6 +90721,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_01_CV03",
         "metaData": {
             "character": "Yui",
@@ -90516,6 +90744,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_01_CV04",
         "metaData": {
             "character": "Yui",
@@ -90538,6 +90767,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_02",
         "metaData": {
             "character": "Yui",
@@ -90560,6 +90790,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_02_01",
         "metaData": {
             "character": "Yui",
@@ -90582,6 +90813,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "S22_outfit_006",
         "metaData": {
             "character": "S22",
@@ -90604,6 +90836,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "S22_outfit_007",
         "metaData": {
             "character": "S22",
@@ -90626,6 +90859,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_001",
         "metaData": {
             "character": "Chuckles",
@@ -90648,6 +90882,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_002",
         "metaData": {
             "character": "Chuckles",
@@ -90670,6 +90905,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_003",
         "metaData": {
             "character": "Chuckles",
@@ -90692,6 +90928,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_004",
         "metaData": {
             "character": "Chuckles",
@@ -90714,6 +90951,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_005",
         "metaData": {
             "character": "Chuckles",
@@ -90735,6 +90973,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_006",
         "metaData": {
             "character": "Chuckles",
@@ -90756,6 +90995,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_007",
         "metaData": {
             "character": "Chuckles",
@@ -90778,6 +91018,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_008",
         "metaData": {
             "character": "Chuckles",
@@ -90800,6 +91041,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_009",
         "metaData": {
             "character": "Chuckles",
@@ -90822,6 +91064,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_010",
         "metaData": {
             "character": "Chuckles",
@@ -90844,6 +91087,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Chuckles_outfit_008_01",
         "metaData": {
             "character": "Chuckles",
@@ -90866,6 +91110,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TR_outfit_010",
         "metaData": {
             "character": "Chuckles",
@@ -90888,6 +91133,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TR_outfit_011_01",
         "metaData": {
             "character": "Chuckles",
@@ -90910,6 +91156,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Trapper_outfit_Winter",
         "metaData": {
             "character": "Chuckles",
@@ -90932,6 +91179,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Trapper_outfit_SummerC",
         "metaData": {
             "character": "Chuckles",
@@ -90954,6 +91202,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_001",
         "metaData": {
             "character": "Bob",
@@ -90976,6 +91225,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_002",
         "metaData": {
             "character": "Bob",
@@ -90998,6 +91248,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_003",
         "metaData": {
             "character": "Bob",
@@ -91019,6 +91270,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_004",
         "metaData": {
             "character": "Bob",
@@ -91040,6 +91292,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_005",
         "metaData": {
             "character": "Bob",
@@ -91061,6 +91314,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_006",
         "metaData": {
             "character": "Bob",
@@ -91082,6 +91336,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_007",
         "metaData": {
             "character": "Bob",
@@ -91103,6 +91358,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_008",
         "metaData": {
             "character": "Bob",
@@ -91124,6 +91380,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_009",
         "metaData": {
             "character": "Bob",
@@ -91145,6 +91402,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_010",
         "metaData": {
             "character": "Bob",
@@ -91167,6 +91425,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bob_outfit_007_01",
         "metaData": {
             "character": "Bob",
@@ -91189,6 +91448,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TW_outfit_008",
         "metaData": {
             "character": "Bob",
@@ -91211,6 +91471,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Wraith_outfit_Wilderness",
         "metaData": {
             "character": "Bob",
@@ -91233,6 +91494,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_001",
         "metaData": {
             "character": "HillBilly",
@@ -91255,6 +91517,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_002",
         "metaData": {
             "character": "HillBilly",
@@ -91277,6 +91540,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_003",
         "metaData": {
             "character": "HillBilly",
@@ -91298,6 +91562,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_004",
         "metaData": {
             "character": "HillBilly",
@@ -91319,6 +91584,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_005",
         "metaData": {
             "character": "HillBilly",
@@ -91340,6 +91606,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_006",
         "metaData": {
             "character": "HillBilly",
@@ -91361,6 +91628,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_007",
         "metaData": {
             "character": "HillBilly",
@@ -91382,6 +91650,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_008",
         "metaData": {
             "character": "HillBilly",
@@ -91403,6 +91672,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_009",
         "metaData": {
             "character": "HillBilly",
@@ -91424,6 +91694,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_010",
         "metaData": {
             "character": "HillBilly",
@@ -91446,6 +91717,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Hillbilly_Outfit_007_01",
         "metaData": {
             "character": "HillBilly",
@@ -91468,6 +91740,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HillBilly_outfit_008_01",
         "metaData": {
             "character": "HillBilly",
@@ -91490,6 +91763,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TC_outfit_009",
         "metaData": {
             "character": "HillBilly",
@@ -91512,6 +91786,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Hillbilly_outfit_Winter",
         "metaData": {
             "character": "HillBilly",
@@ -91533,6 +91808,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Hillbilly_outfit_Spring",
         "metaData": {
             "character": "HillBilly",
@@ -91555,6 +91831,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_001",
         "metaData": {
             "character": "Nurse",
@@ -91577,6 +91854,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_002",
         "metaData": {
             "character": "Nurse",
@@ -91599,6 +91877,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_003",
         "metaData": {
             "character": "Nurse",
@@ -91621,6 +91900,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_004",
         "metaData": {
             "character": "Nurse",
@@ -91643,6 +91923,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_005",
         "metaData": {
             "character": "Nurse",
@@ -91665,6 +91946,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_006",
         "metaData": {
             "character": "Nurse",
@@ -91686,6 +91968,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_007",
         "metaData": {
             "character": "Nurse",
@@ -91707,6 +91990,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_008",
         "metaData": {
             "character": "Nurse",
@@ -91728,6 +92012,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_009",
         "metaData": {
             "character": "Nurse",
@@ -91749,6 +92034,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_010",
         "metaData": {
             "character": "Nurse",
@@ -91770,6 +92056,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_011",
         "metaData": {
             "character": "Nurse",
@@ -91791,6 +92078,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_012",
         "metaData": {
             "character": "Nurse",
@@ -91812,6 +92100,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_013",
         "metaData": {
             "character": "Nurse",
@@ -91834,6 +92123,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_007_01",
         "metaData": {
             "character": "Nurse",
@@ -91856,6 +92146,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Nurse_outfit_SummerC",
         "metaData": {
             "character": "Nurse",
@@ -91878,6 +92169,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TN_outfit_008",
         "metaData": {
             "character": "Nurse",
@@ -91900,6 +92192,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_001",
         "metaData": {
             "character": "Witch",
@@ -91922,6 +92215,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_002",
         "metaData": {
             "character": "Witch",
@@ -91944,6 +92238,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_003",
         "metaData": {
             "character": "Witch",
@@ -91966,6 +92261,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_004",
         "metaData": {
             "character": "Witch",
@@ -91988,6 +92284,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_005",
         "metaData": {
             "character": "Witch",
@@ -92010,6 +92307,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_006",
         "metaData": {
             "character": "Witch",
@@ -92032,6 +92330,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_007",
         "metaData": {
             "character": "Witch",
@@ -92054,6 +92353,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_008",
         "metaData": {
             "character": "Witch",
@@ -92076,6 +92376,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_009",
         "metaData": {
             "character": "Witch",
@@ -92098,6 +92399,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_010",
         "metaData": {
             "character": "Witch",
@@ -92119,6 +92421,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_011",
         "metaData": {
             "character": "Witch",
@@ -92140,6 +92443,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_006_01",
         "metaData": {
             "character": "Witch",
@@ -92162,6 +92466,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "WI_outfit_007",
         "metaData": {
             "character": "Witch",
@@ -92184,6 +92489,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Witch_outfit_NightSky",
         "metaData": {
             "character": "Witch",
@@ -92206,6 +92512,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "WI_outfit_04_01",
         "metaData": {
             "character": "Witch",
@@ -92228,6 +92535,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_001",
         "metaData": {
             "character": "Killer07",
@@ -92250,6 +92558,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_002",
         "metaData": {
             "character": "Killer07",
@@ -92272,6 +92581,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_003",
         "metaData": {
             "character": "Killer07",
@@ -92294,6 +92604,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_004",
         "metaData": {
             "character": "Killer07",
@@ -92316,6 +92627,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_005",
         "metaData": {
             "character": "Killer07",
@@ -92337,6 +92649,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_006",
         "metaData": {
             "character": "Killer07",
@@ -92358,6 +92671,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_007",
         "metaData": {
             "character": "Killer07",
@@ -92379,6 +92693,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_008",
         "metaData": {
             "character": "Killer07",
@@ -92400,6 +92715,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_009",
         "metaData": {
             "character": "Killer07",
@@ -92421,6 +92737,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_010",
         "metaData": {
             "character": "Killer07",
@@ -92442,6 +92759,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_011",
         "metaData": {
             "character": "Killer07",
@@ -92463,6 +92781,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_012",
         "metaData": {
             "character": "Killer07",
@@ -92484,6 +92803,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_013",
         "metaData": {
             "character": "Killer07",
@@ -92506,6 +92826,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_014",
         "metaData": {
             "character": "Killer07",
@@ -92528,6 +92849,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_008_01",
         "metaData": {
             "character": "Killer07",
@@ -92550,6 +92872,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Killer07_outfit_TWater",
         "metaData": {
             "character": "Killer07",
@@ -92572,6 +92895,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_001",
         "metaData": {
             "character": "Bear",
@@ -92594,6 +92918,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_002",
         "metaData": {
             "character": "Bear",
@@ -92616,6 +92941,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_003",
         "metaData": {
             "character": "Bear",
@@ -92638,6 +92964,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_004",
         "metaData": {
             "character": "Bear",
@@ -92659,6 +92986,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_005",
         "metaData": {
             "character": "Bear",
@@ -92680,6 +93008,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_006",
         "metaData": {
             "character": "Bear",
@@ -92702,6 +93031,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "BE_outfit_009",
         "metaData": {
             "character": "Bear",
@@ -92724,6 +93054,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Bear_outfit_CookOut",
         "metaData": {
             "character": "Bear",
@@ -92746,6 +93077,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FK_outfit_006",
         "metaData": {
             "character": "Pig",
@@ -92768,6 +93100,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FK_outfit_007",
         "metaData": {
             "character": "Pig",
@@ -92790,6 +93123,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_001",
         "metaData": {
             "character": "Clown",
@@ -92812,6 +93146,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_002",
         "metaData": {
             "character": "Clown",
@@ -92834,6 +93169,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_003",
         "metaData": {
             "character": "Clown",
@@ -92856,6 +93192,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_004",
         "metaData": {
             "character": "Clown",
@@ -92878,6 +93215,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_007",
         "metaData": {
             "character": "Clown",
@@ -92900,6 +93238,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_008",
         "metaData": {
             "character": "Clown",
@@ -92922,6 +93261,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Clown_outfit_CookOut",
         "metaData": {
             "character": "Clown",
@@ -92944,6 +93284,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_001",
         "metaData": {
             "character": "Spirit",
@@ -92966,6 +93307,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_002",
         "metaData": {
             "character": "Spirit",
@@ -92988,6 +93330,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_003",
         "metaData": {
             "character": "Spirit",
@@ -93010,6 +93353,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_004",
         "metaData": {
             "character": "Spirit",
@@ -93032,6 +93376,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_005",
         "metaData": {
             "character": "Spirit",
@@ -93054,6 +93399,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_006",
         "metaData": {
             "character": "Spirit",
@@ -93076,6 +93422,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_007",
         "metaData": {
             "character": "Spirit",
@@ -93098,6 +93445,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_008",
         "metaData": {
             "character": "Spirit",
@@ -93120,6 +93468,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_009",
         "metaData": {
             "character": "Spirit",
@@ -93142,6 +93491,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_006_01",
         "metaData": {
             "character": "Spirit",
@@ -93164,6 +93514,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_006_02",
         "metaData": {
             "character": "Spirit",
@@ -93186,6 +93537,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_006_03",
         "metaData": {
             "character": "Spirit",
@@ -93208,6 +93560,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_007_01",
         "metaData": {
             "character": "Spirit",
@@ -93230,6 +93583,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Spirit_outfit_Spring",
         "metaData": {
             "character": "Spirit",
@@ -93252,6 +93606,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_01_CV01",
         "metaData": {
             "character": "Legion",
@@ -93274,6 +93629,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_01_CV02",
         "metaData": {
             "character": "Legion",
@@ -93296,6 +93652,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_02_CV01",
         "metaData": {
             "character": "Legion",
@@ -93318,6 +93675,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_02_CV02",
         "metaData": {
             "character": "Legion",
@@ -93340,6 +93698,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_01_01",
         "metaData": {
             "character": "Legion",
@@ -93362,6 +93721,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_02_01",
         "metaData": {
             "character": "Legion",
@@ -93384,6 +93744,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_007",
         "metaData": {
             "character": "Legion",
@@ -93406,6 +93767,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_007_01",
         "metaData": {
             "character": "Legion",
@@ -93428,6 +93790,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_Outfit_006",
         "metaData": {
             "character": "Legion",
@@ -93450,6 +93813,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_009",
         "metaData": {
             "character": "Legion",
@@ -93472,6 +93836,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_TWater",
         "metaData": {
             "character": "Legion",
@@ -93494,6 +93859,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Legion_outfit_School",
         "metaData": {
             "character": "Legion",
@@ -93516,6 +93882,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MM_outfit_02",
         "metaData": {
             "character": "Shape",
@@ -93537,6 +93904,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_CV01",
         "metaData": {
             "character": "Plague",
@@ -93559,6 +93927,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_CV02",
         "metaData": {
             "character": "Plague",
@@ -93581,6 +93950,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_CV03",
         "metaData": {
             "character": "Plague",
@@ -93603,6 +93973,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_CV04",
         "metaData": {
             "character": "Plague",
@@ -93625,6 +93996,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_01",
         "metaData": {
             "character": "Plague",
@@ -93647,6 +94019,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_02",
         "metaData": {
             "character": "Plague",
@@ -93669,6 +94042,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_01_03",
         "metaData": {
             "character": "Plague",
@@ -93691,6 +94065,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_02",
         "metaData": {
             "character": "Plague",
@@ -93713,6 +94088,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_02_01",
         "metaData": {
             "character": "Plague",
@@ -93735,6 +94111,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_006",
         "metaData": {
             "character": "Plague",
@@ -93757,6 +94134,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "Plague_outfit_NightSky",
         "metaData": {
             "character": "Plague",
@@ -93779,6 +94157,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "OK_outfit_02",
         "metaData": {
             "character": "Ghostface",
@@ -93801,6 +94180,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "OK_outfit_CV01",
         "metaData": {
             "character": "Ghostface",
@@ -93822,6 +94202,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "OK_outfit_CV02",
         "metaData": {
             "character": "Ghostface",
@@ -93843,6 +94224,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "OK_outfit_006",
         "metaData": {
             "character": "Ghostface",
@@ -93865,6 +94247,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "OK_outfit_007",
         "metaData": {
             "character": "Ghostface",
@@ -93887,6 +94270,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_01_CV01",
         "metaData": {
             "character": "Oni",
@@ -93909,6 +94293,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_01_CV02",
         "metaData": {
             "character": "Oni",
@@ -93931,6 +94316,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_01_CV03",
         "metaData": {
             "character": "Oni",
@@ -93953,6 +94339,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_01_CV04",
         "metaData": {
             "character": "Oni",
@@ -93975,6 +94362,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_01_01",
         "metaData": {
             "character": "Oni",
@@ -93997,6 +94385,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_02",
         "metaData": {
             "character": "Oni",
@@ -94019,6 +94408,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_02_01",
         "metaData": {
             "character": "Oni",
@@ -94041,6 +94431,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_006",
         "metaData": {
             "character": "Oni",
@@ -94063,6 +94454,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "K20_outfit_006",
         "metaData": {
             "character": "K20",
@@ -94085,6 +94477,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_011",
         "metaData": {
             "character": "Feng",
@@ -94107,6 +94500,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_011_01",
         "metaData": {
             "character": "Feng",
@@ -94129,6 +94523,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DK_outfit_011",
         "metaData": {
             "character": "Smoke",
@@ -94151,6 +94546,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MT_outfit_012",
         "metaData": {
             "character": "Meg",
@@ -94173,6 +94569,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "GK_outfit_009",
         "metaData": {
             "character": "Clown",
@@ -94195,6 +94592,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "WI_outfit_008",
         "metaData": {
             "character": "Witch",
@@ -94217,6 +94615,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HK_outfit_008",
         "metaData": {
             "character": "Spirit",
@@ -94239,6 +94638,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "JP_outfit_011",
         "metaData": {
             "character": "Jake",
@@ -94261,6 +94661,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "MK_outfit_008",
         "metaData": {
             "character": "Plague",
@@ -94283,6 +94684,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DK_outfit_012",
         "metaData": {
             "character": "Smoke",
@@ -94305,6 +94707,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HS_outfit_010",
         "metaData": {
             "character": "Adam",
@@ -94327,6 +94730,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_012",
         "metaData": {
             "character": "Feng",
@@ -94349,6 +94753,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "BE_outfit_010",
         "metaData": {
             "character": "Bear",
@@ -94371,6 +94776,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_010",
         "metaData": {
             "character": "Legion",
@@ -94393,6 +94799,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_011",
         "metaData": {
             "character": "Legion",
@@ -94415,6 +94822,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KS_outfit_010",
         "metaData": {
             "character": "Jeff",
@@ -94437,6 +94845,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "JP_outfit_012",
         "metaData": {
             "character": "Jake",
@@ -94459,6 +94868,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_014",
         "metaData": {
             "character": "Legion",
@@ -94481,6 +94891,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "NK_outfit_012",
         "metaData": {
             "character": "Nea",
@@ -94503,6 +94914,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "ML_outfit_008",
         "metaData": {
             "character": "Ash",
@@ -94525,6 +94937,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_009",
         "metaData": {
             "character": "Yui",
@@ -94547,6 +94960,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "GS_outfit_011",
         "metaData": {
             "character": "Kate",
@@ -94569,6 +94983,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "TN_outfit_010",
         "metaData": {
             "character": "Nurse",
@@ -94591,6 +95006,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "CM_outfit_018",
         "metaData": {
             "character": "Claudette",
@@ -94613,6 +95029,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_009",
         "metaData": {
             "character": "Oni",
@@ -94635,6 +95052,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenSurvivor_outfit_011",
         "metaData": {
             "character": "Yui",
@@ -94657,6 +95075,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KS_outfit_011",
         "metaData": {
             "character": "Jeff",
@@ -94679,6 +95098,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "CM_outfit_013",
         "metaData": {
             "character": "Claudette",
@@ -94701,6 +95121,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_018",
         "metaData": {
             "character": "Legion",
@@ -94723,6 +95144,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "GK_outfit_010",
         "metaData": {
             "character": "Clown",
@@ -94732,8 +95154,8 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94745,6 +95167,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "FM_outfit_010",
         "metaData": {
             "character": "Feng",
@@ -94754,8 +95177,8 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94767,6 +95190,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "HK_outfit_010",
         "metaData": {
             "character": "Spirit",
@@ -94776,8 +95200,8 @@
                 "HK_Body010",
                 "HK_W010"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94789,6 +95213,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "SwedenKiller_outfit_008",
         "metaData": {
             "character": "Oni",
@@ -94798,8 +95223,8 @@
                 "SwedenKiller_Body008",
                 "SwedenKiller_W008"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-18T13:59:59",
+            "newStartDate": "2021-05-11T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94811,6 +95236,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_016",
         "metaData": {
             "character": "Legion",
@@ -94820,8 +95246,8 @@
                 "KK_Body016",
                 "KK_W016"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94833,6 +95259,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_016_01",
         "metaData": {
             "character": "Legion",
@@ -94842,8 +95269,8 @@
                 "KK_Body016_01",
                 "KK_W016_01"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94855,6 +95282,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_016_02",
         "metaData": {
             "character": "Legion",
@@ -94864,8 +95292,8 @@
                 "KK_Body016_02",
                 "KK_W016_02"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94877,6 +95305,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "KK_outfit_016_03",
         "metaData": {
             "character": "Legion",
@@ -94886,8 +95315,8 @@
                 "KK_Body016_03",
                 "KK_W016_03"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-05-31T13:59:59",
+            "newStartDate": "2021-05-24T14:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94899,6 +95328,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "AV_outfit_011",
         "metaData": {
             "character": "Ace",
@@ -94908,8 +95338,8 @@
                 "AV_Torso011",
                 "AV_Legs011"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94921,6 +95351,7 @@
             "outfit"
         ],
         "consumable": false,
+        "defaultCost": [],
         "id": "DK_outfit_010",
         "metaData": {
             "character": "Smoke",
@@ -94930,8 +95361,8 @@
                 "DK_Torso010",
                 "DK_Legs010"
             ],
-            "newEndDate": "2021-04-21T00:00:00",
-            "newStartDate": "2021-04-14T00:00:00",
+            "newEndDate": "2021-06-07T13:59:59",
+            "newStartDate": "2021-05-31T14:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94943,6 +95374,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -94999,6 +95431,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95045,6 +95478,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95091,6 +95525,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95137,6 +95572,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95183,6 +95619,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95239,6 +95676,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95285,6 +95723,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95331,6 +95770,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95377,6 +95817,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95423,6 +95864,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95469,6 +95911,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95515,6 +95958,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95571,6 +96015,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95617,6 +96062,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95673,6 +96119,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95719,6 +96166,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95755,6 +96203,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95801,6 +96250,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95847,6 +96297,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95888,6 +96339,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95934,6 +96386,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -95985,6 +96438,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96031,6 +96485,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96077,6 +96532,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96133,6 +96589,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96189,6 +96646,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96245,6 +96703,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96301,6 +96760,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96337,6 +96797,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96373,6 +96834,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96419,6 +96881,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96465,6 +96928,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96511,6 +96975,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96557,6 +97022,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96613,6 +97079,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96669,6 +97136,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96705,6 +97173,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96741,6 +97210,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96787,6 +97257,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96843,6 +97314,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96879,6 +97351,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96935,6 +97408,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -96981,6 +97455,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97027,6 +97502,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97063,6 +97539,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97099,6 +97576,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97135,6 +97613,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97186,6 +97665,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97242,6 +97722,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97298,6 +97779,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97334,6 +97816,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97384,6 +97867,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97430,6 +97914,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97471,6 +97956,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97517,6 +98003,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97573,6 +98060,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97619,6 +98107,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97675,6 +98164,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97701,9 +98191,6 @@
         "nonSecure": false,
         "premium": false,
         "purchasable": true,
-        "purchaseCap": {
-            "limit": 1
-        },
         "unique": false
     },
     {
@@ -97711,6 +98198,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97757,6 +98245,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97798,6 +98287,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97839,6 +98329,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97885,6 +98376,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97931,6 +98423,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -97967,6 +98460,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98003,6 +98497,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98049,6 +98544,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98090,6 +98586,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98146,6 +98643,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98202,6 +98700,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98248,6 +98747,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98309,6 +98809,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98350,6 +98851,7 @@
             "promoPack"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "consumptionReward": [
             {
                 "amount": 1,
@@ -98924,6 +99426,7 @@
             "superChest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -98944,6 +99447,7 @@
             "superChest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -98964,6 +99468,7 @@
             "superChest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -98984,6 +99489,7 @@
             "chest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -99004,6 +99510,7 @@
             "chest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -99024,6 +99531,7 @@
             "chest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -99044,6 +99552,7 @@
             "chest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -99064,6 +99573,7 @@
             "chest"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
@@ -99084,6 +99594,7 @@
             "entityBox"
         ],
         "consumable": true,
+        "consumptionCurrenciesList": [],
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",

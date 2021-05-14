@@ -91874,7 +91874,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -91913,7 +91913,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -91952,7 +91952,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Legs",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92108,7 +92108,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92147,7 +92147,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92186,7 +92186,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92220,12 +92220,12 @@
             "kind": "Customization",
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "outfitId": "HK_Head011",
+            "outfitId": "HK_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92259,12 +92259,12 @@
             "kind": "Customization",
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "outfitId": "HK_Head011",
+            "outfitId": "HK_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92298,12 +92298,12 @@
             "kind": "Customization",
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "outfitId": "HK_Head011",
+            "outfitId": "HK_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92342,7 +92342,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92381,7 +92381,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92420,7 +92420,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Legs",
-            "unbreakable": false,
+            "unbreakable": true,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -102414,7 +102414,7 @@
             ],
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -102460,7 +102460,7 @@
             ],
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -102472,7 +102472,7 @@
         ],
         "consumable": false,
         "defaultCost": [],
-        "id": "HK_Head011",
+        "id": "HK_outfit_011",
         "metaData": {
             "character": "Spirit",
             "discountPercentage": 0.1,
@@ -102483,7 +102483,7 @@
             ],
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,
@@ -102506,7 +102506,7 @@
             ],
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "unbreakable": false
+            "unbreakable": true
         },
         "nonSecure": false,
         "purchasable": true,

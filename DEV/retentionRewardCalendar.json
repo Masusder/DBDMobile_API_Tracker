@@ -311,7 +311,7 @@
             {
                 "amount": 20000,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Bloodpoints",
@@ -338,7 +338,7 @@
             {
                 "amount": 20000,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Bloodpoints",
@@ -436,7 +436,7 @@
             {
                 "amount": 5,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Cells",
@@ -463,7 +463,7 @@
             {
                 "amount": 5,
                 "gameSpecificData": {
-                    "hidden": true,
+                    "hidden": false,
                     "special": false
                 },
                 "id": "Cells",

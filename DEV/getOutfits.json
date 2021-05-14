@@ -1,18 +1,6 @@
 {
     "outfits": [
         {
-            "id": "HK_Head011",
-            "defaultCost": [],
-            "character": "Spirit",
-            "storeItems": [
-                "HK_Head011",
-                "HK_Body011",
-                "HK_W011"
-            ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
-        },
-        {
             "id": "Dwight_outfit_001",
             "defaultCost": [
                 {
@@ -8877,6 +8865,24 @@
                 "GK_Head011",
                 "GK_Body011",
                 "GK_W011"
+            ],
+            "newStartDate": "2021-04-28T00:00:00",
+            "newEndDate": "2021-05-31T00:00:00"
+        },
+        {
+            "id": "HK_outfit_011",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Spirit",
+            "storeItems": [
+                "HK_Head011",
+                "HK_Body011",
+                "HK_W011"
             ],
             "newStartDate": "2021-04-28T00:00:00",
             "newEndDate": "2021-05-31T00:00:00"

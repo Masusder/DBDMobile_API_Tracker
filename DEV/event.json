@@ -881,6 +881,129 @@
         "id": "PromopackVail6",
         "startDate": 1
     },
+    "PromopackWichita1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackWichita1happyHour": {
+                    "effects": {
+                        "PromopackWichita1PromoPack": [
+                            {
+                                "id": "PromopackWichita1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_05",
+                                    "NewPlayerBundle",
+                                    "FreeTicketBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackWichita1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackWichita1",
+        "startDate": 1
+    },
+    "PromopackWichita2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackWichita2happyHour": {
+                    "effects": {
+                        "PromopackWichita2PromoPack": [
+                            {
+                                "id": "PromopackWichita2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "TricksterChromaPack",
+                                    "YunJinChromaPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackWichita2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackWichita2",
+        "startDate": 1
+    },
+    "PromopackWichita3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackWichita3happyHour": {
+                    "effects": {
+                        "PromopackWichita3PromoPack": [
+                            {
+                                "id": "PromopackWichita3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "KateStarterPack",
+                                    "NurseStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackWichita3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackWichita3",
+        "startDate": 1
+    },
+    "PromopackWichita4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackWichita4happyHour": {
+                    "effects": {
+                        "PromopackWichita4PromoPack": [
+                            {
+                                "id": "PromopackWichita4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "GreekGoddessesDeluxeBundle",
+                                    "ClownStarterPack",
+                                    "SpiritStarterPack",
+                                    "JaneStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackWichita4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackWichita4",
+        "startDate": 1
+    },
     "ProvingGround_Test": {
         "assets": {},
         "components": {

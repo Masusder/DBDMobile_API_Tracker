@@ -1,43 +1,13 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_2X_Vail",
+            "campaignName": "Promopack_Vail5_Live",
             "parameters": {
-                "eventName": "Bloodhunt_BP"
+                "eventName": "PromopackVail5"
             },
             "metaData": {
-                "startDate": "2021-05-14T14:00:00",
-                "endDate": "2021-05-17T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_2X_Vail",
-            "parameters": {
-                "eventName": "Bloodhunt_XP"
-            },
-            "metaData": {
-                "startDate": "2021-05-14T14:00:00",
-                "endDate": "2021-05-17T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Promopack_Utica1_Live (copy)",
-            "parameters": {
-                "eventName": "PromopackUtica1"
-            },
-            "metaData": {
-                "startDate": "2021-03-25T14:00:00",
-                "endDate": "2021-05-17T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Promopack_Utica7_Live",
-            "parameters": {
-                "eventName": "PromopackUtica7"
-            },
-            "metaData": {
-                "startDate": "2021-05-03T14:00:00",
-                "endDate": "2021-05-17T13:59:59"
+                "startDate": "2021-05-17T14:00:00",
+                "endDate": "2021-05-24T13:59:59"
             }
         },
         {
@@ -61,13 +31,13 @@
             }
         },
         {
-            "campaignName": "Promopack_Vail3_Live",
+            "campaignName": "Promopack_Vail4_Live (copy)",
             "parameters": {
-                "eventName": "PromopackVail3"
+                "eventName": "PromopackVail4"
             },
             "metaData": {
-                "startDate": "2021-05-11T14:00:00",
-                "endDate": "2021-05-17T13:59:59"
+                "startDate": "2021-05-17T14:00:00",
+                "endDate": "2021-05-31T13:59:59"
             }
         }
     ]

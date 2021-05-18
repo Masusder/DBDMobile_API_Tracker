@@ -6117,9 +6117,9 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/YamaokaDeluxe_Storefront.png",
-            "newEndDate": "2021-05-17T13:59:59",
-            "newStartDate": "2021-05-11T14:00:01",
+            "imageUrl": "promoPacks/ScarletSwarm_Storefront.png",
+            "newEndDate": "2021-05-24T13:59:59",
+            "newStartDate": "2021-05-17T14:00:01",
             "type": "PromoPacks"
         }
     ]

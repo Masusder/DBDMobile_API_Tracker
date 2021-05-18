@@ -1,13 +1,23 @@
 {
     "campaigns": [
         {
-            "campaignName": "PromopackVail1 (copy)",
+            "campaignName": "Bloodhunt_BP_TYCT",
             "parameters": {
-                "eventName": "PromopackVail1"
+                "eventName": "WichitaTYCT_BP"
             },
             "metaData": {
-                "startDate": "2021-04-12T00:00:00",
-                "endDate": "2021-04-23T23:59:59"
+                "startDate": "2021-05-17T00:00:00",
+                "endDate": "2021-05-19T23:59:59"
+            }
+        },
+        {
+            "campaignName": "Bloodhunt_XP_TYCT",
+            "parameters": {
+                "eventName": "WichitaTYCT_XP"
+            },
+            "metaData": {
+                "startDate": "2021-05-17T00:00:00",
+                "endDate": "2021-05-19T23:59:59"
             }
         }
     ]

@@ -84,7 +84,6 @@
                 "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING",
                 "CDN_ROOT_FOLDER_PATH",
                 "CERTIFICATE_EMAIL_NOTIFICATION",
-                "CLIENT_VERSION",
                 "CLIENT_VERSION_V2",
                 "DBD_USING_LOOT_TABLES",
                 "DDOS_DETECTION",
@@ -95,6 +94,7 @@
                 "ENABLE_RTM_VALIDATION_ON_BOOT",
                 "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
                 "FRAME_HIKE_THRESHOLD",
+                "GAMELIFT_ENDPOINTS",
                 "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
                 "GAMELIFT_INSTANCE_SHUTDOWN_TIMER",
                 "GAME_CLIENT_VERSION_CHECK_ENABLED",
@@ -302,19 +302,6 @@
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
-    },
-    {
-        "value": {
-            "ios": {
-                "date": "2020-03-11T00:00:00.000Z",
-                "version": "3.4.0"
-            },
-            "android": {
-                "date": "2020-03-11T00:00:00.000Z",
-                "version": "3.4.0"
-            }
-        },
-        "keyName": "CLIENT_VERSION"
     },
     {
         "value": "0",
@@ -677,6 +664,26 @@
             "4.6.0_424006qa": "4.6.0_424006qa-1618924894",
             "4.6.0_425026qa": "4.6.0_425026qa-1619036931",
             "4.6.0_425461qa": "4.6.0_425461qa-1619106812",
+            "4.6.0_425751qa": "4.6.0_425751qa-1619126652",
+            "4.6.0_425818qa": "4.6.0_425818qa-1619131688",
+            "4.7.0_426389qa": "4.7.0_426389qa-1619213245",
+            "4.7.0_426853qa": "4.7.0_426853qa-1619460761",
+            "4.7.0_426915qa": "4.7.0_426915qa-1619464818",
+            "4.7.0_427456qa": "4.7.0_427456qa-1619552723",
+            "4.7.0_428015qa": "4.7.0_428015qa-1619638354",
+            "4.7.0_429605qa": "4.7.0_429605qa-1620052968",
+            "4.7.0_429611qa": "4.7.0_429611qa-1620053981",
+            "4.7.0_429657qa": "4.7.0_429657qa-1620056227",
+            "4.7.0_429932qa": "4.7.0_429932qa-1620071832",
+            "4.7.0_430259qa": "4.7.0_430259qa-1620141808",
+            "4.7.0_430350qa": "4.7.0_430350qa-1620148590",
+            "4.7.0_431859qa": "4.7.0_431859qa-1620355202",
+            "4.7.0_433848qa": "4.7.0_433848qa-1620832754",
+            "4.7.0_434936qa": "4.7.0_434936qa-1620997139",
+            "4.7.0_435646qa": "4.7.0_435646qa-1621269003",
+            "5.0.0_435793qa": "5.0.0_435793qa-1621277229",
+            "5.0.0_436018qa": "5.0.0_436018qa-1621289041",
+            "5.0.0_436468qa": "5.0.0_436468qa-1621361569",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -762,6 +769,7 @@
             "m_4.3.2_424018qa": "m_4.3.2_424018qa-1618925539",
             "m_4.3.2_425026qa": "m_4.3.2_425026qa-1619037188",
             "m_4.3.2_425477qa": "m_4.3.2_425477qa-1619110093",
+            "m_4.3.2_425751qa": "m_4.3.2_425751qa-1619127107",
             "m_4.4.0_400367qa": "m_4.4.0_400367qa-1613683987",
             "m_4.4.0_400689qa": "m_4.4.0_400689qa-1613752353"
         },
@@ -795,10 +803,6 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:'[[queueName]]',type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:'*'))))",
-        "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
-    },
-    {
         "value": "true",
         "keyName": "ENABLE_RTM_VALIDATION_ON_BOOT"
     },
@@ -817,14 +821,6 @@
     {
         "value": "https://wstore-dev1.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT_GRDK"
-    },
-    {
-        "value": "60",
-        "keyName": "SOCIAL_BACKEND_FRIEND_SYNC_RATE"
-    },
-    {
-        "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
-        "keyName": "MATCHMAKING_GAMELIFT_DASHBOARD_URL"
     },
     {
         "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",

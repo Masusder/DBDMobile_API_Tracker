@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 100
+                    "weight": 0
                 }
             ]
         },
@@ -3295,8 +3295,8 @@
         "acRefreshId": "bloodweb_refresh",
         "bpRefreshId": "bloodweb_bloodpointsRefresh",
         "bpRefreshRequiredMinCount": 21,
-        "collectPeriodInSec": 5,
-        "refreshPeriodInSec": 60,
+        "collectPeriodInSec": 2,
+        "refreshPeriodInSec": 24,
         "refreshRetryMaxCount": 5
     },
     "superChestRules": {
@@ -3764,42 +3764,42 @@
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Head02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Torso02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "CM_Legs02_05_School",
                 "rarity": "Rare",
                 "role": "Camper",
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Head02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_W02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",
                 "startDate": "2020-04-05T00:00:01"
             },
             {
-                "endDate": "2022-03-28T00:00:01",
+                "endDate": "2020-06-28T00:00:01",
                 "id": "KK_Body02_02_School",
                 "rarity": "Rare",
                 "role": "Slasher",

@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 0
+                    "weight": 50
                 }
             ]
         },
@@ -3295,8 +3295,8 @@
         "acRefreshId": "bloodweb_refresh",
         "bpRefreshId": "bloodweb_bloodpointsRefresh",
         "bpRefreshRequiredMinCount": 21,
-        "collectPeriodInSec": 2,
-        "refreshPeriodInSec": 24,
+        "collectPeriodInSec": 10,
+        "refreshPeriodInSec": 120,
         "refreshRetryMaxCount": 5
     },
     "superChestRules": {

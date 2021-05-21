@@ -27245,6 +27245,7 @@
         ],
         "id": "Dwight",
         "metaData": {
+            "character": "0",
             "grantedIfFree": true,
             "role": "Camper"
         },
@@ -27258,6 +27259,7 @@
         ],
         "id": "Meg",
         "metaData": {
+            "character": "1",
             "grantedIfFree": true,
             "role": "Camper"
         },
@@ -27271,6 +27273,7 @@
         ],
         "id": "Claudette",
         "metaData": {
+            "character": "2",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27294,6 +27297,7 @@
         ],
         "id": "Jake",
         "metaData": {
+            "character": "3",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27317,6 +27321,7 @@
         ],
         "id": "Nea",
         "metaData": {
+            "character": "4",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27336,6 +27341,7 @@
         ],
         "id": "Laurie",
         "metaData": {
+            "character": "5",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27359,6 +27365,7 @@
         ],
         "id": "Ace",
         "metaData": {
+            "character": "6",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27372,6 +27379,7 @@
         ],
         "id": "Chuckles",
         "metaData": {
+            "character": "268435456",
             "grantedIfFree": true,
             "role": "Slasher"
         },
@@ -27395,6 +27403,7 @@
         ],
         "id": "Bob",
         "metaData": {
+            "character": "268435457",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27408,6 +27417,7 @@
         ],
         "id": "HillBilly",
         "metaData": {
+            "character": "268435458",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27431,6 +27441,7 @@
         ],
         "id": "Nurse",
         "metaData": {
+            "character": "268435459",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27450,6 +27461,7 @@
         ],
         "id": "Shape",
         "metaData": {
+            "character": "268435461",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27473,6 +27485,7 @@
         ],
         "id": "Witch",
         "metaData": {
+            "character": "268435460",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27486,6 +27499,7 @@
         ],
         "id": "Bill",
         "metaData": {
+            "character": "7",
             "grantedIfFree": true,
             "role": "Camper"
         },
@@ -27509,6 +27523,7 @@
         ],
         "id": "Feng",
         "metaData": {
+            "character": "8",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27532,6 +27547,7 @@
         ],
         "id": "Killer07",
         "metaData": {
+            "character": "268435462",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27555,6 +27571,7 @@
         ],
         "id": "Smoke",
         "metaData": {
+            "character": "9",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27578,6 +27595,7 @@
         ],
         "id": "Bear",
         "metaData": {
+            "character": "268435463",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27601,6 +27619,7 @@
         ],
         "id": "Kate",
         "metaData": {
+            "character": "10",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27620,6 +27639,7 @@
         ],
         "id": "Cannibal",
         "metaData": {
+            "character": "268435464",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27639,6 +27659,7 @@
         ],
         "id": "Quentin",
         "metaData": {
+            "character": "11",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27658,6 +27679,7 @@
         ],
         "id": "Nightmare",
         "metaData": {
+            "character": "268435465",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27677,6 +27699,7 @@
         ],
         "id": "Eric",
         "metaData": {
+            "character": "12",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27696,6 +27719,7 @@
         ],
         "id": "Pig",
         "metaData": {
+            "character": "268435466",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27719,6 +27743,7 @@
         ],
         "id": "Clown",
         "metaData": {
+            "character": "268435467",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27742,6 +27767,7 @@
         ],
         "id": "Adam",
         "metaData": {
+            "character": "13",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27765,6 +27791,7 @@
         ],
         "id": "Spirit",
         "metaData": {
+            "character": "268435468",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27788,6 +27815,7 @@
         ],
         "id": "Legion",
         "metaData": {
+            "character": "268435469",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27811,6 +27839,7 @@
         ],
         "id": "Jeff",
         "metaData": {
+            "character": "14",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27834,6 +27863,7 @@
         ],
         "id": "Jane",
         "metaData": {
+            "character": "15",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27857,6 +27887,7 @@
         ],
         "id": "Plague",
         "metaData": {
+            "character": "268435470",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27876,6 +27907,7 @@
         ],
         "id": "Ash",
         "metaData": {
+            "character": "16",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27895,6 +27927,7 @@
         ],
         "id": "Ghostface",
         "metaData": {
+            "character": "268435471",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27914,6 +27947,7 @@
         ],
         "id": "Nancy",
         "metaData": {
+            "character": "17",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27933,6 +27967,7 @@
         ],
         "id": "Steve",
         "metaData": {
+            "character": "18",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27952,6 +27987,7 @@
         ],
         "id": "Demogorgon",
         "metaData": {
+            "character": "268435472",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -27975,6 +28011,7 @@
         ],
         "id": "Yui",
         "metaData": {
+            "character": "19",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -27998,6 +28035,7 @@
         ],
         "id": "Oni",
         "metaData": {
+            "character": "268435473",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -28017,6 +28055,7 @@
         ],
         "id": "S22",
         "metaData": {
+            "character": "21",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -28036,6 +28075,7 @@
         ],
         "id": "K20",
         "metaData": {
+            "character": "268435475",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -28055,6 +28095,7 @@
         ],
         "id": "K23",
         "metaData": {
+            "character": "268435478",
             "grantedIfFree": false,
             "role": "Slasher"
         },
@@ -28074,6 +28115,7 @@
         ],
         "id": "S25",
         "metaData": {
+            "character": "24",
             "grantedIfFree": false,
             "role": "Camper"
         },
@@ -92225,7 +92267,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92264,7 +92306,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -92303,7 +92345,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "android": true,
                 "gas3": true,
@@ -102483,7 +102525,7 @@
             ],
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
-            "unbreakable": true
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,

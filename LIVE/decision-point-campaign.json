@@ -1,6 +1,26 @@
 {
     "campaigns": [
         {
+            "campaignName": "Bloodhunt_BP_CFOD",
+            "parameters": {
+                "eventName": "VailCFOD_BP"
+            },
+            "metaData": {
+                "startDate": "2021-05-21T14:00:00",
+                "endDate": "2021-05-24T13:59:59"
+            }
+        },
+        {
+            "campaignName": "Bloodhunt_XP_CFOD",
+            "parameters": {
+                "eventName": "VailCFOD_XP"
+            },
+            "metaData": {
+                "startDate": "2021-05-21T14:00:00",
+                "endDate": "2021-05-24T13:59:59"
+            }
+        },
+        {
             "campaignName": "Promopack_Vail5_Live",
             "parameters": {
                 "eventName": "PromopackVail5"

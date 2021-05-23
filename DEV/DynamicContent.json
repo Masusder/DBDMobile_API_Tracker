@@ -9484,20 +9484,20 @@
         },
         {
             "id": "TricksterChromaPack",
-            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
-            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "imageUrl": "promoPacks/TricksterChromaPack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/TricksterChroma_Big.png",
             "titleId": "PROMOPACK_TricksterChroma_TITLE"
         },
         {
             "id": "YunJinChromaPack",
-            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
-            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "imageUrl": "promoPacks/YunJinChromaPack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/YunJinChroma_Big.png",
             "titleId": "PROMOPACK_YunjinChroma_TITLE"
         },
         {
             "id": "GreekGoddessesDeluxeBundle",
-            "imageUrl": "promoPacks/BaseGame5SmallPromo.png",
-            "marketingImageUrl": "promoPacks/marketingImages/BaseGame5BigPromo.png",
+            "imageUrl": "promoPacks/GreekGodessPack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/GreekGoddess_Big.png",
             "titleId": "PROMOPACK_GreekGoddessDeluxe_TITLE"
         }
     ],
@@ -10154,7 +10154,7 @@
             "deepLink": "/Storefront_SpecialOffers/",
             "endDate": "2021-05-25T20:30:01",
             "id": "GreekGoddessBanner",
-            "imageUrl": "marketingBanner/Atl_Main_Banner_MegSpringBundle.png",
+            "imageUrl": "marketingBanner/DBD_StoreBanner_GreekGoddesses.png",
             "priority": 1,
             "startDate": "2021-05-25T18:30:01",
             "titleId": "MARKETINGBANNER_GreekGoddess_TITLE"

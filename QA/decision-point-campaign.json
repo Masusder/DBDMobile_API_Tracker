@@ -1,23 +1,43 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_TYCT",
+            "campaignName": "PromopackWichita1 (copy)",
             "parameters": {
-                "eventName": "WichitaTYCT_BP"
+                "eventName": "PromopackWichita1"
             },
             "metaData": {
-                "startDate": "2021-05-17T00:00:00",
-                "endDate": "2021-05-19T23:59:59"
+                "startDate": "2021-05-20T00:00:00",
+                "endDate": "2021-05-28T23:59:59"
             }
         },
         {
-            "campaignName": "Bloodhunt_XP_TYCT",
+            "campaignName": "PromopackWichita2 (copy)",
             "parameters": {
-                "eventName": "WichitaTYCT_XP"
+                "eventName": "PromopackWichita2"
             },
             "metaData": {
-                "startDate": "2021-05-17T00:00:00",
-                "endDate": "2021-05-19T23:59:59"
+                "startDate": "2021-05-20T00:00:00",
+                "endDate": "2021-05-28T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackWichita3 (copy)",
+            "parameters": {
+                "eventName": "PromopackWichita3"
+            },
+            "metaData": {
+                "startDate": "2021-05-20T00:00:00",
+                "endDate": "2021-05-28T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackWichita4 (copy)",
+            "parameters": {
+                "eventName": "PromopackWichita4"
+            },
+            "metaData": {
+                "startDate": "2021-05-20T00:00:00",
+                "endDate": "2021-05-28T23:59:59"
             }
         }
     ]

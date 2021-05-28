@@ -305,6 +305,25 @@
         "id": "FreeTicketBundle",
         "startDate": 1
     },
+    "GreekGoddessBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "GreekGoddessBanner"
+                ]
+            }
+        },
+        "id": "GreekGoddessBanner",
+        "startDate": 1
+    },
     "GrimMatsuriBanner": {
         "assets": {},
         "components": {

@@ -91,7 +91,6 @@
                 "DELTADNA_ENGAGE_TIMEOUT",
                 "DELTA_DNA_HASH_KEY",
                 "DISABLE_BLOODLUST",
-                "ENABLE_RTM_VALIDATION_ON_BOOT",
                 "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
                 "FRAME_HIKE_THRESHOLD",
                 "GAMELIFT_ENDPOINTS",
@@ -234,7 +233,6 @@
                 "AtlantaPartyGameAnalytics"
             ],
             "KL": [
-                "ClientLoginAnalytics",
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
@@ -296,8 +294,6 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -324,22 +320,22 @@
         "value": {
             "NetEase": {
                 "ios": {
-                    "date": "2021-05-03T15:30:00.000Z",
-                    "version": "4.4.1019"
+                    "date": "2020-11-19T15:00:00.000Z",
+                    "version": "4.2.1007"
                 },
                 "android": {
-                    "date": "2021-05-03T15:30:00.000Z",
-                    "version": "4.4.1019"
+                    "date": "2020-11-19T15:00:00.000Z",
+                    "version": "4.2.1013"
                 }
             },
             "fallback": {
                 "ios": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0028"
+                    "date": "2021-02-04T20:00:00.000Z",
+                    "version": "4.3.2018"
                 },
                 "android": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0024"
+                    "date": "2021-02-04T20:00:00.000Z",
+                    "version": "4.3.2018"
                 }
             }
         },
@@ -417,10 +413,10 @@
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
                 "MobilePostGameAnalytics",
-                "NewPlayerAnalytics"
+                "NewPlayerAnalytics",
+                "SubscriptionRewardsAnalytics"
             ],
             "KL": [
-                "ClientLoginAnalytics",
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
                 "DDoSDetectionAnalytics",
@@ -457,7 +453,8 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics"
+                "SpecialEventBaseAnalytics",
+                "SyncLoadAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -466,8 +463,7 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics",
-                "SyncLoadAnalytics"
+                "RTMAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -519,6 +515,8 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -532,6 +530,7 @@
                 "WaitTimeAnalytics"
             ],
             "KAL": [
+                "AtlantaActivablePerkAnalytics",
                 "ChatAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
@@ -543,8 +542,6 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -764,7 +761,8 @@
             "m_4.6.0_433369live": "m_4.6.0_433369live-1620755083",
             "m_4.6.0_433931live": "m_4.6.0_433931live-1620839188",
             "m_4.6.0_434657live": "m_4.6.0_434657live-1620932637",
-            "m_4.6.0_435677live": "m_4.6.0_435677live-1621271978"
+            "m_4.6.0_435677live": "m_4.6.0_435677live-1621271978",
+            "m_4.6.1_440366live": "m_4.6.1_440366live-1622220395"
         },
         "keyName": "VER_CLIENT_DATA"
     },

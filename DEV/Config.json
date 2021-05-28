@@ -268,6 +268,7 @@
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaGraphicsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -346,6 +347,30 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
+    },
+    {
+        "value": {
+            "rule_05_check_prestige_dates_close_value": 1,
+            "rule_12_check_valid_inventories_per_key": {},
+            "rule_03_check_inventories_close_value_min": 5,
+            "rule_06_check_characterdata_level_keys": {
+                "bloodWebLevel": 50,
+                "prestigeLevel": 3
+            },
+            "rule_09_check_character_data_keys_name": {},
+            "rule_11_check_inventories_key_value": {},
+            "rule_02_check_inventory_max_value": 600,
+            "rule_10_check_inventory_total": 80000,
+            "rule_01_check_top_level_key_value": {
+                "bonusBloodpoint": 500
+            },
+            "rule_04_check_prestige_dates_blacklist": [
+                "2016-11-12T10:44:16.000Z"
+            ],
+            "rule_03_check_inventories_close_value_delta": 1,
+            "rule_07_check_inventories_template_value": {}
+        },
+        "keyName": "DBD_FULL_PROFILE_VALIDATOR"
     },
     {
         "value": "60",
@@ -449,7 +474,8 @@
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
                 "MobilePostGameAnalytics",
-                "NewPlayerAnalytics"
+                "NewPlayerAnalytics",
+                "SubscriptionRewardsAnalytics"
             ],
             "KL": [
                 "ClientLoginAnalytics",
@@ -979,9 +1005,33 @@
             "5.0.0_438047dev": "5.0.0_438047dev-1621601949",
             "5.0.0_438058dev": "5.0.0_438058dev-1621603178",
             "5.0.0_438224dev": "5.0.0_438224dev-1621614571",
+            "5.0.0_438649dev": "5.0.0_438649dev-1621952709",
+            "5.0.0_438777dev": "5.0.0_438777dev-1621963207",
+            "5.0.0_438933dev": "5.0.0_438933dev-1622037309",
+            "5.0.0_439033dev": "5.0.0_439033dev-1622042111",
+            "5.0.0_439066dev": "5.0.0_439066dev-1622043777",
+            "5.0.0_439095dev": "5.0.0_439095dev-1622044731",
+            "5.0.0_439119dev": "5.0.0_439119dev-1622046630",
+            "5.0.0_439651dev": "5.0.0_439651dev-1622125761",
+            "5.0.0_439708dev": "5.0.0_439708dev-1622127862",
+            "5.0.0_439901dev": "5.0.0_439901dev-1622140129",
+            "5.0.0_439932dev": "5.0.0_439932dev-1622141709",
+            "5.0.0_440037dev": "5.0.0_440037dev-1622146726",
+            "5.0.0_440080dev": "5.0.0_440080dev-1622149446",
             "5.1.0_436920dev": "5.1.0_436920dev-1621457665",
+            "5.1.0_438895dev": "5.1.0_438895dev-1622037536",
+            "5.1.0_439376dev": "5.1.0_439376dev-1622064790",
+            "5.1.0_439742dev": "5.1.0_439742dev-1622146922",
+            "5.1.0_440152dev": "5.1.0_440152dev-1622209948",
+            "5.1.0_440344dev": "5.1.0_440344dev-1622214828",
+            "5.1.0_440367dev": "5.1.0_440367dev-1622223094",
+            "5.1.0_440509dev": "5.1.0_440509dev-1622229091",
+            "5.1.0_440528dev": "5.1.0_440528dev-1622229681",
+            "5.1.0_440540dev": "5.1.0_440540dev-1622230760",
+            "5.1.0_440550dev": "5.1.0_440550dev-1622231473",
             "5.2.0_437536dev": "5.2.0_437536dev-1621534112",
             "5.2.0_437583dev": "5.2.0_437583dev-1621534598",
+            "5.3.0_438576dev": "5.3.0_438576dev-1621944740",
             "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
             "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
             "cbessette_3.6.0_0dev": "cbessette_3.6.0_0dev-1582744258",
@@ -1088,6 +1138,20 @@
             "m_4.6.1_437905dev": "m_4.6.1_437905dev-1621550351",
             "m_4.6.1_438058dev": "m_4.6.1_438058dev-1621604369",
             "m_4.6.1_438224dev": "m_4.6.1_438224dev-1621614731",
+            "m_4.6.1_438649dev": "m_4.6.1_438649dev-1621953553",
+            "m_4.6.1_438777dev": "m_4.6.1_438777dev-1621964359",
+            "m_4.6.1_438933dev": "m_4.6.1_438933dev-1622037120",
+            "m_4.6.1_439033dev": "m_4.6.1_439033dev-1622041913",
+            "m_4.6.1_439066dev": "m_4.6.1_439066dev-1622043551",
+            "m_4.6.1_439095dev": "m_4.6.1_439095dev-1622044520",
+            "m_4.6.1_439119dev": "m_4.6.1_439119dev-1622046421",
+            "m_4.6.1_439324dev": "m_4.6.1_439324dev-1622059073",
+            "m_4.6.1_439651dev": "m_4.6.1_439651dev-1622126361",
+            "m_4.6.1_439708dev": "m_4.6.1_439708dev-1622129997",
+            "m_4.6.1_439901dev": "m_4.6.1_439901dev-1622139936",
+            "m_4.6.1_439932dev": "m_4.6.1_439932dev-1622141532",
+            "m_4.6.1_440037dev": "m_4.6.1_440037dev-1622147921",
+            "m_4.6.1_440080dev": "m_4.6.1_440080dev-1622151538",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "tleonard_3.5.0_0dev": "tleonard_3.5.0_0dev-1579625694"

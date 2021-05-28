@@ -126,7 +126,7 @@
     },
     "13SlotsCalendar_Wichita1": {
         "claimType": "minute",
-        "endDate": 1621295999,
+        "endDate": 1622055600,
         "id": "13SlotsCalendar_Wichita1",
         "rewards": [
             {
@@ -247,11 +247,11 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1621209601
+        "startDate": 1622050201
     },
     "13SlotsCalendar_Wichita2": {
         "claimType": "minute",
-        "endDate": 1621641599,
+        "endDate": 1622061000,
         "id": "13SlotsCalendar_Wichita2",
         "rewards": [
             {
@@ -372,7 +372,7 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1621296001
+        "startDate": 1622055601
     },
     "7SlotsCalendar_NewP_09_12": {
         "claimType": "day",

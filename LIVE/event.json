@@ -115,8 +115,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "13SlotsCalendar_Vail1",
-                                    "9SlotsCalendar_Vail2"
+                                    "13SlotsCalendar_Wichita1",
+                                    "13SlotsCalendar_Wichita2"
                                 ]
                             }
                         ]
@@ -181,16 +181,16 @@
         "id": "NewCalendar_20191209",
         "startDate": 1
     },
-    "PromopackVail1": {
+    "PromopackWichita1": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackVail1happyHour": {
+                "PromopackWichita1happyHour": {
                     "effects": {
-                        "PromopackVail1PromoPack": [
+                        "PromopackWichita1PromoPack": [
                             {
-                                "id": "PromopackVail1PromoPack",
+                                "id": "PromopackWichita1PromoPack",
                                 "type": "PromoPack",
                                 "value": [
                                     "NewPlayerBundle",
@@ -200,7 +200,7 @@
                             }
                         ]
                     },
-                    "id": "PromopackVail1happyHour",
+                    "id": "PromopackWichita1happyHour",
                     "repeatDelays": []
                 }
             },
@@ -209,27 +209,28 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackVail1",
+        "id": "PromopackWichita1",
         "startDate": 1
     },
-    "PromopackVail2": {
+    "PromopackWichita2": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackVail2happyHour": {
+                "PromopackWichita2happyHour": {
                     "effects": {
-                        "PromopackVail2PromoPack": [
+                        "PromopackWichita2PromoPack": [
                             {
-                                "id": "PromopackVail2PromoPack",
+                                "id": "PromopackWichita2PromoPack",
                                 "type": "PromoPack",
                                 "value": [
-                                    "YamaokaDeluxeBundle"
+                                    "TricksterChromaPack",
+                                    "YunJinChromaPack"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackVail2happyHour",
+                    "id": "PromopackWichita2happyHour",
                     "repeatDelays": []
                 }
             },
@@ -238,28 +239,60 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackVail2",
+        "id": "PromopackWichita2",
         "startDate": 1
     },
-    "PromopackVail3": {
+    "PromopackWichita3": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "PromopackVail3happyHour": {
+                "PromopackWichita3happyHour": {
                     "effects": {
-                        "PromopackVail3PromoPack": [
+                        "PromopackWichita3PromoPack": [
                             {
-                                "id": "PromopackVail3PromoPack",
+                                "id": "PromopackWichita3PromoPack",
                                 "type": "PromoPack",
                                 "value": [
+                                    "KateStarterPack",
+                                    "NurseStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackWichita3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackWichita3",
+        "startDate": 1
+    },
+    "PromopackWichita4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackWichita4happyHour": {
+                    "effects": {
+                        "PromopackWichita4PromoPack": [
+                            {
+                                "id": "PromopackWichita4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "GreekGoddessesDeluxeBundle",
                                     "ClownStarterPack",
-                                    "FengStarterPack"
+                                    "SpiritStarterPack",
+                                    "JaneStarterPack"
                                 ]
                             }
                         ]
                     },
-                    "id": "PromopackVail3happyHour",
+                    "id": "PromopackWichita4happyHour",
                     "repeatDelays": []
                 }
             },
@@ -268,97 +301,7 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "PromopackVail3",
-        "startDate": 1
-    },
-    "PromopackVail4": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackVail4happyHour": {
-                    "effects": {
-                        "PromopackVail4PromoPack": [
-                            {
-                                "id": "PromopackVail4PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "SSoutfitsPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackVail4happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackVail4",
-        "startDate": 1
-    },
-    "PromopackVail5": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackVail5happyHour": {
-                    "effects": {
-                        "PromopackVail5PromoPack": [
-                            {
-                                "id": "PromopackVail5PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "LincolnKillerPack",
-                                    "ChucklesHillbillyPack"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackVail5happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackVail5",
-        "startDate": 1
-    },
-    "PromopackVail6": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "PromopackVail6happyHour": {
-                    "effects": {
-                        "PromopackVail6PromoPack": [
-                            {
-                                "id": "PromopackVail6PromoPack",
-                                "type": "PromoPack",
-                                "value": [
-                                    "SmokeStarterPack",
-                                    "AceStarterPack",
-                                    "MegSpringBundle"
-                                ]
-                            }
-                        ]
-                    },
-                    "id": "PromopackVail6happyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "PromopackVail6",
+        "id": "PromopackWichita4",
         "startDate": 1
     },
     "ScarletSwarmBanner": {
@@ -380,29 +323,29 @@
         "id": "ScarletSwarmBanner",
         "startDate": 1
     },
-    "VailCFOD_BP": {
+    "WichitaCSJJ_BP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "VailCFOD_BPhappyHour": {
+                "WichitaCSJJ_BPhappyHour": {
                     "effects": {
-                        "VailCFOD_BP": [
+                        "WichitaCSJJ_BP": [
                             {
                                 "characters": [
                                     "Clown",
-                                    "Feng",
-                                    "Oni",
-                                    "Dwight"
+                                    "Spirit",
+                                    "Jane",
+                                    "Jake"
                                 ],
-                                "id": "VailCFOD_BP",
+                                "id": "WichitaCSJJ_BP",
                                 "role": "Global",
                                 "type": "Bloodpoints",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "VailCFOD_BPhappyHour",
+                    "id": "WichitaCSJJ_BPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -411,66 +354,270 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "VailCFOD_BP",
+        "id": "WichitaCSJJ_BP",
         "startDate": 1
     },
-    "VailCFOD_XP": {
+    "WichitaCSJJ_XP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "VailCFOD_XPhappyHour": {
+                "WichitaCSJJ_XPhappyHour": {
                     "effects": {
-                        "VailCFOD_XP": [
+                        "WichitaCSJJ_XP": [
                             {
                                 "characters": [
                                     "Clown",
+                                    "Spirit",
+                                    "Jane",
+                                    "Jake"
+                                ],
+                                "id": "WichitaCSJJ_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaCSJJ_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaCSJJ_XP",
+        "startDate": 1
+    },
+    "WichitaDCNQ_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaDCNQ_BPhappyHour": {
+                    "effects": {
+                        "WichitaDCNQ_BP": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Claudette",
+                                    "Nightmare",
+                                    "Quentin"
+                                ],
+                                "id": "WichitaDCNQ_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaDCNQ_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaDCNQ_BP",
+        "startDate": 1
+    },
+    "WichitaDCNQ_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaDCNQ_XPhappyHour": {
+                    "effects": {
+                        "WichitaDCNQ_XP": [
+                            {
+                                "characters": [
+                                    "Dwight",
+                                    "Claudette",
+                                    "Nightmare",
+                                    "Quentin"
+                                ],
+                                "id": "WichitaDCNQ_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaDCNQ_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaDCNQ_XP",
+        "startDate": 1
+    },
+    "WichitaNKML_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaNKML_BPhappyHour": {
+                    "effects": {
+                        "WichitaNKML_BP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Kate",
+                                    "Meg",
+                                    "Legion"
+                                ],
+                                "id": "WichitaNKML_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaNKML_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaNKML_BP",
+        "startDate": 1
+    },
+    "WichitaNKML_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaNKML_XPhappyHour": {
+                    "effects": {
+                        "WichitaNKML_XP": [
+                            {
+                                "characters": [
+                                    "Nurse",
+                                    "Kate",
+                                    "Meg",
+                                    "Legion"
+                                ],
+                                "id": "WichitaNKML_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaNKML_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaNKML_XP",
+        "startDate": 1
+    },
+    "WichitaTYCT_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaTYCT_BPhappyHour": {
+                    "effects": {
+                        "WichitaTYCT_BP": [
+                            {
+                                "characters": [
+                                    "K23",
+                                    "S25",
+                                    "S22",
+                                    "Chuckles"
+                                ],
+                                "id": "WichitaTYCT_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaTYCT_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaTYCT_BP",
+        "startDate": 1
+    },
+    "WichitaTYCT_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaTYCT_XPhappyHour": {
+                    "effects": {
+                        "WichitaTYCT_XP": [
+                            {
+                                "characters": [
+                                    "K23",
+                                    "S25",
+                                    "S22",
+                                    "Chuckles"
+                                ],
+                                "id": "WichitaTYCT_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 2.0
+                            }
+                        ]
+                    },
+                    "id": "WichitaTYCT_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "WichitaTYCT_XP",
+        "startDate": 1
+    },
+    "WichitaYFWE_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "WichitaYFWE_BPhappyHour": {
+                    "effects": {
+                        "WichitaYFWE_BP": [
+                            {
+                                "characters": [
+                                    "Yui",
                                     "Feng",
-                                    "Oni",
-                                    "Dwight"
+                                    "Bob",
+                                    "K20"
                                 ],
-                                "id": "VailCFOD_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "VailCFOD_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "VailCFOD_XP",
-        "startDate": 1
-    },
-    "VailLTMC_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "VailLTMC_BPhappyHour": {
-                    "effects": {
-                        "VailLTMC_BP": [
-                            {
-                                "characters": [
-                                    "Legion",
-                                    "Chuckles",
-                                    "Meg",
-                                    "S22"
-                                ],
-                                "id": "VailLTMC_BP",
+                                "id": "WichitaYFWE_BP",
                                 "role": "Global",
                                 "type": "Bloodpoints",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "VailLTMC_BPhappyHour",
+                    "id": "WichitaYFWE_BPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -479,32 +626,32 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "VailLTMC_BP",
+        "id": "WichitaYFWE_BP",
         "startDate": 1
     },
-    "VailLTMC_XP": {
+    "WichitaYFWE_XP": {
         "assets": {},
         "components": {
             "achievement": {},
             "happyHour": {
-                "VailLTMC_XPhappyHour": {
+                "WichitaYFWE_XPhappyHour": {
                     "effects": {
-                        "VailLTMC_XP": [
+                        "WichitaYFWE_XP": [
                             {
                                 "characters": [
-                                    "Legion",
-                                    "Chuckles",
-                                    "Meg",
-                                    "S22"
+                                    "Yui",
+                                    "Feng",
+                                    "Bob",
+                                    "K20"
                                 ],
-                                "id": "VailLTMC_XP",
+                                "id": "WichitaYFWE_XP",
                                 "role": "Global",
                                 "type": "Experience",
                                 "value": 2.0
                             }
                         ]
                     },
-                    "id": "VailLTMC_XPhappyHour",
+                    "id": "WichitaYFWE_XPhappyHour",
                     "repeatDelays": []
                 }
             },
@@ -513,139 +660,7 @@
         },
         "endDate": 1,
         "gameSpecificData": {},
-        "id": "VailLTMC_XP",
-        "startDate": 1
-    },
-    "VailOPND_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "VailOPND_BPhappyHour": {
-                    "effects": {
-                        "VailOPND_BP": [
-                            {
-                                "characters": [
-                                    "Oni",
-                                    "Plague",
-                                    "Nea",
-                                    "Smoke"
-                                ],
-                                "id": "VailOPND_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "VailOPND_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "VailOPND_BP",
-        "startDate": 1
-    },
-    "VailOPND_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "VailOPND_XPhappyHour": {
-                    "effects": {
-                        "VailOPND_XP": [
-                            {
-                                "characters": [
-                                    "Oni",
-                                    "Plague",
-                                    "Nea",
-                                    "Smoke"
-                                ],
-                                "id": "VailOPND_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 2.0
-                            }
-                        ]
-                    },
-                    "id": "VailOPND_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "VailOPND_XP",
-        "startDate": 1
-    },
-    "VailTY_BP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "VailTY_BPhappyHour": {
-                    "effects": {
-                        "VailTY_BP": [
-                            {
-                                "characters": [
-                                    "S25",
-                                    "K23"
-                                ],
-                                "id": "VailTY_BP",
-                                "role": "Global",
-                                "type": "Bloodpoints",
-                                "value": 3.0
-                            }
-                        ]
-                    },
-                    "id": "VailTY_BPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "VailTY_BP",
-        "startDate": 1
-    },
-    "VailTY_XP": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {
-                "VailTY_XPhappyHour": {
-                    "effects": {
-                        "VailTY_XP": [
-                            {
-                                "characters": [
-                                    "S25",
-                                    "K23"
-                                ],
-                                "id": "VailTY_XP",
-                                "role": "Global",
-                                "type": "Experience",
-                                "value": 3.0
-                            }
-                        ]
-                    },
-                    "id": "VailTY_XPhappyHour",
-                    "repeatDelays": []
-                }
-            },
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {},
-        "id": "VailTY_XP",
+        "id": "WichitaYFWE_XP",
         "startDate": 1
     },
     "YamaokaDeluxeBanner": {

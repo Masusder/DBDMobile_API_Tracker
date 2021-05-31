@@ -16,7 +16,7 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -49,7 +49,7 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -87,7 +87,7 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -121,7 +121,7 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -159,7 +159,7 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -185,28 +185,34 @@
             "durationType": "daily",
             "instances": [
                 {
-                    "rewardCategory": "bp_shardsA",
-                    "id": "AR_CoopActions",
-                    "role": "Camper",
+                    "rewardCategory": "bp_item",
+                    "id": "AR_ChaseSurvivorAs",
+                    "character": "Chuckles",
+                    "role": "Slasher",
                     "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Camper.CoopAction"
+                        "GameEvent.ScoreEvent.Slasher.Chase.PerSecond"
                     ],
                     "difficulty": {
                         "level": "easy",
-                        "threshold": 60,
+                        "threshold": 45,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
             "refreshCost": 0,
             "rewards": [
                 {
-                    "amount": 50,
-                    "id": "Shards",
+                    "amount": 10000,
+                    "id": "Bloodpoints",
                     "type": "currency"
+                },
+                {
+                    "id": "WoodenChalice",
+                    "type": "inventory",
+                    "amount": 1
                 }
             ],
             "sourceDifficultyLevel": "easy",
@@ -217,7 +223,7 @@
             "durationType": "daily",
             "instances": [
                 {
-                    "rewardCategory": "bp_shardsA",
+                    "rewardCategory": "bp_item",
                     "id": "AR_HideLocker",
                     "role": "Camper",
                     "trackedGameEvents": [
@@ -229,16 +235,21 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
             "refreshCost": 0,
             "rewards": [
                 {
-                    "amount": 50,
-                    "id": "Shards",
+                    "amount": 10000,
+                    "id": "Bloodpoints",
                     "type": "currency"
+                },
+                {
+                    "id": "Item_Camper_WornoutToolbox",
+                    "type": "inventory",
+                    "amount": 1
                 }
             ],
             "sourceDifficultyLevel": "easy",
@@ -249,52 +260,19 @@
             "durationType": "daily",
             "instances": [
                 {
-                    "rewardCategory": "bp_Auric",
-                    "id": "AR_KillByHand",
-                    "role": "Slasher",
-                    "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Slasher.Kill"
-                    ],
-                    "difficulty": {
-                        "level": "normal",
-                        "threshold": 3,
-                        "tolerance": 0
-                    },
-                    "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
-                    "isClaimed": false
-                }
-            ],
-            "refreshCost": 0,
-            "rewards": [
-                {
-                    "amount": 5,
-                    "id": "Cells",
-                    "type": "currency"
-                }
-            ],
-            "sourceDifficultyLevel": "normal",
-            "isPersistent": false,
-            "refreshCount": 0
-        },
-        {
-            "durationType": "daily",
-            "instances": [
-                {
                     "rewardCategory": "bp_2items",
-                    "id": "AR_OpenExitGateAs",
-                    "character": "Meg",
+                    "id": "AR_ParticipeRepair",
                     "role": "Camper",
                     "trackedGameEvents": [
-                        "GameEvent.ExitGateOpened"
+                        "GameEvent.PlayerStartedGeneratorRepair"
                     ],
                     "difficulty": {
                         "level": "normal",
-                        "threshold": 2,
+                        "threshold": 6,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -306,12 +284,12 @@
                     "type": "currency"
                 },
                 {
-                    "id": "AnnotatedBlueprint",
+                    "id": "Item_Camper_MedKit",
                     "type": "inventory",
                     "amount": 1
                 },
                 {
-                    "id": "SweetWilliamSachet",
+                    "id": "Addon_Map_001",
                     "type": "inventory",
                     "amount": 1
                 }
@@ -324,34 +302,60 @@
             "durationType": "daily",
             "instances": [
                 {
-                    "rewardCategory": "bp_item",
-                    "id": "AR_ChaseSurvivorAs",
-                    "character": "Chuckles",
+                    "rewardCategory": "bp_shardsA",
+                    "id": "AR_Sacrifice",
                     "role": "Slasher",
-                    "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Slasher.Chase.PerSecond"
+                    "trackedEvents": [
+                        "DBDSlasherScore_SacrificeSuccess"
                     ],
                     "difficulty": {
-                        "level": "medium",
-                        "threshold": 150,
+                        "level": "normal",
+                        "threshold": 4,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-29T01:59:59.999Z",
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
             "refreshCost": 0,
             "rewards": [
                 {
-                    "amount": 20000,
-                    "id": "Bloodpoints",
+                    "amount": 75,
+                    "id": "Shards",
                     "type": "currency"
-                },
+                }
+            ],
+            "sourceDifficultyLevel": "normal",
+            "isPersistent": false,
+            "refreshCount": 0
+        },
+        {
+            "durationType": "daily",
+            "instances": [
                 {
-                    "id": "ShroudofSeparation",
-                    "type": "inventory",
-                    "amount": 1
+                    "rewardCategory": "bp_Auric",
+                    "id": "AR_ChasedByKiller",
+                    "role": "Camper",
+                    "trackedEvents": [
+                        "DBDCamperScore_ChasePerSecond"
+                    ],
+                    "difficulty": {
+                        "level": "medium",
+                        "threshold": 120,
+                        "tolerance": 0
+                    },
+                    "progress": 0,
+                    "expiryDate": "2021-06-01T01:59:59.999Z",
+                    "isClaimed": false
+                }
+            ],
+            "refreshCost": 0,
+            "rewards": [
+                {
+                    "amount": 5,
+                    "id": "Cells",
+                    "type": "currency"
                 }
             ],
             "sourceDifficultyLevel": "medium",
@@ -362,20 +366,59 @@
             "durationType": "weekly",
             "instances": [
                 {
-                    "rewardCategory": "bp_shardsA",
-                    "id": "AR_ChasedByKillerAs",
-                    "character": "Bill",
-                    "role": "Camper",
-                    "trackedEvents": [
-                        "DBDCamperScore_ChasePerSecond"
+                    "rewardCategory": "bp_item",
+                    "id": "AR_HitAs",
+                    "character": "Chuckles",
+                    "role": "Slasher",
+                    "trackedGameEvents": [
+                        "GameEvent.ScoreEvent.Slasher.AttackSuccess"
                     ],
                     "difficulty": {
                         "level": "hard",
-                        "threshold": 120,
+                        "threshold": 20,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-31T01:59:59.999Z",
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
+                    "isClaimed": false
+                }
+            ],
+            "refreshCost": 0,
+            "rewards": [
+                {
+                    "amount": 30000,
+                    "id": "Bloodpoints",
+                    "type": "currency"
+                },
+                {
+                    "id": "CopperChalice",
+                    "type": "inventory",
+                    "amount": 1
+                }
+            ],
+            "sourceDifficultyLevel": "hard",
+            "isPersistent": false,
+            "refreshCount": 0
+        },
+        {
+            "durationType": "weekly",
+            "instances": [
+                {
+                    "rewardCategory": "bp_shardsA",
+                    "id": "AR_Escape",
+                    "role": "Camper",
+                    "trackedGameEvents": [
+                        "GameEvent.ScoreEvent.Camper.SurviveHealthy",
+                        "GameEvent.ScoreEvent.Camper.SurviveInjured",
+                        "GameEvent.ScoreEvent.Camper.SurviveKO"
+                    ],
+                    "difficulty": {
+                        "level": "hard",
+                        "threshold": 6,
+                        "tolerance": 0
+                    },
+                    "progress": 0,
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -395,58 +438,20 @@
             "durationType": "weekly",
             "instances": [
                 {
-                    "rewardCategory": "bp_item",
-                    "id": "AR_Escape",
-                    "role": "Camper",
-                    "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Camper.SurviveHealthy",
-                        "GameEvent.ScoreEvent.Camper.SurviveInjured",
-                        "GameEvent.ScoreEvent.Camper.SurviveKO"
-                    ],
-                    "difficulty": {
-                        "level": "hard",
-                        "threshold": 6,
-                        "tolerance": 0
-                    },
-                    "progress": 0,
-                    "expiryDate": "2021-05-31T01:59:59.999Z",
-                    "isClaimed": false
-                }
-            ],
-            "refreshCost": 0,
-            "rewards": [
-                {
-                    "amount": 30000,
-                    "id": "Bloodpoints",
-                    "type": "currency"
-                },
-                {
-                    "id": "Addon_Map_005",
-                    "type": "inventory",
-                    "amount": 1
-                }
-            ],
-            "sourceDifficultyLevel": "hard",
-            "isPersistent": false,
-            "refreshCount": 0
-        },
-        {
-            "durationType": "weekly",
-            "instances": [
-                {
                     "rewardCategory": "bp_Auric",
-                    "id": "AR_SafeUnhook",
+                    "id": "AR_OpenExitGateAs",
+                    "character": "Dwight",
                     "role": "Camper",
                     "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Camper.SafeUnhook"
+                        "GameEvent.ExitGateOpened"
                     ],
                     "difficulty": {
                         "level": "expert",
-                        "threshold": 12,
+                        "threshold": 8,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-31T01:59:59.999Z",
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
@@ -466,7 +471,7 @@
             "durationType": "weekly",
             "instances": [
                 {
-                    "rewardCategory": "bp_shardsC",
+                    "rewardCategory": "bp_2items",
                     "id": "AR_BreakPalletAs",
                     "character": "Chuckles",
                     "role": "Slasher",
@@ -479,16 +484,26 @@
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-31T01:59:59.999Z",
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
             "refreshCost": 0,
             "rewards": [
                 {
-                    "amount": 300,
-                    "id": "Shards",
+                    "amount": 35000,
+                    "id": "Bloodpoints",
                     "type": "currency"
+                },
+                {
+                    "id": "CypressMementoMori",
+                    "type": "inventory",
+                    "amount": 1
+                },
+                {
+                    "id": "DevoutRavenWreath",
+                    "type": "inventory",
+                    "amount": 1
                 }
             ],
             "sourceDifficultyLevel": "expert",
@@ -499,38 +514,73 @@
             "durationType": "weekly",
             "instances": [
                 {
-                    "rewardCategory": "bp_2items",
-                    "id": "AR_ChaseSurvivor",
-                    "role": "Slasher",
+                    "rewardCategory": "bp_shards",
+                    "id": "AR_EscapeThroughHatch",
+                    "role": "Camper",
                     "trackedGameEvents": [
-                        "GameEvent.ScoreEvent.Slasher.Chase.PerSecond"
+                        "GameEvent.ScoreEvent.Camper.EscapeThroughHatch"
                     ],
                     "difficulty": {
-                        "level": "hell",
-                        "threshold": 600,
+                        "level": "expert",
+                        "threshold": 6,
                         "tolerance": 0
                     },
                     "progress": 0,
-                    "expiryDate": "2021-05-31T01:59:59.999Z",
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
+                    "isClaimed": false
+                },
+                {
+                    "rewardCategory": "bp",
+                    "id": "AR_EscapeNewItem",
+                    "role": "Camper",
+                    "trackedEvents": [
+                        "DBDCamperScore_NewItem"
+                    ],
+                    "difficulty": {
+                        "level": "expert",
+                        "threshold": 6,
+                        "tolerance": 0
+                    },
+                    "progress": 0,
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
+                    "isClaimed": false
+                },
+                {
+                    "rewardCategory": "bp",
+                    "id": "AR_HealOtherAs",
+                    "character": "Bill",
+                    "role": "Camper",
+                    "trackedGameEvents": [
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.Medkit.Percent",
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.Medkit.Percent.EndGame",
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.Medkit.Percent.GeneratorsComplete",
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.NoMedkit.Percent",
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.NoMedkit.Percent.EndGame",
+                        "GameEvent.ScoreEvent.Camper.Heal.Other.NoMedkit.Percent.GeneratorsComplete",
+                        "GameEvent.HealFromDying",
+                        "GameEvent.HealFromDying.PostExit"
+                    ],
+                    "difficulty": {
+                        "level": "hell",
+                        "threshold": 20,
+                        "tolerance": 0
+                    },
+                    "progress": 0,
+                    "expiryDate": "2021-06-07T01:59:59.999Z",
                     "isClaimed": false
                 }
             ],
             "refreshCost": 0,
             "rewards": [
                 {
-                    "amount": 50000,
+                    "amount": 90000,
                     "id": "Bloodpoints",
                     "type": "currency"
                 },
                 {
-                    "id": "CutCoin",
-                    "type": "inventory",
-                    "amount": 1
-                },
-                {
-                    "id": "IvoryMementoMori",
-                    "type": "inventory",
-                    "amount": 1
+                    "amount": 200,
+                    "id": "Shards",
+                    "type": "currency"
                 }
             ],
             "sourceDifficultyLevel": "hell",

@@ -91,6 +91,7 @@
                 "DELTADNA_ENGAGE_TIMEOUT",
                 "DELTA_DNA_HASH_KEY",
                 "DISABLE_BLOODLUST",
+                "ENABLE_RTM_VALIDATION_ON_BOOT",
                 "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
                 "FRAME_HIKE_THRESHOLD",
                 "GAMELIFT_ENDPOINTS",
@@ -233,6 +234,7 @@
                 "AtlantaPartyGameAnalytics"
             ],
             "KL": [
+                "ClientLoginAnalytics",
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
@@ -294,6 +296,8 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -417,6 +421,7 @@
                 "SubscriptionRewardsAnalytics"
             ],
             "KL": [
+                "ClientLoginAnalytics",
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
                 "DDoSDetectionAnalytics",
@@ -453,8 +458,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -463,7 +467,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -515,8 +520,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -542,6 +545,8 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -762,7 +767,9 @@
             "m_4.6.0_433931live": "m_4.6.0_433931live-1620839188",
             "m_4.6.0_434657live": "m_4.6.0_434657live-1620932637",
             "m_4.6.0_435677live": "m_4.6.0_435677live-1621271978",
-            "m_4.6.1_440366live": "m_4.6.1_440366live-1622220395"
+            "m_4.6.1_440366live": "m_4.6.1_440366live-1622220395",
+            "m_4.6.1_440764live": "m_4.6.1_440764live-1622467429",
+            "m_4.6.1_440846live": "m_4.6.1_440846live-1622472080"
         },
         "keyName": "VER_CLIENT_DATA"
     },

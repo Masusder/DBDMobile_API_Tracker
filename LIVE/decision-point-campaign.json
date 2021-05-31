@@ -1,26 +1,6 @@
 {
     "campaigns": [
         {
-            "campaignName": "Bloodhunt_BP_LTMC",
-            "parameters": {
-                "eventName": "VailLTMC_BP"
-            },
-            "metaData": {
-                "startDate": "2021-05-28T14:00:00",
-                "endDate": "2021-05-31T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_LTMC (copy)",
-            "parameters": {
-                "eventName": "VailLTMC_XP"
-            },
-            "metaData": {
-                "startDate": "2021-05-28T14:00:00",
-                "endDate": "2021-05-31T13:59:59"
-            }
-        },
-        {
             "campaignName": "Promopack_Vail6_Live",
             "parameters": {
                 "eventName": "PromopackVail6"
@@ -38,16 +18,6 @@
             "metaData": {
                 "startDate": "2021-05-11T14:00:00",
                 "endDate": "2021-06-07T13:59:59"
-            }
-        },
-        {
-            "campaignName": "Promopack_Vail4_Live (copy)",
-            "parameters": {
-                "eventName": "PromopackVail4"
-            },
-            "metaData": {
-                "startDate": "2021-05-17T14:00:00",
-                "endDate": "2021-05-31T13:59:59"
             }
         }
     ]

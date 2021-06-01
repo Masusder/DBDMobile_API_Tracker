@@ -928,7 +928,7 @@
                 },
                 {
                     "type": "UltraEpic",
-                    "weight": 100
+                    "weight": 0
                 }
             ]
         },
@@ -2339,12 +2339,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 1000000
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 100
+                                "weight": 1000000
                             }
                         ],
                         "type": "superChest"
@@ -2453,12 +2453,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 1000000
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 400
+                                "weight": 1000000
                             }
                         ],
                         "type": "superChest"
@@ -4747,12 +4747,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 130
+                                "weight": 1000000
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 130
+                                "weight": 1000000
                             }
                         ],
                         "type": "superChest"
@@ -4866,12 +4866,12 @@
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 410
+                                "weight": 1000000
                             },
                             {
                                 "maxCount": 1,
                                 "minCount": 0,
-                                "weight": 410
+                                "weight": 1000000
                             }
                         ],
                         "type": "superChest"

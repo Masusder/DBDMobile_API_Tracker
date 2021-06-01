@@ -324,22 +324,22 @@
         "value": {
             "NetEase": {
                 "ios": {
-                    "date": "2021-05-03T15:30:00.000Z",
-                    "version": "4.4.1019"
+                    "date": "2020-11-19T15:00:00.000Z",
+                    "version": "4.2.1007"
                 },
                 "android": {
-                    "date": "2021-05-03T15:30:00.000Z",
-                    "version": "4.4.1019"
+                    "date": "2020-11-19T15:00:00.000Z",
+                    "version": "4.2.1013"
                 }
             },
             "fallback": {
                 "ios": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0028"
+                    "date": "2021-02-04T20:00:00.000Z",
+                    "version": "4.3.2018"
                 },
                 "android": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0024"
+                    "date": "2021-02-04T20:00:00.000Z",
+                    "version": "4.3.2018"
                 }
             }
         },
@@ -417,7 +417,8 @@
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
                 "MobilePostGameAnalytics",
-                "NewPlayerAnalytics"
+                "NewPlayerAnalytics",
+                "SubscriptionRewardsAnalytics"
             ],
             "KL": [
                 "ClientLoginAnalytics",
@@ -532,6 +533,7 @@
                 "WaitTimeAnalytics"
             ],
             "KAL": [
+                "AtlantaActivablePerkAnalytics",
                 "ChatAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
@@ -768,7 +770,8 @@
             "m_4.6.0_440846live": "m_4.6.0_440846live-1622474552",
             "m_4.6.1_440366live": "m_4.6.1_440366live-1622220395",
             "m_4.6.1_440764live": "m_4.6.1_440764live-1622467429",
-            "m_4.6.1_440846live": "m_4.6.1_440846live-1622472080"
+            "m_4.6.1_440846live": "m_4.6.1_440846live-1622472080",
+            "m_4.6.1_441468live": "m_4.6.1_441468live-1622558384"
         },
         "keyName": "VER_CLIENT_DATA"
     },

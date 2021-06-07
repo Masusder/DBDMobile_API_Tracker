@@ -258,8 +258,8 @@
                                 "id": "DefaultCalendarRetentionRewards",
                                 "type": "RetentionRewards",
                                 "value": [
-                                    "13SlotsCalendar_Wichita1",
-                                    "13SlotsCalendar_Wichita2"
+                                    "13SlotsCalendar_Xanadu1",
+                                    "13SlotsCalendar_Xanadu2"
                                 ]
                             }
                         ]
@@ -2012,6 +2012,70 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "XPKateBillHuntressLegion",
+        "startDate": 1
+    },
+    "XanaduTE_BP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XanaduTE_BPhappyHour": {
+                    "effects": {
+                        "XanaduTE_BP": [
+                            {
+                                "characters": [
+                                    "S24",
+                                    "K22"
+                                ],
+                                "id": "XanaduTE_BP",
+                                "role": "Global",
+                                "type": "Bloodpoints",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "XanaduTE_BPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XanaduTE_BP",
+        "startDate": 1
+    },
+    "XanaduTE_XP": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "XanaduTE_XPhappyHour": {
+                    "effects": {
+                        "XanaduTE_XP": [
+                            {
+                                "characters": [
+                                    "S24",
+                                    "K22"
+                                ],
+                                "id": "XanaduTE_XP",
+                                "role": "Global",
+                                "type": "Experience",
+                                "value": 3.0
+                            }
+                        ]
+                    },
+                    "id": "XanaduTE_XPhappyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "XanaduTE_XP",
         "startDate": 1
     },
     "YamaokaDeluxeBanner": {

@@ -28611,12 +28611,20 @@
         ],
         "defaultCost": [
             {
-                "currencyId": "Shards",
-                "price": 9000
-            },
-            {
                 "currencyId": "Cells",
                 "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 450
+                    }
+                ],
+                "endDate": "2021-06-10T17:00:00",
+                "startDate": "2021-06-10T13:00:01"
             }
         ],
         "id": "S24",
@@ -28635,12 +28643,20 @@
         ],
         "defaultCost": [
             {
-                "currencyId": "Shards",
-                "price": 9000
-            },
-            {
                 "currencyId": "Cells",
                 "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 450
+                    }
+                ],
+                "endDate": "2021-06-10T20:00:01",
+                "startDate": "2021-06-10T17:00:01"
             }
         ],
         "id": "K22",

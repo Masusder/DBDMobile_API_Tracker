@@ -124,10 +124,10 @@
         ],
         "startDate": 1592784001
     },
-    "13SlotsCalendar_Wichita1": {
+    "13SlotsCalendar_Xanadu1": {
         "claimType": "minute",
-        "endDate": 1622055600,
-        "id": "13SlotsCalendar_Wichita1",
+        "endDate": 1623254400,
+        "id": "13SlotsCalendar_Xanadu1",
         "rewards": [
             {
                 "amount": 10000,
@@ -144,7 +144,7 @@
                     "hidden": false,
                     "special": false
                 },
-                "id": "LotusLeafTea",
+                "id": "GoldSurvivorTicket",
                 "type": "inventory"
             },
             {
@@ -153,11 +153,11 @@
                     "hidden": false,
                     "special": false
                 },
-                "id": "GoldSurvivorTicket",
+                "id": "LoversPostcard",
                 "type": "inventory"
             },
             {
-                "amount": 10000,
+                "amount": 15000,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
@@ -171,25 +171,34 @@
                     "hidden": false,
                     "special": false
                 },
-                "id": "BloodstoneChalice",
+                "id": "BoneDoll",
                 "type": "inventory"
             },
             {
-                "amount": 50,
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Item_Camper_EngineerToolbox",
+                "type": "inventory"
+            },
+            {
+                "amount": 5,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Cells",
+                "type": "currency"
+            },
+            {
+                "amount": 100,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
                 },
                 "id": "Shards",
-                "type": "currency"
-            },
-            {
-                "amount": 20000,
-                "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "Bloodpoints",
                 "type": "currency"
             },
             {
@@ -202,57 +211,48 @@
                 "type": "inventory"
             },
             {
-                "amount": 1,
+                "amount": 25000,
                 "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "Item_Camper_Flashlight03",
-                "type": "inventory"
-            },
-            {
-                "amount": 20000,
-                "gameSpecificData": {
-                    "hidden": false,
+                    "hidden": true,
                     "special": false
                 },
                 "id": "Bloodpoints",
                 "type": "currency"
             },
             {
+                "amount": 5,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Cells",
+                "type": "currency"
+            },
+            {
                 "amount": 1,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
                 },
-                "id": "PutridOak",
+                "id": "ArdentShrikeWreath",
                 "type": "inventory"
             },
             {
-                "amount": 50,
-                "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "Shards",
-                "type": "currency"
-            },
-            {
-                "amount": 10,
+                "amount": 100,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": true
                 },
-                "id": "Cells",
+                "id": "Shards",
                 "type": "currency"
             }
         ],
-        "startDate": 1622050201
+        "startDate": 1623243601
     },
-    "13SlotsCalendar_Wichita2": {
+    "13SlotsCalendar_Xanadu2": {
         "claimType": "minute",
-        "endDate": 1622061000,
-        "id": "13SlotsCalendar_Wichita2",
+        "endDate": 1623268800,
+        "id": "13SlotsCalendar_Xanadu2",
         "rewards": [
             {
                 "amount": 1,
@@ -260,7 +260,7 @@
                     "hidden": false,
                     "special": false
                 },
-                "id": "Item_Camper_MedKit04",
+                "id": "Item_Camper_BeigeMap",
                 "type": "inventory"
             },
             {
@@ -282,15 +282,6 @@
                 "type": "inventory"
             },
             {
-                "amount": 15000,
-                "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "Bloodpoints",
-                "type": "currency"
-            },
-            {
                 "amount": 1,
                 "gameSpecificData": {
                     "hidden": false,
@@ -305,29 +296,11 @@
                     "hidden": false,
                     "special": false
                 },
-                "id": "FleshDoll",
+                "id": "PutridOak",
                 "type": "inventory"
             },
             {
-                "amount": 5,
-                "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "Cells",
-                "type": "currency"
-            },
-            {
-                "amount": 1,
-                "gameSpecificData": {
-                    "hidden": false,
-                    "special": false
-                },
-                "id": "LoversPostcard",
-                "type": "inventory"
-            },
-            {
-                "amount": 25000,
+                "amount": 20000,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
@@ -336,12 +309,39 @@
                 "type": "currency"
             },
             {
-                "amount": 5,
+                "amount": 1,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "LoversPostcard",
+                "type": "inventory"
+            },
+            {
+                "amount": 1,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": false
                 },
-                "id": "Cells",
+                "id": "Item_Camper_MedKit04",
+                "type": "inventory"
+            },
+            {
+                "amount": 30000,
+                "gameSpecificData": {
+                    "hidden": false,
+                    "special": false
+                },
+                "id": "Bloodpoints",
+                "type": "currency"
+            },
+            {
+                "amount": 100,
+                "gameSpecificData": {
+                    "hidden": true,
+                    "special": false
+                },
+                "id": "Shards",
                 "type": "currency"
             },
             {
@@ -363,16 +363,16 @@
                 "type": "inventory"
             },
             {
-                "amount": 150,
+                "amount": 10,
                 "gameSpecificData": {
                     "hidden": false,
                     "special": true
                 },
-                "id": "Shards",
+                "id": "Cells",
                 "type": "currency"
             }
         ],
-        "startDate": 1622055601
+        "startDate": 1623254401
     },
     "7SlotsCalendar_NewP_09_12": {
         "claimType": "day",

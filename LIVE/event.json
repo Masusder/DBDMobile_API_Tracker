@@ -1,4 +1,23 @@
 {
+    "BaseGameBundle5": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "BaseGameBundle5"
+                ]
+            }
+        },
+        "id": "BaseGameBundle5",
+        "startDate": 1
+    },
     "Bloodhunt_BP": {
         "assets": {},
         "components": {
@@ -84,25 +103,6 @@
         "id": "ChurnedCalendar",
         "startDate": 1
     },
-    "DavidStarterBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "DavidStarterBanner"
-                ]
-            }
-        },
-        "id": "DavidStarterBanner",
-        "startDate": 1
-    },
     "DefaultCalendar": {
         "assets": {},
         "components": {
@@ -133,7 +133,7 @@
         "id": "DefaultCalendar",
         "startDate": 1
     },
-    "MegSpringBanner": {
+    "GreekGoddessBanner": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -145,11 +145,30 @@
         "gameSpecificData": {
             "marketingBannerIds": {
                 "id": [
-                    "MegSpringBanner"
+                    "GreekGoddessBanner"
                 ]
             }
         },
-        "id": "MegSpringBanner",
+        "id": "GreekGoddessBanner",
+        "startDate": 1
+    },
+    "KateStarterPackBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "KateStarterPackBanner"
+                ]
+            }
+        },
+        "id": "KateStarterPackBanner",
         "startDate": 1
     },
     "NewCalendar_20191209": {
@@ -304,7 +323,7 @@
         "id": "PromopackWichita4",
         "startDate": 1
     },
-    "ScarletSwarmBanner": {
+    "PurchasePopupGreekGod": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -314,13 +333,62 @@
         },
         "endDate": 1,
         "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "ScarletSwarmBanner"
-                ]
+            "purchasePopup": {
+                "id": "PurchasePopupGreekGod"
             }
         },
-        "id": "ScarletSwarmBanner",
+        "id": "PurchasePopupGreekGod",
+        "startDate": 1
+    },
+    "PurchasePopupKateVolk": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupKateVolk"
+            }
+        },
+        "id": "PurchasePopupKateVolk",
+        "startDate": 1
+    },
+    "PurchasePopupOni2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupOni2"
+            }
+        },
+        "id": "PurchasePopupOni2",
+        "startDate": 1
+    },
+    "PurchasePopupSoloVolk": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupSoloVolk"
+            }
+        },
+        "id": "PurchasePopupSoloVolk",
         "startDate": 1
     },
     "WichitaCSJJ_BP": {
@@ -661,25 +729,6 @@
         "endDate": 1,
         "gameSpecificData": {},
         "id": "WichitaYFWE_XP",
-        "startDate": 1
-    },
-    "YamaokaDeluxeBanner": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "marketingBannerIds": {
-                "id": [
-                    "YamaokaDeluxeBanner"
-                ]
-            }
-        },
-        "id": "YamaokaDeluxeBanner",
         "startDate": 1
     }
 }

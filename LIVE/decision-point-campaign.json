@@ -1,23 +1,23 @@
 {
     "campaigns": [
         {
-            "campaignName": "Promopack_Vail6_Live",
+            "campaignName": "Promopack_Vail6_Live (copy)",
             "parameters": {
                 "eventName": "PromopackVail6"
             },
             "metaData": {
                 "startDate": "2021-05-24T14:00:00",
-                "endDate": "2021-06-07T13:59:59"
+                "endDate": "2021-06-10T13:59:59"
             }
         },
         {
-            "campaignName": "Promopack_Vail1_Live",
+            "campaignName": "Promopack_Vail1_Live (copy)",
             "parameters": {
                 "eventName": "PromopackVail1"
             },
             "metaData": {
                 "startDate": "2021-05-11T14:00:00",
-                "endDate": "2021-06-07T13:59:59"
+                "endDate": "2021-06-10T13:59:59"
             }
         }
     ]

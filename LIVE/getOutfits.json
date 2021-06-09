@@ -8617,8 +8617,8 @@
                 "K23_Body02",
                 "K23_Weapon02"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "K23_outfit_01_CV01",
@@ -8634,8 +8634,8 @@
                 "K23_Body01_CV01",
                 "K23_Weapon01_CV01"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "K23_outfit_01_CV02",
@@ -8651,8 +8651,8 @@
                 "K23_Body01_CV02",
                 "K23_Weapon01_CV02"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "K23_outfit_01_CV03",
@@ -8668,8 +8668,8 @@
                 "K23_Body01_CV03",
                 "K23_Weapon01_CV03"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "K23_outfit_01_CV04",
@@ -8685,8 +8685,8 @@
                 "K23_Body01_CV04",
                 "K23_Weapon01_CV04"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "S25_outfit_02",
@@ -8703,8 +8703,8 @@
                 "S25_Torso02",
                 "S25_Legs02"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "S25_outfit_01_CV01",
@@ -8720,8 +8720,8 @@
                 "S25_Torso01_CV01",
                 "S25_Legs01_CV01"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "S25_outfit_01_CV02",
@@ -8737,8 +8737,8 @@
                 "S25_Torso01_CV02",
                 "S25_Legs01_CV02"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "S25_outfit_01_CV03",
@@ -8754,8 +8754,8 @@
                 "S25_Torso01_CV03",
                 "S25_Legs01_CV03"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "S25_outfit_01_CV04",
@@ -8771,8 +8771,8 @@
                 "S25_Torso01_CV04",
                 "S25_Legs01_CV04"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-10T14:00:00",
+            "newEndDate": "2021-06-17T13:59:59"
         },
         {
             "id": "GS_outfit_013",
@@ -8789,8 +8789,8 @@
                 "GS_Torso013",
                 "GS_Legs013"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-21T14:00:00",
+            "newEndDate": "2021-06-28T13:59:59"
         },
         {
             "id": "TN_outfit_009",
@@ -8807,8 +8807,8 @@
                 "TN_Body009",
                 "TN_W009"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-06-21T14:00:00",
+            "newEndDate": "2021-06-28T13:59:59"
         },
         {
             "id": "GK_outfit_011",
@@ -8825,8 +8825,8 @@
                 "GK_Body011",
                 "GK_W011"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-07-05T14:00:00",
+            "newEndDate": "2021-07-12T13:59:59"
         },
         {
             "id": "HK_outfit_011",
@@ -8843,8 +8843,8 @@
                 "HK_Body011",
                 "HK_W011"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-07-05T14:00:00",
+            "newEndDate": "2021-07-12T13:59:59"
         },
         {
             "id": "MS_outfit_013",
@@ -8861,8 +8861,8 @@
                 "MS_Torso013",
                 "MS_Legs013"
             ],
-            "newStartDate": "2021-04-28T00:00:00",
-            "newEndDate": "2021-05-31T00:00:00"
+            "newStartDate": "2021-07-05T14:00:00",
+            "newEndDate": "2021-07-12T13:59:59"
         }
     ]
 }

@@ -1,23 +1,23 @@
 {
     "campaigns": [
         {
-            "campaignName": "Promopack_Vail6_Live (copy)",
+            "campaignName": "Promopack_Wichita1_Live",
             "parameters": {
-                "eventName": "PromopackVail6"
+                "eventName": "PromopackWichita1"
             },
             "metaData": {
-                "startDate": "2021-05-24T14:00:00",
-                "endDate": "2021-06-10T13:59:59"
+                "startDate": "2021-06-10T14:00:00",
+                "endDate": "2021-07-26T13:59:59"
             }
         },
         {
-            "campaignName": "Promopack_Vail1_Live (copy)",
+            "campaignName": "Promopack_Wichita2_Live",
             "parameters": {
-                "eventName": "PromopackVail1"
+                "eventName": "PromopackWichita2"
             },
             "metaData": {
-                "startDate": "2021-05-11T14:00:00",
-                "endDate": "2021-06-10T13:59:59"
+                "startDate": "2021-06-10T14:00:00",
+                "endDate": "2021-06-21T13:59:59"
             }
         }
     ]

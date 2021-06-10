@@ -590,71 +590,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Dwight, Claudette, Quentin and The Nightmare while the Bloodhunt+ is on. "
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Dwight, Claudette, Quentin oder der Albtraum spielst, w\u00e4hrend die Blutjagd+ aktiv ist. "
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Dwight, Claudette, Quentin y La Pesadilla mientras la caza de sangre+ siga activa. "
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Dwight, Claudette, Quentin y la Pesadilla mientras la Caza de sangre+ est\u00e1 en curso. "
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Dwight, Claudette, Quentin et le Cauchemar quand Chasse sanglante+ est activ\u00e9e. "
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Dwight, Claudette, Quentin o dell'Incubo quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati. "
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30ed\u30fc\u30c7\u30c3\u30c8\u3001\u30af\u30a8\u30f3\u30c6\u30a3\u30f3\u3001\u30ca\u30a4\u30c8\u30e1\u30a2\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002 "
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ub4dc\uc640\uc774\ud2b8, \ud074\ub85c\ub383, \ucfe0\uc5d4\ud2f4 \ubc0f \ub098\uc774\ud2b8\uba54\uc5b4\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. "
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Dwightem, Claudette, Quentinem i Koszmarem w trakcie Krwawego Polowania+. "
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Dwight, Claudette, Quentin e O Pesadelo com Ca\u00e7ada Sangrenta+ ativa. "
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0434\u0435\u0442\u0442, \u041a\u0432\u0435\u043d\u0442\u0438\u043d\u0430 \u0438\u043b\u0438 \u041a\u043e\u0448\u043c\u0430\u0440\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb. "
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e04\u0e25\u0e2d\u0e40\u0e14\u0e47\u0e15\u0e15\u0e4c, \u0e40\u0e04\u0e27\u0e19\u0e15\u0e34\u0e19 \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e44\u0e19\u0e17\u0e4c\u0e41\u0e21\u0e23\u0e4c \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+ "
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Dwight, Claudette, Quentin veya K\u00e2bus ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan. "
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u5fb7\u6000\u7279\u3001\u514b\u52b3\u9edb\u7279\u3001\u6606\u6c40\u6216\u68a6\u9b47\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002 "
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u8840\u7375+\u671f\u9593\uff0c\u626e\u6f14\u5fb7\u61f7\u7279\u3001\u514b\u52de\u9edb\u7279\u3001\u6606\u6c40\u6216\u5922\u9b58\u53ef\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u3002 "
-                }
-            ],
-            "textId": "EVENTBANNER_Wichita3_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Earn double the Bloodpoints and character experience when playing as Jane, Jake, The Spirit and The Clown while the Bloodhunt+ is on."
                 },
                 {
@@ -6786,7 +6721,7 @@
             "bannerStartDate": "2021-07-02T14:00:00",
             "campaignName": "Bloodhunt_Wichita4",
             "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Wichita3_DESC",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
             "displayEndDate": "2021-07-05T13:59:59",
             "displayStartDate": "2021-07-02T14:00:00",
             "endDate": "2021-07-05T13:59:59",
@@ -6794,13 +6729,7 @@
             "hotEndDate": "2021-07-05T13:59:59",
             "hotStartDate": "2021-07-02T14:00:00",
             "id": "Bloodhunt_Wichita4",
-            "imageUrl": "events/DwightClaudetteNightmareQuentinNoText.png",
-            "relatedItemsId": [
-                "Dwight",
-                "Claudette",
-                "Nightmare",
-                "Quentin"
-            ],
+            "imageUrl": "events/All_Characters_BH.png",
             "startDate": "2021-07-02T14:00:00",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
@@ -6854,6 +6783,25 @@
             "startDate": "2021-07-16T14:00:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-07-26T13:59:59",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-07-23T14:00:01",
+            "campaignName": "Bloodhunt_Wichita7",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
+            "displayEndDate": "2021-07-26T13:59:59",
+            "displayStartDate": "2021-07-23T14:00:01",
+            "endDate": "2021-07-26T13:59:59",
+            "eventPriority": 2,
+            "hotEndDate": "2021-07-26T13:59:59",
+            "hotStartDate": "2021-07-23T14:00:01",
+            "id": "Bloodhunt_Wichita7",
+            "imageUrl": "events/All_Characters_BH.png",
+            "startDate": "2021-07-23T14:00:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
         }
     ],
     "eventItemsPacks": [],
@@ -6902,7 +6850,7 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-07-19T13:59:59",
+            "endDate": "2021-07-26T13:59:59",
             "id": "GreekGoddessBanner",
             "imageUrl": "marketingBanner/DBD_StoreBanner_GreekGoddesses.png",
             "priority": 1,

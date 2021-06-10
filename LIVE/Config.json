@@ -257,6 +257,7 @@
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -324,22 +325,22 @@
         "value": {
             "NetEase": {
                 "ios": {
-                    "date": "2020-11-19T15:00:00.000Z",
-                    "version": "4.2.1007"
+                    "date": "2021-05-03T15:30:00.000Z",
+                    "version": "4.4.1019"
                 },
                 "android": {
-                    "date": "2020-11-19T15:00:00.000Z",
-                    "version": "4.2.1013"
+                    "date": "2021-05-03T15:30:00.000Z",
+                    "version": "4.4.1019"
                 }
             },
             "fallback": {
                 "ios": {
-                    "date": "2021-02-04T20:00:00.000Z",
-                    "version": "4.3.2018"
+                    "date": "2021-05-13T18:00:00.000Z",
+                    "version": "4.6.0028"
                 },
                 "android": {
-                    "date": "2021-02-04T20:00:00.000Z",
-                    "version": "4.3.2018"
+                    "date": "2021-05-13T18:00:00.000Z",
+                    "version": "4.6.0024"
                 }
             }
         },
@@ -417,8 +418,7 @@
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
                 "MobilePostGameAnalytics",
-                "NewPlayerAnalytics",
-                "SubscriptionRewardsAnalytics"
+                "NewPlayerAnalytics"
             ],
             "KL": [
                 "ClientLoginAnalytics",
@@ -549,6 +549,7 @@
                 "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
+                "SubscriptionRewardsAnalytics",
                 "WalesCypherAnalytics"
             ]
         },
@@ -774,7 +775,9 @@
             "m_4.6.1_440764live": "m_4.6.1_440764live-1622467429",
             "m_4.6.1_440846live": "m_4.6.1_440846live-1622472080",
             "m_4.6.1_441468live": "m_4.6.1_441468live-1622558384",
-            "m_4.6.1_444946live": "m_4.6.1_444946live-1623254412"
+            "m_4.6.1_444946live": "m_4.6.1_444946live-1623254412",
+            "m_4.6.1_445270live": "m_4.6.1_445270live-1623336372",
+            "m_4.6.1_445371live": "m_4.6.1_445371live-1623341184"
         },
         "keyName": "VER_CLIENT_DATA"
     },

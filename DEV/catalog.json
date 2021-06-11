@@ -6085,7 +6085,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 6000
             }
         ],
         "id": "Addon_Hatchet_YewSeedBrew",
@@ -6093,7 +6093,7 @@
             "character": "Bear",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "VeryRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -6338,7 +6338,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 4000
+                "price": 5000
             }
         ],
         "id": "Addon_Hatchet_DeerskinGloves",
@@ -6346,7 +6346,7 @@
             "character": "Bear",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Uncommon",
+            "rarity": "Rare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -6430,7 +6430,7 @@
         "defaultCost": [
             {
                 "currencyId": "Bloodpoints",
-                "price": 5000
+                "price": 7000
             }
         ],
         "id": "Addon_Hatchet_PungentFiale",
@@ -6438,7 +6438,7 @@
             "character": "Bear",
             "enabled": true,
             "eventID": "None",
-            "rarity": "Rare",
+            "rarity": "UltraRare",
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -93438,6 +93438,277 @@
     },
     {
         "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Head019",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Head019",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "CM_outfit_019",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Torso019",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Torso019",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "CM_outfit_019",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Legs019",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Legs019",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "CM_outfit_019",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Head016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Head016",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "MT_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Torso016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Torso016",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "MT_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Legs016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Legs016",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "outfitId": "MT_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Mask_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Mask_01",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "outfit"
         ],
         "consumable": false,
@@ -103511,6 +103782,52 @@
             "newEndDate": "2021-05-31T00:00:00",
             "newStartDate": "2021-04-28T00:00:00",
             "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "defaultCost": [],
+        "id": "MT_outfit_016",
+        "metaData": {
+            "character": "Meg",
+            "discountPercentage": 0.1,
+            "items": [
+                "MT_Head016",
+                "MT_Torso016",
+                "MT_Legs016"
+            ],
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "defaultCost": [],
+        "id": "CM_outfit_019",
+        "metaData": {
+            "character": "Claudette",
+            "discountPercentage": 0.1,
+            "items": [
+                "CM_Head019",
+                "CM_Torso019",
+                "CM_Legs019"
+            ],
+            "newEndDate": "2021-05-31T00:00:00",
+            "newStartDate": "2021-04-28T00:00:00",
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,

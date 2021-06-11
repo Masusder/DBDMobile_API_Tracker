@@ -8904,6 +8904,42 @@
             ],
             "newStartDate": "2021-04-28T00:00:00",
             "newEndDate": "2021-05-31T00:00:00"
+        },
+        {
+            "id": "MT_outfit_016",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Meg",
+            "storeItems": [
+                "MT_Head016",
+                "MT_Torso016",
+                "MT_Legs016"
+            ],
+            "newStartDate": "2021-04-28T00:00:00",
+            "newEndDate": "2021-05-31T00:00:00"
+        },
+        {
+            "id": "CM_outfit_019",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Claudette",
+            "storeItems": [
+                "CM_Head019",
+                "CM_Torso019",
+                "CM_Legs019"
+            ],
+            "newStartDate": "2021-04-28T00:00:00",
+            "newEndDate": "2021-05-31T00:00:00"
         }
     ]
 }

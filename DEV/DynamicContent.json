@@ -5,71 +5,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Earn TRIPLE the Bloodpoints and character experience when playing as these characters while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir DREIMAL so viele Blutpunkte und Charakter-Erfahrung, wenn du als diese Charaktere spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el triple de puntos de sangre y de experiencia de personaje con estos personajes mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el TRIPLE de puntos de sangre y experiencia de personaje al jugar como estos personajes mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le triple de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec ces personnages quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di questi personaggi quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio TRIPLICATI."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u3053\u308c\u3089\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30923\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ub2e4\uc74c \uce90\ub9ad\ud130\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \uc138 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a TRZY RAZY WI\u0118CEJ Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c tymi postaciami w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o TRIPLO de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com estes personagens com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u044d\u0442\u0438\u0445 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u0439 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e32\u0e21\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e19\u0e35\u0e49\u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken bu karakterlerle oynayarak \u00dc\u00c7 KAT fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u8fd9\u4e9b\u89d2\u8272\u53ef\u83b7\u5f97\u4e09\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u9019\u4e9b\u89d2\u8272\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u4e09\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_3XTest_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Earn double the Bloodpoints and character experience when playing as any character while the Bloodhunt+ is on."
                 },
                 {
@@ -130,71 +65,6 @@
                 }
             ],
             "textId": "EVENTBANNER_BloodhuntALL_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "BLOODHUNT+ FOR ALL CHARACTERS"
-                },
-                {
-                    "lang": "GER",
-                    "text": "BLUTJAGD+ F\u00dcR ALLE CHARAKTERE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAZA DE SANGRE+ PARA TODOS LOS PERSONAJES"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAZA DE SANGRE+ PARA TODOS LOS PERSONAJES"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "CHASSE SANGLANTE+ POUR TOUS LES PERSONNAGES"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "CACCIA SANGUINARIA + PER TUTTI I PERSONAGGI"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u5168\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306e\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ubaa8\ub4e0 \uce90\ub9ad\ud130\uc758 \ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+"
-                },
-                {
-                    "lang": "POL",
-                    "text": "KRWAWE POLOWANIE+ DLA WSZYSTKICH POSTACI"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CA\u00c7ADA SANGRENTA+ PARA TODOS OS PERSONAGENS"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u00ab\u041a\u0420\u041e\u0412\u0410\u0412\u0410\u042f \u041e\u0425\u041e\u0422\u0410+\u00bb \u0414\u041b\u042f \u0412\u0421\u0415\u0425 \u041f\u0415\u0420\u0421\u041e\u041d\u0410\u0416\u0415\u0419"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+ \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e17\u0e38\u0e01\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23"
-                },
-                {
-                    "lang": "TR",
-                    "text": "T\u00dcM KARAKTERLER \u0130\u00c7\u0130N KAN AVI+"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5168\u90e8\u89d2\u8272\u8840\u730e+"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u6240\u6709\u89d2\u8272\u7372\u5f97\u8840\u7375+"
-                }
-            ],
-            "textId": "EVENTBANNER_BloodhuntALL_TITLE"
         },
         {
             "loc": [
@@ -590,136 +460,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Find the Guest Superstar Jane, Maitre Ace, Chef Carnage Clown and Wild Feast Huntress outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Gast-Superstar Jane, Kellner Ace, \u201eBlutbad des Kochs\u201c-Clown und \u201eWildes Festmahl\u201c-J\u00e4gerin in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos Superestrella invitada de Jane, Metre de Ace, Matanza de cocinero del Payaso y Banquete salvaje de la Cazadora en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Jane invitada superestrella, Ma\u00eetre Ace, Payaso Chef asesino y Cazadora Banquete salvaje en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues Superstar invit\u00e9e de Jane, Ma\u00eetre Ace, Carnage du chef du Clown et Festin sauvage de la Chasseuse dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Ospite di rilievo di Jane, Ace ma\u00eetre, Carneficina de rang del Clown e Banchetto selvaggio della Cacciatrice, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u30b2\u30b9\u30c8\u306e\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc\u300d\u30b8\u30a7\u30fc\u30f3\u3001\u300c\u30e1\u30fc\u30c8\u30eb\u300d\u30a8\u30fc\u30b9\u3001\u300c\u30b7\u30a7\u30d5\u306e\u5927\u8650\u6bba\u300d\u30af\u30e9\u30a6\u30f3\u3001\u300c\u72c2\u6c17\u306e\u5bb4\u4f1a\u300d\u30cf\u30f3\u30c8\u30ec\u30b9\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \uc288\ud37c\uc2a4\ud0c0 \uac8c\uc2a4\ud2b8 \uc81c\uc778, \uc6e8\uc774\ud130 \uc5d0\uc774\uc2a4, \ub300\ud559\uc0b4 \uc170\ud504 \ud074\ub77c\uc6b4, \uadf8\ub9ac\uace0 \uc57c\uc0dd \ucd95\uc81c \ud5cc\ud2b8\ub9ac\uc2a4\ub97c \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j go\u015bcinnej supergwiazdy dla Jaine, Ace\u2019a w r\u0119kawie, kucharskiej rzezi dla Klauna oraz dzikiej uczty dla \u0141owczyni w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Jane Estrela Convidada, Ace Maitre, Palha\u00e7o Chef Carnificina e Ca\u00e7adora Banquete Selvagem voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u041f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430\u00bb \u0434\u043b\u044f \u0414\u0436\u0435\u0439\u043d, \u00ab\u041e\u0444\u0438\u0446\u0438\u0430\u043d\u0442 \u042d\u0439\u0441\u00bb, \u00ab\u041f\u043e\u0432\u0430\u0440-\u043c\u044f\u0441\u043d\u0438\u043a\u00bb \u0434\u043b\u044f \u041a\u043b\u043e\u0443\u043d\u0430 \u0438 \u00ab\u0412\u0437\u0431\u0430\u043b\u043c\u043e\u0448\u043d\u044b\u0439 \u043f\u0438\u0440\u00bb \u0434\u043b\u044f \u041e\u0445\u043e\u0442\u043d\u0438\u0446\u044b. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e40\u0e08\u0e19\u0e0b\u0e38\u0e1b\u0e15\u0e32\u0e23\u0e4c\u0e23\u0e31\u0e1a\u0e40\u0e0a\u0e34\u0e0d, \u0e40\u0e2d\u0e2a\u0e2b\u0e31\u0e27\u0e2b\u0e19\u0e49\u0e32\u0e04\u0e19\u0e23\u0e31\u0e1a\u0e43\u0e0a\u0e49, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c\u0e1e\u0e48\u0e2d\u0e04\u0e23\u0e31\u0e27\u0e25\u0e30\u0e40\u0e25\u0e07\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e2e\u0e31\u0e19\u0e40\u0e17\u0e23\u0e2a\u0e01\u0e31\u0e1a\u0e07\u0e32\u0e19\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e04\u0e25\u0e31\u0e48\u0e07 \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Misafir S\u00fcperstar Jane, Garson Ace, Gaddar \u015eef Palya\u00e7o ve Yaban Ziyafeti Avc\u0131 k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u660e\u661f\u5609\u5bbe\u7b80\uff0c\u4ec6\u4ece\u57c3\u65af\uff0c\u5927\u53a8\u5c60\u6740\u5c0f\u4e11\u4e0e\u91ce\u6027\u76db\u5bb4\u5973\u730e\u624b\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u660e\u661f\u4f86\u8cd3\u73cd\u59ae\u3001\u5927\u5e2b\u57c3\u65af\u3001\u5eda\u5e2b\u5c60\u6bba\u5c0f\u4e11\u548c\u8352\u91ce\u9957\u5bb4\u5973\u7375\u624b\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_CookoutBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "COOKOUT ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "GRILLPARTY-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"COMIDA AL AIRE LIBRE\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO DE COCINA"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - CUISINE"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO CENA FUORI"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d0\u30fc\u30d9\u30ad\u30e5\u30fc\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uc57c\uc678 \ud30c\ud2f0 \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "GRILLOWE PUDE\u0141KO ROCZNICOWE"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 CHURRASCO"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u041f\u0418\u041a\u041d\u0418\u041a\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e17\u0e33\u0e01\u0e34\u0e19\u0e19\u0e2d\u0e01\u0e1a\u0e49\u0e32\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "P\u0130KN\u0130K YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u91ce\u708a\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u91ce\u708a\u9031\u5e74\u6176\u79ae\u76d2"
-                }
-            ],
-            "textId": "EVENTBANNER_CookoutBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "Receive twice as many Auric Cells when making your first purchase of any Auric Cell pack."
                 },
                 {
@@ -780,1176 +520,6 @@
                 }
             ],
             "textId": "EVENTBANNER_FirstPurchase_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Find the Star Seeker Kate, Cosmic Afterburn Jake, Celestial Salvation Plague and Verdant Outbreak Hag outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Sternensucher Kate, \u201eCosmic Afterburn\u201c-Jake, \u201eHimmlische Erl\u00f6sung\u201c-Seuche und \u201eAusbruch des Gr\u00fcnen\u201c-Hexe in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos En busca de estrellas de Kate, Cosmic Afterburn de Jake, Salvaci\u00f3n celestial de la Plaga y Brote de vegetaci\u00f3n de la Bruja en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Kate Buscaestrellas, Jake Cosmic Afterburn, Plaga Salvaci\u00f3n celestial y Bruja Explosi\u00f3n frondosa en las cajas de aniversario especiales del mercado de sangre. Disponible por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues D\u00e9tecteur d\u2019\u00e9toiles de Kate, Cosmic Afterburn de Jake, Salut c\u00e9leste de l'\u00c9pid\u00e9mie et Explosion verdoyante de la Harpie dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Amante delle stelle di Kate, Cosmic Afterburn di Jake, Salvezza celeste della Malattia e Ondata verdeggiante della Strega, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u661f\u3092\u63a2\u3057\u6c42\u3081\u308b\u4eba\u300d\u30b1\u30a4\u30c8\u3001\u300c\u30b3\u30ba\u30df\u30c3\u30af\u30fb\u30a2\u30d5\u30bf\u30fc\u30d0\u30fc\u30f3\u300d\u30b8\u30a7\u30a4\u30af\u3001\u300c\u5929\u306e\u6551\u6e08\u300d\u30d7\u30ec\u30a4\u30b0\u3001\u300c\u690d\u7269\u30a2\u30a6\u30c8\u30d6\u30ec\u30a4\u30af\u300d\u30cf\u30b0\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \ubcc4\uc744 \ucc3e\ub294 \uc790 \ucf00\uc774\ud2b8, \ucf54\uc2a4\ubbf9 \uc560\ud504\ud130\ubc88 \uc81c\uc774\ud06c, \ud558\ub298\uc758 \uad6c\uc6d0 \uc5ed\ubcd1, \uadf8\ub9ac\uace0 \uc2e0\ub85d\uc758 \ubc1c\uc0dd \ud574\uadf8\ub97c \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j poszukiwaczki gwiazd dla Kate, kosmicznego dopalenia dla Jake\u2019a, niebia\u0144skiego zbawienia dla Plagi i wybuchu zieleni dla Wied\u017amy w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Kate Noite Estrelada, Jake Queima\u00e7\u00e3o C\u00f3smica, Praga Salva\u00e7\u00e3o Celestial e Bruxa Surto Verdejante voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u0418\u0441\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0437\u0432\u0435\u0437\u0434\u00bb \u0434\u043b\u044f \u041a\u0435\u0439\u0442, \u00ab\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0444\u043e\u0440\u0441\u0430\u0436\u00bb \u0434\u043b\u044f \u0414\u0436\u0435\u0439\u043a\u0430, \u00ab\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u043f\u0430\u0441\u0435\u043d\u0438\u0435\u00bb \u0434\u043b\u044f \u0427\u0443\u043c\u044b \u0438 \u00ab\u0411\u0443\u0439\u0441\u0442\u0432\u043e \u0437\u0435\u043b\u0435\u043d\u0438\u00bb \u0434\u043b\u044f \u0412\u0435\u0434\u044c\u043c\u044b. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e40\u0e04\u0e17\u0e1c\u0e39\u0e49\u0e41\u0e2a\u0e27\u0e07\u0e2b\u0e32\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27, \u0e40\u0e08\u0e04\u0e04\u0e2d\u0e2a\u0e21\u0e34\u0e01\u0e2d\u0e32\u0e1f\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e19, \u0e40\u0e14\u0e2d\u0e30\u0e40\u0e1e\u0e25\u0e01\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e44\u0e16\u0e48\u0e1a\u0e32\u0e1b\u0e08\u0e32\u0e01\u0e2a\u0e23\u0e27\u0e07\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e41\u0e2e\u0e47\u0e01\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e1b\u0e30\u0e17\u0e38\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e40\u0e02\u0e35\u0e22\u0e27\u0e02\u0e08\u0e35 \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Y\u0131ld\u0131z Avc\u0131s\u0131 Kate, Kozmik Ate\u015f Jake, Kutsal Kurtulu\u015f Veba ve Ye\u015fil Salg\u0131n Acuze k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u89c5\u661f\u8005\u51ef\u7279\uff0c\u5b87\u5b99\u4f59\u70ec\u6770\u514b\uff0c\u5929\u795e\u6551\u8d4e\u761f\u75ab\u4e0e\u7eff\u836b\u7206\u53d1\u5996\u5deb\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u5c0b\u661f\u8005\u51f1\u7279\u3001\u5b87\u5b99\u5f8c\u71c3\u5091\u514b\u3001\u661f\u8fb0\u6551\u8d16\u6eab\u4e00\u7ff0\u9752\u7fe0\u75ab\u60c5\u5deb\u5996\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_NightSkyBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "UNDER THE NIGHT SKY ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "\u201eUNTER DEM NACHTHIMMEL\u201c-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"BAJO EL CIELO NOCTURNO\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO BAJO EL CIELO NOCTURNO"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - SOUS LE CIEL \u00c9TOIL\u00c9"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO SOTTO IL CIELO STELLATO"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u591c\u7a7a\u306e\u4e0b\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ubc24\ud558\ub298 \uc544\ub798 \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO POD NOCNYM NIEBEM"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 SOB O C\u00c9U NOTURNO"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u041f\u041e\u0414 \u041d\u041e\u0427\u041d\u042b\u041c \u041d\u0415\u0411\u041e\u041c\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e43\u0e15\u0e49\u0e1c\u0e37\u0e19\u0e1f\u0e49\u0e32\u0e22\u0e32\u0e21\u0e23\u0e32\u0e15\u0e23\u0e35\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "GECE G\u00d6\u011e\u00dcN\u00dcN ALTINDA YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u591c\u7a7a\u4e4b\u4e0b\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u661f\u7a7a\u4e4b\u4e0b\u9031\u5e74\u6176\u79ae\u76d2"
-                }
-            ],
-            "textId": "EVENTBANNER_NightSkyBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Find the Campus Cool Claudette and Lost Cause Legion outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Campusstreberin Claudette und \u201eHoffnungsloser Fall\u201c-Legion in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos Estilo universitario de Claudette y Caso perdido de la Legi\u00f3n en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Claudette Popular del campus y Legi\u00f3n Causa perdida en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues Dans le coup de Claudette et Cause perdue de la L\u00e9gion dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Popolarit\u00e0 universitaria di Claudette e Causa persa della Legione, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u30ad\u30e3\u30f3\u30d1\u30b9\u30af\u30fc\u30eb\u300d\u30af\u30ed\u30fc\u30c7\u30c3\u30c8\u3001\u300c\u7121\u99c4\u306a\u52aa\u529b\u300d\u30ea\u30fc\u30b8\u30e7\u30f3\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \ucea0\ud37c\uc2a4 \uba4b\uc7c1\uc774 \ud074\ub85c\ub383\uacfc \uc783\uc5b4\ubc84\ub9b0 \ub300\uc758 \uad70\ub2e8\uc744 \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j kampusowej mody dla Claudette oraz beznadziejnego przypadku dla Legionu w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Claudette Descolada do Campus e Legi\u00e3o Causa Perdida voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0432\u0438\u0434\u00bb \u0434\u043b\u044f \u041a\u043b\u043e\u0434\u0435\u0442\u0442 \u0438 \u00ab\u0411\u0435\u0437\u043d\u0430\u0434\u0435\u0436\u043d\u044b\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\u00bb \u0434\u043b\u044f \u041b\u0435\u0433\u0438\u043e\u043d\u0430. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e40\u0e17\u0e48\u0e41\u0e1a\u0e1a\u0e21\u0e2b\u0e32\u0e25\u0e31\u0e22\u0e44\u0e1b\u0e01\u0e31\u0e1a\u0e04\u0e25\u0e2d\u0e40\u0e14\u0e47\u0e15\u0e15\u0e4c \u0e41\u0e25\u0e30\u0e40\u0e2b\u0e15\u0e38\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e25\u0e49\u0e21\u0e40\u0e2b\u0e25\u0e27\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19 \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kamp\u00fcs Tarz\u0131 Claudette ve \u00dcmitsiz Vaka \u00c7ete k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u9177\u70ab\u6821\u56ed\u514b\u52b3\u9edb\u7279\u4e0e\u81ea\u66b4\u81ea\u5f03\u519b\u56e2\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u6821\u5712\u9177\u70ab\u514b\u52de\u9edb\u7279\u548c\u5fc5\u6557\u7121\u7591\u8ecd\u5718\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_SchoolBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "BACK TO SCHOOL ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "\u201eZUR\u00dcCK ZUR SCHULE\u201c-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"DE VUELTA A LAS CLASES\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO DE VUELTA A LAS CLASES"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - RETOUR \u00c0 L\u2019\u00c9COLE"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO RITORNO A SCUOLA"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u65b0\u5b66\u671f\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ub2e4\uc2dc \ud559\uad50\ub85c \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO: POWR\u00d3T DO SZKO\u0141Y"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 DE VOLTA \u00c0 ESCOLA"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u0421\u041d\u041e\u0412\u0410 \u0412 \u0428\u041a\u041e\u041b\u0423\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e01\u0e25\u0e31\u0e1a\u0e2a\u0e39\u0e48\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "OKULA D\u00d6N\u00dc\u015e YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8fd4\u6821\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u8fd4\u6821\u9031\u5e74\u6176\u79ae\u76d2"
-                }
-            ],
-            "textId": "EVENTBANNER_SchoolBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Find the Greenhouse Geek Claudette, Spring Recruit Feng, Farmland Reaper Hillbilly and Haru Damashi Spirit outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Gew\u00e4chshausstreber Claudette, Fr\u00fchlingsnachwuchs Feng, Farmlandm\u00e4her-Hinterw\u00e4ldler und \u201eHaru Damashi\u201c-Gespenst in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos Friki de invernadero de Claudette, Fichaje de primavera de Feng, Parca de la tierra de cultivo del Pueblerino y Haru Damashi del Esp\u00edritu en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Claudette Fan de los invernaderos, Feng Recluta de primavera, Pueblerino Segador de la granja y Esp\u00edritu Haru Damashi en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues Mordu de la serre de Claudette, Recrue printani\u00e8re de Feng, Faucheur de la ferme du Montagnard et Haru Damashi de l'Esprit dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Nerd delle serre di Claudette, Recluta primaverile di Feng, Mietitore di campagna del Mandriano e Haru Damashi dello Spirito, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u30b0\u30ea\u30fc\u30f3\u30cf\u30a6\u30b9\u304a\u305f\u304f\u300d\u30af\u30ed\u30fc\u30c7\u30c3\u30c8\u3001\u300c\u6625\u306e\u65b0\u5165\u308a\u300d\u30d5\u30a7\u30f3\u3001\u300c\u7551\u306e\u6b7b\u795e\u300d\u30d2\u30eb\u30d3\u30ea\u30fc\u3001\u300c\u6625\u9a19\u3057\u300d\u30b9\u30d4\u30ea\u30c3\u30c8\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \uc628\uc2e4 \uad34\uc9dc \ud074\ub85c\ub383, \ubd04\uc758 \uc120\ubc1c\ub2e8 \ud3ad, \uc2dc\uace8\uc758 \uc0ac\uc2e0 \ud790\ube4c\ub9ac, \uadf8\ub9ac\uace0 \ubd04\uc758 \uc18d\uc784\uc218 \uc2a4\ud53c\ub9bf\uc744 \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j mi\u0142o\u015bniczki ro\u015blin dla Claudette, wiosennego rekruta dla Feng, \u017cniwiarza z farmy dla Wie\u015bniaka i Haru Damashi dla Zjawy w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Claudette Estudiosa das Estufas, Feng Recruta da Primavera, Caipira Ceifador da Ro\u00e7a e Esp\u00edrito Haru Damashi voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u0413\u0438\u043a \u0438\u0437 \u043e\u0440\u0430\u043d\u0436\u0435\u0440\u0435\u0438\u00bb \u0434\u043b\u044f \u041a\u043b\u043e\u0434\u0435\u0442\u0442, \u00ab\u0412\u0435\u0441\u0435\u043d\u043d\u0438\u0439 \u043d\u043e\u0432\u0438\u0447\u043e\u043a\u00bb \u0434\u043b\u044f \u0424\u0435\u043d\u0433, \u00ab\u0421\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0436\u043d\u0435\u0446\u00bb \u0434\u043b\u044f \u0414\u0435\u0440\u0435\u0432\u0435\u043d\u0449\u0438\u043d\u044b \u0438 \u00ab\u0425\u0430\u0440\u0443 \u0414\u0430\u043c\u0430\u0441\u0438\u00bb \u0434\u043b\u044f \u0414\u0443\u0445\u0430. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e04\u0e25\u0e2d\u0e40\u0e14\u0e47\u0e15\u0e15\u0e4c\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e23\u0e37\u0e2d\u0e19\u0e01\u0e23\u0e30\u0e08\u0e01, \u0e40\u0e1f\u0e34\u0e07\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e24\u0e14\u0e39\u0e43\u0e1a\u0e44\u0e21\u0e49\u0e1c\u0e25\u0e34, \u0e22\u0e21\u0e17\u0e39\u0e15\u0e17\u0e49\u0e2d\u0e07\u0e44\u0e23\u0e48\u0e2e\u0e34\u0e25\u0e1a\u0e34\u0e25\u0e25\u0e35\u0e48 \u0e41\u0e25\u0e30\u0e27\u0e34\u0e0d\u0e0d\u0e32\u0e13\u0e2e\u0e32\u0e23\u0e38 \u0e14\u0e32\u0e21\u0e32\u0e0a\u0e34 \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Sera Sevgisi Claudette, Bahar \u00dcyesi Feng, \u00c7iftlikteki Katil Da\u011f Adam\u0131 ve Haru Damashi Ruh k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u6e29\u5ba4\u6781\u5ba2\u514b\u52b3\u9edb\u7279\uff0c\u6625\u65e5\u65b0\u4eba\u51e4\u654f\uff0c\u519c\u573a\u6b7b\u795e\u7535\u952f\u6740\u624b\u4e0e\u6625\u4e4b\u6b3a\u9a97\u6028\u7075\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u6eab\u5ba4\u5b85\u5b85\u514b\u52de\u9edb\u7279\u3001\u6625\u5b63\u65b0\u4eba\u9cf3\u654f\u3001\u8fb2\u5834\u6b7b\u795e\u96fb\u92f8\u6bba\u624b\u548c\u6625\u5b63\u9a19\u5f92\u6028\u9748\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_SpringBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "SPRING HARVEST ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "FR\u00dcHLINGSERNTE-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"COSECHA DE PRIMAVERA\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO COSECHA DE PRIMAVERA"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - R\u00c9COLTES PRINTANI\u00c8RES"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO RACCOLTO PRIMAVERILE"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u6625\u306e\u53ce\u7a6b\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ubd04\uc758 \uc218\ud655 \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO WIOSENNYCH ZBIOR\u00d3W"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 COLHEITA DA PRIMAVERA"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u0412\u0415\u0421\u0415\u041d\u041d\u0418\u0419 \u0423\u0420\u041e\u0416\u0410\u0419\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e01\u0e47\u0e1a\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e24\u0e14\u0e39\u0e43\u0e1a\u0e44\u0e21\u0e49\u0e1c\u0e25\u0e34\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "BAHAR HASADI YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u6625\u5b63\u4e30\u6536\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u6625\u5b63\u63a1\u6536\u9031\u5e74\u6176\u5305"
-                }
-            ],
-            "textId": "EVENTBANNER_SpringBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Find the Wildland Adventurer Dwight, Golden Summer Meg, Woodland Slicer Trapper and Summer\u2019s End Nurse outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Wildnisabenteurer Dwight, \u201eGoldener Sommer\u201c-Meg, Waldlandschlitzer-Fallensteller und \u201eEnde des Sommers\u201c-Krankenschwester in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos Aventurero de las Tierras Salvajes de Dwight, Verano dorado de Meg, Asesino del bosque del Trampero y Fin del verano de la Enfermera en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Dwight Aventurero de Wildland, Meg Verano dorado, Trampero Aventurero del bosque y Enfermera Fin del verano en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues Aventurier de la nature de Dwight, \u00c9t\u00e9 en or de Meg, D\u00e9coupeur des bois du Pi\u00e9geur et Fin de l\u2019\u00e9t\u00e9 de l\u2019Infirmi\u00e8re dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Avventuriero delle Terre inesplorate di Dwight, Estate dorata di Meg, Squartatore silvestre del Cacciatore ed Estate al termine dell'Infermiera, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u30ef\u30a4\u30eb\u30c9\u30e9\u30f3\u30c9\u30fb\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30e9\u30fc\u300d\u30c9\u30ef\u30a4\u30c8\u3001\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u306a\u590f\u300d\u30e1\u30b0\u3001\u300c\u68ee\u6797\u5730\u5e2f\u306e\u5207\u65ad\u8005\u300d\u30c8\u30e9\u30c3\u30d1\u30fc\u3001\u300c\u590f\u306e\u7d42\u308f\u308a\u300d\u30ca\u30fc\u30b9\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \uc640\uc77c\ub4dc\ub79c\ub4dc \uc5b4\ub4dc\ubca4\ucc98\ub7ec \ub4dc\uc640\uc774\ud2b8, \uace8\ub4e0 \uc378\uba38 \uba54\uadf8, \uc0b0\ub9bc \ud30c\uad34\uc790 \ud2b8\ub798\ud37c, \uadf8\ub9ac\uace0 \uc5ec\ub984\uc758 \ub05d \ub108\uc2a4\ub97c \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j poszukiwacza le\u015bnych przyg\u00f3d dla Dwighta, z\u0142otego lata dla Meg, le\u015bnego siekacza dla Trapera i ko\u0144ca lata dla Piel\u0119gniarki w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Dwight Aventureiro Selvagem, Meg Ver\u00e3o Dourado, Ca\u00e7ador Fatiador das Matas e Enfermeira Fim do Ver\u00e3o voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u0411\u0435\u0441\u0441\u0442\u0440\u0430\u0448\u043d\u044b\u0439 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u00bb \u0434\u043b\u044f \u0414\u0443\u0430\u0439\u0442\u0430, \u00ab\u041b\u0435\u0441\u043d\u043e\u0439 \u0448\u0438\u043d\u043a\u043e\u0432\u0449\u0438\u043a\u00bb \u0434\u043b\u044f \u041e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0438 \u00ab\u0417\u043e\u043b\u043e\u0442\u043e\u0435 \u043b\u0435\u0442\u043e\u00bb \u0434\u043b\u044f \u041c\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u044b. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e14\u0e44\u0e27\u0e17\u0e4c\u0e19\u0e31\u0e01\u0e1c\u0e08\u0e0d\u0e44\u0e1e\u0e23, \u0e24\u0e14\u0e39\u0e23\u0e49\u0e2d\u0e19\u0e17\u0e2d\u0e07\u0e04\u0e33\u0e02\u0e2d\u0e07\u0e40\u0e21\u0e47\u0e01, \u0e40\u0e14\u0e2d\u0e30\u0e41\u0e17\u0e23\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e19\u0e31\u0e01\u0e40\u0e0a\u0e37\u0e2d\u0e14\u0e44\u0e1e\u0e23\u0e2a\u0e30\u0e1e\u0e23\u0e36\u0e07 \u0e41\u0e25\u0e30\u0e08\u0e38\u0e14\u0e08\u0e1a\u0e02\u0e2d\u0e07\u0e24\u0e14\u0e39\u0e23\u0e49\u0e2d\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e14\u0e2d\u0e30\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e2a \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Vah\u015fi Do\u011fa Macerac\u0131s\u0131 Dwight, Alt\u0131n Yaz Meg, Orman Kesicisi Tuzak\u00e7\u0131 ve Yaz\u0131n Sonu Hem\u015fire k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u8352\u91ce\u5192\u9669\u8005\u5fb7\u6000\u7279\uff0c\u91d1\u8272\u590f\u5929\u6885\u683c\uff0c\u6728\u6797\u780d\u4f10\u8005\u9677\u9631\u6740\u624b\u4e0e\u590f\u65e5\u7ed3\u675f\u62a4\u58eb\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u8352\u91ce\u5192\u96aa\u5bb6\u5fb7\u61f7\u7279\u3001\u9ec3\u91d1\u590f\u5b63\u6885\u683c\u548c\u590f\u5b63\u4e4b\u672b\u8b77\u58eb\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_SummerBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "SUMMER CAMP ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "SOMMERLAGER-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"CAMPAMENTO DE VERANO\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO CAMPAMENTO DE VERANO"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - COLONIE DE VACANCES"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO CAMPO ESTIVO"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30b5\u30de\u30fc\u30ad\u30e3\u30f3\u30d7\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uc5ec\ub984 \ucea0\ud504 \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO: LETNI OB\u00d3Z"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 ACAMPAMENTO DE VER\u00c3O"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u041b\u0415\u0422\u041d\u0418\u0419 \u041b\u0410\u0413\u0415\u0420\u042c\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e04\u0e48\u0e32\u0e22\u0e24\u0e14\u0e39\u0e23\u0e49\u0e2d\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "YAZ KAMPI YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u590f\u4ee4\u8425\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u590f\u4ee4\u71df\u9031\u5e74\u6176\u79ae\u76d2"
-                }
-            ],
-            "textId": "EVENTBANNER_SummerBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Find the Marine Guardian Nea, Wave Runner David, Naval Warfare Doctor and Rabid Seadog Legion outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Hol dir die Outfits Marinew\u00e4chterin Nea, Wellenraser David, Seekriegsf\u00fchrung-Doktor und \u201eTollw\u00fctiger Seeb\u00e4r\u201c-Legion in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Encuentra los atuendos Guardiana marina de Nea, Surcaolas de David, Guerra naval del Doctor y Lobo de mar rabioso de la Legi\u00f3n en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Encuentra los atuendos Nea Guardiana marina, David Navegante de olas, Doctor Guerra naval y Legi\u00f3n Lobo de mar furioso en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Trouvez les tenues Gardien marin de Nea, Coureur des vagues de David, Guerre navale du Docteur et Vieux loup de mer enrag\u00e9 de la L\u00e9gion dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Guardiana del molo di Nea, Cavaliere delle onde di David, Guerra navale del Dottore e Lupo di mare rabbioso della Legione, disponibili solo per un periodo limitato."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u6d77\u306e\u76e3\u8996\u8005\u300d\u30cd\u30a2\u3001\u300c\u30a6\u30a7\u30fc\u30d6\u30e9\u30f3\u30ca\u30fc\u300d\u30c7\u30a4\u30d3\u30c3\u30c9\u3001\u300c\u6d77\u6226\u300d\u30c9\u30af\u30bf\u30fc\u3001\u300c\u51f6\u66b4\u306a\u8239\u4e57\u308a\u300d\u30ea\u30fc\u30b8\u30e7\u30f3\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \ud574\uc591 \uacbd\ube44 \ub2c8\uc544, \uc6e8\uc774\ube0c \ub7ec\ub108 \ub370\uc774\ube44\ub4dc, \ud574\uc804 \ub2e5\ud130, \uadf8\ub9ac\uace0 \ubbf8\uce5c \ubc43\uc0ac\ub78c \uad70\ub2e8\uc744 \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j stra\u017cnika morskiego dla Nei, zdobywcy pub\u00f3w dla Davida, bitwy morskiej dla Doktora i w\u015bciek\u0142ego wilka morskiego dla Legionu w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Os trajes Nea Guardi\u00e3 Marinha, David Cruzador das Ondas, M\u00e9dico Batalha Naval e Legi\u00e3o Lobo do Mar Raivoso voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0441\u0442\u0440\u0430\u0436\u00bb \u0434\u043b\u044f \u041d\u0435\u0438, \u00ab\u0411\u0435\u0433\u0443\u0449\u0438\u0439 \u043f\u043e \u0432\u043e\u043b\u043d\u0430\u043c\u00bb \u0434\u043b\u044f \u0414\u044d\u0432\u0438\u0434\u0430, \u00ab\u041c\u043e\u0440\u0441\u043a\u043e\u0439 \u0431\u043e\u0439\u00bb \u0434\u043b\u044f \u0414\u043e\u043a\u0442\u043e\u0440\u0430 \u0438 \u00ab\u0411\u0435\u0448\u0435\u043d\u044b\u0439 \u043c\u043e\u0440\u0441\u043a\u043e\u0439 \u0432\u043e\u043b\u043a\u00bb \u0434\u043b\u044f \u041b\u0435\u0433\u0438\u043e\u043d\u0430. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e40\u0e19\u0e35\u0e22\u0e1c\u0e39\u0e49\u0e1e\u0e34\u0e17\u0e31\u0e01\u0e29\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e17\u0e49\u0e2d\u0e07\u0e17\u0e30\u0e40\u0e25, \u0e40\u0e14\u0e27\u0e34\u0e14\u0e19\u0e31\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e04\u0e25\u0e37\u0e48\u0e19, \u0e40\u0e14\u0e2d\u0e30\u0e14\u0e47\u0e2d\u0e01\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e22\u0e38\u0e17\u0e18\u0e19\u0e32\u0e27\u0e35 \u0e41\u0e25\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19\u0e01\u0e30\u0e25\u0e32\u0e2a\u0e35\u0e01\u0e25\u0e31\u0e27\u0e19\u0e49\u0e33 \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Denizin Muhaf\u0131z\u0131 Nea, Deniz \u00c2\u015f\u0131\u011f\u0131 David, Deniz Sava\u015f\u0131 Doktor ve Kudurmu\u015f Deniz Kurdu \u00c7ete k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u6c34\u5175\u5b88\u62a4\u8005\u59ae\u5a05\uff0c\u6f6e\u6c50\u8dd1\u8005\u5927\u536b\uff0c\u6d77\u6218\u533b\u751f\u4e0e\u6d77\u72c2\u72ac\u519b\u56e2\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u6d77\u4e0a\u5b88\u8b77\u8005\u59ae\u5a6d\u3001\u6c34\u4e0a\u6469\u6258\u8eca\u5927\u885b\u8207\u72c2\u7206\u6c34\u624b\u8ecd\u5718\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_TWaterBox_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "TREACHEROUS WATERS ANNIVERSARY BOX"
-                },
-                {
-                    "lang": "GER",
-                    "text": "\u201eTR\u00dcGERISCHE GEW\u00c4SSER\u201c-GEBURTSTAGSKISTE"
-                },
-                {
-                    "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"AGUAS TRAICIONERAS\""
-                },
-                {
-                    "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO AGUAS TRAICIONERAS"
-                },
-                {
-                    "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - EAUX TROMPEUSES"
-                },
-                {
-                    "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO ACQUE PERIGLIOSE"
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u5371\u967a\u306a\u6c34\u57df\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\uc2e0\ub8b0\ud560 \uc218 \uc5c6\ub294 \ubb3c \uae30\ub150\uc77c \uc0c1\uc790"
-                },
-                {
-                    "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO: ZDRADZIECKIE WODY"
-                },
-                {
-                    "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 \u00c1GUAS TRAI\u00c7OEIRAS"
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u041e\u041f\u0410\u0421\u041d\u042b\u0415 \u0412\u041e\u0414\u042b\u00bb"
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e19\u0e49\u0e33\u0e19\u0e34\u0e48\u0e07\u0e44\u0e2b\u0e25\u0e25\u0e36\u0e01\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
-                },
-                {
-                    "lang": "TR",
-                    "text": "AZGIN SULAR YILD\u00d6N\u00dcM\u00dc KUTUSU"
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u9669\u6076\u6c34\u57df\u5468\u5e74\u793c\u76d2"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5371\u96aa\u6c34\u57df\u9031\u5e74\u6176\u79ae\u76d2"
-                }
-            ],
-            "textId": "EVENTBANNER_TWaterBox_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Nancy, Steve, The Demogorgon and The Trapper while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Nancy, Steve, der Demogorgon oder der Fallensteller spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Nancy, Steve, el Demogorgon y el Trampero mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Nancy, Steve, el Demogorgon y el Trampero mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Nancy, Steve, le D\u00e9mogorgon et le Pi\u00e9geur quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Nancy, Steve, del Demogorgone o del Cacciatore quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30ca\u30f3\u30b7\u30fc\u3001\u30b9\u30c6\u30a3\u30fc\u30d6\u3001\u30c7\u30e2\u30b4\u30eb\u30b4\u30f3\u3001\u30c8\u30e9\u30c3\u30d1\u30fc\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ub0b8\uc2dc, \uc2a4\ud2f0\ube0c, \ub370\ubaa8\uace0\ub974\uace4 \ubc0f \ud2b8\ub798\ud37c\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Nancy, Steve\u2019em, Demogorgonem i Traperem w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Nancy, Steve, o Demogorgon e o Ca\u00e7ador com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u041d\u044d\u043d\u0441\u0438, \u0421\u0442\u0438\u0432\u0430, \u0414\u0435\u043c\u043e\u0433\u043e\u0440\u0433\u043e\u043d\u0430 \u0438\u043b\u0438 \u041e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e19\u0e19\u0e0b\u0e35\u0e48 \u0e2a\u0e15\u0e35\u0e1f \u0e41\u0e25\u0e30\u0e2d\u0e2a\u0e39\u0e23\u0e40\u0e14\u0e42\u0e21\u0e01\u0e2d\u0e23\u0e4c\u0e01\u0e2d\u0e19 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Nancy, Steve, Demogorgon veya Tuzak\u00e7\u0131 ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u5357\u831c\u3001\u53f2\u8482\u592b\u3001\u9b54\u738b\u6216\u6216\u9677\u9631\u6740\u624b\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u5357\u897f\u3001\u53f2\u5e1d\u592b\u3001\u9b54\u795e\u548c\u9677\u9631\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Utica1_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Meg, Feng, The Cannibal and The Wraith while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Meg, Feng, der Kannibale oder der Geist spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje cuando juegues como Meg, Feng, el Can\u00edbal y el Espectro mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar con Meg, Feng, el Can\u00edbal y el Espectro mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Meg, Feng, le Cannibale et le Spectre quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Meg, Feng, del Cannibale o dello Spettro quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30e1\u30b0\u3001\u30d5\u30a7\u30f3\u3001\u30ab\u30cb\u30d0\u30eb\u3001\u30ec\u30a4\u30b9\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \uba54\uadf8, \ud3ad, \uce74\ub2c8\ubc1c \ubc0f \ub808\uc774\uc2a4\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Meg, Feng, Kanibalem i Widmem w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Meg, Feng, o Canibal e o Espectro com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u041c\u044d\u0433, \u0424\u0435\u043d\u0433, \u041a\u0430\u043d\u043d\u0438\u0431\u0430\u043b\u0430 \u0438\u043b\u0438 \u041f\u0440\u0438\u0437\u0440\u0430\u043a\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e21\u0e47\u0e01 \u0e40\u0e1f\u0e34\u0e07 \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e41\u0e04\u0e19\u0e19\u0e34\u0e1a\u0e31\u0e25 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Meg, Feng, Yamyam veya Umac\u0131 ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u6885\u683c\u3001\u51e4\u3001\u98df\u4eba\u9b54\u6216\u5e7d\u7075\u6740\u624b\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u6885\u683c\u3001\u9cf3\u654f\u3001\u98df\u4eba\u9b54\u548c\u5e7d\u9748\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Utica2_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Yui, Bill, The Oni and The Doctor while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Yui, Bill, der Oni oder der Doktor spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Yui, Bill, el Oni y el Doctor mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Yui, Bill, el Oni y el Doctor mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Yui, Bill, l'Oni et le Docteur quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Yui, Bill, dell'Oni o del Dottore quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u7d50\u8863\u3001\u30d3\u30eb\u3001\u9b3c\u3001\u30c9\u30af\u30bf\u30fc\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \uc720\uc774, \ube4c, \uc545\uadc0 \ubc0f \ub2e5\ud130\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Yui, Billem, Oni i Doktorem w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Yui, Bill, o Oni e o M\u00e9dico com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u042e\u0438, \u0411\u0438\u043b\u043b\u0430, \u041e\u043d\u0438 \u0438\u043b\u0438 \u0414\u043e\u043a\u0442\u043e\u0440\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e22\u0e39\u0e2d\u0e34 \u0e1a\u0e34\u0e25 \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Yui, Bill, Oni veya Doktor ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u552f\u3001\u6bd4\u5c14\u3001\u9b3c\u6b66\u58eb\u6216\u533b\u751f\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u512a\u8863\u3001\u6bd4\u723e\u3001\u9b3c\u6b66\u8005\u6bba\u624b\u548c\u91ab\u751f\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Utica3_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Cheryl, Claudette, The Executioner and The Spirit while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Cheryl, Claudette, der Henker oder das Gespenst spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Cheryl, Claudette, el Verdugo y el Esp\u00edritu mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Cheryl, Claudette, el Ejecutor y el Esp\u00edritu mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Cheryl, Claudette, le Bourreau et l\u2019Esprit quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Cheryl, Claudette, del Boia o dello Spirito quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30b7\u30a7\u30ea\u30eb\u3001\u30af\u30ed\u30fc\u30c7\u30c3\u30c8\u3001\u30a8\u30af\u30bb\u30ad\u30e5\u30fc\u30b7\u30e7\u30ca\u30fc\u3001\u30b9\u30d4\u30ea\u30c3\u30c8\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \uc250\ub9b4, \ud074\ub85c\ub383, \ucc98\ud615\uc790 \ubc0f \uc2a4\ud53c\ub9bf\uc73c\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Cheryl, Claudette, Katem i Zjaw\u0105 w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Cheryl, Claudette, o Carrasco e o Esp\u00edrito com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0428\u0435\u0440\u0438\u043b, \u041a\u043b\u043e\u0434\u0435\u0442\u0442, \u041f\u0430\u043b\u0430\u0447\u0430 \u0438\u043b\u0438 \u0414\u0443\u0445\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e0a\u0e2d\u0e23\u0e34\u0e25 \u0e04\u0e25\u0e2d\u0e40\u0e14\u0e47\u0e15\u0e15\u0e4c \u0e14\u0e34\u0e40\u0e2d\u0e47\u0e01\u0e0b\u0e34\u0e04\u0e34\u0e27\u0e0a\u0e31\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e2a\u0e1b\u0e34\u0e23\u0e34\u0e15 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Cheryl, Claudette, Cellat veya Ruh ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u8c22\u4e3d\u5c14\u3001\u514b\u52b3\u9edb\u7279\u3001\u5904\u5211\u8005\u6216\u6028\u7075\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u96ea\u67d4\u3001\u514b\u52de\u9edb\u7279\u3001\u528a\u5b50\u624b\u548c\u6028\u9748\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Utica4_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Quentin, Jeff, The Nightmare and The Legion while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Quentin, Jeff, der Albtraum oder die Legion spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Quentin, Jeff, la Pesadilla y la Legi\u00f3n mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Quentin, Jeff, la Pesadilla y Legi\u00f3n mientras la Caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Quentin, Jeff, le Cauchemar et la L\u00e9gion quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Quentin, Jeff, dell'Incubo o della Legione quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30af\u30a8\u30f3\u30c6\u30a3\u30f3\u3001\u30b8\u30a7\u30d5\u3001\u30ca\u30a4\u30c8\u30e1\u30a2\u3001\u30ea\u30fc\u30b8\u30e7\u30f3\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ucfe0\uc5d4\ud2f4, \uc81c\ud504, \ub098\uc774\ud2b8\uba54\uc5b4 \ubc0f \uad70\ub2e8\uc73c\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Quentinem, Jeffem, Koszmarem i Legionem w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Quentin, Jeff, o Pesadelo e a Legi\u00e3o com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u041a\u0432\u0435\u043d\u0442\u0438\u043d\u0430, \u0414\u0436\u0435\u0444\u0444\u0430, \u041a\u043e\u0448\u043c\u0430\u0440\u0430 \u0438\u043b\u0438 \u041b\u0435\u0433\u0438\u043e\u043d\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e04\u0e27\u0e19\u0e15\u0e34\u0e19 \u0e40\u0e08\u0e1f\u0e1f\u0e4c \u0e40\u0e14\u0e2d\u0e30\u0e44\u0e19\u0e17\u0e4c\u0e41\u0e21\u0e23\u0e4c \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Quentin, Jeff, K\u00e2bus veya \u00c7ete ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u6606\u6c40\u3001\u6770\u592b\u3001\u68a6\u9b47\u6216\u519b\u56e2\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u6606\u6c40\u3001\u5091\u592b\u3001\u5922\u9b58\u548c\u8ecd\u5718\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Utica5_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Feng, Dwight, The Clown and The Oni while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Feng, Dwight, der Clown und der Oni spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Feng, Dwight, le Clown et l\u2019Oni quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Feng, Dwight, del Clown o dell'Oni quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30d5\u30a7\u30f3\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30e9\u30a6\u30f3\u3001\u9b3c\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ud3ad, \ub4dc\uc640\uc774\ud2b8, \ud074\ub77c\uc6b4 \ubc0f \uc545\uadc0\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Feng, Dwightem, Klaunem i Oni w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Feng, Dwight, o Palha\u00e7o e o Oni com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0424\u0435\u043d\u0433, \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0443\u043d\u0430 \u0438\u043b\u0438 \u041e\u043d\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1f\u0e34\u0e07, \u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Feng, Dwight, Palya\u00e7o veya Oni ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u51e4\u654f\u3001\u5fb7\u6000\u7279\u3001\u5c0f\u4e11\u6216\u9b3c\u6b66\u58eb\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u9cf3\u654f\u3001\u5fb7\u61f7\u7279\u3001\u5c0f\u4e11\u6bba\u624b\u548c\u9b3c\u821e\u8005\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Vail2_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Meg, Cheryl, The Legion and The Trapper while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Meg, Cheryl, die Legion und der Fallensteller spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Meg, Cheryl, la Legi\u00f3n y el Trampero mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Meg, Cheryl, la Legi\u00f3n y el Trampero mientras la caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Meg, Cheryl, la L\u00e9gion et le Pi\u00e9geur quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Meg, Cheryl, della Legione o del Cacciatore quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30e1\u30b0\u3001\u30b7\u30a7\u30ea\u30eb\u3001\u30ea\u30fc\u30b8\u30e7\u30f3\u3001\u30c8\u30e9\u30c3\u30d1\u30fc\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \uba54\uadf8, \uc250\ub9b4, \uad70\ub2e8 \ubc0f \ud2b8\ub798\ud37c\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Meg, Cheryl, Legionem i Traperem w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Meg, Cheryl, a Legi\u00e3o e o Ca\u00e7ador com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u041c\u044d\u0433, \u0428\u0435\u0440\u0438\u043b, \u041b\u0435\u0433\u0438\u043e\u043d \u0438\u043b\u0438 \u041e\u0445\u043e\u0442\u043d\u0438\u043a\u0430 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e21\u0e47\u0e01, \u0e40\u0e0a\u0e2d\u0e23\u0e34\u0e25, \u0e40\u0e14\u0e2d\u0e30\u0e25\u0e35\u0e40\u0e08\u0e35\u0e22\u0e19 \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e41\u0e17\u0e23\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Meg, Cheryl, \u00c7ete veya Tuzak\u00e7\u0131 ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u6885\u683c\u3001\u8c22\u4e3d\u5c14\u3001\u519b\u56e2\u6216\u9677\u9631\u6740\u624b\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u6885\u683c\u3001\u96ea\u67d4\u3001\u8ecd\u5718\u548c\u9677\u9631\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Vail3_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "Earn double the Bloodpoints and character experience when playing as Nea, David, The Oni and The Plague while the Bloodhunt+ is on."
-                },
-                {
-                    "lang": "GER",
-                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Nea, David, der Oni und die Seuche spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
-                },
-                {
-                    "lang": "SPA",
-                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Nea, David, el Oni y la Plaga mientras la caza de sangre+ siga activa."
-                },
-                {
-                    "lang": "MEX",
-                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Nea, David, el Oni y la Plaga mientras la caza de sangre+ est\u00e1 en curso."
-                },
-                {
-                    "lang": "FRE",
-                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Nea, David, l\u2019Oni et l\u2019\u00c9pid\u00e9mie quand Chasse sanglante+ est activ\u00e9e."
-                },
-                {
-                    "lang": "ITA",
-                    "text": "Gioca nei panni di Nea, David, dell'Oni o della Malattia quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
-                },
-                {
-                    "lang": "JPN",
-                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30cd\u30a2\u3001\u30c7\u30a4\u30d3\u30c3\u30c9\u3001\u9b3c\u3001\u30d7\u30ec\u30a4\u30b0\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
-                },
-                {
-                    "lang": "KOR",
-                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ub2c8\uc544, \ub370\uc774\ube44\ub4dc, \uc545\uadc0 \ubc0f \uc5ed\ubcd1\uc73c\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
-                },
-                {
-                    "lang": "POL",
-                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i punkt\u00f3w do\u015bwiadczenia, graj\u0105c Ne\u0105, Davidem, Oni i Plag\u0105 w trakcie Krwawego Polowania+."
-                },
-                {
-                    "lang": "POR",
-                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Nea, David, o Oni e a Praga com Ca\u00e7ada Sangrenta+ ativa."
-                },
-                {
-                    "lang": "RUS",
-                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u041d\u0435\u044e, \u0414\u044d\u0432\u0438\u0434\u0430, \u041e\u043d\u0438 \u0438\u043b\u0438 \u0427\u0443\u043c\u0443 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
-                },
-                {
-                    "lang": "TH",
-                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e19\u0e35\u0e22, \u0e40\u0e14\u0e27\u0e34\u0e14,\u0e42\u0e2d\u0e19\u0e34 \u0e41\u0e25\u0e30\u0e40\u0e14\u0e2d\u0e30\u0e40\u0e1e\u0e25\u0e01 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
-                },
-                {
-                    "lang": "TR",
-                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Nea, David, Oni veya Veba ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
-                },
-                {
-                    "lang": "CHS",
-                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u59ae\u5a05\u3001\u5927\u536b\u3001\u9b3c\u6b66\u58eb\u6216\u761f\u75ab\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
-                },
-                {
-                    "lang": "CHT",
-                    "text": "\u5728\u904a\u73a9\u59ae\u5a6d\u3001\u5927\u885b\u3001\u9b3c\u6b66\u8005\u6bba\u624b\u548c\u6eab\u6613\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
-                }
-            ],
-            "textId": "EVENTBANNER_Vail4_DESC"
         },
         {
             "loc": [
@@ -2280,131 +850,261 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "Find the Savannah Speedster Meg and Sinner's Slaughter Wraith outfits in the Bloodmarket's special Anniversary Boxes. Available for a limited time only."
+                    "text": "Earn TRIPLE the Bloodpoints and character experience when playing as The Twins or Elodie while the Bloodhunt+ is on."
                 },
                 {
                     "lang": "GER",
-                    "text": "Hol dir die Outfits Savannenraser Meg und \u201eAbschlachten der S\u00fcnder\u201c-Geist in den besonderen Geburtstagskisten im Blutmarkt. Nur f\u00fcr begrenzte Zeit erh\u00e4ltlich."
+                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Feng, Dwight, der Clown und der Oni spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
                 },
                 {
                     "lang": "SPA",
-                    "text": "Encuentra los atuendos Corredora de la sabana de Meg y Matanza de pecadores del Espectro en las cajas especiales de aniversario del mercado de sangre. \u00a1Disponibles solo por tiempo limitado!"
+                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ siga activa."
                 },
                 {
                     "lang": "MEX",
-                    "text": "Encuentra los atuendos Meg Velocista de la sabana y Espectro Matanza de pecadores en las cajas de aniversario especiales del mercado de sangre. Disponibles por tiempo limitado."
+                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ est\u00e1 en curso."
                 },
                 {
                     "lang": "FRE",
-                    "text": "Trouvez les tenues Bolide de la savane de Meg et Boucherie des p\u00e9cheurs du Spectre dans les bo\u00eetes d'anniversaire sp\u00e9ciales du march\u00e9 du sang. Disponibles pour une dur\u00e9e limit\u00e9e."
+                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Feng, Dwight, le Clown et l\u2019Oni quand Chasse sanglante+ est activ\u00e9e."
                 },
                 {
                     "lang": "ITA",
-                    "text": "Nelle scatole speciali per l'anniversario del Mercato sanguinario troverai i completi Velocista della savana di Meg e Mattanza del peccatore dello Spettro, disponibili solo per un periodo limitato."
+                    "text": "Gioca nei panni di Feng, Dwight, del Clown o dell'Oni quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
                 },
                 {
                     "lang": "JPN",
-                    "text": "\u30d6\u30e9\u30c3\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u7279\u5225\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9\u3067\u300c\u30b5\u30d0\u30f3\u30ca\u306e\u8d70\u308a\u5c4b\u300d\u30e1\u30b0\u3001\u300c\u548e\u4eba\u306e\u6bba\u622e\u300d\u30ec\u30a4\u30b9\u306e\u5404\u30b3\u30fc\u30c7\u30a3\u30cd\u30a4\u30c8\u3092\u5165\u624b\u3057\u3088\u3046\u3002\u671f\u9593\u9650\u5b9a\u3002"
+                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30d5\u30a7\u30f3\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30e9\u30a6\u30f3\u3001\u9b3c\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
                 },
                 {
                     "lang": "KOR",
-                    "text": "\ube14\ub7ec\ub4dc \ub9c8\ucf13\uc758 \ud2b9\ubcc4\ud55c \uae30\ub150\uc77c \ubc15\uc2a4\uc5d0\uc11c \uc0ac\ubc14\ub098 \uc18d\ub3c4\uad11 \uba54\uadf8\uc640 \uc8c4\uc9c0\uc740 \uc790\uc758 \ub3c4\ub959 \ub808\uc774\uc2a4\ub97c \uc704\ud55c \uc758\uc0c1\uc744 \ubc1c\uacac\ud558\uc138\uc694. \uc624\uc9c1 \uc81c\ud55c\ub41c \uc2dc\uac04 \ub3d9\uc548\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ud3ad, \ub4dc\uc640\uc774\ud2b8, \ud074\ub77c\uc6b4 \ubc0f \uc545\uadc0\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
                 },
                 {
                     "lang": "POL",
-                    "text": "Znajd\u017a str\u00f3j pirata drogowego z sawanny dla Meg i rze\u017anika grzesznik\u00f3w dla Widma w specjalnych pude\u0142kach rocznicowych na Krwawym Rynku. Dost\u0119pne przez ograniczony czas."
+                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Feng, Dwightem, Klaunem i Oni w trakcie Krwawego Polowania+."
                 },
                 {
                     "lang": "POR",
-                    "text": "Os trajes Meg Velocista da Savana e Espectro Massacre do Pecador voc\u00ea encontra nas Caixas de Anivers\u00e1rio especiais, l\u00e1 no Mercado de Sangue. Dispon\u00edveis por tempo limitado."
+                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Feng, Dwight, o Palha\u00e7o e o Oni com Ca\u00e7ada Sangrenta+ ativa."
                 },
                 {
                     "lang": "RUS",
-                    "text": "\u0412 \u043e\u0441\u043e\u0431\u044b\u0445 \u044f\u0449\u0438\u043a\u0430\u0445 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0440\u044b\u043d\u043a\u0430 \u0432 \u0447\u0435\u0441\u0442\u044c \u0433\u043e\u0434\u043e\u0432\u0449\u0438\u043d\u044b \u0432\u044b \u043d\u0430\u0439\u0434\u0435\u0442\u0435 \u043d\u0430\u0431\u043e\u0440\u044b \u043e\u0434\u0435\u0436\u0434\u044b \u00ab\u0421\u0430\u0432\u0430\u043d\u043d\u044b\u0439 \u0441\u043a\u043e\u0440\u043e\u0445\u043e\u0434\u00bb \u0434\u043b\u044f \u041c\u044d\u0433 \u0438 \u00ab\u0420\u0435\u0437\u043d\u044f \u0433\u0440\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u00bb \u0434\u043b\u044f \u041f\u0440\u0438\u0437\u0440\u0430\u043a\u0430. \u0414\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438."
+                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0424\u0435\u043d\u0433, \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0443\u043d\u0430 \u0438\u043b\u0438 \u041e\u043d\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
                 },
                 {
                     "lang": "TH",
-                    "text": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e07\u0e01\u0e32\u0e22\u0e40\u0e21\u0e47\u0e01\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e25\u0e21\u0e01\u0e23\u0e14\u0e2a\u0e30\u0e27\u0e31\u0e19\u0e19\u0e32 \u0e41\u0e25\u0e30\u0e40\u0e23\u0e18\u0e19\u0e31\u0e01\u0e2a\u0e31\u0e07\u0e2b\u0e32\u0e23\u0e04\u0e19\u0e1a\u0e32\u0e1b \u0e08\u0e32\u0e01\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35\u0e43\u0e19\u0e23\u0e49\u0e32\u0e19\u0e04\u0e49\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e43\u0e2b\u0e49\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e43\u0e19\u0e40\u0e27\u0e25\u0e32\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19"
+                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1f\u0e34\u0e07, \u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
                 },
                 {
                     "lang": "TR",
-                    "text": "Savan Yar\u0131\u015f\u00e7\u0131s\u0131 Meg ve G\u00fcnahk\u00e2r\u0131n Katliam\u0131 Umac\u0131 k\u0131yafetlerini KanPazar\u0131'n\u0131n \u00f6zel Y\u0131ld\u00f6n\u00fcm\u00fc Kutular\u0131nda bulabilirsin. Yaln\u0131zca s\u0131n\u0131rl\u0131 bir s\u00fcreli\u011fine al\u0131nabilir."
+                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Feng, Dwight, Palya\u00e7o veya Oni ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
                 },
                 {
                     "lang": "CHS",
-                    "text": "\u5728\u9c9c\u8840\u5546\u57ce\u7684\u7279\u522b\u5468\u5e74\u793c\u76d2\u4e2d\u53ef\u627e\u5230\u8428\u74e6\u7eb3\u6781\u901f\u8dd1\u8005\u6885\u683c\u4e0e\u7f6a\u4eba\u5c60\u6740\u8005\u5e7d\u7075\u6740\u624b\u5957\u88c5\u3002\u9650\u65f6\u83b7\u53d6\u3002"
+                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u51e4\u654f\u3001\u5fb7\u6000\u7279\u3001\u5c0f\u4e11\u6216\u9b3c\u6b66\u58eb\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
                 },
                 {
                     "lang": "CHT",
-                    "text": "\u5728\u8840\u5e02\u7279\u6b8a\u9031\u5e74\u6176\u79ae\u76d2\u4e2d\u627e\u5230\u8349\u539f\u65cb\u98a8\u6885\u683c\u548c\u7f6a\u4eba\u5c60\u6bba\u8005\u5e7d\u9748\u5957\u88dd\u3002\u50c5\u9650\u6642\u958b\u653e\u3002"
+                    "text": "\u5728\u904a\u73a9\u9cf3\u654f\u3001\u5fb7\u61f7\u7279\u3001\u5c0f\u4e11\u6bba\u624b\u548c\u9b3c\u821e\u8005\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
                 }
             ],
-            "textId": "EVENTBANNER_WildernessBox_DESC"
+            "textId": "EVENTBANNER_Xanadu1_DESC"
         },
         {
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "INTO THE WILDERNESS ANNIVERSARY BOX"
+                    "text": "Earn TRIPLE the Bloodpoints and character experience when playing as The Pig or Detective Tapp while the Bloodhunt+ is on."
                 },
                 {
                     "lang": "GER",
-                    "text": "\u201eIN DIE WILDNIS\u201c-GEBURTSTAGSKISTE"
+                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Feng, Dwight, der Clown und der Oni spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
                 },
                 {
                     "lang": "SPA",
-                    "text": "CAJA DE ANIVERSARIO \"EN TIERRAS SALVAJES\""
+                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ siga activa."
                 },
                 {
                     "lang": "MEX",
-                    "text": "CAJA DE ANIVERSARIO EN TIERRAS SALVAJES"
+                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ est\u00e1 en curso."
                 },
                 {
                     "lang": "FRE",
-                    "text": "BO\u00ceTE D'ANNIVERSAIRE - DANS LA NATURE"
+                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Feng, Dwight, le Clown et l\u2019Oni quand Chasse sanglante+ est activ\u00e9e."
                 },
                 {
                     "lang": "ITA",
-                    "text": "SCATOLA ANNIVERSARIO NELLA NATURA SELVAGGIA"
+                    "text": "Gioca nei panni di Feng, Dwight, del Clown o dell'Oni quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
                 },
                 {
                     "lang": "JPN",
-                    "text": "\u300c\u8352\u91ce\u306e\u4e2d\u3078\u300d\u5468\u5e74\u8a18\u5ff5\u30dc\u30c3\u30af\u30b9"
+                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30d5\u30a7\u30f3\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30e9\u30a6\u30f3\u3001\u9b3c\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
                 },
                 {
                     "lang": "KOR",
-                    "text": "\ud669\ubb34\uc9c0 \uc18d\uc73c\ub85c \uae30\ub150\uc77c \uc0c1\uc790"
+                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ud3ad, \ub4dc\uc640\uc774\ud2b8, \ud074\ub77c\uc6b4 \ubc0f \uc545\uadc0\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
                 },
                 {
                     "lang": "POL",
-                    "text": "ROCZNICOWE PUDE\u0141KO: W DZICZ"
+                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Feng, Dwightem, Klaunem i Oni w trakcie Krwawego Polowania+."
                 },
                 {
                     "lang": "POR",
-                    "text": "CAIXA DE ANIVERS\u00c1RIO \u2014 NA NATUREZA SELVAGEM"
+                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Feng, Dwight, o Palha\u00e7o e o Oni com Ca\u00e7ada Sangrenta+ ativa."
                 },
                 {
                     "lang": "RUS",
-                    "text": "\u042f\u0429\u0418\u041a \u0413\u041e\u0414\u041e\u0412\u0429\u0418\u041d\u042b \u00ab\u041d\u0410 \u041f\u0420\u0418\u0420\u041e\u0414\u0423\u00bb"
+                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0424\u0435\u043d\u0433, \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0443\u043d\u0430 \u0438\u043b\u0438 \u041e\u043d\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
                 },
                 {
                     "lang": "TH",
-                    "text": "\u0e01\u0e25\u0e48\u0e2d\u0e07\u0e2a\u0e39\u0e48\u0e1b\u0e48\u0e32\u0e14\u0e07\u0e1e\u0e07\u0e44\u0e1e\u0e23\u0e04\u0e23\u0e1a\u0e23\u0e2d\u0e1a\u0e1b\u0e35"
+                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1f\u0e34\u0e07, \u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
                 },
                 {
                     "lang": "TR",
-                    "text": "YABAN \u0130\u00c7\u0130NE YILD\u00d6N\u00dcM\u00dc KUTUSU"
+                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Feng, Dwight, Palya\u00e7o veya Oni ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
                 },
                 {
                     "lang": "CHS",
-                    "text": "\u6df1\u5165\u65f7\u91ce\u5468\u5e74\u793c\u76d2"
+                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u51e4\u654f\u3001\u5fb7\u6000\u7279\u3001\u5c0f\u4e11\u6216\u9b3c\u6b66\u58eb\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
                 },
                 {
                     "lang": "CHT",
-                    "text": "\u9032\u5165\u8352\u91ce\u9031\u5e74\u6176\u5305"
+                    "text": "\u5728\u904a\u73a9\u9cf3\u654f\u3001\u5fb7\u61f7\u7279\u3001\u5c0f\u4e11\u6bba\u624b\u548c\u9b3c\u821e\u8005\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
                 }
             ],
-            "textId": "EVENTBANNER_WildernessBox_TITLE"
+            "textId": "EVENTBANNER_Xanadu3_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Earn double the Bloodpoints and character experience when playing as Meg, Claudette, The Oni and The Wraith while the Bloodhunt+ is on."
+                },
+                {
+                    "lang": "GER",
+                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Feng, Dwight, der Clown und der Oni spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ siga activa."
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ est\u00e1 en curso."
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Feng, Dwight, le Clown et l\u2019Oni quand Chasse sanglante+ est activ\u00e9e."
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Gioca nei panni di Feng, Dwight, del Clown o dell'Oni quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30d5\u30a7\u30f3\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30e9\u30a6\u30f3\u3001\u9b3c\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ud3ad, \ub4dc\uc640\uc774\ud2b8, \ud074\ub77c\uc6b4 \ubc0f \uc545\uadc0\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+                },
+                {
+                    "lang": "POL",
+                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Feng, Dwightem, Klaunem i Oni w trakcie Krwawego Polowania+."
+                },
+                {
+                    "lang": "POR",
+                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Feng, Dwight, o Palha\u00e7o e o Oni com Ca\u00e7ada Sangrenta+ ativa."
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0424\u0435\u043d\u0433, \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0443\u043d\u0430 \u0438\u043b\u0438 \u041e\u043d\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1f\u0e34\u0e07, \u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Feng, Dwight, Palya\u00e7o veya Oni ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u51e4\u654f\u3001\u5fb7\u6000\u7279\u3001\u5c0f\u4e11\u6216\u9b3c\u6b66\u58eb\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5728\u904a\u73a9\u9cf3\u654f\u3001\u5fb7\u61f7\u7279\u3001\u5c0f\u4e11\u6bba\u624b\u548c\u9b3c\u821e\u8005\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
+                }
+            ],
+            "textId": "EVENTBANNER_Xanadu5_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "Earn double the Bloodpoints and character experience when playing as Steve, Nancy, The Demogorgon and The Trapper while the Bloodhunt+ is on."
+                },
+                {
+                    "lang": "GER",
+                    "text": "Verdiene dir doppelte Blutpunkte und Charakter-Erfahrung, wenn du als Feng, Dwight, der Clown und der Oni spielst, w\u00e4hrend die Blutjagd+ aktiv ist."
+                },
+                {
+                    "lang": "SPA",
+                    "text": "Ganas el doble de puntos de sangre y de experiencia de personaje con Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ siga activa."
+                },
+                {
+                    "lang": "MEX",
+                    "text": "Obt\u00e9n el doble de puntos de sangre y experiencia de personaje al jugar como Feng, Dwight, el Payaso y el Oni mientras la caza de sangre+ est\u00e1 en curso."
+                },
+                {
+                    "lang": "FRE",
+                    "text": "Gagnez le double de points de sang et d\u2019exp\u00e9rience de personnage en jouant avec Feng, Dwight, le Clown et l\u2019Oni quand Chasse sanglante+ est activ\u00e9e."
+                },
+                {
+                    "lang": "ITA",
+                    "text": "Gioca nei panni di Feng, Dwight, del Clown o dell'Oni quando \u00e8 attiva la Caccia sanguinaria + per ottenere Punti Sangue ed esperienza personaggio raddoppiati."
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u300c\u30d6\u30e9\u30c3\u30c9\u30cf\u30f3\u30c8\u30fb\u30d7\u30e9\u30b9\u300d\u958b\u50ac\u4e2d\u3001\u30d5\u30a7\u30f3\u3001\u30c9\u30ef\u30a4\u30c8\u3001\u30af\u30e9\u30a6\u30f3\u3001\u9b3c\u3067\u30d7\u30ec\u30a4\u3057\u3066\u30d6\u30e9\u30c3\u30c9\u30dd\u30a4\u30f3\u30c8\u3068\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u7d4c\u9a13\u5024\u30922\u500d\u7372\u5f97\u3002"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\ud53c\ube44\ub9b0\ub0b4 \ub098\ub294 \uc0ac\ub0e5+\uac00 \ucf1c\uc838 \uc788\uc744 \ub54c, \ud3ad, \ub4dc\uc640\uc774\ud2b8, \ud074\ub77c\uc6b4 \ubc0f \uc545\uadc0\ub85c \ud50c\ub808\uc774\ud558\uba74 \ube14\ub7ec\ub4dc\ud3ec\uc778\ud2b8 \ubc0f \uce90\ub9ad\ud130 \uacbd\ud5d8\uce58\ub97c \ub450 \ubc30\ub85c \ud68d\ub4dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+                },
+                {
+                    "lang": "POL",
+                    "text": "Zdob\u0105d\u017a dwa razy wi\u0119cej Punkt\u00f3w Krwi i do\u015bwiadczenia, graj\u0105c Feng, Dwightem, Klaunem i Oni w trakcie Krwawego Polowania+."
+                },
+                {
+                    "lang": "POR",
+                    "text": "Ganhe o dobro de Pontos de Sangue e de experi\u00eancia do personagem ao jogar com Feng, Dwight, o Palha\u00e7o e o Oni com Ca\u00e7ada Sangrenta+ ativa."
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u0417\u0430\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0439\u0442\u0435 \u0443\u0434\u0432\u043e\u0435\u043d\u043d\u043e\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u043e\u0447\u043a\u043e\u0432 \u043a\u0440\u043e\u0432\u0438 \u0438 \u043e\u043f\u044b\u0442\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0430, \u0438\u0433\u0440\u0430\u044f \u0437\u0430 \u0424\u0435\u043d\u0433, \u0414\u0443\u0430\u0439\u0442\u0430, \u041a\u043b\u043e\u0443\u043d\u0430 \u0438\u043b\u0438 \u041e\u043d\u0438 \u0432\u043e \u0432\u0440\u0435\u043c\u044f \u00ab\u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0439 \u043e\u0445\u043e\u0442\u044b+\u00bb."
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e23\u0e31\u0e1a\u0e41\u0e15\u0e49\u0e21\u0e40\u0e25\u0e37\u0e2d\u0e14\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2a\u0e2d\u0e07\u0e40\u0e17\u0e48\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1f\u0e34\u0e07, \u0e14\u0e44\u0e27\u0e17\u0e4c, \u0e40\u0e14\u0e2d\u0e30\u0e04\u0e25\u0e32\u0e27\u0e19\u0e4c \u0e41\u0e25\u0e30\u0e42\u0e2d\u0e19\u0e34 \u0e02\u0e13\u0e30\u0e21\u0e35\u0e01\u0e32\u0e23\u0e44\u0e25\u0e48\u0e25\u0e48\u0e32\u0e40\u0e25\u0e37\u0e2d\u0e14+"
+                },
+                {
+                    "lang": "TR",
+                    "text": "Kan Av\u0131+ a\u00e7\u0131kken Feng, Dwight, Palya\u00e7o veya Oni ile oynayarak iki kat fazla Kan Puan\u0131 ve karakter deneyimi kazan."
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u8840\u730e+\u671f\u95f4\uff0c\u626e\u6f14\u51e4\u654f\u3001\u5fb7\u6000\u7279\u3001\u5c0f\u4e11\u6216\u9b3c\u6b66\u58eb\u53ef\u83b7\u5f97\u53cc\u500d\u8840\u70b9\u4e0e\u89d2\u8272\u7ecf\u9a8c\u3002"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u5728\u904a\u73a9\u9cf3\u654f\u3001\u5fb7\u61f7\u7279\u3001\u5c0f\u4e11\u6bba\u624b\u548c\u9b3c\u821e\u8005\u6bba\u624b\u4e26\u555f\u52d5\u8840\u7375+\u6642\uff0c\u7372\u5f97\u96d9\u500d\u8840\u9ede\u8207\u89d2\u8272\u7d93\u9a57\u503c\u3002"
+                }
+            ],
+            "textId": "EVENTBANNER_Xanadu6_DESC"
         },
         {
             "loc": [
@@ -4940,6 +3640,71 @@
                 }
             ],
             "textId": "PROMOPACK_Killer07StarterPack_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "The Legion Deluxe Bundle"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PROMOPACK_LegionDeluxe_TITLE"
         },
         {
             "loc": [
@@ -10279,6 +9044,12 @@
             "imageUrl": "promoPacks/GreekGodessPack.png",
             "marketingImageUrl": "promoPacks/marketingImages/GreekGoddess_Big.png",
             "titleId": "PROMOPACK_GreekGoddessDeluxe_TITLE"
+        },
+        {
+            "id": "LegionDeluxeBundle",
+            "imageUrl": "promoPacks/GreekGodessPack.png",
+            "marketingImageUrl": "promoPacks/marketingImages/GreekGoddess_Big.png",
+            "titleId": "PROMOPACK_LegionDeluxe_TITLE"
         }
     ],
     "atlantaEventsUIData": [
@@ -10299,31 +9070,6 @@
             "startDate": "2020-09-03T18:00:01",
             "titleId": "EVENTBANNER_Calendar_TITLE",
             "type": "Calendar"
-        },
-        {
-            "bannerEndDate": "2021-03-10T16:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T14:00:01",
-            "campaignName": "Bloodhunt_Utica1",
-            "deepLink": "/Menu_Characters_Survivors/",
-            "descriptionId": "EVENTBANNER_Utica1_DESC",
-            "displayEndDate": "2021-03-10T16:00:01",
-            "displayStartDate": "2021-03-10T14:00:01",
-            "endDate": "2021-03-10T16:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-10T16:00:01",
-            "hotStartDate": "2021-03-10T14:00:01",
-            "id": "Bloodhunt_Utica1",
-            "imageUrl": "events/DemogorgonSteveNancyTrapper.png",
-            "relatedItemsId": [
-                "Nancy",
-                "Steve",
-                "Demogorgon",
-                "Chuckles"
-            ],
-            "startDate": "2021-03-10T14:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
         },
         {
             "bannerEndDate": "2022-03-10T18:30:01",
@@ -10369,399 +9115,6 @@
             "startDate": "2021-03-24T00:00:01",
             "titleId": "EVENTBANNER_BonusACEventSavannah_TITLE",
             "type": "BonusACEvent"
-        },
-        {
-            "bannerEndDate": "2021-03-09T15:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T14:00:01",
-            "campaignName": "IntoTheWildernessBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_WildernessBox_DESC",
-            "displayEndDate": "2021-03-09T15:30:01",
-            "displayStartDate": "2021-03-09T14:00:01",
-            "endDate": "2021-03-09T15:30:01",
-            "eventPriority": 2,
-            "id": "IntoTheWildernessBox",
-            "imageUrl": "events/IntoTheWildernessAnniversaryBox.png",
-            "relatedItemsId": [
-                "WR_Body01_03_Wilderness",
-                "MT_Torso01_02_Wilderness"
-            ],
-            "startDate": "2021-03-09T14:00:01",
-            "titleId": "EVENTBANNER_WildernessBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T17:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T15:30:01",
-            "campaignName": "SpringHarvestBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_SpringBox_DESC",
-            "displayEndDate": "2021-03-09T17:00:01",
-            "displayStartDate": "2021-03-09T15:30:01",
-            "endDate": "2021-03-09T17:00:01",
-            "eventPriority": 2,
-            "id": "SpringHarvestBox",
-            "imageUrl": "events/SpringHarvestAnniversaryBox.png",
-            "relatedItemsId": [
-                "CM_Torso03_01_Spring",
-                "FM_Torso01_02_Spring",
-                "HB_Body03_01_Spring",
-                "HK_Body01_04_Spring"
-            ],
-            "startDate": "2021-03-09T15:30:01",
-            "titleId": "EVENTBANNER_SpringBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T18:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T17:00:01",
-            "campaignName": "TWaterBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_TWaterBox_DESC",
-            "displayEndDate": "2021-03-09T18:30:01",
-            "displayStartDate": "2021-03-09T17:00:01",
-            "endDate": "2021-03-09T18:30:01",
-            "eventPriority": 2,
-            "id": "TWaterBox",
-            "imageUrl": "events/TWaterAnniversaryBox.png",
-            "relatedItemsId": [
-                "KK_Body01_03_Twater",
-                "NK_Torso01_06_Twater",
-                "DK_Torso02_03_Twater",
-                "DO_Body01_04_Twater"
-            ],
-            "startDate": "2021-03-09T17:00:01",
-            "titleId": "EVENTBANNER_TWaterBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T19:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T18:30:01",
-            "campaignName": "NightSkyBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_NightSkyBox_DESC",
-            "displayEndDate": "2021-03-09T19:30:01",
-            "displayStartDate": "2021-03-09T18:30:01",
-            "endDate": "2021-03-09T19:30:01",
-            "eventPriority": 2,
-            "id": "NightSkyBox",
-            "imageUrl": "events/NightSkyAnniversaryBox.png",
-            "relatedItemsId": [
-                "MK_Body01_04_NightSky",
-                "JP_Torso01_02_NightSky",
-                "GS_Torso01_06_NightSky",
-                "HA_Body01_03_NightSky"
-            ],
-            "startDate": "2021-03-09T18:30:01",
-            "titleId": "EVENTBANNER_NightSkyBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T20:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T19:30:01",
-            "campaignName": "CookoutBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_CookoutBox_DESC",
-            "displayEndDate": "2021-03-09T20:30:01",
-            "displayStartDate": "2021-03-09T19:30:01",
-            "endDate": "2021-03-09T20:30:01",
-            "eventPriority": 2,
-            "id": "CookoutBox",
-            "imageUrl": "events/CookoutAnniversaryBox.png",
-            "relatedItemsId": [
-                "BE_Body01_04_CookOut",
-                "GK_Body01_03_CookOut",
-                "AV_Torso02_03_CookOut",
-                "MS_Torso01_05_CookOut"
-            ],
-            "startDate": "2021-03-09T19:30:01",
-            "titleId": "EVENTBANNER_CookoutBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T20:30:01",
-            "campaignName": "SummerBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_SummerBox_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-09T20:30:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "id": "SummerBox",
-            "imageUrl": "events/SummerCampAnniversaryBox.png",
-            "relatedItemsId": [
-                "TR_Body01_04_SummerC",
-                "TN_Body01_03_SummerC",
-                "DF_Torso01_05_SummerC",
-                "MT_Torso03_01_SummerC"
-            ],
-            "startDate": "2021-03-09T20:30:01",
-            "titleId": "EVENTBANNER_SummerBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T22:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T21:30:01",
-            "campaignName": "SchoolBox",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_SchoolBox_DESC",
-            "displayEndDate": "2021-03-09T22:30:01",
-            "displayStartDate": "2021-03-09T21:30:01",
-            "endDate": "2021-03-09T22:30:01",
-            "eventPriority": 2,
-            "id": "SchoolBox",
-            "imageUrl": "events/BackToSchoolAnniversaryBox.png",
-            "relatedItemsId": [
-                "CM_Torso02_05_School",
-                "KK_Body02_02_School"
-            ],
-            "startDate": "2021-03-09T21:30:01",
-            "titleId": "EVENTBANNER_SchoolBox_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Utica2",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Utica2_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-09T21:30:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Utica2",
-            "imageUrl": "events/CannibalWraithFengMeg.png",
-            "relatedItemsId": [
-                "Cannibal",
-                "Bob",
-                "Feng",
-                "Meg"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Utica3",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Utica3_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-09T21:30:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Utica3",
-            "imageUrl": "events/OniYuiDoctorBill.png",
-            "relatedItemsId": [
-                "Oni",
-                "Yui",
-                "Killer07",
-                "Bill"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Utica4",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Utica4_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-09T21:30:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Utica4",
-            "imageUrl": "events/ExecutionerCherylClaudetteSpirit.png",
-            "relatedItemsId": [
-                "K20",
-                "S22",
-                "Claudette",
-                "Spirit"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Utica5",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Utica5_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-09T21:30:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Utica5",
-            "imageUrl": "events/NightmareQuentinJeffLegion.png",
-            "relatedItemsId": [
-                "Nightmare",
-                "Quentin",
-                "Jeff",
-                "Legion"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-04-15T17:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-04-15T15:30:01",
-            "campaignName": "Bloodhunt_Vail1",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_3XTest_DESC",
-            "displayEndDate": "2021-04-15T17:00:01",
-            "displayStartDate": "2021-04-15T15:30:01",
-            "endDate": "2021-04-15T17:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-04-15T17:00:01",
-            "hotStartDate": "2021-04-15T15:30:01",
-            "id": "Bloodhunt_Vail1",
-            "imageUrl": "events/TricksterYunjin.png",
-            "relatedItemsId": [
-                "K23",
-                "S25"
-            ],
-            "startDate": "2021-04-15T15:30:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-09T21:30:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-09T21:30:01",
-            "campaignName": "Bloodhunt_Vail2",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Vail2_DESC",
-            "displayEndDate": "2021-03-09T21:30:01",
-            "displayStartDate": "2021-03-09T21:30:01",
-            "endDate": "2021-03-09T21:30:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-09T21:30:01",
-            "hotStartDate": "2021-03-09T21:30:01",
-            "id": "Bloodhunt_Vail2",
-            "imageUrl": "events/DwightOniClownFeng.png",
-            "relatedItemsId": [
-                "Clown",
-                "Feng",
-                "Oni",
-                "Dwight"
-            ],
-            "startDate": "2021-03-09T21:30:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-10T20:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Vail3",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
-            "displayEndDate": "2021-03-10T20:00:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-10T20:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-10T20:00:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Vail3",
-            "imageUrl": "events/All_Characters_BH.png",
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_BloodhuntALL_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-10T20:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Vail4",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Vail3_DESC",
-            "displayEndDate": "2021-03-10T20:00:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-10T20:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-10T20:00:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Vail4",
-            "imageUrl": "events/CherylLegionMegTrapper.png",
-            "relatedItemsId": [
-                "Legion",
-                "Chuckles",
-                "Meg",
-                "S22"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-10T20:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Vail5",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
-            "displayEndDate": "2021-03-10T20:00:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-10T20:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-10T20:00:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Vail5",
-            "imageUrl": "events/All_Characters_BH.png",
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_BloodhuntALL_TITLE",
-            "type": "Bloodhunt"
-        },
-        {
-            "bannerEndDate": "2021-03-10T20:00:01",
-            "bannerPriority": 2,
-            "bannerStartDate": "2021-03-10T20:00:01",
-            "campaignName": "Bloodhunt_Vail6",
-            "deepLink": "/Bloodmarket_Survivors/",
-            "descriptionId": "EVENTBANNER_Vail4_DESC",
-            "displayEndDate": "2021-03-10T20:00:01",
-            "displayStartDate": "2021-03-10T20:00:01",
-            "endDate": "2021-03-10T20:00:01",
-            "eventPriority": 2,
-            "hotEndDate": "2021-03-10T20:00:01",
-            "hotStartDate": "2021-03-10T20:00:01",
-            "id": "Bloodhunt_Vail6",
-            "imageUrl": "events/DavidPlagueOniNea.png",
-            "relatedItemsId": [
-                "Oni",
-                "Plague",
-                "Nea",
-                "Smoke"
-            ],
-            "startDate": "2021-03-10T20:00:01",
-            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
-            "type": "Bloodhunt"
         },
         {
             "bannerEndDate": "2021-05-26T23:30:01",
@@ -10926,6 +9279,156 @@
                 "Bob",
                 "K20"
             ],
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu1",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_Xanadu1_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu1",
+            "imageUrl": "events/YuiFengWraithExecutionerNoText.png",
+            "relatedItemsId": [
+                "K22",
+                "S24"
+            ],
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu2",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu2",
+            "imageUrl": "events/All_Characters_BH.png",
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu3",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_Xanadu3_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu3",
+            "imageUrl": "events/YuiFengWraithExecutionerNoText.png",
+            "relatedItemsId": [
+                "Pig",
+                "Eric"
+            ],
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu4",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu4",
+            "imageUrl": "events/All_Characters_BH.png",
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu5",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_Xanadu5_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu5",
+            "imageUrl": "events/YuiFengWraithExecutionerNoText.png",
+            "relatedItemsId": [
+                "Meg",
+                "Claudette",
+                "Oni",
+                "Bob"
+            ],
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu6",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_Xanadu6_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu6",
+            "imageUrl": "events/YuiFengWraithExecutionerNoText.png",
+            "relatedItemsId": [
+                "Steve, Nancy, Demogorgon, Chuckles"
+            ],
+            "startDate": "2021-05-26T13:30:01",
+            "titleId": "EVENTBANNER_Bloodhunt_TITLE",
+            "type": "Bloodhunt"
+        },
+        {
+            "bannerEndDate": "2021-05-26T23:30:01",
+            "bannerPriority": 2,
+            "bannerStartDate": "2021-05-26T13:30:01",
+            "campaignName": "Bloodhunt_Xanadu7",
+            "deepLink": "/Bloodmarket_Survivors/",
+            "descriptionId": "EVENTBANNER_BloodhuntALL_DESC",
+            "displayEndDate": "2021-05-26T23:30:01",
+            "displayStartDate": "2021-05-26T13:30:01",
+            "endDate": "2021-05-26T23:30:01",
+            "eventPriority": 2,
+            "hotEndDate": "2021-05-26T23:30:01",
+            "hotStartDate": "2021-05-26T13:30:01",
+            "id": "Bloodhunt_Xanadu7",
+            "imageUrl": "events/All_Characters_BH.png",
             "startDate": "2021-05-26T13:30:01",
             "titleId": "EVENTBANNER_Bloodhunt_TITLE",
             "type": "Bloodhunt"

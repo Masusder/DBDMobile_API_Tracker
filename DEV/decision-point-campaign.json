@@ -1,24 +1,3 @@
 {
-    "campaigns": [
-        {
-            "campaignName": "Bloodhunt_BP_TE",
-            "parameters": {
-                "eventName": "XanaduTE_BP"
-            },
-            "metaData": {
-                "startDate": "2021-06-09T00:00:00",
-                "endDate": "2021-06-11T23:59:59"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_TE",
-            "parameters": {
-                "eventName": "XanaduTE_XP"
-            },
-            "metaData": {
-                "startDate": "2021-06-09T00:00:00",
-                "endDate": "2021-06-11T23:59:59"
-            }
-        }
-    ]
+    "campaigns": []
 }

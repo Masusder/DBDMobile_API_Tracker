@@ -106,6 +106,7 @@
                 "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER",
                 "GAMELIFT_INSTANCE_SHUTDOWN_TIMER",
                 "GAME_CLIENT_VERSION_CHECK_ENABLED",
+                "HVS_ANALYTICS_RULES",
                 "KRAKEN_REQUEST_ANALYTICS_LEVEL",
                 "KRAKEN_RSA_PUBLIC_KEY",
                 "MATCHMAKING_ALLOW_CROSSPLAY",
@@ -148,6 +149,20 @@
     {
         "value": "remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com;aurelie.gerault@bhvr.com",
         "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
+    },
+    {
+        "value": {
+            "S3CommandAnalytics": "HVSStrict",
+            "FrameHikeAnalytics": "HVSStrict",
+            "PerformanceAnalytics": "HVSStrict",
+            "QueueAnalytics": "HVSStrict",
+            "DetailedScoreAnalytics": "HVSPlus",
+            "Gameplay_ChaseAnalytics": "HVSStrict",
+            "MemoryUsageAnalytics": "HVSStrict",
+            "LoadingStepAnalytics": "HVSStrict",
+            "MenuFlowAnalytics": "HVSStrict"
+        },
+        "keyName": "HVS_ANALYTICS_RULES"
     },
     {
         "value": [
@@ -348,30 +363,6 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
-    },
-    {
-        "value": {
-            "rule_05_check_prestige_dates_close_value": 1,
-            "rule_12_check_valid_inventories_per_key": {},
-            "rule_03_check_inventories_close_value_min": 5,
-            "rule_06_check_characterdata_level_keys": {
-                "bloodWebLevel": 50,
-                "prestigeLevel": 3
-            },
-            "rule_09_check_character_data_keys_name": {},
-            "rule_11_check_inventories_key_value": {},
-            "rule_02_check_inventory_max_value": 600,
-            "rule_10_check_inventory_total": 80000,
-            "rule_01_check_top_level_key_value": {
-                "bonusBloodpoint": 500
-            },
-            "rule_04_check_prestige_dates_blacklist": [
-                "2016-11-12T10:44:16.000Z"
-            ],
-            "rule_03_check_inventories_close_value_delta": 1,
-            "rule_07_check_inventories_template_value": {}
-        },
-        "keyName": "DBD_FULL_PROFILE_VALIDATOR"
     },
     {
         "value": "60",
@@ -1043,6 +1034,11 @@
             "5.0.0_445937dev": "5.0.0_445937dev-1623430806",
             "5.0.0_445979dev": "5.0.0_445979dev-1623434673",
             "5.0.0_446035dev": "5.0.0_446035dev-1623437484",
+            "5.0.0_446405dev": "5.0.0_446405dev-1623685759",
+            "5.0.0_446480dev": "5.0.0_446480dev-1623692881",
+            "5.0.0_446584dev": "5.0.0_446584dev-1623698553",
+            "5.0.0_446616dev": "5.0.0_446616dev-1623700156",
+            "5.0.0_446664dev": "5.0.0_446664dev-1623701371",
             "5.1.0_436920dev": "5.1.0_436920dev-1621457665",
             "5.1.0_438895dev": "5.1.0_438895dev-1622037536",
             "5.1.0_439376dev": "5.1.0_439376dev-1622064790",
@@ -1076,6 +1072,8 @@
             "5.1.0_444655dev": "5.1.0_444655dev-1623183618",
             "5.1.0_445178dev": "5.1.0_445178dev-1623334232",
             "5.1.0_445900dev": "5.1.0_445900dev-1623428369",
+            "5.1.0_446472dev": "5.1.0_446472dev-1623692252",
+            "5.1.0_446551dev": "5.1.0_446551dev-1623696874",
             "5.2.0_437536dev": "5.2.0_437536dev-1621534112",
             "5.2.0_437583dev": "5.2.0_437583dev-1621534598",
             "5.2.0_442503dev": "5.2.0_442503dev-1622688609",
@@ -1236,6 +1234,9 @@
             "m_5.0.0_445937dev": "m_5.0.0_445937dev-1623432324",
             "m_5.0.0_445979dev": "m_5.0.0_445979dev-1623434863",
             "m_5.0.0_446035dev": "m_5.0.0_446035dev-1623437267",
+            "m_5.0.0_446405dev": "m_5.0.0_446405dev-1623688769",
+            "m_5.0.0_446480dev": "m_5.0.0_446480dev-1623692690",
+            "m_5.0.0_446584dev": "m_5.0.0_446584dev-1623698358",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "tleonard_3.5.0_0dev": "tleonard_3.5.0_0dev-1579625694"

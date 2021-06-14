@@ -7738,6 +7738,42 @@
             "newEndDate": "2020-07-15T00:00:00"
         },
         {
+            "id": "QK_outfit_02",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Demogorgon",
+            "storeItems": [
+                "QK_Head02",
+                "QK_Body02",
+                "QK_W02"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "QK_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Demogorgon",
+            "storeItems": [
+                "QK_Head006",
+                "QK_Body006",
+                "QK_W006"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
             "id": "SwedenKiller_outfit_01_CV01",
             "defaultCost": [
                 {
@@ -8940,6 +8976,132 @@
             ],
             "newStartDate": "2021-04-28T00:00:00",
             "newEndDate": "2021-05-31T00:00:00"
+        },
+        {
+            "id": "K23_outfit_01_03",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 270,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "K23",
+            "storeItems": [
+                "K23_Head01_03",
+                "K23_Body01_03",
+                "K23_Weapon01_03"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "S25_outfit_01_02",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 270,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S25",
+            "storeItems": [
+                "S25_Head01_02",
+                "S25_Torso01_02",
+                "S25_Legs01_02"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "FK_outfit_008",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Pig",
+            "storeItems": [
+                "FK_Mask008",
+                "FK_Body008",
+                "FK_W008"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "FS_outfit_008",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Eric",
+            "storeItems": [
+                "FS_Head008",
+                "FS_Torso008",
+                "FS_Legs008"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "QF_outfit_009",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Nancy",
+            "storeItems": [
+                "QF_Head009",
+                "QF_Torso009",
+                "QF_Legs009"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "QM_outfit_009",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Steve",
+            "storeItems": [
+                "QM_Head009",
+                "QM_Torso009",
+                "QM_Legs009"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
+        },
+        {
+            "id": "QM_outfit_010",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1350,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Steve",
+            "storeItems": [
+                "QM_Head010",
+                "QM_Torso010",
+                "QM_Legs010"
+            ],
+            "newStartDate": "2021-06-14T00:00:00",
+            "newEndDate": "2021-06-21T00:00:00"
         }
     ]
 }

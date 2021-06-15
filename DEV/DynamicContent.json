@@ -1370,6 +1370,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "ONI STARTER PACK"
+                },
+                {
+                    "lang": "GER",
+                    "text": "ONI-ANF\u00c4NGER-PACK"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "LOTE DE INICIACI\u00d3N DEL ONI"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "LOTE INICIAL DEL ONI"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "PACK DE D\u00c9PART DE L'ONI"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "PACCHETTO INIZIALE ONI"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30bf\u30fc\u30bf\u30fc\u30d1\u30c3\u30af\uff08\u9b3c\uff09"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uc545\uadc0 \uc2a4\ud0c0\ud130 \ud329"
+                },
+                {
+                    "lang": "POL",
+                    "text": "POCZ\u0104TKOWY PAKIET ONI"
+                },
+                {
+                    "lang": "POR",
+                    "text": "PACOTE INICIAL DO ONI"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0410\u0411\u041e\u0420 \u041d\u041e\u0412\u0418\u0427\u041a\u0410 \u0421 \u041e\u041d\u0418"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e42\u0e2d\u0e19\u0e34"
+                },
+                {
+                    "lang": "TR",
+                    "text": "ONI BA\u015eLANGI\u00c7 PAKET\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u9b3c\u6b66\u58eb\u65b0\u624b\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u9b3c\u6b66\u8005\u65b0\u624b\u5305"
+                }
+            ],
+            "textId": "MARKETINGBANNER_OniStarter_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "STRANGER THINGS BUNDLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": "STRANGER-THINGS-BUNDLE"
+                },
+                {
+                    "lang": "SPA",
+                    "text": "PAQUETE DE STRANGER THINGS"
+                },
+                {
+                    "lang": "MEX",
+                    "text": "LOTE DE STRANGER THINGS"
+                },
+                {
+                    "lang": "FRE",
+                    "text": "LOT STRANGER THINGS"
+                },
+                {
+                    "lang": "ITA",
+                    "text": "BUNDLE STRANGER THINGS"
+                },
+                {
+                    "lang": "JPN",
+                    "text": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30fb\u30b7\u30f3\u30b0\u30b9 \u672a\u77e5\u306e\u4e16\u754c\u30d0\u30f3\u30c9\u30eb"
+                },
+                {
+                    "lang": "KOR",
+                    "text": "\uae30\ubb18\ud55c \uc774\uc57c\uae30 \ubc88\ub4e4"
+                },
+                {
+                    "lang": "POL",
+                    "text": "PAKIET STRANGER THINGS"
+                },
+                {
+                    "lang": "POR",
+                    "text": "PACOTE DE STRANGER THINGS"
+                },
+                {
+                    "lang": "RUS",
+                    "text": "\u041d\u0410\u0411\u041e\u0420 \u00ab\u041e\u0427\u0415\u041d\u042c \u0421\u0422\u0420\u0410\u041d\u041d\u042b\u0415 \u0414\u0415\u041b\u0410\u00bb"
+                },
+                {
+                    "lang": "TH",
+                    "text": "\u0e41\u0e1e\u0e47\u0e04\u0e23\u0e27\u0e21\u0e2a\u0e40\u0e15\u0e23\u0e19\u0e40\u0e08\u0e2d\u0e23\u0e4c \u0e18\u0e34\u0e07\u0e2a\u0e4c"
+                },
+                {
+                    "lang": "TR",
+                    "text": "STRANGER THINGS PAKET\u0130"
+                },
+                {
+                    "lang": "CHS",
+                    "text": "\u602a\u5947\u7269\u8bed\u793c\u5305"
+                },
+                {
+                    "lang": "CHT",
+                    "text": "\u300a\u602a\u5947\u7269\u8a9e\u300b\u540c\u6346\u5305"
+                }
+            ],
+            "textId": "MARKETINGBANNER_Stranger_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "Ace Starter Pack"
                 },
                 {
@@ -6505,6 +6635,136 @@
             "loc": [
                 {
                     "lang": "ENG",
+                    "text": "A FRESH PIG HEAD MAKES ALL THE DIFFERENCE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_DeceiverSolo_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "SLAUGHTER IN STYLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_DeceiverSolo_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
                     "text": "ONE BUNNY IS GOOD BUT TWO IS BETTER"
                 },
                 {
@@ -7930,6 +8190,136 @@
                 }
             ],
             "textId": "PURCHASEPOPUP_oni_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "A FRESH PIG HEAD MAKES ALL THE DIFFERENCE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_PigDeceiver_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "SLAUGHTER IN STYLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_PigDeceiver_TITLE"
         },
         {
             "loc": [
@@ -9578,6 +9968,16 @@
                 "descriptionId": "PURCHASEPOPUP_GreekGod_DESC",
                 "imageUrl": "purchasePopups/GreekGodPurchasePopupNoText_V2.png",
                 "titleId": "PURCHASEPOPUP_GreekGod_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_PigDeceiver_DESC",
+                "imageUrl": "purchasePopups/GreekGodPurchasePopupNoText_V2.png",
+                "titleId": "PURCHASEPOPUP_PigDeceiver_TITLE"
+            },
+            {
+                "descriptionId": "PURCHASEPOPUP_DeceiverSolo_DESC",
+                "imageUrl": "purchasePopups/GreekGodPurchasePopupNoText_V2.png",
+                "titleId": "PURCHASEPOPUP_DeceiverSolo_TITLE"
             }
         ]
     },
@@ -9608,6 +10008,24 @@
             "priority": 1,
             "startDate": "2021-05-25T18:30:01",
             "titleId": "MARKETINGBANNER_GreekGoddess_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-05-25T20:30:01",
+            "id": "OniStarterBanner",
+            "imageUrl": "marketingBanner/Savannah_OniDemonicForce.png",
+            "priority": 2,
+            "startDate": "2021-05-25T18:30:01",
+            "titleId": "MARKETINGBANNER_OniStarter_TITLE"
+        },
+        {
+            "deepLink": "/Storefront_SpecialOffers/",
+            "endDate": "2021-05-25T20:30:01",
+            "id": "StrangerThingsBanner",
+            "imageUrl": "marketingBanner/4-Stranger-Things_Pack_02.jpg",
+            "priority": 3,
+            "startDate": "2021-05-25T18:30:01",
+            "titleId": "MARKETINGBANNER_Stranger_TITLE"
         }
     ],
     "storefrontUIData": [

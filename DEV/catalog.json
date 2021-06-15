@@ -27723,6 +27723,416 @@
     },
     {
         "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Pig",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 1199.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverPig",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiverpig"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_deceiverpig"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Pig",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 799.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverPigTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiverpig_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "Pig",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 499.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverPigTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiverpig_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 899.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverSolo",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": true,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiversolo"
+            },
+            {
+                "platformId": "android",
+                "productId": "purchase_popup_deceiversolo"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 599.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverSoloTier2",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiversolo_T2"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
+            "premiumItemPack"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Bloodpoints",
+                "quantity": 20000.0
+            }
+        ],
+        "consumptionObjectList": [
+            {
+                "objectId": "FK_Mask008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_Body008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FK_W008",
+                "quantity": 1.0
+            },
+            {
+                "objectId": "FleshDoll",
+                "quantity": 5.0
+            },
+            {
+                "objectId": "SurvivorPudding",
+                "quantity": 5.0
+            }
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "USCents",
+                "price": 399.0
+            }
+        ],
+        "eventCostList": [],
+        "id": "PurchaseCurrencyDeceiverSoloTier3",
+        "initialQuantity": 0,
+        "metaData": {
+            "availablePeriods": [
+                {
+                    "endDate": "2050-07-23T23:59:59",
+                    "startDate": "2017-07-31T00:00:00",
+                    "version": {
+                        "android": false,
+                        "gas3": false,
+                        "ios": true
+                    }
+                }
+            ]
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "ios",
+                "productId": "purchase_popup_deceiversolo_T3"
+            }
+        ],
+        "purchasable": true,
+        "purchaseCap": {
+            "limit": "3"
+        },
+        "unique": false
+    },
+    {
+        "categories": [
             "character"
         ],
         "id": "Dwight",

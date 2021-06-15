@@ -348,6 +348,25 @@
         "id": "NurseStarterPack",
         "startDate": 1
     },
+    "OniStarterBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "OniStarterBanner"
+                ]
+            }
+        },
+        "id": "OniStarterBanner",
+        "startDate": 1
+    },
     "PromopackShardsTest": {
         "assets": {},
         "components": {
@@ -606,6 +625,23 @@
         "id": "PurchasePopupBasic4",
         "startDate": 1
     },
+    "PurchasePopupDeceiverSolo": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupDeceiverSolo"
+            }
+        },
+        "id": "PurchasePopupDeceiverSolo",
+        "startDate": 1
+    },
     "PurchasePopupDoubleBunny": {
         "assets": {},
         "components": {
@@ -793,6 +829,23 @@
         "id": "PurchasePopupOni2",
         "startDate": 1
     },
+    "PurchasePopupPigDeceiver": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupPigDeceiver"
+            }
+        },
+        "id": "PurchasePopupPigDeceiver",
+        "startDate": 1
+    },
     "PurchasePopupPremium1": {
         "assets": {},
         "components": {
@@ -949,6 +1002,25 @@
             }
         },
         "id": "ScarletSwarmBanner",
+        "startDate": 1
+    },
+    "StrangerThingsBanner": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "marketingBannerIds": {
+                "id": [
+                    "StrangerThingsBanner"
+                ]
+            }
+        },
+        "id": "StrangerThingsBanner",
         "startDate": 1
     },
     "VailTY_BP": {

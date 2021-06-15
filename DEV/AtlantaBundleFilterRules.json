@@ -266,30 +266,6 @@
                 "premiumStoreId": "purchase_popup_basic_4"
             },
             {
-                "premiumStoreId": "purchase_popup_solstice"
-            },
-            {
-                "premiumStoreId": "purchase_popup_shoplifter"
-            },
-            {
-                "premiumStoreId": "purchase_popup_elfdwight"
-            },
-            {
-                "premiumStoreId": "purchase_popup_feng_2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotauroni"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotaursolo"
-            },
-            {
-                "premiumStoreId": "purchase_popup_doublebunny"
-            },
-            {
-                "premiumStoreId": "purchase_popup_oni_2"
-            },
-            {
                 "premiumStoreId": "purchase_popup_katevolk"
             },
             {
@@ -297,6 +273,12 @@
             },
             {
                 "premiumStoreId": "purchase_popup_greekgod"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiverpig"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiversolo"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -341,30 +323,6 @@
                 "premiumStoreId": "purchase_popup_basic_4_T2"
             },
             {
-                "premiumStoreId": "purchase_popup_solstice_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_shoplifter_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_elfDwight_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_feng_2_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotauroni_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotaursolo_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_doublebunny_T2"
-            },
-            {
-                "premiumStoreId": "purchase_popup_oni_2_T2"
-            },
-            {
                 "premiumStoreId": "purchase_popup_katevolk_T2"
             },
             {
@@ -372,6 +330,12 @@
             },
             {
                 "premiumStoreId": "purchase_popup_greekgod_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiverpig_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiversolo_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -416,30 +380,6 @@
                 "premiumStoreId": "purchase_popup_basic_4_T3"
             },
             {
-                "premiumStoreId": "purchase_popup_solstice_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_shoplifter_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_elfDwight_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_feng_2_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotauroni_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_minotaursolo_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_doublebunny_T3"
-            },
-            {
-                "premiumStoreId": "purchase_popup_oni_2_T3"
-            },
-            {
                 "premiumStoreId": "purchase_popup_katevolk_T3"
             },
             {
@@ -447,6 +387,12 @@
             },
             {
                 "premiumStoreId": "purchase_popup_greekgod_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiverpig_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_deceiversolo_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

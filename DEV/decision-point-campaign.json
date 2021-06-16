@@ -1,3 +1,24 @@
 {
-    "campaigns": []
+    "campaigns": [
+        {
+            "campaignName": "Bloodhunt_BP_PT",
+            "parameters": {
+                "eventName": "XanaduPT_BP"
+            },
+            "metaData": {
+                "startDate": "2021-06-16T00:00:00",
+                "endDate": "2021-06-18T23:59:59"
+            }
+        },
+        {
+            "campaignName": "Bloodhunt_XP_PT",
+            "parameters": {
+                "eventName": "XanaduPT_XP"
+            },
+            "metaData": {
+                "startDate": "2021-06-16T00:00:00",
+                "endDate": "2021-06-18T23:59:59"
+            }
+        }
+    ]
 }

@@ -6635,136 +6635,6 @@
             "loc": [
                 {
                     "lang": "ENG",
-                    "text": "A FRESH PIG HEAD MAKES ALL THE DIFFERENCE"
-                },
-                {
-                    "lang": "GER",
-                    "text": ""
-                },
-                {
-                    "lang": "SPA",
-                    "text": ""
-                },
-                {
-                    "lang": "MEX",
-                    "text": ""
-                },
-                {
-                    "lang": "FRE",
-                    "text": ""
-                },
-                {
-                    "lang": "ITA",
-                    "text": ""
-                },
-                {
-                    "lang": "JPN",
-                    "text": ""
-                },
-                {
-                    "lang": "KOR",
-                    "text": ""
-                },
-                {
-                    "lang": "POL",
-                    "text": ""
-                },
-                {
-                    "lang": "POR",
-                    "text": ""
-                },
-                {
-                    "lang": "RUS",
-                    "text": ""
-                },
-                {
-                    "lang": "TH",
-                    "text": ""
-                },
-                {
-                    "lang": "TR",
-                    "text": ""
-                },
-                {
-                    "lang": "CHS",
-                    "text": ""
-                },
-                {
-                    "lang": "CHT",
-                    "text": ""
-                }
-            ],
-            "textId": "PURCHASEPOPUP_DeceiverSolo_DESC"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
-                    "text": "SLAUGHTER IN STYLE"
-                },
-                {
-                    "lang": "GER",
-                    "text": ""
-                },
-                {
-                    "lang": "SPA",
-                    "text": ""
-                },
-                {
-                    "lang": "MEX",
-                    "text": ""
-                },
-                {
-                    "lang": "FRE",
-                    "text": ""
-                },
-                {
-                    "lang": "ITA",
-                    "text": ""
-                },
-                {
-                    "lang": "JPN",
-                    "text": ""
-                },
-                {
-                    "lang": "KOR",
-                    "text": ""
-                },
-                {
-                    "lang": "POL",
-                    "text": ""
-                },
-                {
-                    "lang": "POR",
-                    "text": ""
-                },
-                {
-                    "lang": "RUS",
-                    "text": ""
-                },
-                {
-                    "lang": "TH",
-                    "text": ""
-                },
-                {
-                    "lang": "TR",
-                    "text": ""
-                },
-                {
-                    "lang": "CHS",
-                    "text": ""
-                },
-                {
-                    "lang": "CHT",
-                    "text": ""
-                }
-            ],
-            "textId": "PURCHASEPOPUP_DeceiverSolo_TITLE"
-        },
-        {
-            "loc": [
-                {
-                    "lang": "ENG",
                     "text": "ONE BUNNY IS GOOD BUT TWO IS BETTER"
                 },
                 {
@@ -8254,7 +8124,7 @@
                     "text": ""
                 }
             ],
-            "textId": "PURCHASEPOPUP_PigDeceiver_DESC"
+            "textId": "PURCHASEPOPUP_PigLeatherSolo_DESC"
         },
         {
             "loc": [
@@ -8319,7 +8189,137 @@
                     "text": ""
                 }
             ],
-            "textId": "PURCHASEPOPUP_PigDeceiver_TITLE"
+            "textId": "PURCHASEPOPUP_PigLeatherSolo_TITLE"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "A FRESH PIG HEAD MAKES ALL THE DIFFERENCE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_PigLeather_DESC"
+        },
+        {
+            "loc": [
+                {
+                    "lang": "ENG",
+                    "text": "SLAUGHTER IN STYLE"
+                },
+                {
+                    "lang": "GER",
+                    "text": ""
+                },
+                {
+                    "lang": "SPA",
+                    "text": ""
+                },
+                {
+                    "lang": "MEX",
+                    "text": ""
+                },
+                {
+                    "lang": "FRE",
+                    "text": ""
+                },
+                {
+                    "lang": "ITA",
+                    "text": ""
+                },
+                {
+                    "lang": "JPN",
+                    "text": ""
+                },
+                {
+                    "lang": "KOR",
+                    "text": ""
+                },
+                {
+                    "lang": "POL",
+                    "text": ""
+                },
+                {
+                    "lang": "POR",
+                    "text": ""
+                },
+                {
+                    "lang": "RUS",
+                    "text": ""
+                },
+                {
+                    "lang": "TH",
+                    "text": ""
+                },
+                {
+                    "lang": "TR",
+                    "text": ""
+                },
+                {
+                    "lang": "CHS",
+                    "text": ""
+                },
+                {
+                    "lang": "CHT",
+                    "text": ""
+                }
+            ],
+            "textId": "PURCHASEPOPUP_PigLeather_TITLE"
         },
         {
             "loc": [
@@ -9970,14 +9970,14 @@
                 "titleId": "PURCHASEPOPUP_GreekGod_TITLE"
             },
             {
-                "descriptionId": "PURCHASEPOPUP_PigDeceiver_DESC",
+                "descriptionId": "PURCHASEPOPUP_PigLeather_DESC",
                 "imageUrl": "purchasePopups/GreekGodPurchasePopupNoText_V2.png",
-                "titleId": "PURCHASEPOPUP_PigDeceiver_TITLE"
+                "titleId": "PURCHASEPOPUP_PigLeather_TITLE"
             },
             {
-                "descriptionId": "PURCHASEPOPUP_DeceiverSolo_DESC",
+                "descriptionId": "PURCHASEPOPUP_PigLeatherSolo_DESC",
                 "imageUrl": "purchasePopups/GreekGodPurchasePopupNoText_V2.png",
-                "titleId": "PURCHASEPOPUP_DeceiverSolo_TITLE"
+                "titleId": "PURCHASEPOPUP_PigLeatherSolo_TITLE"
             }
         ]
     },

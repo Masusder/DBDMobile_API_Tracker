@@ -27738,15 +27738,15 @@
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             }
         ],
@@ -27757,7 +27757,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverPig",
+        "id": "PurchaseCurrencyPigLeather",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -27777,11 +27777,11 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiverpig"
+                "productId": "purchase_popup_pigleather"
             },
             {
                 "platformId": "android",
-                "productId": "purchase_popup_deceiverpig"
+                "productId": "purchase_popup_leatherpig"
             }
         ],
         "purchasable": true,
@@ -27807,15 +27807,15 @@
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             }
         ],
@@ -27826,7 +27826,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverPigTier2",
+        "id": "PurchaseCurrencyPigLeatherTier2",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -27846,7 +27846,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiverpig_T2"
+                "productId": "purchase_popup_pigleather_T2"
             }
         ],
         "purchasable": true,
@@ -27872,15 +27872,15 @@
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             }
         ],
@@ -27891,7 +27891,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverPigTier3",
+        "id": "PurchaseCurrencyPigLeatherTier3",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -27911,7 +27911,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiverpig_T3"
+                "productId": "purchase_popup_pigleather_T3"
             }
         ],
         "purchasable": true,
@@ -27933,15 +27933,15 @@
         ],
         "consumptionObjectList": [
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             },
             {
@@ -27960,7 +27960,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverSolo",
+        "id": "PurchaseCurrencyPigLeatherSolo",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -27980,11 +27980,11 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiversolo"
+                "productId": "purchase_popup_pigleathersolo"
             },
             {
                 "platformId": "android",
-                "productId": "purchase_popup_deceiversolo"
+                "productId": "purchase_popup_pigleathersolo"
             }
         ],
         "purchasable": true,
@@ -28006,15 +28006,15 @@
         ],
         "consumptionObjectList": [
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             },
             {
@@ -28033,7 +28033,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverSoloTier2",
+        "id": "PurchaseCurrencyPigLeatherSoloTier2",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -28053,7 +28053,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiversolo_T2"
+                "productId": "purchase_popup_pigleathersolo_T2"
             }
         ],
         "purchasable": true,
@@ -28075,15 +28075,15 @@
         ],
         "consumptionObjectList": [
             {
-                "objectId": "FK_Mask008",
+                "objectId": "FK_Mask007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_Body008",
+                "objectId": "FK_Body007",
                 "quantity": 1.0
             },
             {
-                "objectId": "FK_W008",
+                "objectId": "FK_W007",
                 "quantity": 1.0
             },
             {
@@ -28102,7 +28102,7 @@
             }
         ],
         "eventCostList": [],
-        "id": "PurchaseCurrencyDeceiverSoloTier3",
+        "id": "PurchaseCurrencyPigLeatherSoloTier3",
         "initialQuantity": 0,
         "metaData": {
             "availablePeriods": [
@@ -28122,7 +28122,7 @@
         "premiumStoreRef": [
             {
                 "platformId": "ios",
-                "productId": "purchase_popup_deceiversolo_T3"
+                "productId": "purchase_popup_pigleathersolo_T3"
             }
         ],
         "purchasable": true,

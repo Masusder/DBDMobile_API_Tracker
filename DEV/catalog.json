@@ -28589,6 +28589,18 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 450
+                    }
+                ],
+                "endDate": "2021-06-17T20:00:01",
+                "startDate": "2021-06-17T17:00:01"
+            }
+        ],
         "id": "Eric",
         "metaData": {
             "character": "12",
@@ -28607,6 +28619,18 @@
             {
                 "currencyId": "Cells",
                 "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 450
+                    }
+                ],
+                "endDate": "2021-06-17T17:00:00",
+                "startDate": "2021-06-17T13:00:01"
             }
         ],
         "id": "Pig",
@@ -29025,18 +29049,6 @@
                 "price": 500
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 450
-                    }
-                ],
-                "endDate": "2021-06-17T17:00:00",
-                "startDate": "2021-06-17T13:00:01"
-            }
-        ],
         "id": "S24",
         "metaData": {
             "character": "23",
@@ -29055,18 +29067,6 @@
             {
                 "currencyId": "Cells",
                 "price": 500
-            }
-        ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 450
-                    }
-                ],
-                "endDate": "2021-06-17T20:00:01",
-                "startDate": "2021-06-17T17:00:01"
             }
         ],
         "id": "K22",

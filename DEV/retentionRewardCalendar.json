@@ -126,7 +126,7 @@
     },
     "13SlotsCalendar_Xanadu1": {
         "claimType": "minute",
-        "endDate": 1623859200,
+        "endDate": 1623952800,
         "id": "13SlotsCalendar_Xanadu1",
         "rewards": [
             {
@@ -247,11 +247,11 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1623848401
+        "startDate": 1623934801
     },
     "13SlotsCalendar_Xanadu2": {
         "claimType": "minute",
-        "endDate": 1623873600,
+        "endDate": 1623960000,
         "id": "13SlotsCalendar_Xanadu2",
         "rewards": [
             {
@@ -372,7 +372,7 @@
                 "type": "currency"
             }
         ],
-        "startDate": 1623859201
+        "startDate": 1623952801
     },
     "7SlotsCalendar_NewP_09_12": {
         "claimType": "day",

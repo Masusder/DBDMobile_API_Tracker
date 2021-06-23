@@ -519,6 +519,183 @@
         "id": "PromopackWichita4",
         "startDate": 1
     },
+    "PromopackXanadu1": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu1happyHour": {
+                    "effects": {
+                        "PromopackXanadu1PromoPack": [
+                            {
+                                "id": "PromopackXanadu1PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "BaseGameBundle_05",
+                                    "NewPlayerBundle",
+                                    "FreeTicketBundle",
+                                    "StrangerThingsPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu1happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu1",
+        "startDate": 1
+    },
+    "PromopackXanadu2": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu2happyHour": {
+                    "effects": {
+                        "PromopackXanadu2PromoPack": [
+                            {
+                                "id": "PromopackXanadu2PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "LegionDeluxeBundle"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu2happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu2",
+        "startDate": 1
+    },
+    "PromopackXanadu3": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu3happyHour": {
+                    "effects": {
+                        "PromopackXanadu3PromoPack": [
+                            {
+                                "id": "PromopackXanadu3PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "KateStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu3happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu3",
+        "startDate": 1
+    },
+    "PromopackXanadu4": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu4happyHour": {
+                    "effects": {
+                        "PromopackXanadu4PromoPack": [
+                            {
+                                "id": "PromopackXanadu4PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "OniStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu4happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu4",
+        "startDate": 1
+    },
+    "PromopackXanadu5": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu5happyHour": {
+                    "effects": {
+                        "PromopackXanadu5PromoPack": [
+                            {
+                                "id": "PromopackXanadu5PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "ChucklesHillbillyPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu5happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu5",
+        "startDate": 1
+    },
+    "PromopackXanadu6": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {
+                "PromopackXanadu6happyHour": {
+                    "effects": {
+                        "PromopackXanadu6PromoPack": [
+                            {
+                                "id": "PromopackXanadu6PromoPack",
+                                "type": "PromoPack",
+                                "value": [
+                                    "FengStarterPack"
+                                ]
+                            }
+                        ]
+                    },
+                    "id": "PromopackXanadu6happyHour",
+                    "repeatDelays": []
+                }
+            },
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {},
+        "id": "PromopackXanadu6",
+        "startDate": 1
+    },
     "ProvingGround_Test": {
         "assets": {},
         "components": {

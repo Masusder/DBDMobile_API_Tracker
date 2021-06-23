@@ -11,13 +11,13 @@
             }
         },
         {
-            "campaignName": "Promopack_Wichita2_Live",
+            "campaignName": "Promopack_Wichita3_Live",
             "parameters": {
-                "eventName": "PromopackWichita2"
+                "eventName": "PromopackWichita3"
             },
             "metaData": {
-                "startDate": "2021-06-10T14:00:00",
-                "endDate": "2021-06-21T13:59:59"
+                "startDate": "2021-06-21T14:00:00",
+                "endDate": "2021-07-05T13:59:59"
             }
         }
     ]

@@ -1,24 +1,3 @@
 {
-    "campaigns": [
-        {
-            "campaignName": "Bloodhunt_BP_All",
-            "parameters": {
-                "eventName": "Bloodhunt_BP"
-            },
-            "metaData": {
-                "startDate": "2021-06-16T00:00:00",
-                "endDate": "2021-06-18T23:30:00"
-            }
-        },
-        {
-            "campaignName": "Bloodhunt_XP_All",
-            "parameters": {
-                "eventName": "Bloodhunt_XP"
-            },
-            "metaData": {
-                "startDate": "2021-06-16T00:00:00",
-                "endDate": "2021-06-18T23:30:00"
-            }
-        }
-    ]
+    "campaigns": []
 }

@@ -225,7 +225,7 @@
         "keyName": "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE"
     },
     {
-        "value": "25",
+        "value": "5",
         "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
     },
     {
@@ -245,10 +245,7 @@
                 "EACServerValidateAnalytics",
                 "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
-                "GameInitAnalytics",
-                "InteractionAnalytics",
                 "KrakenRequestAnalytics",
-                "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "ShopAnalytics",
@@ -259,7 +256,10 @@
                 "AtlantaControlsSettingsAnalytics",
                 "AtlantaGraphicsSettingsAnalytics",
                 "CannibalAnalytics",
+                "GameInitAnalytics",
                 "HillbillyAnalytics",
+                "InteractionAnalytics",
+                "LogMirrorsAnalytics",
                 "MatchmakingApproveLoginAnalytics",
                 "MatchmakingHostCreatedAnalytics",
                 "MatchmakingHostSettingAnalytics",
@@ -270,12 +270,14 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SaveGameSaveResultAnalytics"
             ],
             "KA": [
                 "ChatAnalytics",
                 "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
+                "EmblemProgressionAnalytics",
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
@@ -284,7 +286,9 @@
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
+                "MemoryUsageAnalytics",
                 "ProceduralGenerationAnalytics",
+                "S3CommandAnalytics",
                 "ScoreAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics"
@@ -298,8 +302,7 @@
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
                 "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
-                "S3CommandAnalytics"
+                "PostGame_SurvivorAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -335,12 +338,12 @@
             },
             "fallback": {
                 "ios": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0028"
+                    "date": "2021-06-14T14:30:00.000Z",
+                    "version": "4.6.1040"
                 },
                 "android": {
-                    "date": "2021-05-13T18:00:00.000Z",
-                    "version": "4.6.0024"
+                    "date": "2021-06-14T14:30:00.000Z",
+                    "version": "4.6.1040"
                 }
             }
         },
@@ -436,12 +439,9 @@
                 "FallOutOfWorldAnalytics",
                 "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
-                "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
-                "InteractionAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
-                "LogMirrorsAnalytics",
                 "LogPresencePluginAnalytics",
                 "MatchmakingApproveLoginAnalytics",
                 "MatchmakingHostCreatedAnalytics",
@@ -462,6 +462,9 @@
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
+                "GameInitAnalytics",
+                "InteractionAnalytics",
+                "LogMirrorsAnalytics",
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
@@ -517,11 +520,13 @@
                 "MatchRatingAnalytics",
                 "MatchmakingLobbyAnalytics",
                 "MatchmakingQueueAnalytics",
+                "MemoryUsageAnalytics",
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
+                "S3CommandAnalytics",
                 "ScoreAnalytics",
                 "StadiaLivestreamAnalytics",
                 "StadiaStreamAnalytics",
@@ -548,7 +553,6 @@
                 "PostGame_KillerAnalytics",
                 "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
-                "S3CommandAnalytics",
                 "SubscriptionRewardsAnalytics",
                 "WalesCypherAnalytics"
             ]
@@ -741,6 +745,13 @@
             "4.7.0_437458live": "4.7.0_437458live-1621522159",
             "4.7.0_443278live": "4.7.0_443278live-1622818494",
             "4.7.0_443307live": "4.7.0_443307live-1622820101",
+            "5.0.0_446267live": "5.0.0_446267live-1623672963",
+            "5.0.0_447014live": "5.0.0_447014live-1623768216",
+            "5.0.0_447141live": "5.0.0_447141live-1623777416",
+            "5.0.0_447193live": "5.0.0_447193live-1623781488",
+            "5.0.0_447932live": "5.0.0_447932live-1623875473",
+            "5.0.0_447946live": "5.0.0_447946live-1623875786",
+            "5.0.0_448271live": "5.0.0_448271live-1623941474",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -777,7 +788,8 @@
             "m_4.6.1_441468live": "m_4.6.1_441468live-1622558384",
             "m_4.6.1_444946live": "m_4.6.1_444946live-1623254412",
             "m_4.6.1_445270live": "m_4.6.1_445270live-1623336372",
-            "m_4.6.1_445371live": "m_4.6.1_445371live-1623341184"
+            "m_4.6.1_445371live": "m_4.6.1_445371live-1623341184",
+            "m_4.6.1_449342live": "m_4.6.1_449342live-1624285979"
         },
         "keyName": "VER_CLIENT_DATA"
     },

@@ -9068,7 +9068,7 @@
             "newEndDate": "2021-06-21T00:00:00"
         },
         {
-            "id": "QM_outfit_009",
+            "id": "QM_Outfit_009",
             "defaultCost": [
                 {
                     "currencyId": "Cells",
@@ -9086,7 +9086,7 @@
             "newEndDate": "2021-06-21T00:00:00"
         },
         {
-            "id": "QM_outfit_010",
+            "id": "QM_Outfit_010",
             "defaultCost": [
                 {
                     "currencyId": "Cells",

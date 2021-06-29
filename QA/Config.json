@@ -20,6 +20,10 @@
     },
     {
         "value": "true",
+        "keyName": "DISPLAY_RANK_ON_TALLY"
+    },
+    {
+        "value": "true",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
@@ -91,6 +95,7 @@
                 "DELTADNA_ENGAGE_TIMEOUT",
                 "DELTA_DNA_HASH_KEY",
                 "DISABLE_BLOODLUST",
+                "DISPLAY_RANK_ON_TALLY",
                 "ENABLE_RTM_VALIDATION_ON_BOOT",
                 "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE",
                 "FRAME_HIKE_THRESHOLD",
@@ -259,6 +264,8 @@
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -331,30 +338,6 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
-    },
-    {
-        "value": {
-            "rule_05_check_prestige_dates_close_value": 1,
-            "rule_12_check_valid_inventories_per_key": {},
-            "rule_03_check_inventories_close_value_min": 5,
-            "rule_06_check_characterdata_level_keys": {
-                "bloodWebLevel": 50,
-                "prestigeLevel": 3
-            },
-            "rule_09_check_character_data_keys_name": {},
-            "rule_11_check_inventories_key_value": {},
-            "rule_02_check_inventory_max_value": 600,
-            "rule_10_check_inventory_total": 80000,
-            "rule_01_check_top_level_key_value": {
-                "bonusBloodpoint": 500
-            },
-            "rule_04_check_prestige_dates_blacklist": [
-                "2016-11-12T10:44:16.000Z"
-            ],
-            "rule_03_check_inventories_close_value_delta": 1,
-            "rule_07_check_inventories_template_value": {}
-        },
-        "keyName": "DBD_FULL_PROFILE_VALIDATOR"
     },
     {
         "value": {
@@ -439,8 +422,7 @@
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
                 "MobilePostGameAnalytics",
-                "NewPlayerAnalytics",
-                "SubscriptionRewardsAnalytics"
+                "NewPlayerAnalytics"
             ],
             "KL": [
                 "ClientLoginAnalytics",
@@ -562,6 +544,7 @@
                 "StadiaLivestreamAnalytics",
                 "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
+                "SubscriptionRewardsAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics",
@@ -723,6 +706,16 @@
             "5.0.0_443573qa": "5.0.0_443573qa-1622835754",
             "5.0.0_443893qa": "5.0.0_443893qa-1623086791",
             "5.0.0_444007qa": "5.0.0_444007qa-1623092519",
+            "5.0.0_444521qa": "5.0.0_444521qa-1623176774",
+            "5.0.0_445899qa": "5.0.0_445899qa-1623427803",
+            "5.0.0_446696qa": "5.0.0_446696qa-1623703832",
+            "5.0.0_447785qa": "5.0.0_447785qa-1623867730",
+            "5.0.0_448259qa": "5.0.0_448259qa-1623940675",
+            "5.0.0_448271qa": "5.0.0_448271qa-1623942308",
+            "5.0.0_450069qa": "5.0.0_450069qa-1624390324",
+            "5.0.0_450510qa": "5.0.0_450510qa-1624470722",
+            "5.0.0_450523qa": "5.0.0_450523qa-1624471346",
+            "5.0.0_450524qa": "5.0.0_450524qa-1624471633",
             "5.1.0_436920qa": "5.1.0_436920qa-1621524357",
             "5.1.0_439376qa": "5.1.0_439376qa-1622064998",
             "5.1.0_440344qa": "5.1.0_440344qa-1622214625",
@@ -733,6 +726,17 @@
             "5.1.0_442789qa": "5.1.0_442789qa-1622740810",
             "5.1.0_442999qa": "5.1.0_442999qa-1622751275",
             "5.1.0_443514qa": "5.1.0_443514qa-1622832428",
+            "5.1.0_444334qa": "5.1.0_444334qa-1623162479",
+            "5.1.0_444412qa": "5.1.0_444412qa-1623168240",
+            "5.1.0_444655qa": "5.1.0_444655qa-1623183434",
+            "5.1.0_445178qa": "5.1.0_445178qa-1623334441",
+            "5.1.0_445900qa": "5.1.0_445900qa-1623428096",
+            "5.1.0_446042qa": "5.1.0_446042qa-1623437879",
+            "5.1.0_446472qa": "5.1.0_446472qa-1623692008",
+            "5.1.0_446551qa": "5.1.0_446551qa-1623696561",
+            "5.1.0_447074qa": "5.1.0_447074qa-1623772068",
+            "5.1.0_447572qa": "5.1.0_447572qa-1623855065",
+            "5.1.0_450738qa": "5.1.0_450738qa-1624487294",
             "5.2.0_437536qa": "5.2.0_437536qa-1621533846",
             "5.2.0_437583qa": "5.2.0_437583qa-1621534343",
             "5.2.0_442503qa": "5.2.0_442503qa-1622689561",
@@ -742,7 +746,24 @@
             "5.2.0_443465qa": "5.2.0_443465qa-1622830409",
             "5.2.0_443486qa": "5.2.0_443486qa-1622831308",
             "5.2.0_443991qa": "5.2.0_443991qa-1623091977",
+            "5.2.0_444515qa": "5.2.0_444515qa-1623176326",
+            "5.2.0_444699qa": "5.2.0_444699qa-1623186799",
+            "5.2.0_445354qa": "5.2.0_445354qa-1623340729",
+            "5.2.0_445998qa": "5.2.0_445998qa-1623436159",
+            "5.2.0_446131qa": "5.2.0_446131qa-1623446061",
+            "5.2.0_446476qa": "5.2.0_446476qa-1623692499",
+            "5.2.0_448589qa": "5.2.0_448589qa-1623964016",
+            "5.2.0_448806qa": "5.2.0_448806qa-1624030042",
+            "5.2.0_448974qa": "5.2.0_448974qa-1624042858",
             "5.3.0_443594qa": "5.3.0_443594qa-1622838012",
+            "5.3.0_444629qa": "5.3.0_444629qa-1623182413",
+            "5.3.0_444871qa": "5.3.0_444871qa-1623248723",
+            "5.3.0_445394qa": "5.3.0_445394qa-1623343533",
+            "5.3.0_446015qa": "5.3.0_446015qa-1623436545",
+            "5.3.0_446419qa": "5.3.0_446419qa-1623686853",
+            "5.3.0_446503qa": "5.3.0_446503qa-1623693751",
+            "5.3.0_447020qa": "5.3.0_447020qa-1623768581",
+            "5.3.0_448857qa": "5.3.0_448857qa-1624033426",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -837,6 +858,12 @@
             "m_4.3.2_443573qa": "m_4.3.2_443573qa-1622838680",
             "m_4.3.2_443893qa": "m_4.3.2_443893qa-1623087094",
             "m_4.3.2_444050qa": "m_4.3.2_444050qa-1623094283",
+            "m_4.3.2_444521qa": "m_4.3.2_444521qa-1623177195",
+            "m_4.3.2_445912qa": "m_4.3.2_445912qa-1623429130",
+            "m_4.3.2_447785qa": "m_4.3.2_447785qa-1623868342",
+            "m_4.3.2_448309qa": "m_4.3.2_448309qa-1623943976",
+            "m_4.3.2_450069qa": "m_4.3.2_450069qa-1624390461",
+            "m_4.3.2_450524qa": "m_4.3.2_450524qa-1624473136",
             "m_4.4.0_400367qa": "m_4.4.0_400367qa-1613683987",
             "m_4.4.0_400689qa": "m_4.4.0_400689qa-1613752353"
         },

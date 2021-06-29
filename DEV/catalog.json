@@ -27726,12 +27726,7 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [
-            {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
-            }
-        ],
+        "consumptionCurrenciesList": [],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",
@@ -27795,12 +27790,7 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [
-            {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
-            }
-        ],
+        "consumptionCurrenciesList": [],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",
@@ -27860,12 +27850,7 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [
-            {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
-            }
-        ],
+        "consumptionCurrenciesList": [],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",

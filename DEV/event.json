@@ -802,23 +802,6 @@
         "id": "PurchasePopupBasic4",
         "startDate": 1
     },
-    "PurchasePopupDeceiverSolo": {
-        "assets": {},
-        "components": {
-            "achievement": {},
-            "happyHour": {},
-            "leaderboard": {},
-            "scenario": {}
-        },
-        "endDate": 1,
-        "gameSpecificData": {
-            "purchasePopup": {
-                "id": "PurchasePopupDeceiverSolo"
-            }
-        },
-        "id": "PurchasePopupDeceiverSolo",
-        "startDate": 1
-    },
     "PurchasePopupDoubleBunny": {
         "assets": {},
         "components": {
@@ -1006,7 +989,7 @@
         "id": "PurchasePopupOni2",
         "startDate": 1
     },
-    "PurchasePopupPigDeceiver": {
+    "PurchasePopupPigLeather": {
         "assets": {},
         "components": {
             "achievement": {},
@@ -1017,10 +1000,27 @@
         "endDate": 1,
         "gameSpecificData": {
             "purchasePopup": {
-                "id": "PurchasePopupPigDeceiver"
+                "id": "PurchasePopupPigLeather"
             }
         },
-        "id": "PurchasePopupPigDeceiver",
+        "id": "PurchasePopupPigLeather",
+        "startDate": 1
+    },
+    "PurchasePopupPigLeatherSolo": {
+        "assets": {},
+        "components": {
+            "achievement": {},
+            "happyHour": {},
+            "leaderboard": {},
+            "scenario": {}
+        },
+        "endDate": 1,
+        "gameSpecificData": {
+            "purchasePopup": {
+                "id": "PurchasePopupPigLeatherSolo"
+            }
+        },
+        "id": "PurchasePopupPigLeatherSolo",
         "startDate": 1
     },
     "PurchasePopupPremium1": {

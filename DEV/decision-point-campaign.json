@@ -1,3 +1,64 @@
 {
-    "campaigns": []
+    "campaigns": [
+        {
+            "campaignName": "PromopackXanadu1",
+            "parameters": {
+                "eventName": "PromopackXanadu1"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackXanadu2",
+            "parameters": {
+                "eventName": "PromopackXanadu2"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackXanadu3",
+            "parameters": {
+                "eventName": "PromopackXanadu3"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackXanadu4",
+            "parameters": {
+                "eventName": "PromopackXanadu4"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackXanadu5",
+            "parameters": {
+                "eventName": "PromopackXanadu5"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        },
+        {
+            "campaignName": "PromopackXanadu6",
+            "parameters": {
+                "eventName": "PromopackXanadu6"
+            },
+            "metaData": {
+                "startDate": "2021-06-28T00:00:00",
+                "endDate": "2021-07-02T23:59:59"
+            }
+        }
+    ]
 }

@@ -275,10 +275,10 @@
                 "premiumStoreId": "purchase_popup_greekgod"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpig"
+                "premiumStoreId": "purchase_popup_pigleather"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpigsolo"
+                "premiumStoreId": "purchase_popup_pigleathersolo"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -332,10 +332,10 @@
                 "premiumStoreId": "purchase_popup_greekgod_T2"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpig_T2"
+                "premiumStoreId": "purchase_popup_pigleather_T2"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpigsolo_T2"
+                "premiumStoreId": "purchase_popup_pigleathersolo_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -389,10 +389,10 @@
                 "premiumStoreId": "purchase_popup_greekgod_T3"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpig_T3"
+                "premiumStoreId": "purchase_popup_pigleather_T3"
             },
             {
-                "premiumStoreId": "purchase_popup_leatherpigsolo_T3"
+                "premiumStoreId": "purchase_popup_pigleathersolo_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

@@ -27505,8 +27505,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -27582,8 +27582,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -27655,8 +27655,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -27726,7 +27726,12 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [],
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 400.0
+            }
+        ],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",
@@ -27776,7 +27781,7 @@
             },
             {
                 "platformId": "android",
-                "productId": "purchase_popup_leatherpig"
+                "productId": "purchase_popup_pigleather"
             }
         ],
         "purchasable": true,
@@ -27790,7 +27795,12 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [],
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 400.0
+            }
+        ],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",
@@ -27850,7 +27860,12 @@
             "premiumItemPack"
         ],
         "consumable": true,
-        "consumptionCurrenciesList": [],
+        "consumptionCurrenciesList": [
+            {
+                "currencyId": "Shards",
+                "quantity": 400.0
+            }
+        ],
         "consumptionObjectList": [
             {
                 "objectId": "Pig",
@@ -27912,8 +27927,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -27934,7 +27949,7 @@
                 "quantity": 5.0
             },
             {
-                "objectId": "SurvivorPudding",
+                "objectId": "BloodyPartyStreamers",
                 "quantity": 5.0
             }
         ],
@@ -27985,8 +28000,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -28007,7 +28022,7 @@
                 "quantity": 5.0
             },
             {
-                "objectId": "SurvivorPudding",
+                "objectId": "BloodyPartyStreamers",
                 "quantity": 5.0
             }
         ],
@@ -28054,8 +28069,8 @@
         "consumable": true,
         "consumptionCurrenciesList": [
             {
-                "currencyId": "Bloodpoints",
-                "quantity": 20000.0
+                "currencyId": "Shards",
+                "quantity": 400.0
             }
         ],
         "consumptionObjectList": [
@@ -28076,7 +28091,7 @@
                 "quantity": 5.0
             },
             {
-                "objectId": "SurvivorPudding",
+                "objectId": "BloodyPartyStreamers",
                 "quantity": 5.0
             }
         ],

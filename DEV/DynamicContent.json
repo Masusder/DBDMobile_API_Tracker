@@ -9288,7 +9288,7 @@
         {
             "id": "NewPlayerBundle",
             "imageUrl": "promoPacks/BeginnersGear_Small.png",
-            "marketingImageUrl": "promoPacks/marketingImages/BeginnersGearFixed.png",
+            "marketingImageUrl": "promoPacks/marketingImages/BeginnersGear.png",
             "titleId": "PROMOPACK_NewPlayerBundle_TITLE"
         },
         {

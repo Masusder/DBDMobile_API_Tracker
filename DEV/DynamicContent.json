@@ -9299,8 +9299,8 @@
         },
         {
             "id": "StrangerThingsPack",
-            "imageUrl": "promoPacks/4-Stranger-Things_Pack_02.png",
-            "marketingImageUrl": "promoPacks/marketingImages/Update-Me.png",
+            "imageUrl": "promoPacks/StrangerThingsSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/StrangerThingsBigPromo.png",
             "titleId": "PROMOPACK_StrangerThingsPack_TITLE"
         },
         {
@@ -9437,8 +9437,8 @@
         },
         {
             "id": "LegionDeluxeBundle",
-            "imageUrl": "promoPacks/GreekGodessPack.png",
-            "marketingImageUrl": "promoPacks/marketingImages/GreekGoddess_Big.png",
+            "imageUrl": "promoPacks/LegionDeluxeSmallPromo.png",
+            "marketingImageUrl": "promoPacks/marketingImages/LegionDeluxeBigPromo.png",
             "titleId": "PROMOPACK_LegionDeluxe_TITLE"
         }
     ],
@@ -10020,7 +10020,7 @@
         },
         {
             "deepLink": "/Storefront_SpecialOffers/",
-            "endDate": "2021-05-25T20:30:01",
+            "endDate": "2021-07-07T23:30:01",
             "id": "StrangerThingsBanner",
             "imageUrl": "marketingBanner/4-Stranger-Things_Pack_02.jpg",
             "priority": 3,
@@ -10030,9 +10030,9 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/NurseStarter_Storefront.png",
-            "newEndDate": "2021-05-26T23:00:00",
-            "newStartDate": "2021-05-26T10:00:01",
+            "imageUrl": "promoPacks/LegionDeluxe_Storefront.png",
+            "newEndDate": "2021-07-14T23:00:00",
+            "newStartDate": "2021-07-07T10:00:01",
             "type": "PromoPacks"
         }
     ]

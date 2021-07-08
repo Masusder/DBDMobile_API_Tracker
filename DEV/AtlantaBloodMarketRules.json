@@ -3295,8 +3295,8 @@
         "acRefreshId": "bloodweb_refresh",
         "bpRefreshId": "bloodweb_bloodpointsRefresh",
         "bpRefreshRequiredMinCount": 21,
-        "collectPeriodInSec": 2,
-        "refreshPeriodInSec": 24,
+        "collectPeriodInSec": 1.62,
+        "refreshPeriodInSec": 19.44,
         "refreshRetryMaxCount": 5
     },
     "superChestRules": {

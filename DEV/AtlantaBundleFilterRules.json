@@ -279,6 +279,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_pigleathersolo"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2"
             }
         ],
         "startDate": "2017-07-12T00:00:00",
@@ -336,6 +339,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_pigleathersolo_T2"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2_T2"
             }
         ],
         "startDate": "2017-07-31T00:00:00",
@@ -393,6 +399,9 @@
             },
             {
                 "premiumStoreId": "purchase_popup_pigleathersolo_T3"
+            },
+            {
+                "premiumStoreId": "purchase_popup_oni_2_T3"
             }
         ],
         "startDate": "2017-07-31T00:00:00",

@@ -87967,6 +87967,390 @@
     },
     {
         "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_Body01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_Weapon01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Weapon01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_Head01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_P01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_Body01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_P01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "K22_W01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_P01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Head01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Torso01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Legs01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Head01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01_P01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Torso01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_P01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [],
+        "eventCostList": [],
+        "id": "S24_Legs01_P01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_P01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2021-06-14T23:59:59",
+            "newStartDate": "2021-06-01T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "version": {
+                "android": true,
+                "gas3": true,
+                "ios": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
             "outfit"
         ],
         "consumable": false,

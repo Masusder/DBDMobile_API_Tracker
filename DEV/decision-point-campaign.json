@@ -1,24 +1,3 @@
 {
-    "campaigns": [
-        {
-            "campaignName": "PromopackXanadu1 (copy)",
-            "parameters": {
-                "eventName": "PromopackXanadu1"
-            },
-            "metaData": {
-                "startDate": "2021-06-28T00:00:00",
-                "endDate": "2021-07-09T23:59:59"
-            }
-        },
-        {
-            "campaignName": "PromopackXanadu2 (copy)",
-            "parameters": {
-                "eventName": "PromopackXanadu2"
-            },
-            "metaData": {
-                "startDate": "2021-06-28T00:00:00",
-                "endDate": "2021-07-09T23:59:59"
-            }
-        }
-    ]
+    "campaigns": []
 }

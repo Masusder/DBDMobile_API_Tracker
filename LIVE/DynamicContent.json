@@ -6860,9 +6860,9 @@
     ],
     "storefrontUIData": [
         {
-            "imageUrl": "promoPacks/GreekGoddess_Storefront.png",
-            "newEndDate": "2021-07-26T13:59:59",
-            "newStartDate": "2021-07-05T14:00:01",
+            "imageUrl": "promoPacks/BaseGameBundle05_Storefront.jpg",
+            "newEndDate": "2021-06-17T13:59:59",
+            "newStartDate": "2021-06-10T14:00:01",
             "type": "PromoPacks"
         }
     ]

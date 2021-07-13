@@ -76561,13 +76561,73 @@
         },
         "nonSecure": false,
         "premium": true,
-        "premiumStoreRef": [],
+        "premiumStoreRef": [
+            {
+                "platformId": "android",
+                "productId": "monthly_pass_consumable"
+            },
+            {
+                "platformId": "ios",
+                "productId": "monthly_pass_consumable"
+            }
+        ],
         "premiumSubscription": {
             "claimInterval": "month",
             "storeRef": {
                 "android": "monthly_pass_consumable",
                 "ios": "monthly_pass_consumable"
             }
+        },
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
+            "nonRenewableSubscription"
+        ],
+        "consumable": true,
+        "consumptionCurrenciesList": [],
+        "consumptionReward": [
+            {
+                "amount": 10,
+                "id": "BloodyPartyStreamers",
+                "type": "inventory"
+            }
+        ],
+        "defaultCost": [],
+        "id": "krakenMonthlyAsiaName",
+        "metaData": {
+            "claimableReward": [
+                {
+                    "amount": 50,
+                    "gameSpecificData": "Daily",
+                    "id": "Cells",
+                    "type": "currency"
+                },
+                {
+                    "amount": 1000,
+                    "gameSpecificData": "Daily",
+                    "id": "Shards",
+                    "type": "currency"
+                }
+            ],
+            "currencyCodes": "default",
+            "enabled": true,
+            "endDate": "2050-07-30T00:00:00",
+            "priority": 1,
+            "startDate": "2021-05-01T00:00:00"
+        },
+        "nonSecure": false,
+        "premium": true,
+        "premiumStoreRef": [
+            {
+                "platformId": "gas3",
+                "productId": "ma100.1monthlypass"
+            }
+        ],
+        "premiumSubscription": {
+            "claimInterval": "month",
+            "storeRef": {}
         },
         "purchasable": true,
         "unique": false
